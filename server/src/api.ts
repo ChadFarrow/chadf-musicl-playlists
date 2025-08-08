@@ -47,6 +47,31 @@ api.get('/hello', (c) => {
   });
 });
 
+// Serve the Doerfel-Verse music playlist RSS feed
+api.get('/playlist/doerfel-verse-music', async (c) => {
+  try {
+    const fs = await import('fs/promises');
+    const path = await import('path');
+    
+    const playlistPath = path.join(process.cwd(), 'playlists', 'doerfel-verse-lightning-style-playlist.xml');
+    
+    const playlistContent = await fs.readFile(playlistPath, 'utf8');
+    
+    return new Response(playlistContent, {
+      headers: {
+        'Content-Type': 'application/rss+xml; charset=utf-8',
+        'Cache-Control': 'public, max-age=3600', // Cache for 1 hour
+      },
+    });
+  } catch (error) {
+    console.error('Error serving playlist:', error);
+    return c.json({
+      error: 'Playlist not found',
+      details: error instanceof Error ? error.message : 'Unknown error',
+    }, 404);
+  }
+});
+
 // Database test route - public for testing
 api.get('/db-test', async (c) => {
   try {
