@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
   <channel>
-    <title>Doerfel-Verse Music Collection</title>
+    <title>ITDV music playlist</title>
     <description>Every music reference from Into The Doerfel-Verse podcast</description>
     <link>https://www.doerfelverse.com/</link>
     <language>en</language>
     <pubDate>Fri, 08 Aug 2025 03:06:58 GMT</pubDate>
     <lastBuildDate>Fri, 08 Aug 2025 03:06:58 GMT</lastBuildDate>
     <image>
-      <url>https://www.doerfelverse.com/art/itdvchadf.png</url>
-      <title>Doerfel-Verse Music Collection</title>
-      <link>https://www.doerfelverse.com/</link>
+      <url>https://raw.githubusercontent.com/ChadFarrow/ITDV-music-playlist/refs/heads/main/docs/608f4bec-5bb7-4513-9d59-dc0723219cb2.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>88b0640a-489f-4920-be4f-00f85af5b2d4</podcast:guid>
