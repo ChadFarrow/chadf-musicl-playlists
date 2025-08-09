@@ -12,7 +12,6 @@
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>30b31f6c-6b44-4a14-a525-81a8fcd7cb19</podcast:guid>
-    <item>
       <podcast:remoteItem feedGuid="1f2260ba-adcc-58c9-80c8-76b8eb92085e" itemGuid="4bcdb21b-57dd-48b4-bfbc-ee9f8111e46f"/>
       <podcast:remoteItem feedGuid="ef94e9ff-78b3-56a1-ad33-f838735f1e57" itemGuid="a45e74f6-4a61-4175-9f5b-829249b152e5"/>
       <podcast:remoteItem feedGuid="bd513295-bc3f-58d7-bfac-33fec5d1957f" itemGuid="2350a008-9da3-4182-b13f-0d7c1603e8bd"/>
@@ -343,6 +342,5 @@
       <podcast:remoteItem feedGuid="b55c93d2-4571-55fd-9562-7966beaa7ea2" itemGuid="729ff127-1fcc-4086-8e67-4386e87ac585"/>
       <podcast:remoteItem feedGuid="370c2f8f-3c5a-5cf5-a589-a2bf00bc74e2" itemGuid="8b648490-d11f-4b7f-ae79-279a810a7515"/>
       <podcast:remoteItem feedGuid="bd955a7a-aa7b-5b83-8ebe-3f1592ea962c" itemGuid="bce6c2f3-c7eb-4dd2-8a51-11df4f2bccd7"/>
-    </item>
   </channel>
 </rss>
