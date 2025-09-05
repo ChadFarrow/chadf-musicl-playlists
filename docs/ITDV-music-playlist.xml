@@ -4,6 +4,7 @@
     <title>ITDV music playlist</title>
     <description>Every music reference from Into The Doerfel-Verse podcast</description>
     <link>https://www.doerfelverse.com/</link>
+    <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
     <pubDate>Fri, 08 Aug 2025 03:06:58 GMT</pubDate>
     <lastBuildDate>Fri, 08 Aug 2025 03:06:58 GMT</lastBuildDate>
