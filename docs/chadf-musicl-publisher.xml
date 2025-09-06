@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
-    <title>ChadF MusicL Playlists</title>
-    <description>A collection of curated music playlists from various podcasts</description>
+    <title><![CDATA[ChadF's musicL Playlists]]></title>
+    <description><![CDATA[Publisher Feed of all musicL playlists I've curated from various podcasts]]></description>
     <link>https://github.com/ChadFarrow/chadf-musicl-playlists</link>
-    <language>en</language>
-    <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Sep 2025 01:00:00 GMT</lastBuildDate>
     <generator>musicL-playlist-updater</generator>
+    <language>en</language>
     <podcast:medium>publisher</podcast:medium>
-    <podcast:guid>f47ac10b-58cc-4372-a567-0e02b2c3d479</podcast:guid>
+    <podcast:guid>a778e463-ecc3-5219-8f05-f33b3983e173</podcast:guid>
+    
+    <itunes:category text="Music"/>
+    <podcast:block>no</podcast:block>
+    
+    <itunes:owner>
+      <itunes:email>chad.farrow@gmail.com</itunes:email>
+      <itunes:name>Chad Jonathan Farrow</itunes:name>
+    </itunes:owner>
+    <itunes:author>ChadF</itunes:author>
     
     <!-- Publisher Information -->
     <podcast:publisher>
@@ -17,104 +24,19 @@
       <podcast:publisherUrl>https://github.com/ChadFarrow</podcast:publisherUrl>
     </podcast:publisher>
     
-    <!-- Into The Doerfel-Verse Music Playlist -->
-    <item>
-      <title>Into The Doerfel-Verse Music Playlist</title>
-      <description>Curated playlist from Into The Doerfel-Verse podcast featuring music from episodes</description>
-      <link>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/ITDV-music-playlist.xml</link>
-      <guid isPermaLink="false">88b0640a-489f-4920-be4f-00f85af5b2d4</guid>
-      <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-      <podcast:remoteItem feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/ITDV-music-playlist.xml"/>
-      <podcast:medium>musicL</podcast:medium>
-    </item>
+    <!-- All musicL Playlists -->
+    <podcast:remoteItem feedGuid="88b0640a-489f-4920-be4f-00f85af5b2d4" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/ITDV-music-playlist.xml"/>
+    <podcast:remoteItem feedGuid="9ceefd27-f61b-40fe-a4bd-56d969329f57" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/flowgnar-music-playlist.xml"/>
+    <podcast:remoteItem feedGuid="8aad8bd9-0eac-4bfe-b290-6c73f7148155" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-music-playlist.xml"/>
+    <podcast:remoteItem feedGuid="8a9e6834-f8cc-4b85-ac85-2cc718f6d04f" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/MMT-muic-playlist.xml"/>
+    <podcast:remoteItem feedGuid="06e166e9-d7c1-4295-b3da-5cedab3234f3" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/upbeats-music-playlist.xml"/>
+    <podcast:remoteItem feedGuid="0a28983e-c60c-467d-8d76-6ec7663fbfec" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/SAS-music-playlist.xml"/>
+    <podcast:remoteItem feedGuid="30b31f6c-6b44-4a14-a525-81a8fcd7cb19" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/IAM-music-playlist.xml"/>
+    <podcast:remoteItem feedGuid="92ac9b10-20fd-4c95-a5d2-1be9681b7644" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/MMM-music-playlist.xml"/>
+    <podcast:remoteItem feedGuid="f716ed8c-6cb5-4452-a498-6ed5974bccb7" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/b4ts-music-playlist.xml"/>
     
-    <!-- Flowgnar Music Playlist -->
-    <item>
-      <title>Flowgnar Music Playlist</title>
-      <description>Curated playlist from Flowgnar podcast featuring outdoor adventure music</description>
-      <link>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/flowgnar-music-playlist.xml</link>
-      <guid isPermaLink="false">9ceefd27-f61b-40fe-a4bd-56d969329f57</guid>
-      <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-      <podcast:remoteItem feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/flowgnar-music-playlist.xml"/>
-      <podcast:medium>musicL</podcast:medium>
-    </item>
-    
-    <!-- Homegrown Hits Music Playlist -->
-    <item>
-      <title>Homegrown Hits Music Playlist</title>
-      <description>Curated playlist from Homegrown Hits podcast</description>
-      <link>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-music-playlist.xml</link>
-      <guid isPermaLink="false">b5e8a0d4-7f29-4c82-9e15-3d4a6f8b2c91</guid>
-      <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-      <podcast:remoteItem feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-music-playlist.xml"/>
-      <podcast:medium>musicL</podcast:medium>
-    </item>
-    
-    <!-- Mike's Mix Tape Music Playlist -->
-    <item>
-      <title>Mike's Mix Tape Music Playlist</title>
-      <description>Curated playlist from Mike's Mix Tape podcast</description>
-      <link>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/MMT-muic-playlist.xml</link>
-      <guid isPermaLink="false">c3f7d8e5-9a41-5b73-af26-4e5b7f9c3da2</guid>
-      <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-      <podcast:remoteItem feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/MMT-muic-playlist.xml"/>
-      <podcast:medium>musicL</podcast:medium>
-    </item>
-    
-    <!-- UpBEATs Music Playlist -->
-    <item>
-      <title>UpBEATs Music Playlist</title>
-      <description>Curated playlist from UpBEATs podcast</description>
-      <link>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/upbeats-music-playlist.xml</link>
-      <guid isPermaLink="false">d4g8e9f6-0b52-6c84-bg37-5f6c8g0d4eb3</guid>
-      <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-      <podcast:remoteItem feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/upbeats-music-playlist.xml"/>
-      <podcast:medium>musicL</podcast:medium>
-    </item>
-    
-    <!-- Sats and Sounds Music Playlist -->
-    <item>
-      <title>Sats and Sounds Music Playlist</title>
-      <description>Curated playlist from Sats and Sounds podcast</description>
-      <link>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/SAS-music-playlist.xml</link>
-      <guid isPermaLink="false">e5h9f0g7-1c63-7d95-ch48-6g7d9h1e5fc4</guid>
-      <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-      <podcast:remoteItem feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/SAS-music-playlist.xml"/>
-      <podcast:medium>musicL</podcast:medium>
-    </item>
-    
-    <!-- It's A Mood Music Playlist -->
-    <item>
-      <title>It's A Mood Music Playlist</title>
-      <description>Curated playlist from It's A Mood podcast</description>
-      <link>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/IAM-music-playlist.xml</link>
-      <guid isPermaLink="false">f6i0g1h8-2d74-8ea6-di59-7h8e0i2f6gd5</guid>
-      <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-      <podcast:remoteItem feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/IAM-music-playlist.xml"/>
-      <podcast:medium>musicL</podcast:medium>
-    </item>
-    
-    <!-- Mutton, Mead & Music Playlist -->
-    <item>
-      <title>Mutton, Mead & Music Playlist</title>
-      <description>Curated playlist from Mutton, Mead & Music podcast</description>
-      <link>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/MMM-music-playlist.xml</link>
-      <guid isPermaLink="false">g7j1h2i9-3e85-9fb7-ej60-8i9f1j3g7he6</guid>
-      <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-      <podcast:remoteItem feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/MMM-music-playlist.xml"/>
-      <podcast:medium>musicL</podcast:medium>
-    </item>
-    
-    <!-- Behind The Sch3m3s Music Playlist -->
-    <item>
-      <title>Behind The Sch3m3s Music Playlist</title>
-      <description>Curated playlist from Behind The Sch3m3s podcast</description>
-      <link>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/b4ts-music-playlist.xml</link>
-      <guid isPermaLink="false">h8k2i3j0-4f96-0gc8-fk71-9j0g2k4h8if7</guid>
-      <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
-      <podcast:remoteItem feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/b4ts-music-playlist.xml"/>
-      <podcast:medium>musicL</podcast:medium>
-    </item>
-    
+    <pubDate>Sat, 06 Sep 2025 01:40:00 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 01:40:00 +0000</lastBuildDate>
+    <category>Music</category>
   </channel>
 </rss>
