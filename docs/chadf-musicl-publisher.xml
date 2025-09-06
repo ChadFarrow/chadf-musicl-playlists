@@ -2,9 +2,18 @@
   <channel>
     <title><![CDATA[ChadF's musicL playlist]]></title>
     <description><![CDATA[Publisher Feed of all of the musicL playlist I've made.]]></description>
+    <itunes:image href="https://raw.githubusercontent.com/ChadFarrow/musicL-playlist-updater/refs/heads/main/playlists/ChadF-musicL-publisher-art.webp"/>
     <link>https://github.com/ChadFarrow/musicL-playlist-updater/tree/main/playlists</link>
     <generator>Sovereign Feeds</generator>
     <podcast:medium>publisher</podcast:medium>
+    <image>
+      <url>https://raw.githubusercontent.com/ChadFarrow/musicL-playlist-updater/refs/heads/main/playlists/ChadF-musicL-publisher-art.webp</url>
+      <link>https://github.com/ChadFarrow/musicL-playlist-updater/tree/main/playlists</link>
+      <title><![CDATA[ChadF's musicL playlist]]></title>
+      <description><![CDATA[Publisher Feed of all of the musicL playlist I've made.]]></description>
+      <width>144</width>
+      <height>144</height>
+    </image>
     <itunes:category text="How To"/>
     <podcast:block>no</podcast:block>
     <itunes:owner>
