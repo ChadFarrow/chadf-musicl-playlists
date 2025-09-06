@@ -6,13 +6,17 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 08 Aug 2025 03:06:58 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Aug 2025 03:06:58 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 00:38:52 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 00:10:16 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>88b0640a-489f-4920-be4f-00f85af5b2d4</podcast:guid>
+      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="41339be2-3d61-4223-9641-3e7dd12be2b0"/>
+      <podcast:remoteItem feedGuid="0bc8103c-7e22-5a59-b152-04af80746b49" itemGuid="b93c4a1f-5c84-482c-9ac3-b841405c20b0"/>
+      <podcast:remoteItem feedGuid="c25bce1f-77db-56b2-a125-565d9701f2e7" itemGuid="c893744d-b066-47c4-8bc3-010854aab747"/>
+      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="6be0a7f5-da40-49fa-889e-a69733269eed"/>
       <podcast:remoteItem feedGuid="3ae285ab-434c-59d8-aa2f-59c6129afb92" itemGuid="d8145cb6-97d9-4358-895b-2bf055d169aa"/>
       <podcast:remoteItem feedGuid="6fc2ad98-d4a8-5d70-9c68-62e9efc1209c" itemGuid="aad6e3b1-6589-4e22-b8ca-521f3d888263"/>
       <podcast:remoteItem feedGuid="dea01a9d-a024-5b13-84aa-b157304cd3bc" itemGuid="52007112-2772-42f9-957a-a93eaeedb222"/>
