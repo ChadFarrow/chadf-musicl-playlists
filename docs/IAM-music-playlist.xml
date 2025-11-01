@@ -6,13 +6,13 @@
     <link>https://itsamood.org</link>
     <podcast:txt purpose="source-feed">https://itsamood.org/itsamoodrss.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 01 Nov 2025 20:26:40 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Nov 2025 20:26:40 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 20:31:51 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 20:31:51 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/IAM-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>e8e02b51-f3cd-4a03-bdec-914e35591004</podcast:guid>
+    <podcast:guid>c482cd7b-4a42-47d0-b061-181f1caceca5</podcast:guid>
       <podcast:remoteItem feedGuid="a53d97a2-21a9-5850-957f-20e6e1f1817b" itemGuid="e5fd3601-e1c7-4bc8-a652-7b050f322802"/>
       <podcast:remoteItem feedGuid="0bc8103c-7e22-5a59-b152-04af80746b49" itemGuid="b93c4a1f-5c84-482c-9ac3-b841405c20b0"/>
       <podcast:remoteItem feedGuid="64253f63-9ad6-570c-8f76-455fb7ac2a42" itemGuid="cd90267a-bbfd-4065-9f45-372b9ec6b170"/>
