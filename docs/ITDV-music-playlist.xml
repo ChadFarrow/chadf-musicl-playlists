@@ -1,143 +1,1053 @@
-<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
-    <author>ChadF</author>
-    <title>ITDV music playlist</title>
-    <description>Every music reference from Into The Doerfel-Verse podcast</description>
+    <title><![CDATA[ITDV music playlist]]></title>
     <link>https://www.doerfelverse.com/</link>
-    <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
-    <language>en</language>
-    <pubDate>Sat, 06 Sep 2025 00:38:52 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Sep 2025 00:10:16 GMT</lastBuildDate>
+    <podcast:txt purpose="source-rss">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
+    <description><![CDATA[Every music reference from Into The Doerfel-Verse podcast]]></description>
+    <language>en-us</language>
+    <copyright><![CDATA[ChadF]]></copyright>
+    <managingEditor>ChadF</managingEditor>
+    <pubDate>Sat, 01 Nov 2025 15:32:17 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 15:32:17 GMT</lastBuildDate>
+    <generator>Auto musicL Maker</generator>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <image>
-      <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/ITDV-music-playlist.webp</url>
+      <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
+      <title><![CDATA[ITDV music playlist]]></title>
+      <link>https://www.doerfelverse.com/</link>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>88b0640a-489f-4920-be4f-00f85af5b2d4</podcast:guid>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="41339be2-3d61-4223-9641-3e7dd12be2b0"/>
-      <podcast:remoteItem feedGuid="0bc8103c-7e22-5a59-b152-04af80746b49" itemGuid="b93c4a1f-5c84-482c-9ac3-b841405c20b0"/>
-      <podcast:remoteItem feedGuid="c25bce1f-77db-56b2-a125-565d9701f2e7" itemGuid="c893744d-b066-47c4-8bc3-010854aab747"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="6be0a7f5-da40-49fa-889e-a69733269eed"/>
-      <podcast:remoteItem feedGuid="3ae285ab-434c-59d8-aa2f-59c6129afb92" itemGuid="d8145cb6-97d9-4358-895b-2bf055d169aa"/>
-      <podcast:remoteItem feedGuid="6fc2ad98-d4a8-5d70-9c68-62e9efc1209c" itemGuid="aad6e3b1-6589-4e22-b8ca-521f3d888263"/>
-      <podcast:remoteItem feedGuid="dea01a9d-a024-5b13-84aa-b157304cd3bc" itemGuid="52007112-2772-42f9-957a-a93eaeedb222"/>
-      <podcast:remoteItem feedGuid="95e5f7a9-d88e-5e51-b2ae-f4b1865d19c4" itemGuid="d79f242f-0651-4b12-be79-c2bac234cfde"/>
-      <podcast:remoteItem feedGuid="3058af0c-1807-5732-9a08-9114675ef7d6" itemGuid="c51ecaa4-f237-4707-9c62-2de611820e4b"/>
-      <podcast:remoteItem feedGuid="011c3a82-d716-54f7-9738-3d5fcacf65be" itemGuid="c2ba80cc-add9-42ad-9a8f-b490436826ae"/>
-      <podcast:remoteItem feedGuid="0ab5bc9d-c9fb-52f4-8b8c-64be5edf322f" itemGuid="7bc23b30-5d37-4e03-8256-543b7bf17ba8"/>
-      <podcast:remoteItem feedGuid="187f22db-79cb-5ac4-aa60-54e424e3915e" itemGuid="83b608cb-fbb8-4cc4-895e-bd1cf2b08ae3"/>
-      <podcast:remoteItem feedGuid="265706d5-d6a1-5e96-b4c8-5db454844254" itemGuid="fe6b1845-6b98-425d-aa07-9531474939de"/>
-      <podcast:remoteItem feedGuid="5a95f9d8-35e3-51f5-a269-ba1df36b4bd8" itemGuid="7c823adf-1e53-4df1-98c0-979da81ec916"/>
-      <podcast:remoteItem feedGuid="6bf3785f-e053-57f4-9f70-261ee5e3747f" itemGuid="f9683d28-70df-4112-95c4-490c0383c3c9"/>
-      <podcast:remoteItem feedGuid="6bf3785f-e053-57f4-9f70-261ee5e3747f" itemGuid="d60032f3-ce45-45c4-81fc-26ff0394a248"/>
-      <podcast:remoteItem feedGuid="6bf3785f-e053-57f4-9f70-261ee5e3747f" itemGuid="a12d4410-03e0-44fd-bc8b-890760541a93"/>
-      <podcast:remoteItem feedGuid="de032037-63e0-5c6b-820d-13d4319a2b19" itemGuid="e046f9dd-aca3-4c7a-b396-2148a90ac0f2"/>
-      <podcast:remoteItem feedGuid="377602c1-b049-5c14-bddf-eb4e349bee5c" itemGuid="3634469f-61ad-4e42-97f2-f1335c6ad267"/>
-      <podcast:remoteItem feedGuid="5a95f9d8-35e3-51f5-a269-ba1df36b4bd8" itemGuid="822d7113-eab2-4857-82d2-cc0c1a52ce2b"/>
-      <podcast:remoteItem feedGuid="de032037-63e0-5c6b-820d-13d4319a2b19" itemGuid="24f655ae-8918-4089-8f2c-4c5ef612088b"/>
-      <podcast:remoteItem feedGuid="5a95f9d8-35e3-51f5-a269-ba1df36b4bd8" itemGuid="24d8aa8b-317c-4f03-86d2-65c454370fb8"/>
-      <podcast:remoteItem feedGuid="377602c1-b049-5c14-bddf-eb4e349bee5c" itemGuid="3634469f-61ad-4e42-97f2-f1335c6ad267"/>
-      <podcast:remoteItem feedGuid="092e8cd8-6f44-5189-b574-9c0a5881b334" itemGuid="35e81e15-6820-4f83-9a3d-4ef2cf0da14b"/>
-      <podcast:remoteItem feedGuid="e1e1fed5-4ca3-55b0-9370-182287ec24e5" itemGuid="86a439b0-6b51-46a4-86f3-2490b7ca34ad"/>
-      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="9ff8f18b-cc79-474c-a3e9-2948113b8bf5"/>
-      <podcast:remoteItem feedGuid="d6fe0d1c-bd8d-552b-ac66-cce620391810" itemGuid="cf8a54a4-5cc2-4263-9ee2-a8d99697578a"/>
-      <podcast:remoteItem feedGuid="18843839-f79f-5b22-a842-241d0f6b12ea" itemGuid="7bf430ff-6f92-4b44-bd3e-c4d0366e7508"/>
-      <podcast:remoteItem feedGuid="57203632-2003-55d2-b710-c699db963f18" itemGuid="1f7e025c-e8f7-4e10-b12b-9715c9c460c7"/>
-      <podcast:remoteItem feedGuid="5d5be024-321d-5342-838e-988d1653296b" itemGuid="191c7fee-5fde-4bdd-96c3-d7af3b4b8585"/>
-      <podcast:remoteItem feedGuid="08604071-83cc-5810-bec2-bea0f0cd0033" itemGuid="0e4191ef-92d1-49a7-8691-8e691d6bfdda"/>
-      <podcast:remoteItem feedGuid="82235f8b-da8c-52a5-ba6b-1f11c199f526" itemGuid="c6e47574-4fcd-4a56-b2df-9e404a556d15"/>
-      <podcast:remoteItem feedGuid="95e5f7a9-d88e-5e51-b2ae-f4b1865d19c4" itemGuid="bfe9ed47-ac2a-4fc6-be19-6ab94f75c4c4"/>
-      <podcast:remoteItem feedGuid="1dc549bf-c1ef-5a30-813f-a2918d37b38d" itemGuid="f5f51623-49f7-4c8d-ad7a-e1bafa10bab8"/>
-      <podcast:remoteItem feedGuid="377602c1-b049-5c14-bddf-eb4e349bee5c" itemGuid="3634469f-61ad-4e42-97f2-f1335c6ad267"/>
-      <podcast:remoteItem feedGuid="47768d25-74d9-5ba4-82db-aeaa7f50e29c" itemGuid="b1d3af49-e178-4153-94ab-8427e69429e4"/>
-      <podcast:remoteItem feedGuid="618f9e01-0ebb-5d59-b334-b428f7ebcc78" itemGuid="22adf983-754f-47af-bf44-2224443c8f28"/>
-      <podcast:remoteItem feedGuid="b39fc3b2-2742-5944-a800-e87c42a093a3" itemGuid="9db6d76b-fe9e-4914-bcc4-c429e0d75d6b"/>
-      <podcast:remoteItem feedGuid="1b59e954-db0a-5096-8116-2ef3638cbb66" itemGuid="117e8cfe-2da4-5c5c-9060-0ac55808a137"/>
-      <podcast:remoteItem feedGuid="9e3cea98-d04d-5190-88b3-46ee6030d4ea" itemGuid="e020b55d-3439-40a1-8271-ba2d59081608"/>
-      <podcast:remoteItem feedGuid="5bb8f186-2460-54dc-911d-54f642e8adf6" itemGuid="213ba1ef-4751-4fc9-a33e-52c49f61c63a"/>
-      <podcast:remoteItem feedGuid="0ca05681-c035-5e50-b538-6e42328f0dfd" itemGuid="454d3146-049c-49b1-b25e-c6551c083265"/>
-      <podcast:remoteItem feedGuid="f314df41-22c1-5fde-bc55-6f48e1625d96" itemGuid="2ebf7868-7696-4520-9c9c-ff4900978427"/>
-      <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="2b8cef29-6aa5-4e2f-a726-92f916f2424a"/>
-      <podcast:remoteItem feedGuid="b39fc3b2-2742-5944-a800-e87c42a093a3" itemGuid="2fabcf8b-2c9a-4a0a-b895-3274043e5013"/>
-      <podcast:remoteItem feedGuid="999c4870-396c-5a6b-b22e-4c05ee46127d" itemGuid="3f239db2-6d3c-4164-86c0-92c84f5caafa"/>
-      <podcast:remoteItem feedGuid="85e076c0-d4e3-5ae4-9586-0ab862dadf64" itemGuid="8e175c89-437c-4543-ae0a-aba553da0e05"/>
-      <podcast:remoteItem feedGuid="a599fabe-6b73-58f3-88b8-a7b78a2976b5" itemGuid="660c8516-ba38-480a-9ce7-e70a17427842"/>
-      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="ae81976d-a05e-4ff9-9adf-cdb11a33fff9"/>
-      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="7cececef-67c0-4e13-9192-943826d3eddd"/>
-      <podcast:remoteItem feedGuid="187f22db-79cb-5ac4-aa60-54e424e3915e" itemGuid="17313b1e-3585-4bfa-9fb4-288636b84313"/>
-      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="d2346732-acc5-4256-afe5-0a0f3e670e6b"/>
-      <podcast:remoteItem feedGuid="99d74aa0-2f55-5b2c-9c7a-47a3f31357f3" itemGuid="b9b7d326-b583-477a-894b-b810da5b1f2e"/>
-      <podcast:remoteItem feedGuid="a599fabe-6b73-58f3-88b8-a7b78a2976b5" itemGuid="849fa935-bf48-49c6-89e8-5d5b8dd024a2"/>
-      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="fabc3e64-e470-4f97-bf4a-3957e481e23b"/>
-      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="9c017289-79a4-40c2-a4fa-451041335db2"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="bbc9bfe3-3db1-400b-9ff0-613f57899614"/>
-      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="339085cc-c70c-4a5f-ae9f-ecc745ac8a45"/>
-      <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="0d616fe3-16ab-40be-a33c-98468f81fc11"/>
-      <podcast:remoteItem feedGuid="95e5f7a9-d88e-5e51-b2ae-f4b1865d19c4" itemGuid="3587c342-cd4a-481c-838c-de242e5beb0b"/>
-      <podcast:remoteItem feedGuid="c73b1a23-1c28-5edb-94c3-10d1745d0877" itemGuid="5342bf75-528c-417e-844b-1d2c69677aeb"/>
-      <podcast:remoteItem feedGuid="c76ef0a6-0181-5b9b-a4bc-dd85d4ed178b" itemGuid="fe393a12-8545-440d-b88b-64e6568936fc"/>
-      <podcast:remoteItem feedGuid="08604071-83cc-5810-bec2-bea0f0cd0033" itemGuid="2b77f75d-7f9b-4d47-864b-ccf495d4b1f4"/>
-      <podcast:remoteItem feedGuid="70b4915d-0c0b-5f7a-9980-82831d2a9ba2" itemGuid="b9471140-0674-4884-bbb5-39ce9c4a000f"/>
-      <podcast:remoteItem feedGuid="52786c48-86b4-5fd9-b4fe-7b44dcc3e4ba" itemGuid="13468078-1a54-4b0e-92bc-2faea2999ae7"/>
-      <podcast:remoteItem feedGuid="c8d77c9c-e661-5d79-8d5f-735cfe9a95b7" itemGuid="17249ca4-fc26-45bb-afa3-d86212c9b2f8"/>
-      <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140"/>
-      <podcast:remoteItem feedGuid="2c5f77fe-25d9-5a2d-97ef-236718c627df" itemGuid="469fb1ea-6b9e-4df4-96d3-0b61e9b1b5ca"/>
-      <podcast:remoteItem feedGuid="2c5f77fe-25d9-5a2d-97ef-236718c627df" itemGuid="c5071214-ba27-4327-ae0b-4769fc9cac06"/>
-      <podcast:remoteItem feedGuid="b9ee4d5d-77e7-56a4-a195-397ae28a3dfe" itemGuid="e92721f0-4291-4b50-a621-f658d875e640"/>
-      <podcast:remoteItem feedGuid="beeeef0b-51e9-52ac-b8d7-9ed54d5be3b0" itemGuid="8ed4bcfe-a4f9-42a7-9529-d30c3d634656"/>
-      <podcast:remoteItem feedGuid="08604071-83cc-5810-bec2-bea0f0cd0033" itemGuid="bb9c21e4-6c98-44b9-bf0b-125d244bd013"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="3aaaebf8-e10f-4058-82af-509b4a61689f"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="3b60e3d7-93c2-404e-8679-c541668fa121"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="765a7360-3c4c-4df6-becb-121abe595f4d"/>
-      <podcast:remoteItem feedGuid="537df90e-0cc4-535b-84d0-dcb3ca87f1f8" itemGuid="33932ccc-c707-411b-b914-4e9a94ec7e89"/>
-      <podcast:remoteItem feedGuid="d518a5ad-4df1-413e-a4a4-f2c7e146e650" itemGuid="7470d39e-6a8a-4356-9349-b9887d0970be"/>
-      <podcast:remoteItem feedGuid="d577b6cd-8c41-548b-abba-60e1502a94df" itemGuid="https://justcast.com/shows/44721/audioposts/1246165"/>
-      <podcast:remoteItem feedGuid="c1dc15c3-a6e6-577b-8b4e-a7eae58fd40b" itemGuid="https://justcast.com/shows/44808/audioposts/1248738"/>
-      <podcast:remoteItem feedGuid="70456036-6a9c-5165-8fa7-84352259d602" itemGuid="ba10024a-d040-4b31-b61d-ea1fca19387d"/>
-      <podcast:remoteItem feedGuid="121c26b0-33f8-5cb9-9e14-d706bd3f5db8" itemGuid="c2747138-3458-4a7d-b5be-7d2c637295bc"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="41339be2-3d61-4223-9641-3e7dd12be2b0"/>
-      <podcast:remoteItem feedGuid="bcd811d1-9fda-51d9-b2a6-9337f0131b66" itemGuid="ddc7dff4-121b-43ac-81b2-74c9ab618e59"/>
-      <podcast:remoteItem feedGuid="7a0735a7-c2d2-5e2c-ad5a-8586a62bfc93" itemGuid="3a5a784f-642f-41ab-b552-8c710415b8c6"/>
-      <podcast:remoteItem feedGuid="1ef2b1d6-c4c0-5ef5-b534-bfc025e4193e" itemGuid="46aa7bd5-4355-5e6c-976d-323a4dd7b7ab"/>
-      <podcast:remoteItem feedGuid="d3e9bb7a-3df8-5b7e-8f52-0b01decf2b66" itemGuid="360106a8-ddd8-4ee3-8bdf-2ef967b400ab"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="7f2eb92d-289e-4408-ac6c-47fea5905dc1"/>
-      <podcast:remoteItem feedGuid="94c8a0bf-f76e-5f8c-ba1d-c0c15a642271" itemGuid="b8c2544f-88ec-4cc2-a30f-98d3e4c25aea"/>
-      <podcast:remoteItem feedGuid="babd1567-2803-5ede-9a19-302c2fbf9eae" itemGuid="a2bf5272-8811-4882-aa39-a730c290af4d"/>
-      <podcast:remoteItem feedGuid="2ec344a8-d756-5f8f-bde1-8a034321f1cb" itemGuid="c341b8f3-28b7-43c2-baff-b59eb6d8de8b"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="2f1fabc9-54c0-4e96-93d8-98737356b448"/>
-      <podcast:remoteItem feedGuid="87ef86af-9d75-5876-97f9-5ea46e6094f7" itemGuid="eab9f1bd-94da-4c3c-afa7-3b4bc0c50c70"/>
-      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="c2264e2b-a564-43d2-bf7e-5be6298e2ea2"/>
-      <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="584953af-7321-4bfe-882d-7cadd697e807"/>
-      <podcast:remoteItem feedGuid="f511794d-437f-5cbd-8fcd-c541652a7931" itemGuid="088c8c1b-4753-4bc6-9ae3-08bcbddb3aa1"/>
-      <podcast:remoteItem feedGuid="028e9f67-e0fc-558f-b598-25f06179cea3" itemGuid="f6ee3774-c452-4e25-b8f4-c8330ff00f43"/>
-      <podcast:remoteItem feedGuid="4ab3741a-4a10-5631-a026-a9d0eb62fe11" itemGuid="b24f24f6-6e49-4685-afc9-c9fa856a9f1e"/>
-      <podcast:remoteItem feedGuid="82235f8b-da8c-52a5-ba6b-1f11c199f526" itemGuid="e580458f-ee8d-4674-b851-2e271cc3ff8e"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="26071e5e-74f4-4dd6-bb4f-19bfa259801f"/>
-      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="ae81976d-a05e-4ff9-9adf-cdb11a33fff9"/>
-      <podcast:remoteItem feedGuid="6335b366-6a83-5df4-ba62-d356ede08d70" itemGuid="62767045-5cc0-4280-a552-145a56e6964a"/>
-      <podcast:remoteItem feedGuid="cb086537-5673-57a8-9c78-72542da2a7d4" itemGuid="9a29c9f0-649f-4ddd-8888-55ed84d7c2ab"/>
-      <podcast:remoteItem feedGuid="e0658b29-1cd3-55b8-ac51-0997764ce334" itemGuid="32dd5103-548b-4b0a-ba56-13088637c1d5"/>
-      <podcast:remoteItem feedGuid="6eef0b66-bb86-5d0c-b260-099bcc920b7c" itemGuid="bd305f20-3c55-47b1-9722-6d68aeeaede7"/>
-      <podcast:remoteItem feedGuid="a599fabe-6b73-58f3-88b8-a7b78a2976b5" itemGuid="660c8516-ba38-480a-9ce7-e70a17427842"/>
-      <podcast:remoteItem feedGuid="545a3589-88e6-57c5-8448-bdc056cc3dfb" itemGuid="e7d7bf4f-811c-4644-9897-3f78cd2afa00"/>
-      <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="ae930ad6-5966-4033-b17f-b4e39519701d"/>
-      <podcast:remoteItem feedGuid="5bb8f186-2460-54dc-911d-54f642e8adf6" itemGuid="213ba1ef-4751-4fc9-a33e-52c49f61c63a"/>
-      <podcast:remoteItem feedGuid="5bb8f186-2460-54dc-911d-54f642e8adf6" itemGuid="f69cd5a5-2018-411b-afc1-00ab12142e83"/>
-      <podcast:remoteItem feedGuid="5bb8f186-2460-54dc-911d-54f642e8adf6" itemGuid="3c506193-5247-41bf-9d5d-6d8c7571142c"/>
-      <podcast:remoteItem feedGuid="66740bed-5dca-540f-98ff-0411593dab82" itemGuid="c660daaf-c499-4c36-af7c-f41171d9b612"/>
-      <podcast:remoteItem feedGuid="ec20d4ed-76c2-50dc-b4d9-0ba407f8cd81" itemGuid="55e1640d-5de7-448f-94ec-7cc2797e245a"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="eb69c0a1-c8b3-4898-8eef-af496d04a4e5"/>
-      <podcast:remoteItem feedGuid="c8d77c9c-e661-5d79-8d5f-735cfe9a95b7" itemGuid="17249ca4-fc26-45bb-afa3-d86212c9b2f8"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="caae8d61-bedd-40d9-ad57-8c86c1509020"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="58c9b50a-6d5f-4dcd-90ae-e3a76a9d2c0e"/>
-      <podcast:remoteItem feedGuid="b84c3345-55db-54e0-ac41-4b1cc6f3df67" itemGuid="6941fa17-0b82-4acf-aba0-79bdb219c98f"/>
-      <podcast:remoteItem feedGuid="bba99401-378c-5540-bf95-c456b3d4de26" itemGuid="804099cb-264f-42cc-8026-18f989c08f2b"/>
-      <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="3e3d88cd-d20e-4999-9239-70a8c762749b"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="a58d266a-2421-4772-9ae9-83ebbeb80d79"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="fedb7f31-c90a-4aca-9ab8-87db350af674"/>
-      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="be4da809-a7d3-42fb-aec9-7050144bf814"/>
-      <podcast:remoteItem feedGuid="1e7ed1fa-0456-5860-9b34-825d1335d8f8" itemGuid="5334a806-1c60-481e-a978-7577ce988b56"/>
-      <podcast:remoteItem feedGuid="c76ef0a6-0181-5b9b-a4bc-dd85d4ed178b" itemGuid="fe393a12-8545-440d-b88b-64e6568936fc"/>
-      <podcast:remoteItem feedGuid="d13eab76-a4c4-5e4b-a0fb-25ed1386bc51" itemGuid="58cf0bcf-bf66-46a1-8759-314def6d76e5"/>
+    <podcast:guid>8165a7de-c932-4236-982a-b07d81e96e4f</podcast:guid>
+    <item>
+      <title><![CDATA[Episode 61 - Peepal]]></title>
+      <guid isPermaLink="false">1158fb20-f081-4465-90bd-2ebfd6ca0230</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 24 Sep 2025 23:03:29 +0000</pubDate>
+      <description><![CDATA[Chad shares updates to our music app, is keysend(boostagrams) dead? And we get a new executive producer: Salty Crayon! Make sure you check out his music podcast, Upbeats
+Try out Chads DvPlayer HERE!  
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Boosting or Paypal HERE
+Thanks for traveling Into The Doerfel-Verse! 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep61.mp3" type="audio/mpeg" length="81280630"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 60 - Nate Johnivan]]></title>
+      <guid isPermaLink="false">5d5d5ed1-107c-4488-af52-fa252f47b83e</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 17 Sep 2025 20:58:43 +0000</pubDate>
+      <description><![CDATA[TJ and Chad have a great conversation with valueverse music heavyweight, Nate Johnivan!
+Boostagram Ball - Episode 07 - Boostagram Ball | 
+Fountain Artist Takeover - Nate Johnivan | podverse.fm
+Wavlake links to his bands
+https://wavlake.com/nate-johnivan
+https://wavlake.com/red-arrow-highway
+https://wavlake.com/death-by-lions
+https://wavlake.com/drawing-monsters
+https://wavlake.com/monkey-robot-war
+Try out Chads DvPlayer HERE! 
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Boosting or Paypal HERE
+Thanks for traveling Into The Doerfel-Verse! 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep60.mp3" type="audio/mpeg" length="159758339"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 59 - ValueVerse Tracks]]></title>
+      <guid isPermaLink="false">b4578bea-855b-48a6-a747-1a09ed44a19a</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 10 Sep 2025 23:22:15 +0000</pubDate>
+      <description><![CDATA[TJ brings another track packed episode with music from our ValueVerse friends, and some stories behind some never before heard songs! Get ready for Nate Johnivan on the next episode!
+Try out Chads DvPlayer HERE! 
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Boosting or Paypal HERE
+Thanks for traveling Into The Doerfel-Verse! 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep59.mp3" type="audio/mpeg" length="98136669"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 58 - Doerfelgram Ball]]></title>
+      <guid isPermaLink="false">d04e4724-c653-4b62-937b-6af21f85e554</guid>
+      <link>undefined</link>
+      <pubDate>Thu, 04 Sep 2025 02:35:03 +0000</pubDate>
+      <description><![CDATA[TJ has a fun solo episode with some surprises along the way!
+Try out Chads DvPlayer HERE! 
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Boosting or Paypal HERE
+Thanks for traveling Into The Doerfel-Verse! 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep58.mp3" type="audio/mpeg" length="88681053"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 57 - StableKraft]]></title>
+      <guid isPermaLink="false">0b115499-c1c4-4b30-8386-02690a6d2956</guid>
+      <link>undefined</link>
+      <pubDate>Sat, 30 Aug 2025 03:15:30 +0000</pubDate>
+      <description><![CDATA[TJ and Chad catch up on whats been up in the ValueVerse. Does anyone want DV merch? Please try out Chads DvPlayer HERE! Our show notes suck...
+Special special thanks to our newest Executive Producers!!! Bitpunk.fm, Keys Vineyard, and we had to make The Pod-Wizard, StevenB an honorary DV Executive Producer!
+We play some super secret tracks from the vault...shhh
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Boosting or Paypal HERE
+Thanks for traveling Into The Doerfel-Verse! 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep57.mp3" type="audio/mpeg" length="101017922"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 56 - re.podtards.com]]></title>
+      <guid isPermaLink="false">545d1c9e-e1f7-49de-af8c-b469ed503245</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 03 Aug 2025 14:38:19 +0000</pubDate>
+      <description><![CDATA[Just two podtards talking about nerdy v4v music stuff and playing some tracks :) check out Chads music player site! https://re.podtards.com/
+If you recieve any Value, please consider giving value back in a way that's meaningful to you!
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Boosting or Paypal HERE
+Thanks for traveling Into The Doerfel-Verse! 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep56.mp3" type="audio/mpeg" length="144986209"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 55 - Florida Family Takeover]]></title>
+      <guid isPermaLink="false">61b2ef47-18a4-4fcc-b750-8e09460bb85e</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 29 Jul 2025 00:03:57 +0000</pubDate>
+      <description><![CDATA[Family visits from FL and we hang and jam :)
+If you recieve any Value, please consider giving value back in a way that's meaningful to you.
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Boosting or Paypal HERE
+Thanks for traveling Into The Doerfel-Verse! 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep55.mp3" type="audio/mpeg" length="243312960"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 54 - V4V Executive Council Feat. ChadF]]></title>
+      <guid isPermaLink="false">de2b4ba2-17cb-43b3-915d-e5d684f721a8</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 20 Jul 2025 02:53:20 +0000</pubDate>
+      <description><![CDATA[Special guest ChadF!
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Paypal HERE
+Thanks for traveling Into The Doerfel-Verse! 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep54.mp3" type="audio/mpeg" length="157799905"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 53 - Work Tape Demos]]></title>
+      <guid isPermaLink="false">4af754e0-1bf0-4cc5-b8e0-12e5868545b6</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 13 Jul 2025 21:45:15 +0000</pubDate>
+      <description><![CDATA[Clip 1 youtube link HERE
+Clip 2 audible link HERE
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Paypal HERE
+Thanks for traveling Into The Doerfel-Verse! 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep53.mp3" type="audio/mpeg" length="115937509"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 52 - Mini-sode]]></title>
+      <guid isPermaLink="false">e97a1ec0-c547-473b-afa8-b1112e3b6097</guid>
+      <link>undefined</link>
+      <pubDate>Sat, 21 Jun 2025 02:34:42 +0000</pubDate>
+      <description><![CDATA[Just a little Mini-sode :)
+Help produce the DV by helping us with studio gear HERE
+Or Donate through Paypal HERE
+Thanks for traveling Into The Doerfel-Verse!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep52.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 51 - The Greensands]]></title>
+      <guid isPermaLink="false">9810c397-6762-4b88-9de7-489572e05b8e</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 17 Jun 2025 22:15:15 +0000</pubDate>
+      <description><![CDATA[The Greensands join us for a great chat about their music and the Valueverse
+Help produce the DV by helping us with studio gear HERE
+Thanks for traveling Into The Doerfel-Verse!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep51.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 50 - Valueverse Jams]]></title>
+      <guid isPermaLink="false">eab0299d-ba9a-4952-8cee-a1c013776b2f</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 08 Jun 2025 03:55:34 +0000</pubDate>
+      <description><![CDATA[Listen to some of my fav Valueverse tracks with me on episode 50!
+Help produce the DV by helping us with studio gear HERE
+Thanks for traveling Into The Doerfel-Verse!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep50.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 49 - Hunting Doerfels]]></title>
+      <guid isPermaLink="false">cd4b88ff-84d1-4dcf-b675-06c2f839ec1f</guid>
+      <link>undefined</link>
+      <pubDate>Thu, 22 May 2025 03:24:01 +0000</pubDate>
+      <description><![CDATA[The Spotlight happened about 2 weeks ago, and I try to get everyones take on it. But tracking all the guys down to chat about it is a challange!
+Thanks for traveling Into The Doerfel-Verse!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep49.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 48  -  Boo-bury]]></title>
+      <guid isPermaLink="false">1e81d901-78fe-43e0-8a68-263accfc2e9f</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 27 Apr 2025 00:45:29 +0000</pubDate>
+      <description><![CDATA[Our guest Boo-bury is always at the forfront of intovation taking v4v to the next level! Be sure not to miss his brand new show 
+The Satellite Spotlight
+It will be livestreamed May 10 starting at 6pm central. Citybeach will be performing at 9PM. Go to www.liveislit.com for more info!
+His Podcast can also be found at www.behindthesch3m3s.com
+Thanks for traveling Into The Doerfel-Verse!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep48.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 47 - My Friend Jimi]]></title>
+      <guid isPermaLink="false">7d029f86-20aa-4880-bc2e-d5fc9ad9b809</guid>
+      <link>undefined</link>
+      <pubDate>Fri, 18 Apr 2025 19:48:07 +0000</pubDate>
+      <description><![CDATA[Today we were joined by My Friend Jimi! We listen to some his songs and get to hear the origin of his musical journey. You can follow him on Instagram.
+We've also made a Fountain playlist featuring all of his current songs in the ValueVerse, plus a few songs from soe other v4v artists that you can put on if you want to hear more of his music.
+Thanks for traveling Into The Doerfel-Verse!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep47.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 46 - Banjovi]]></title>
+      <guid isPermaLink="false">e6d90938-d3f1-44dd-bd94-62b1bf151136</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 15 Apr 2025 12:27:17 +0000</pubDate>
+      <description><![CDATA[On this episode the banjo nerds really took over! TJ and special guest, Banjovi(Tate Greer), talk and play all things banjo. Tate's website is www.banjovibanjo.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep46.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 45 - V4V music talk plus new song!]]></title>
+      <guid isPermaLink="false">e04d22c0-ae48-4217-8c54-6add4058e989</guid>
+      <link>undefined</link>
+      <pubDate>Sat, 05 Apr 2025 01:42:15 +0000</pubDate>
+      <description><![CDATA[Just an update on Doerfel-happenings and a new song to release :)
+90% goes right to the artists when you boost while their song is playing! We truly value your support!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep45.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 44 - HeyCitizen]]></title>
+      <guid isPermaLink="false">b82645fd-18b0-47a2-8620-e82b147320ee</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 24 Mar 2025 01:42:36 +0000</pubDate>
+      <description><![CDATA[ATTENTION CITIZENS! HeyCitizen is in da verse! Check more of his music on LN Beats
+And he has Lo-Fi songs
+90% goes right to the artists when you boost while their song is playing! If you enjoy listening, share the show and give us a shout, we truly value you!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep44.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 43 - Jimmy V]]></title>
+      <guid isPermaLink="false">cd7da484-5911-4180-b93a-d6c440281b0a</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 09 Mar 2025 04:11:36 +0000</pubDate>
+      <description><![CDATA[Jimmy V is in da verse! Check out his music and podcast at jiimmyv4v.com
+90% goes right to the artists when you boost while their song is playing! We would love to hear from you if you enjoy listening! Share the show and give us a shout, we truly value you!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep43.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 42 - Steven B]]></title>
+      <guid isPermaLink="false">65562379-6827-4e32-a6d8-d139502750bf</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 04 Mar 2025 21:46:16 +0000</pubDate>
+      <description><![CDATA[Steven B is in da verse!
+He is the creator of the value for value music site/player www.lnbeats.com, and other value for value tools for musicians and podcsters, www.musicsideproject.com www.sovereignfeeds.com
+90% goes right to the artists when you boost while their song is playing! We would love to hear from you if you enjoy listening! Share the show and give us a shout, we truly value you!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep42.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 41- Mike Neumann]]></title>
+      <guid isPermaLink="false">e0fa9a1b-8763-4285-9bd3-d7b3fd46d5eb</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 23 Feb 2025 05:04:34 +0000</pubDate>
+      <description><![CDATA[Mike Neumann is in da verse!
+Check out his music podcast It's A Mood!
+Jdogs upcoming song here
+90% goes right to the artists when you boost while their song is playing! We would love to hear from you if you enjoy listening! Share the show and give us a shout, we truly value you!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep41.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 40 - Somewhat special guest?...Kurtisdrums!]]></title>
+      <guid isPermaLink="false">3f9acfcf-a39e-4b33-9335-b09e96ada95b</guid>
+      <link>undefined</link>
+      <pubDate>Sat, 08 Feb 2025 05:36:47 +0000</pubDate>
+      <description><![CDATA[Kurtisdrums is back in the verse!
+90% goes right to the artists when you boost while their song is playing! We would love to hear from you if you enjoy listening! Share the show and give us a shout, we truly value you!
+contact me: tj@doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep40.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 39 - ChadF]]></title>
+      <guid isPermaLink="false">5023f51a-fea9-4112-9dcd-59961686c7ec</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 02 Feb 2025 02:42:02 +0000</pubDate>
+      <description><![CDATA[We got the OG EXECUTIVE PRODUCER of the DoerfelVerse himself ChadF to hang! We also have a surpise visit from Shredward and we get a sneak peek of his new upcoming CityBeach album. We chat, listen to some tracks, and talk v4v nerd talk!
+90% goes right to the artists when you boost while their song is playing! We would love to hear from you if you enjoy listening! Share the show and give us a shout, we truly value you!
+contact me: tj@doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep39.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 38 - Musical Chairs with Salty Crayon]]></title>
+      <guid isPermaLink="false">3d70b7ee-02a2-4025-aec0-cd883269dc54</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 19 Jan 2025 18:08:20 +0000</pubDate>
+      <description><![CDATA[Join TJ, Cousin Mike, and Special guest, Salty Crayon! Check out his music podcast Upbeats! https://upbeatspodcast.com/en/
+90% goes right to the artists when you boost while their song is playing! We would love to hear from you if you enjoy listening! Share the show and give us a shout, we love to know if anyone is listening and cares!
+contact me: tj@doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep38.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 37 - Jukebox Vol. 4]]></title>
+      <guid isPermaLink="false">a8781ede-9927-454c-8f94-af16b9490ff3</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 05 Jan 2025 16:24:49 +0000</pubDate>
+      <description><![CDATA[Show notes:
+*Feeling Bout You - Kurtisdrums
+*Playing God - Opus
+Who is Opus? I discuss what i know. Then I play clips from the band Vulfpeck, which is who Theo got his career going with, and how they beat the system and spotify. Clips: https://youtu.be/KXvncV79LXk https://youtu.be/T7qf7VTubbI 
+*That's The Life - The Katzman
+*Grow - The Doerfels
+*Let You Down - The Johner Boys 
+*Happy New Year - The Doerfels
+90% goes right to the artists when you boost while their song is playing! We would love to hear from you if you enjoy listening! Share the show and give us a shout, we love to know if anyone is listening and cares!
+contact me: tj@doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep37.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 36 - Doerfel Jukebox Vol. 3]]></title>
+      <guid isPermaLink="false">1a251fbc-8cf5-45c5-a3f1-36e8a797aade</guid>
+      <link>undefined</link>
+      <pubDate>Thu, 07 Nov 2024 21:13:20 +0000</pubDate>
+      <description><![CDATA[I am joined by a couple of my children, Jdog and Hazel, and we play music from the valueverse!
+Track list:
+PorkChops Fried - HeyCitizen
+Change Your Mind - Ainsley Costello
+That Duck - Sir Seat Sitter
+Big Sciota - Generation Gap
+Sensitive Guy - Miles Fonda
+Secrets - Jordan Dedo
+Let Go - Middle Season
+90% goes right to the artists when you boost while their song is playing!
+contact me: tj@doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep36.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 35 - Doerfel-Jukebox Vol. 2]]></title>
+      <guid isPermaLink="false">5afc6897-f24c-41c4-8ce6-dd3255c4412f</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 14 Oct 2024 20:13:17 +0000</pubDate>
+      <description><![CDATA[Sir TJ The Wrathful plays some tracks and talks about music in podcasting 2.0
+Track list:
+Worth Fighting For
+Animosity
+You
+Safe
+Hallucinations
+Ordinary
+Maybe It's You
+Make It
+LIVE boosters: Salty Crayon
+contact me: tj@doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep35.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 34 - D.A.I. with Tommy Jr]]></title>
+      <guid isPermaLink="false">cd8e0692-44b8-4365-968c-84c8c8b6222c</guid>
+      <link>undefined</link>
+      <pubDate>Sat, 28 Sep 2024 05:06:41 +0000</pubDate>
+      <description><![CDATA[Meet Doerfel number nine, Tommy Jr! And join TJ and Cousin Mike on an unexpected journy down a strange musical universe!
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep34.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 33 with Adam Curry]]></title>
+      <guid isPermaLink="false">5b89608c-f2f3-4393-8920-9899327c3da7</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 18 Sep 2024 04:54:21 +0000</pubDate>
+      <description><![CDATA[Had an absolute BLAST! Check out Adams awesome podcasts! No Agenda, Curry and The Keeper, and Boostagram Ball(Music Podcast)
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep33.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 32.5]]></title>
+      <guid isPermaLink="false">c1a4342f-3bf3-4e14-bb48-229b009ca521</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 15 Sep 2024 14:53:20 +0000</pubDate>
+      <description><![CDATA[This is it, testing all systems for the big episode 33 coming up! Where have we been? what's going on? Well we discuss and play some live music and pick a new song to release from the Doerfel-vault!
+Subscribe in a Podcasting 2.0 app and you can follow along and get involved by sending us value in a Boostagram, it's super fun, and is a form of real value! There are many apps, if you've never tried one give Fountain a spin!
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep32-5.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 32 - Doerfel-Node]]></title>
+      <guid isPermaLink="false">1e4ce96c-41d4-4a7b-b83c-3a9cada507eb</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 03 Jul 2024 01:58:43 +0000</pubDate>
+      <description><![CDATA[What's a node you ask? Well, we arent really sure, but we got one, and we are learning! Also, Shreddy has some new songs to preview!
+Special thanks to Sir Spencer, ChadF, and Salty Crayon for helping me get our node up ad running!
+Subscribe in a Podcasting 2.0 app and you can follow along and get involved by sending us value in a Boostagram, it's super fun! There are many apps, if you've never tried one give Fountain a spin!
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep32.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 31 - Doerfel-Jukebox Vol. 1]]></title>
+      <guid isPermaLink="false">bcfc7a81-5dc1-4291-ad6a-2beab7da2f14</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 19 Jun 2024 23:22:32 +0000</pubDate>
+      <description><![CDATA[TJ, Kurt, and Cousin Mike pick songs for our first ever Doerfel-Jukebox episode. It's even possible we might release a brand new BANGER near the end!? 
+www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep31.mp3" type="audio/mpeg" length="110837440"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 30 - Oh My Baby]]></title>
+      <guid isPermaLink="false">65d7b255-0ba8-4f7f-9135-c4312c3411da</guid>
+      <link>undefined</link>
+      <pubDate>Sun, 26 May 2024 20:15:25 +0000</pubDate>
+      <description><![CDATA[What's been happening? LOTS! Join TJ, Ed, Kurt, Jdog, and Cousin Mike as we catch up.
+Finding any value? Show some love and let us know via Boostagram or Paypal! Thanks for listening!
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep30.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 29 - Jam with Tommy G]]></title>
+      <guid isPermaLink="false">aea897a5-73ab-405a-a2c0-ce15a228bef0</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 29 Apr 2024 21:08:30 +0000</pubDate>
+      <description><![CDATA[This episode we are joined by Alandace's dad and have a blast jamming on some tunes! We chat and thank those sending value!
+Please consider supporting us! We have no advertising or streaming income, this is straight up value for value! Hear music you like? Show some love and let us know via Boostagram or Paypal! Thanks for listening!
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep29.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 28 - Shhh Top Secret]]></title>
+      <guid isPermaLink="false">bca31d18-769e-48ba-be24-25dfad1f6e0d</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 22 Apr 2024 05:25:06 +0000</pubDate>
+      <description><![CDATA[The elders (Sir TJ and Cousin Mike) get together and chat about...
+18 Sundays music, who are they?? Miles Fonda and young music life.
+What are these weird Doerfel tracks? jam band? bluegrass fusion??
+Thanking our amazing producers!
+Please consider supporting and sending value, as we have no advertising or streaming income, this is straight up value for value! Hear music you like? Show some love and let us know via Boostagram or Paypal! thanks for listening :) Really, if you dont let us know in some way you are listening and find value, we need you to! So that we know someone is listening and cares! let us know, Boost, Paypal, heck even email us at tj@doerfelverse.com! We just want to know if anyones listening and enjoying :)
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep28.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 27 - Into The Normy-Verse]]></title>
+      <guid isPermaLink="false">bcbf28ca-5999-45cb-a2ba-ee23f32d43ad</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 08 Apr 2024 05:11:16 +0000</pubDate>
+      <description><![CDATA[Where have we been? Tap play and find out! 
+Special Thanks to the one and only, Chad F as our executive producer for the last month, this guy has shown so much value we cannot fully express our grattitude!
+What is the Normy-Verse? What is v4v? We talk about both right at the start!
+Then we talk about song picks, and talk about some brand new music! Tune and and let us kow what you think!
+Please consider supporting and sending value, as we have no advertising or streaming income, this is straight up value for value! Hear music you like? Show some love and let us know via Boostagram or Paypal! thanks for listening :)
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep27.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 26 - Garage to Studio]]></title>
+      <guid isPermaLink="false">172d577e-c011-4f59-b00a-a9aef903a98c</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 20 Mar 2024 00:04:08 +0000</pubDate>
+      <description><![CDATA[Chad Farrow is still THE executive producer for the month of March, and to see what we did with his donation check out the garage to studio transformition pictures below! We've been working hard and it's starting to pay off with the studio re-modeling!
+Also we preview A new CityBeach song AND pick a new song for release, what song will it be??? listen and find out, and tell us what you think in a boostagram!
+
+
+
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep26.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 25 - Alandace Part 2]]></title>
+      <guid isPermaLink="false">8dad7ec9-65c9-4317-bf63-22251863a7d4</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 04 Mar 2024 05:51:21 +0000</pubDate>
+      <description><![CDATA[We talk about Fountain. We play a brand new song Alandace is working on and talk about recording. We thank our producers. 
+Special Thanks to our first ever DoerfelVerse executive producer, Chad Farrow, sent $100 via paypal! 
+More v4v talk. We have more special news!?
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep25.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 24 - Alandace]]></title>
+      <guid isPermaLink="false">283bd44a-1ee8-40d9-ba7d-d316d72bbda7</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 27 Feb 2024 21:48:22 +0000</pubDate>
+      <description><![CDATA[Join us as we officially introduce another Doerfel...Shredwards wife, Alandace!(a-lan-dis) She shares about her musical up-bringing and we listen to some new tracks. You can hear her with Shreddy on CityBeach!
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep24.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 23 - Ryan AND Seth Fonda]]></title>
+      <guid isPermaLink="false">d90fd95b-45a3-4426-9600-4be1120620b7</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 19 Feb 2024 21:05:10 +0000</pubDate>
+      <description><![CDATA[Join us AND our brothers Ryan and Seth Fonda as we talk value for value music and life!
+Ryan's wavlake here. Seth's Wavlake here.
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep23.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 22 - Halftime]]></title>
+      <guid isPermaLink="false">b77d6814-649b-44ae-8b62-61e677ae835c</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 12 Feb 2024 04:44:07 +0000</pubDate>
+      <description><![CDATA[Sir TJ and Jdog share some random Doerfel info, read the last weeks Boostagrams, and pick a song, or songggs?
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep22.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 21 - Queen Mother]]></title>
+      <guid isPermaLink="false">83b4ce3e-84ba-4df2-9e6b-99164f3a83ff</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 06 Feb 2024 03:17:07 +0000</pubDate>
+      <description><![CDATA[Where have all those Doerfels gone? Join us and find out!
+SPECIAL GUEST: We chat with our mom Cheryl, or as we like to call her, Queen Mother! oh yeah, and dad too :)
+Ryan Fonda and Citybeach teamed up for a new self hosted song, "Unsound Existance"
+New music by Ed and Bens church, Lifepoint Music
+ 
+And as always, we discuss a new song release.
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep21.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 20 - Goals]]></title>
+      <guid isPermaLink="false">ae5ca787-26d5-4d6e-8f61-0173e9945744</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 08 Jan 2024 11:45:36 +0000</pubDate>
+      <description><![CDATA[He shoots, he scores! Oh wait this isn't a hockey game :) We play and talk about our song, "Thought It Was Real". Talk about the origin of our Hockey stick instruments(Jim Stoneman). And pick a new song for release.
+Special thanks to DV Producers for music and Ep20:
+Boostagrams:
+ChadF
+Salty Crayon
+boo-bury
+Adam Curry
+sirtruckdriver
+allencpaul
+adam287
+greatbrittain94
+Streamers:
+meremortalspodcast
+saintsandsats
+gilligan
+mikeneumann
+sandymeyer
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep20.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 19 - Wondoerfel New Year]]></title>
+      <guid isPermaLink="false">2b07b11b-feaa-4b53-8172-e40d209642c8</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 01 Jan 2024 21:15:41 +0000</pubDate>
+      <description><![CDATA[Join us as we chat about upcoming plans for 2024, share sneak peaks of upcoming music, and pick a new song to release!
+Special thanks to DV Producers for music and Ep19:
+ChadF
+adamc1999
+thekeeper
+allencpaul
+saintsandsats
+nicolas_b58
+Kolomona - Sir Libra
+mikeneumann
+Kyrin(Mere Mortals Podcast)
+Bearsnare
+user52425381(Uncle Joe)
+Subscribe to our music feed!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep19.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 18 - DoerJam 3 Feat. Doug Yeomans]]></title>
+      <guid isPermaLink="false">1fc2f122-4969-4ba3-907c-eedf5bc95bc3</guid>
+      <link>undefined</link>
+      <pubDate>Fri, 29 Dec 2023 22:52:39 +0000</pubDate>
+      <description><![CDATA[Sir TJ on banjo and dobro, Shredward on mandolin, Ben on guitar, and our guest Doug Yeomans on guitar and vocals.
+Doug brings some original tunes and we hang with Doug and talk music career, our stories, and v4v music.
+Listen to our latest song here.
+Don't miss a beat and subscribe to our music feed with all our songs here.
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep18.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 17 - BabyVerse]]></title>
+      <guid isPermaLink="false">5632650e-51b5-4555-a48e-03690926f5bf</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 19 Dec 2023 04:30:53 +0000</pubDate>
+      <description><![CDATA[Sir TJ is joined by his wife and children for an episode full of chaos and exciting news!
+Psalms 127:3-5
+Children are a gift from the Lord;
+they are a reward from him.
+Children born to a young man
+are like arrows in a warrior’s hands.
+How joyful is the man whose quiver is full of them!
+He will not be put to shame when he confronts his accusers at the city gates.
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/dvep17.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 16 - DragonCello/DoerJam2]]></title>
+      <guid isPermaLink="false">05ba8081-205b-4dfc-a78f-a0545f661ad1</guid>
+      <link>undefined</link>
+      <pubDate>Sat, 09 Dec 2023 06:01:33 +0000</pubDate>
+      <description><![CDATA[DoerJam number 2! Sir TJ, Shreddy, Kurtisdrums, Benny, and Cousin Mike hang with their instruments. We jam on some songs, play some tracks, and talk about random stuff that pops into our heads...
+Songs jammed on are: Morristown Blues, Now I Know(to be released), Dead Time, and...something intresting to end the show..!
+This is a value for value podcast. This means we do it for the love of it, and if you find any value, we just ask that you send that back in a way, like time, talent, or treasure. Time means listening and sharring the show and music with someone you think might like it! Talent means ANYTHING you can think of, like baking and sending us Cookies(thanks Mike Neumanns better half!). Or making show art, jingles, or anything using your talent. Treasure, that's any number meaningful to you. V4v is making music meaningful again :)
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep16.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 15 - Bluegrass in Montreal 2007]]></title>
+      <guid isPermaLink="false">20c7d12a-3d1a-4860-9957-51fb2604fa16</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 04 Dec 2023 20:36:44 +0000</pubDate>
+      <description><![CDATA[Hang with Sir TJ in this out of the normal show format. He listens and does a comentary of a bluegrass show from when they were kids. Recorded live in Montreal, Canada, in 2007.
+TJ/banjo - Kim/fiddle - Edward/mandolin - Joey/bass - Ben/guitar 
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep15.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 14 - Chill and Chit-Chat]]></title>
+      <guid isPermaLink="false">77360740-11c4-4a52-b4ce-094c420f041b</guid>
+      <link>undefined</link>
+      <pubDate>Thu, 30 Nov 2023 00:43:32 +0000</pubDate>
+      <description><![CDATA[Sir TJ and Cousin Mike chit-chat about happenings in the doerfelverse and thank our Producers. We also take a sneak peak into Cousin Mike's musical past, and pick a song for release.
+We are about a week behind schedule from time of recording do to us all having full time jobs for survival..Lol. So if you sent a boostagram recently and don't hear it read, allow another episode to be released, it may be read then.
+But if we ever missed a boostagram please shoot me an email at tj@sirtjthewrathful.com, we definatly want to read it and give thanks to all our producers!
+https://www.doerfelverse.com/]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep14.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 13 - Chugging Chel with Zac Polk]]></title>
+      <guid isPermaLink="false">72186194-d406-48e3-bcfd-c14ec47cfafd</guid>
+      <link>undefined</link>
+      <pubDate>Sat, 25 Nov 2023 04:18:46 +0000</pubDate>
+      <description><![CDATA[Learn some old school Doerfel-lingo with our long-time musician friend Zac Polk.
+We share stories, talk about v4v music in podcasting 2.0, play some tracks, and pick a new single to release.
+Zacs Podcast is here.  We got Zac to make a GetAlby and he is in the split for this episode so if you enjoy and find value maybe send a boostagram welcoming him to the world of v4v :)
+Check out the song we picked by subscribing to, "Music From The Doerfel-verse" feed and that will keep you up to date with all our most recent releases. Or easiy check it out on LNBeats.com
+https://www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep13.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 12 - DoerJam!]]></title>
+      <guid isPermaLink="false">0f678a82-71ac-4d96-9c27-c7f6aada2f06</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 14 Nov 2023 04:17:39 +0000</pubDate>
+      <description><![CDATA[Episode 12 - DoerJam!
+Sir TJ The Wrathful on Dobro - Shredward on Mandolin - Ben on Guitar -
+Our live podcast jams are now called DoerJams thanks to Mike Neumann's better half :) Check out Mike's music show, It's A Mood!
+Intro DoerJam: Heart Is Falling Out
+DoerfelVerse Producers: bustedcanoe7, queenmother, Adam Curry, meremortalspodcast, ChadF, salty_crayon, duhlaurien, thebearsnare.com, sirtruckdriver, saintsandsats, latosh, Mike Neaumann
+Here are some great music podcasts if you can only handle so much Doerfels at once. These are great for discovering other V4V artists!
+Boostagram Ball, It's A Mood, Homegrown Hits, Mutton, Mead & Music, Rolling On Show, UpBEATs
+You can find all the known Music Show Podcasts by clicking on radio over at LNBeats.com
+Featured DoerJam Song: Pulls Me Up
+Song Of The Week is.......? Let us know what song you want to hear more of!
+This is a value for value podcast, so if you find any value let us know, we love to hear from yall!
+Try a modern podcast app today, some we reccomend are: Podverse, Podcast Guru, Fountain, CurioCaster
+www.doerfelverse.com
+Music From The DoerfelVerse feed on www.LNbeats.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep12.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 11 - Doerfel Agents Meeting]]></title>
+      <guid isPermaLink="false">bfb8ba87-9c3b-41f4-9e55-2ff55beb6b81</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 06 Nov 2023 07:56:23 +0000</pubDate>
+      <description><![CDATA[The self proclaimed "agents" of the band, Sir TJ The Wrathful and Cousin Mike, let the rest of the boys have a Sunday off from the show and reflect on the podcast so far. They also choose a new song to release.
+Listen to all the music released here at LNBeats.com
+Check out Adam Curry's Boostagram Ball
+Thanking our producers!
+gt, kurtisdrums, chadf, Oystein Berge, toph4471, fatherdorf, steveweb
+Our website is functioning, check it out at https://www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep11.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 10 - Feat. Middle Season & Live Jam]]></title>
+      <guid isPermaLink="false">252b72bd-9cb7-4364-9f96-c8cf4bd9d83d</guid>
+      <link>undefined</link>
+      <pubDate>Sat, 28 Oct 2023 19:33:07 +0000</pubDate>
+      <description><![CDATA[Episode 10 with Middle Season.
+On this episode Joey Ramon(Middle Season) joins us and we play a song of his and chat about his musical/life journey.
+Check out his song on LN Beats HERE
+send him a Boostagram if you want to hear more of his music!
+And you can listen to his worship song HERE.
+Then we pick a song to release.
+Thanks for listening!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep10.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 9 - Daddy D]]></title>
+      <guid isPermaLink="false">7085847b-c957-48dd-b23f-1b05fb797f28</guid>
+      <link>undefined</link>
+      <pubDate>Fri, 20 Oct 2023 11:55:27 +0000</pubDate>
+      <description><![CDATA[Our father Daddy D(Tom), visits from FL to help Sir TJ The Wrathful roof his house. We of course had to take this oppertunity to have him on the Podcast! Dad played bass, booked the gigs, drove and fixed the bus, and tried to keep us all in line!
+
+Listen to music from the Doerfel-Verse here for free. And if you recieve any value, please consider sending us some back with time, talent, or treasure.
+Time: listening and sending us any thoughts or questions to tj@sirtjthewrathful.com.
+Talent: sending us something from whatever you talents may be.
+Treasure: Right now this would need to be in the form of a boost/boostagram using a modern podcast app like Podverse, Fountain, Podcast Guru, just to name a few.
+Thank you for listening and we hope you recieved some kind of value from our crazy family.
+
+https://www.doerfelverse.com]]></description>
+      <enclosure url="https:/www.doerfelverse.com/tracks/dvep9.mp3" type="audio/mpeg" length="33"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 8 - Our Favorite Sister]]></title>
+      <guid isPermaLink="false">6b7b9f7d-fef4-46ee-8fa5-704e2f82145a</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 11 Oct 2023 03:20:45 +0000</pubDate>
+      <description><![CDATA[We have our favorite(only) sister Kim join us. 
+Kim is the 2nd oldest of the Doerfel siblings. Singing and playing fiddle, she now lives in FL with her husband Doug and their two children Stevie and Reed.
+Kim is now A worship leader at Keys Vineyard Church
+Here's a link to the worhip music previewed in epsiode.
+Thanks for listening, if you found any value please let us know!
+You can send us a boostagram and be involved in the show by using a podcasting 2.0 app. If you know someone who might enjoy our music/podcast, try to pull them into the Doerfel-Verse!
+Podcast Guru, Podverse, Fountain are some of our favorite apps. And for music only definitly go to LNBeats.com
+We now have A new music only feed called, "Music From The Doerfel-verse". Subscribe there to enjoy all our music in an album/playlist format.
+You can also send us an email with any topics, questions, comments you'd like to share at tj@sirtjthewrathful.com
+https://www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep8.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 7 - With Jdog & callieNOTwallie]]></title>
+      <guid isPermaLink="false">01ba08d0-60f4-404a-8391-4efcd44d6d4c</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 02 Oct 2023 21:24:06 +0000</pubDate>
+      <description><![CDATA[Join us as we chat & jam with Sir TJ The Wrathful's eldest children, Jdog & CallieNotWallie!
+Listen to Jdogs album here!
+https://www.doerfelverse.com]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep7.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 6 - Live Jam 1]]></title>
+      <guid isPermaLink="false">fc4045b5-b51c-4aad-990b-c7bbb8c7471e</guid>
+      <link>undefined</link>
+      <pubDate>Fri, 29 Sep 2023 05:15:15 +0000</pubDate>
+      <description><![CDATA[We welcome Joey to the show for the first time!
+Warning- this episode contains Joe's feet, band life stories, and live jamming!
+Don't Take My Time written by Doug Yeomans.
+Text Me Or Something written by Miles Fonda
+Let us know in a Boost or email what you'd like to hear and any questions you might have!
+https://www.doerfelverse.com/
+We recommend Music Side Project for artists who would like to get their music on v4v made by the great StevenB
+A great way to discover other value for value artists are these shows(podcasts)
+Boostagram Ball 
+It's A Mood
+Homegrown Hits
+Before the Sch3m3s
+Phantom Power Music Hour
+If you found any value in our music please cosider sending some value back in the form of time, talent, or treasure!
+Thanking all boosters/streamers last week!
+Dave Jones
+adam287
+geatbritian
+Dame Jenifer
+GeneBean
+Sam Sethi
+spamproof
+Kolomona
+gt
+Mitch D
+Adam Curry
+Dave Smith
+johnsbrt
+boolysteed
+dale jr
+ericpp
+beavenour
+todd from northern VA
+Mike Neumann
+AChrisYouKnow
+shelleyc
+TheCzar
+ChadF
+colemccormick1
+rawbtc
+Kyrin
+sirseanreiser
+nick
+si
+KR
+ShowBooster
+harvhat
+bryan goodwin
+bmasi
+gilligan
+Franco
+Try out a Podcasting 2.0 app today. Here are a few of our favorites:
+Podverse, Podcast Guru, Fountain, LNBeats]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep6.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 5 - Berries and Cream]]></title>
+      <guid isPermaLink="false">4fe5085b-6725-4c1f-8ca6-288f464840b0</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 20 Sep 2023 01:47:49 +0000</pubDate>
+      <description><![CDATA[Episode 5 - Berries and Cream
+TJ shares new end of show mix he made for the best podcast in the univeerse, No Agenda!
+Ben's worship music here: https://lnbeats.com/album/08604071-83cc-5810-bec2-bea0f0cd0033
+Listen to Jdogs songs here!
+Adam! it's only Ben and Kurtisdrums who complain about your compression, talk about sound snobs! 😂 
+This is a value for value podcast, if you find any value in our content please return some value even if its just a quick email message. We love hearing from you.
+Try A new podcast app! Podverse, Podcast Guru, Fountain are some of our favs right now!
+We would also like to let people know we endourse Steven Bells tools, Music Side Project and Sovereign Feeds. If you are interested in self hosting your own music check them out or send TJ an email if you'd like more information. tj@sirtjthewrathful.com
+Thanking boosters from last week: greatbrittain94, adam287, Adam Curry, John Siebert, Dreb Scott, trailchicken, bearsnare, gt
+Also A big shout out to those who streamed us sats, so generous!
+We go through some of Ben and Kurts crazy songs and pull up some oldies!]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/doerfelverse-ep5.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 4 - Superjells]]></title>
+      <guid isPermaLink="false">6570c0b1-fa57-4cad-9466-b0f2fab083cb</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 13 Sep 2023 19:26:31 +0000</pubDate>
+      <description><![CDATA[Episode 4 - Superjells
+Another brother, a key member of the band, Ben finally joins us on the podcast!
+Band life/timeline, stories, touring, making money, play some OLD bluegrass tracks.
+Songwritting and tastes.
+This is a value 4 value podcast. If you found any value please let us know even if it's just with an email!
+Outro music by Ryan & Seth Fonda]]></description>
+      <enclosure url="https://www.doerfelverse.com/tracks/ep4doerfelverse-superjells.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 3 - Keep it Low Key ft. Ryan Fonda]]></title>
+      <guid isPermaLink="false">92207c60-da47-4e03-af62-3c47503b7c01</guid>
+      <link>undefined</link>
+      <pubDate>Wed, 06 Sep 2023 10:15:06 +0000</pubDate>
+      <description><![CDATA[Brand New intro :)
+More talk about "The Doerfels" as a band name. Link to video we discussed HERE
+Special Guest Ryan Fonda! Check him out on WavLake
+Talk of Ryan's older brother Miles Fonda(April 15, 1988 - January 21, 2023) who gave TJ his No Agenda Knight name. Listen to Miles' song HERE.
+Chatting with Ryan about what he's working on and then what Doerfels song to pick next, hmm.
+To connect with us through boosting get a new podcasting app, some great ones are Fountain, Podverse, and Podcast Guru, if you have any thoughts or questions please email us, tj@sirtjthewrathful.com]]></description>
+      <enclosure url="https://www.sirtjthewrathful.com/media/ep3-ryan-fonda.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 2 - DragonBoyz]]></title>
+      <guid isPermaLink="false">a0830159-5dda-4415-949b-fb7615961e87</guid>
+      <link>undefined</link>
+      <pubDate>Fri, 01 Sep 2023 02:52:39 +0000</pubDate>
+      <description><![CDATA[Episode 2 is here! We dive deep into some more tracks.
+Special thanks to boosts we got this week from: Adam Curry, Dave Jones, ChadF, Fletcher, Dame DuhLaurien, Sir Spencer Wolf of KS
+Make sure you check out the track we chose to release after this episode!
+Listen to our music on LNbeats.com by searching, "doerfels".
+This is a value for value podcast, if you find any value then let us know by sending any kind of value back. One way to do that is by sending us a boostagram, or simply send us an email, we want to hear from you, Thanks!
+Sir TJ The Wrathful, Shredward, Kurtisdrums, Cousin Mike]]></description>
+      <enclosure url="https://www.sirtjthewrathful.com/media/ep2-taste-the-dragon.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Episode 1 - So Friggin' Fine]]></title>
+      <guid isPermaLink="false">f81fdd33-3fa4-4227-b9ee-4dd1b5e96b2d</guid>
+      <link>undefined</link>
+      <pubDate>Fri, 25 Aug 2023 21:22:32 +0000</pubDate>
+      <description><![CDATA[We discuss our reasons for making a podcast.
+Short history of the band.
+Thanks to Adam Curry for featuring us on the first episode of his brand new music podcast Boostagram Ball, check it out!
+Value for Value model.
+What is a Doerfel?
+Spotify, and major streaming services screwing artists?
+What song we releasing next? listen to us figure it out, then check the following episode for the full track!
+For better listening get a Podcasting 2.0 app. We love podcast guru and podverse. For music we recomend searching "the doerfels" at LNbeats.com
+Special thanks to Steven Bell and Sir Spencer Wolf of KC
+In this feed we will be making episodes followed by a song. We also plan on sharing other artists music who are following the v4v model.
+Boost us your feedback or email us at tj@sirtjthewrathful.com or find us on No Agenda Social]]></description>
+      <enclosure url="https://www.sirtjthewrathful.com/media/doerfel-verse-1-So-Friggin-Fine-08-13-23.mp3" type="audio/mpeg" length="0"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
   </channel>
 </rss>
