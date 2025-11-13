@@ -6,13 +6,13 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic-project.ams3.cdn.digitaloceanspaces.com/Mutton_Mead__Music/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 12 Nov 2025 01:11:44 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2025 01:11:44 GMT</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2025 01:12:20 GMT</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2025 01:12:20 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>77ac033f-32b1-44e7-a02a-780b2034fe57</podcast:guid>
+    <podcast:guid>b3bfdbdd-29c9-439d-8237-8ce1d0a930ca</podcast:guid>
       <podcast:remoteItem feedGuid="92fc540c-79ce-55b5-9dd8-b5bad9f94d7a" itemGuid="b86bb0e1-bc52-5b01-a1ea-d18fe3579ec9"/>
       <podcast:remoteItem feedGuid="7e3b9fc5-6b08-5feb-96a9-41a1d88b262c" itemGuid="32fcf76b-f8c2-4e3d-b26d-59c90101bc40"/>
       <podcast:remoteItem feedGuid="cafba575-bfcc-5b92-8502-1b3b476b06be" itemGuid="b9fc04f7-539c-48f8-8fbe-bdd5d3901250"/>
