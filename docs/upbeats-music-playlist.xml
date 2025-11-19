@@ -6,13 +6,13 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 18 Nov 2025 01:11:46 GMT</pubDate>
-    <lastBuildDate>Tue, 18 Nov 2025 01:11:46 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 01:11:32 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 01:11:32 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>52351c2e-54a4-44d4-9e43-3efbf4f32ffd</podcast:guid>
+    <podcast:guid>177f034e-8d51-4d4b-a63d-eb84a67e664c</podcast:guid>
       <podcast:remoteItem feedGuid="a1077af6-602b-5daf-957b-68a65a03cad1" itemGuid="bd4e8597-5a67-43bd-a076-52bca49f130d"/>
       <podcast:remoteItem feedGuid="feb8c156-8b08-532f-b903-4891ab58b2c2" itemGuid="5e6a782f-333a-4c38-8fca-4ec51ccfae4e"/>
       <podcast:remoteItem feedGuid="2a7d21ff-edb0-52c1-bf13-107ac6efe881" itemGuid="6b0443b0-8ff0-4b2b-91d5-ef81713b1500"/>
