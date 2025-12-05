@@ -6,13 +6,13 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 02 Dec 2025 23:17:44 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 23:17:44 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 23:27:54 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 23:27:54 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>34417fd0-70f5-4f86-bc93-c4c35afcd13e</podcast:guid>
+    <podcast:guid>c3feb31b-6cb3-4fab-ad80-723d51958ec3</podcast:guid>
     <podcast:txt purpose="episode">Is This Thing On? Pt 2</podcast:txt>
       <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="86f09b0e-09c1-4001-b45a-8d1e3a67dfad"/>
       <podcast:remoteItem feedGuid="fbd96f01-fc53-577d-a71c-a97994fa646a" itemGuid="5d3ad3a9-961c-40d5-a462-f7e0b16618e9"/>
@@ -57,7 +57,7 @@
       <podcast:remoteItem feedGuid="508bfb27-3623-513c-9eda-0b512a2abc82" itemGuid="e91fd03c-1dd4-48ad-b04d-4a6247a3d6e1"/>
       <podcast:remoteItem feedGuid="2514d117-8a84-5345-82e8-8ed7b940cf1f" itemGuid="a25936e7-e87d-41a3-a7bd-bd206e0ffc47"/>
       <podcast:remoteItem feedGuid="07e882cc-690e-544f-bccb-799730b4f3a9" itemGuid="a01f64a3-025a-5f95-8bf7-7a99f7a65bc4"/>
-      <podcast:remoteItem feedGuid="d46367eb-be3c-548a-9c27-fbf1dcf27f30" itemGuid="8958b128-e10b-4132-975c-65df41bb45ec"/>
+      <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="8958b128-e10b-4132-975c-65df41bb45ec"/>
       <podcast:remoteItem feedGuid="5d5be024-321d-5342-838e-988d1653296b" itemGuid="fb279ed1-10ec-4060-967d-9af45c19505f"/>
       <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="0b6a3889-87ee-432b-a7ee-f6bef65ca3c4"/>
       <podcast:remoteItem feedGuid="38970258-bbe2-5f5f-8827-1641a256fe54" itemGuid="bd45fc26-95c2-4a1a-937c-cdab227f9e82"/>
