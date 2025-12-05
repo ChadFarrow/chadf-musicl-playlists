@@ -6,13 +6,17 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 02 Dec 2025 23:17:27 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 23:17:27 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 23:38:41 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 23:38:41 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>d6347ef1-150a-47ff-a8cc-ab7cd96a5002</podcast:guid>
+    <podcast:guid>ce8c46f3-a213-429d-a541-6948eb106991</podcast:guid>
+    <podcast:txt purpose="episode">Episode 62 - Where Are We Now???</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 61 - Peepal</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 60 - Nate Johnivan</podcast:txt>
       <podcast:remoteItem feedGuid="537df90e-0cc4-535b-84d0-dcb3ca87f1f8" itemGuid="7ad63686-68ca-49fb-b5f3-a5426f1e87c9"/>
       <podcast:remoteItem feedGuid="00e3d398-2554-54cb-a1af-1285cd56a994" itemGuid="59651df7-e780-40c3-a5fb-ebb67d6ba331"/>
@@ -32,11 +36,15 @@
       <podcast:remoteItem feedGuid="0bc8103c-7e22-5a59-b152-04af80746b49" itemGuid="b93c4a1f-5c84-482c-9ac3-b841405c20b0"/>
       <podcast:remoteItem feedGuid="c25bce1f-77db-56b2-a125-565d9701f2e7" itemGuid="c893744d-b066-47c4-8bc3-010854aab747"/>
       <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="6be0a7f5-da40-49fa-889e-a69733269eed"/>
+    <podcast:txt purpose="episode">Episode 57 - StableKraft</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 56 - re.podtards.com</podcast:txt>
       <podcast:remoteItem feedGuid="3ae285ab-434c-59d8-aa2f-59c6129afb92" itemGuid="d8145cb6-97d9-4358-895b-2bf055d169aa"/>
       <podcast:remoteItem feedGuid="6fc2ad98-d4a8-5d70-9c68-62e9efc1209c" itemGuid="aad6e3b1-6589-4e22-b8ca-521f3d888263"/>
       <podcast:remoteItem feedGuid="dea01a9d-a024-5b13-84aa-b157304cd3bc" itemGuid="52007112-2772-42f9-957a-a93eaeedb222"/>
       <podcast:remoteItem feedGuid="95e5f7a9-d88e-5e51-b2ae-f4b1865d19c4" itemGuid="d79f242f-0651-4b12-be79-c2bac234cfde"/>
+    <podcast:txt purpose="episode">Episode 55 - Florida Family Takeover</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 54 - V4V Executive Council Feat. ChadF</podcast:txt>
       <podcast:remoteItem feedGuid="3058af0c-1807-5732-9a08-9114675ef7d6" itemGuid="c51ecaa4-f237-4707-9c62-2de611820e4b"/>
       <podcast:remoteItem feedGuid="011c3a82-d716-54f7-9738-3d5fcacf65be" itemGuid="c2ba80cc-add9-42ad-9a8f-b490436826ae"/>
@@ -44,6 +52,8 @@
       <podcast:remoteItem feedGuid="187f22db-79cb-5ac4-aa60-54e424e3915e" itemGuid="83b608cb-fbb8-4cc4-895e-bd1cf2b08ae3"/>
       <podcast:remoteItem feedGuid="265706d5-d6a1-5e96-b4c8-5db454844254" itemGuid="fe6b1845-6b98-425d-aa07-9531474939de"/>
       <podcast:remoteItem feedGuid="5a95f9d8-35e3-51f5-a269-ba1df36b4bd8" itemGuid="7c823adf-1e53-4df1-98c0-979da81ec916"/>
+    <podcast:txt purpose="episode">Episode 53 - Work Tape Demos</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 52 - Mini-sode</podcast:txt>
       <podcast:remoteItem feedGuid="6bf3785f-e053-57f4-9f70-261ee5e3747f" itemGuid="f9683d28-70df-4112-95c4-490c0383c3c9"/>
       <podcast:remoteItem feedGuid="6bf3785f-e053-57f4-9f70-261ee5e3747f" itemGuid="d60032f3-ce45-45c4-81fc-26ff0394a248"/>
@@ -79,6 +89,8 @@
       <podcast:remoteItem feedGuid="f314df41-22c1-5fde-bc55-6f48e1625d96" itemGuid="2ebf7868-7696-4520-9c9c-ff4900978427"/>
       <podcast:remoteItem feedGuid="b39fc3b2-2742-5944-a800-e87c42a093a3" itemGuid="2fabcf8b-2c9a-4a0a-b895-3274043e5013"/>
       <podcast:remoteItem feedGuid="999c4870-396c-5a6b-b22e-4c05ee46127d" itemGuid="3f239db2-6d3c-4164-86c0-92c84f5caafa"/>
+    <podcast:txt purpose="episode">Episode 46 - Banjovi</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 45 - V4V music talk plus new song!</podcast:txt>
       <podcast:remoteItem feedGuid="a599fabe-6b73-58f3-88b8-a7b78a2976b5" itemGuid="660c8516-ba38-480a-9ce7-e70a17427842"/>
     <podcast:txt purpose="episode">Episode 44 - HeyCitizen</podcast:txt>
@@ -151,6 +163,14 @@
       <podcast:remoteItem feedGuid="ec20d4ed-76c2-50dc-b4d9-0ba407f8cd81" itemGuid="55e1640d-5de7-448f-94ec-7cc2797e245a"/>
       <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="eb69c0a1-c8b3-4898-8eef-af496d04a4e5"/>
       <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="caae8d61-bedd-40d9-ad57-8c86c1509020"/>
+    <podcast:txt purpose="episode">Episode 34 - D.A.I. with Tommy Jr</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 33 with Adam Curry</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 32.5</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 32 - Doerfel-Node</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 31 - Doerfel-Jukebox Vol. 1</podcast:txt>
       <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="58c9b50a-6d5f-4dcd-90ae-e3a76a9d2c0e"/>
       <podcast:remoteItem feedGuid="b84c3345-55db-54e0-ac41-4b1cc6f3df67" itemGuid="6941fa17-0b82-4acf-aba0-79bdb219c98f"/>
@@ -161,5 +181,65 @@
       <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="be4da809-a7d3-42fb-aec9-7050144bf814"/>
       <podcast:remoteItem feedGuid="1e7ed1fa-0456-5860-9b34-825d1335d8f8" itemGuid="5334a806-1c60-481e-a978-7577ce988b56"/>
       <podcast:remoteItem feedGuid="d13eab76-a4c4-5e4b-a0fb-25ed1386bc51" itemGuid="58cf0bcf-bf66-46a1-8759-314def6d76e5"/>
+    <podcast:txt purpose="episode">Episode 30 - Oh My Baby</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 29 - Jam with Tommy G</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 28 - Shhh Top Secret</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 27 - Into The Normy-Verse</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 26 - Garage to Studio</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 25 - Alandace Part 2</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 24 - Alandace</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 23 - Ryan AND Seth Fonda</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 22 - Halftime</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 21 - Queen Mother</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 20 - Goals</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 19 - Wondoerfel New Year</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 18 - DoerJam 3 Feat. Doug Yeomans</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 17 - BabyVerse</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 16 - DragonCello/DoerJam2</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 15 - Bluegrass in Montreal 2007</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 14 - Chill and Chit-Chat</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 13 - Chugging Chel with Zac Polk</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 12 - DoerJam!</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 11 - Doerfel Agents Meeting</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 10 - Feat. Middle Season &amp; Live Jam</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 9 - Daddy D</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 8 - Our Favorite Sister</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 7 - With Jdog &amp; callieNOTwallie</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 6 - Live Jam 1</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 5 - Berries and Cream</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 4 - Superjells</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 3 - Keep it Low Key ft. Ryan Fonda</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 2 - DragonBoyz</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 1 - So Friggin&apos; Fine</podcast:txt>
+    <!-- no tracks -->
   </channel>
 </rss>
