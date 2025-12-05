@@ -6,13 +6,13 @@
     <link>https://itsamood.org</link>
     <podcast:txt purpose="source-feed">https://itsamood.org/itsamoodrss.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 02 Dec 2025 23:17:24 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 23:17:24 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 23:27:47 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 23:27:47 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/IAM-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>db53cb36-c967-4907-8740-0ae2d40d2f6f</podcast:guid>
+    <podcast:guid>6cf7d191-6d41-4282-978e-e5c2cc20d7ea</podcast:guid>
     <podcast:txt purpose="episode">Cycles</podcast:txt>
       <podcast:remoteItem feedGuid="a53d97a2-21a9-5850-957f-20e6e1f1817b" itemGuid="e5fd3601-e1c7-4bc8-a652-7b050f322802"/>
       <podcast:remoteItem feedGuid="0bc8103c-7e22-5a59-b152-04af80746b49" itemGuid="b93c4a1f-5c84-482c-9ac3-b841405c20b0"/>
@@ -252,7 +252,7 @@
     <podcast:txt purpose="episode">Still New</podcast:txt>
       <podcast:remoteItem feedGuid="3d92b2f6-4aac-5f24-bffe-2536eb579286" itemGuid="bda485d5-7c17-4b02-bd1a-5ded3132a61a"/>
       <podcast:remoteItem feedGuid="822b93ec-7087-59ed-a1fa-7e959e99f812" itemGuid="598b520a-929c-437b-8f1f-960f9df55a64"/>
-      <podcast:remoteItem feedGuid="9a586e61-bfa5-5c10-94e3-202ceefc2405" itemGuid="1006e0ad-dc79-4a48-8d50-011efaa4f36e"/>
+      <podcast:remoteItem feedGuid="b7842bf4-143a-51fc-be80-552e09b672ef" itemGuid="1006e0ad-dc79-4a48-8d50-011efaa4f36e"/>
       <podcast:remoteItem feedGuid="c58e87a0-dc16-5b1f-9987-5089e0c3d146" itemGuid="ee9833ef-b1da-53cf-bfce-0842b5e17423"/>
       <podcast:remoteItem feedGuid="858fc46f-6287-5e39-8268-46a91bccbbba" itemGuid="933441f0-8b4e-4b5d-8dfe-6df83ca70107"/>
       <podcast:remoteItem feedGuid="08d087dc-c837-5d7f-96c6-ced7713e82eb" itemGuid="8ac47953-0d22-41a4-a4c4-0ab0981031d8"/>
@@ -268,7 +268,7 @@
       <podcast:remoteItem feedGuid="19835a35-b7d1-5fee-8d67-a89d996098e1" itemGuid="30c985a0-d6fc-46da-9886-dca0d4c40f87"/>
       <podcast:remoteItem feedGuid="38f290e4-e6d6-52d0-a52b-9fd9948e7dc8" itemGuid="c2eeed20-1c5e-4e05-a4a9-30e8521207db"/>
       <podcast:remoteItem feedGuid="955bc336-5e61-5b01-8703-950919bf28ae" itemGuid="e0d74356-030b-4e0c-9902-445ae113f056"/>
-      <podcast:remoteItem feedGuid="c59cad2b-1733-5806-83ad-3c53bbda4630" itemGuid="04cead49-6aab-46ca-af7e-01c51c3bddbf"/>
+      <podcast:remoteItem feedGuid="d4173781-d8ad-5ee6-af5d-28f84726bf55" itemGuid="04cead49-6aab-46ca-af7e-01c51c3bddbf"/>
       <podcast:remoteItem feedGuid="4f8f8ac0-1dba-5d8d-ad26-4959369301d2" itemGuid="69e5fc94-e49e-4d5a-8fa3-fa4de462c19f"/>
       <podcast:remoteItem feedGuid="6783ed8f-08da-5d80-bf8a-815eb3cd89f2" itemGuid="8674204a-f4d9-4619-b166-2405122e299f"/>
     <podcast:txt purpose="episode">Live and Well</podcast:txt>
