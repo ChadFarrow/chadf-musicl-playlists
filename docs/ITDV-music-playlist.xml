@@ -6,13 +6,15 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 05 Dec 2025 23:38:41 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 23:38:41 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Dec 2025 07:21:36 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 07:21:36 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>ce8c46f3-a213-429d-a541-6948eb106991</podcast:guid>
+    <podcast:guid>f43a9d7d-6bfb-4843-ba26-59a50791fef0</podcast:guid>
+    <podcast:txt purpose="episode">Episode 63 - Jam with Nate Grower</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 62 - Where Are We Now???</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 61 - Peepal</podcast:txt>
