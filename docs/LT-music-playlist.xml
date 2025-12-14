@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <author>Sir Libre</author>
-    <title>Lightning Thrashes Music Playlist</title>
+    <author>ChadFarrow</author>
+    <title>ChadF Lightning Thrashes Music Playlist</title>
     <description>The Worlds first Value for Value enabled Metal Music show. Hosted by Kolomona Myer AKA Sir Libre</description>
     <link>http://lightningthrashes.com</link>
     <podcast:txt purpose="source-feed">https://sirlibre.com/lightning-thrashes-rss.xml</podcast:txt>
@@ -9,7 +9,7 @@
     <pubDate>Sun, 14 Dec 2025 03:46:11 GMT</pubDate>
     <lastBuildDate>Sun, 14 Dec 2025 03:46:11 GMT</lastBuildDate>
     <image>
-      <url>https://cdn.kolomona.com/podcasts/lightning-thrashes/101/101-Lightning-Thrashes-1000.jpg</url>
+      <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/LT-music-playlist.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>61df55b2-ab6a-491a-be1b-1c38bf9f4258</podcast:guid>
