@@ -6,13 +6,13 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 15 Dec 2025 00:26:24 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2025 00:26:24 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 00:33:26 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:33:26 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>144d05e1-daeb-4082-982f-9f54cfb571fc</podcast:guid>
+    <podcast:guid>384f5662-5725-4289-a4f3-16e066b1e9dd</podcast:guid>
     <podcast:txt purpose="episode">December Sun</podcast:txt>
       <podcast:remoteItem feedGuid="62d7bc46-c2ed-4b0e-a3a5-9abe7fd216ca" itemGuid="d28c62a3-0533-47e7-8970-37f9d062ed88"/>
       <podcast:remoteItem feedGuid="87750227-32d0-5154-8944-a6c65cf57157" itemGuid="98b2eec4-9f9a-40ec-8885-f872bc6bc419"/>
