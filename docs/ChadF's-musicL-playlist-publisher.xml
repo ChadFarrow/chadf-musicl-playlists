@@ -1,0 +1,38 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
+  <channel>
+    <title><![CDATA[ChadF's musicL playlist]]></title>
+    <description><![CDATA[Publisher Feed of all of the musicL playlist I've made.]]></description>
+    <itunes:image href="https://raw.githubusercontent.com/ChadFarrow/musicL-playlist-updater/refs/heads/main/playlists/ChadF-musicL-publisher-art.webp"/>
+    <link>https://github.com/ChadFarrow/musicL-playlist-updater/tree/main/playlists</link>
+    <generator>Sovereign Feeds</generator>
+    <podcast:medium>publisher</podcast:medium>
+    <image>
+      <url>https://raw.githubusercontent.com/ChadFarrow/musicL-playlist-updater/refs/heads/main/playlists/ChadF-musicL-publisher-art.webp</url>
+      <link>https://github.com/ChadFarrow/musicL-playlist-updater/tree/main/playlists</link>
+      <title><![CDATA[ChadF's musicL playlist]]></title>
+      <description><![CDATA[Publisher Feed of all of the musicL playlist I've made.]]></description>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <itunes:category text="How To"/>
+    <podcast:block>no</podcast:block>
+    <itunes:owner>
+      <itunes:email>chad.farrow@gmail.com</itunes:email>
+      <itunes:name>Chad Jonathan Farrow</itunes:name>
+    </itunes:owner>
+    <podcast:remoteItem feedGuid="30b31f6c-6b44-4a14-a525-81a8fcd7cb19" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/IAM-music-playlist.xml" feedImg=""/>
+    <podcast:remoteItem feedGuid="88b0640a-489f-4920-be4f-00f85af5b2d4" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/ITDV-music-playlist.xml" feedImg=""/>
+    <podcast:remoteItem feedGuid="92ac9b10-20fd-4c95-a5d2-1be9681b7644" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/MMM-music-playlist.xml" feedImg=""/>
+    <podcast:remoteItem feedGuid="06e166e9-d7c1-4295-b3da-5cedab3234f3" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/upbeats-music-playlist.xml" feedImg=""/>
+    <podcast:remoteItem feedGuid="9ceefd27-f61b-40fe-a4bd-56d969329f57" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/flowgnar-music-playlist.xml" feedImg=""/>
+    <podcast:remoteItem feedGuid="f716ed8c-6cb5-4452-a498-6ed5974bccb7" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/b4ts-music-playlist.xml" feedImg=""/>
+    <podcast:remoteItem feedGuid="8a9e6834-f8cc-4b85-ac85-2cc718f6d04f" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/MMT-muic-playlist.xml" feedImg=""/>
+    <podcast:remoteItem feedGuid="0a28983e-c60c-467d-8d76-6ec7663fbfec" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/SAS-music-playlist.xml" feedImg=""/>
+    <podcast:remoteItem feedGuid="8aad8bd9-0eac-4bfe-b290-6c73f7148155" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-music-playlist.xml" feedImg=""/>
+    <itunes:author>ChadF</itunes:author>
+    <pubDate>Sat, 06 Sep 2025 01:36:23 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 01:36:23 +0000</lastBuildDate>
+    <category>How To</category>
+    <podcast:guid>a778e463-ecc3-5219-8f05-f33b3983e173</podcast:guid>
+  </channel>
+</rss>
