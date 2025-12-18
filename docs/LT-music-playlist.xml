@@ -6,13 +6,29 @@
     <link>http://lightningthrashes.com</link>
     <podcast:txt purpose="source-feed">https://sirlibre.com/lightning-thrashes-rss.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 15 Dec 2025 00:33:18 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2025 00:33:18 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 07:22:48 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 07:22:48 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/LT-music-playlist.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>e6f9ea20-f83a-48c9-8908-1a3bd0017bec</podcast:guid>
+    <podcast:guid>167643cf-1e13-4845-ad31-717f9b76de8f</podcast:guid>
+    <podcast:txt purpose="episode">102 - Lightning Thrashes</podcast:txt>
+      <podcast:remoteItem feedGuid="6e854d2a-ef83-531c-b3a2-58c408e702e0" itemGuid="9c670292-f03f-42d3-a4fb-dc69cf51e0a6"/>
+      <podcast:remoteItem feedGuid="9151acfe-424b-5791-a4a0-178ae5989369" itemGuid="baa10cfe-ce90-4e90-8911-23b742b65c73"/>
+      <podcast:remoteItem feedGuid="9151acfe-424b-5791-a4a0-178ae5989369" itemGuid="5b01f45c-0b6c-4e4c-99a5-c604e3d74b71"/>
+      <podcast:remoteItem feedGuid="43a4a16c-9f1f-5905-84d8-74f86a924b38" itemGuid="7bbe34e9-5abe-4c50-ad1e-b5c6664b7357"/>
+      <podcast:remoteItem feedGuid="f09c0ff4-11b9-5286-8db6-17a323aff8ac" itemGuid="f0c491fd-76bc-4731-817e-4839dddb6c17"/>
+      <podcast:remoteItem feedGuid="f09c0ff4-11b9-5286-8db6-17a323aff8ac" itemGuid="dd9f280f-b946-44c5-b750-693d9831c685"/>
+      <podcast:remoteItem feedGuid="aba99306-ecfd-508e-a705-fe0b3201c7c0" itemGuid="248bd256-e68e-4d27-b137-98dda393df81"/>
+      <podcast:remoteItem feedGuid="27735a10-3775-503d-b038-70b4b7d536ab" itemGuid="a4955f3c-50a9-45a7-b329-d6c3727c46ab"/>
+      <podcast:remoteItem feedGuid="3c90d775-eea8-5e04-a804-e139a95988fc" itemGuid="ca7e7288-1f7f-49f1-9b41-5203b05e4083"/>
+      <podcast:remoteItem feedGuid="153d584c-5ece-5113-b852-e9faf761d15d" itemGuid="6554e7e7-285e-4482-ac55-bea6a2468379"/>
+      <podcast:remoteItem feedGuid="6ce442f3-a83a-5f0a-9e9c-0f151c1cd3e3" itemGuid="0e368ed1-7c8d-48bc-9252-87173709905c"/>
+      <podcast:remoteItem feedGuid="419b741c-a3de-5e39-acb4-74bda853510b" itemGuid="7b2ff01f-14cf-4403-9e86-41b2491e908a"/>
+      <podcast:remoteItem feedGuid="419b741c-a3de-5e39-acb4-74bda853510b" itemGuid="113920d0-e48d-40e4-9af0-2f2b786c9d6e"/>
+      <podcast:remoteItem feedGuid="8ebf86ed-c419-500c-a6ed-b6bffc6a4792" itemGuid="1bf8e387-7346-4b39-bfaf-749ffced2dcb"/>
+      <podcast:remoteItem feedGuid="b39fc3b2-2742-5944-a800-e87c42a093a3" itemGuid="8282a191-762b-448a-ad9e-423f5de82cee"/>
     <podcast:txt purpose="episode">101 - Lightning Thrashes</podcast:txt>
       <podcast:remoteItem feedGuid="1251226d-7e8c-5741-9e1b-7c445f2abd15" itemGuid="54eecd42-2f0d-49c5-ace3-4fc2270056b3"/>
       <podcast:remoteItem feedGuid="4ce46667-777d-559b-a8a8-7502b70d22fb" itemGuid="6f3fffcf-d3f9-477b-aa9e-70f1d4e108f4"/>
