@@ -6,13 +6,26 @@
     <link>https://homegrownhits.xyz</link>
     <podcast:txt purpose="source-feed">https://feed.homegrownhits.xyz/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 18 Dec 2025 07:22:43 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 07:22:43 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 07:22:07 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 07:22:07 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/HGH-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>e513783f-dcc0-4eed-a31d-e45d093fd459</podcast:guid>
+    <podcast:guid>344f2359-e2f3-4318-bbbb-346a3871fafc</podcast:guid>
+    <podcast:txt purpose="episode">Homegrown Hits - Episode 115</podcast:txt>
+      <podcast:remoteItem feedGuid="08612ae5-aa23-47f7-81c4-8cfafea8237f" itemGuid="74fbfddd-c5de-42a8-b182-367ea5e82f7f"/>
+      <podcast:remoteItem feedGuid="ac746d09-7c3b-5bcd-b28a-f12d6456ca8f" itemGuid="d5689b89-a1fe-4f6d-88e0-6b6ef4b2f51c"/>
+      <podcast:remoteItem feedGuid="f32aff4c-3398-5c86-8955-2be20c4e5b9e" itemGuid="thenogs-donkey-07-before-i-die"/>
+      <podcast:remoteItem feedGuid="67d28ca5-280e-5071-9b86-665a25cd36f6" itemGuid="e160a9fc-2157-4009-b5ad-827e6248d5a6"/>
+      <podcast:remoteItem feedGuid="e0420800-135b-51b7-96f9-ff7904d7e9f1" itemGuid="9da2d988-a2d7-42dc-8292-67fa48967ec9"/>
+      <podcast:remoteItem feedGuid="c49ec2b5-94da-5780-870a-5101f15cde95" itemGuid="58a25bc5-7048-4557-974a-caa8be1155c2"/>
+      <podcast:remoteItem feedGuid="2269829e-8a1d-5f5e-bf61-cd7090d3f174" itemGuid="b1a86d43-ff8a-486f-91b3-529940311553"/>
+      <podcast:remoteItem feedGuid="bf7dd502-5f87-5937-8c50-4c8a863024d0" itemGuid="f3049c52-24c8-4ec8-9749-44d357d4924b"/>
+      <podcast:remoteItem feedGuid="5c87b91a-2141-590b-ab19-93e8a6f2d885" itemGuid="2d55757f-5931-4471-90e4-e0c5bc0f0a11"/>
+      <podcast:remoteItem feedGuid="356501f6-7b74-510d-baa7-386600edab07" itemGuid="03e8bdbd-4c52-4759-9fbb-b63df91de03c"/>
+      <podcast:remoteItem feedGuid="0653114c-dd08-5f36-863d-009d56bccb8d" itemGuid="90764ef9-8a0c-44f4-8c49-280ab7d52b98"/>
+      <podcast:remoteItem feedGuid="d6d051f1-16e4-5131-a2f5-c89570a37f8e" itemGuid="2063b2cb-5c47-4b79-af7d-2928e6a63dc2"/>
     <podcast:txt purpose="episode">Ho-Ho-Homegrown Hits</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">Homegrown Hits - Episode 114</podcast:txt>
