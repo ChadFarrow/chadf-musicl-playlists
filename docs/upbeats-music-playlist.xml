@@ -6,13 +6,29 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 15 Dec 2025 00:33:26 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2025 00:33:26 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Dec 2025 07:26:15 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Dec 2025 07:26:15 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>384f5662-5725-4289-a4f3-16e066b1e9dd</podcast:guid>
+    <podcast:guid>9132f92e-8bc2-410d-ba4e-db4f70861e33</podcast:guid>
+    <podcast:txt purpose="episode">64: Radio Recap</podcast:txt>
+      <podcast:remoteItem feedGuid="9b39430f-1cee-5398-84f7-a81d02366af8" itemGuid="df22e1e2-dc66-416a-923e-35b6fb0d9a3c"/>
+      <podcast:remoteItem feedGuid="93e3c7fe-a851-5c4c-8955-6a04f0f44edc" itemGuid="d1c7af6e-7dc8-470d-ab88-a55f2482f609"/>
+      <podcast:remoteItem feedGuid="8edbc667-69a6-5a45-905d-14dde2d21cf8" itemGuid="7096047d-5d51-4cc4-9d59-39fd1272b804"/>
+      <podcast:remoteItem feedGuid="c74210ce-da31-59c8-a671-fd74a7cb3ed2" itemGuid="29d1ba9b-5f5f-49e4-8f27-48198e02235a"/>
+      <podcast:remoteItem feedGuid="9bc5a8b4-e8b7-5d4f-8df1-4e121a68ede7" itemGuid="2659bfa0-a0c4-47b6-a43b-54d775c860fe"/>
+      <podcast:remoteItem feedGuid="2e0c01d2-155f-5a30-b826-0b738691c153" itemGuid="30cf2422-44e9-4eb0-9c50-00bd5f767406"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="86f09b0e-09c1-4001-b45a-8d1e3a67dfad"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="5a646f7a-67fa-4124-83a5-85f4a1ae632f"/>
+      <podcast:remoteItem feedGuid="c989830b-49a1-572f-9f0e-0fec994a6d5a" itemGuid="a8f3468a-d12c-429e-b96b-fcc6a6494e86"/>
+      <podcast:remoteItem feedGuid="9e3cea98-d04d-5190-88b3-46ee6030d4ea" itemGuid="3a069c6c-7907-4d6e-b805-d0201a994b7c"/>
+      <podcast:remoteItem feedGuid="de032037-63e0-5c6b-820d-13d4319a2b19" itemGuid="e046f9dd-aca3-4c7a-b396-2148a90ac0f2"/>
+      <podcast:remoteItem feedGuid="a53d97a2-21a9-5850-957f-20e6e1f1817b" itemGuid="1b573438-4b1b-4067-9230-4369e4a3a317"/>
+      <podcast:remoteItem feedGuid="0cdcbc24-6901-5422-aca9-5aa2c91c49e3" itemGuid="49091f66-02ee-41f6-a37b-30321f403d68"/>
+      <podcast:remoteItem feedGuid="a1e7b24a-e2b5-5232-be37-69f71dd0739e" itemGuid="05d50c32-8b33-534d-ae78-1092a28bbddf"/>
+      <podcast:remoteItem feedGuid="c49ec2b5-94da-5780-870a-5101f15cde95" itemGuid="9092ea7f-49d2-4bae-82bd-76cea96adc66"/>
     <podcast:txt purpose="episode">December Sun</podcast:txt>
       <podcast:remoteItem feedGuid="62d7bc46-c2ed-4b0e-a3a5-9abe7fd216ca" itemGuid="d28c62a3-0533-47e7-8970-37f9d062ed88"/>
       <podcast:remoteItem feedGuid="87750227-32d0-5154-8944-a6c65cf57157" itemGuid="98b2eec4-9f9a-40ec-8885-f872bc6bc419"/>
