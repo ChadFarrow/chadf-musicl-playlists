@@ -6,13 +6,25 @@
     <link>https://homegrownhits.xyz</link>
     <podcast:txt purpose="source-feed">https://feed.homegrownhits.xyz/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 26 Dec 2025 07:21:51 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Dec 2025 07:21:51 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Jan 2026 07:24:03 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Jan 2026 07:24:03 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/HGH-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>4bff8b2c-4c59-4df3-957a-c32a4f7a12e8</podcast:guid>
+    <podcast:guid>7af98e42-8b85-4d29-8627-5fe76363bd93</podcast:guid>
+    <podcast:txt purpose="episode">Homegrown Hits - Episode 117</podcast:txt>
+      <podcast:remoteItem feedGuid="c989830b-49a1-572f-9f0e-0fec994a6d5a" itemGuid="a8f3468a-d12c-429e-b96b-fcc6a6494e86"/>
+      <podcast:remoteItem feedGuid="d67ffeaa-d4cc-5c76-9616-f839aa1b48f3" itemGuid="bd8cd4e7-0637-4313-b43b-dbfda82e8c53"/>
+      <podcast:remoteItem feedGuid="c9de4288-73ae-577e-a890-d5b306155ead" itemGuid="74c3becf-4baa-4514-8ebf-01e8815730e1"/>
+      <podcast:remoteItem feedGuid="c39decf9-973e-564f-b741-0ad2985b3b1c" itemGuid="c6f2fcad-ade3-4c2d-b3e2-6f629f5a840e"/>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="b8b2d4d2-e09e-4648-afee-2028ccf79595"/>
+      <podcast:remoteItem feedGuid="f3c60a3d-2ca1-5208-811c-f6f478ba1c15" itemGuid="5d593371-1a68-4668-999f-df5a3c7ad00c"/>
+      <podcast:remoteItem feedGuid="c74210ce-da31-59c8-a671-fd74a7cb3ed2" itemGuid="29d1ba9b-5f5f-49e4-8f27-48198e02235a"/>
+      <podcast:remoteItem feedGuid="0653114c-dd08-5f36-863d-009d56bccb8d" itemGuid="1948aed4-86d9-46d0-9a9e-b28ba2eed926"/>
+      <podcast:remoteItem feedGuid="c4390153-0a19-5d75-8b14-9ac5af76dbd5" itemGuid="ac59aae2-b44c-4aab-b897-f3064db7b3ef"/>
+      <podcast:remoteItem feedGuid="9ab7fb9b-a2e1-5ae3-b9c3-9ebdaf6451bd" itemGuid="49a4be59-1417-48d3-ab4f-ba4cd2de709b"/>
+      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="26071e5e-74f4-4dd6-bb4f-19bfa259801f"/>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 116</podcast:txt>
       <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="1c8b3ce3-45b6-4f7e-b5d6-10568e3328e4"/>
       <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="08ddd646-7adb-49b6-b6df-fbc684622926"/>
@@ -292,7 +304,7 @@
       <podcast:remoteItem feedGuid="6c277321-9d2c-5cd2-98b1-f49efcea0602" itemGuid="8b850466-1a23-4298-b14c-a1099816e9a6"/>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 99</podcast:txt>
       <podcast:remoteItem feedGuid="351f57f2-79ba-5d30-a247-0f1680352e1f" itemGuid="6ecca2e4-f5f3-4234-a75a-1e35d7b987d2"/>
-      <podcast:remoteItem feedGuid="26d34388-83a3-5fe3-94eb-be4d0008449" itemGuid="bd15f03c-8e7d-5e38-bddd-249e0b5760c7"/>
+      <podcast:remoteItem feedGuid="26d34388-83a3-5fe3-94eb-be4d00084495" itemGuid="bd15f03c-8e7d-5e38-bddd-249e0b5760c7"/>
       <podcast:remoteItem feedGuid="d946d837-3b03-5e5d-9c89-b2b75558b829" itemGuid="004d733c-e48d-556a-b267-ecfbfa9cc88b"/>
       <podcast:remoteItem feedGuid="726cfda1-f992-5468-8a0b-b0b9f83dee3c" itemGuid="4932cd6e-d6de-4c93-a2e0-a4d42bd4c9ed"/>
       <podcast:remoteItem feedGuid="afc5df5b-bfce-5843-802d-3c074b06e969" itemGuid="8b51f93d-a81e-4eef-b340-b04de8f6e80e"/>
@@ -1014,7 +1026,7 @@
       <podcast:remoteItem feedGuid="f2d242f6-4e01-5cb2-90ff-5c51ed83377f" itemGuid="01cantholdmedown"/>
       <podcast:remoteItem feedGuid="2c5f77fe-25d9-5a2d-97ef-236718c627df" itemGuid="85d91ec7-8b8c-4e03-aeef-b03f30e2a4ed"/>
       <podcast:remoteItem feedGuid="e745b541-8bc1-42b5-9d2d-5c3a67817d47" itemGuid="d9f4fc8c-30f5-4406-8d93-5ebf2384905f"/>
-      <podcast:remoteItem feedGuid="6f7eae59-1f44-57a5-ad80-230276a79e4" itemGuid="7a66b1a0-ab75-59dc-a236-1111c42204d8"/>
+      <podcast:remoteItem feedGuid="6f7eae59-1f44-57a5-ad80-230276a79e48" itemGuid="7a66b1a0-ab75-59dc-a236-1111c42204d8"/>
       <podcast:remoteItem feedGuid="29397cc2-4bd3-583e-93b8-9f5aebc3d22b" itemGuid="1e36aeeb-f8bf-4e2c-8cb7-a98d96dbbdc4"/>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 47</podcast:txt>
       <podcast:remoteItem feedGuid="3db6aa74-e382-588c-b4ac-8a237f941515" itemGuid="731e0ffe-e07d-4426-aae5-0cce8dcf6b03"/>
@@ -1201,7 +1213,7 @@
       <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="4e83fc9e-6878-4af5-a299-9dce2415eb16"/>
       <podcast:remoteItem feedGuid="6eb0aab5-d5f0-5014-ba84-3de5609d0f21" itemGuid="e1fb4d42-483d-5b48-9a70-2b031a15dd09"/>
       <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="27663b18-4c67-4d48-9f69-1641cdbc1de1"/>
-      <podcast:remoteItem feedGuid="19835a35-b7d1-5fee-8d67-a89d996098e" itemGuid="5ef00183-a0a3-4a06-916b-a7d4fe1b8e3d"/>
+      <podcast:remoteItem feedGuid="19835a35-b7d1-5fee-8d67-a89d996098e1" itemGuid="5ef00183-a0a3-4a06-916b-a7d4fe1b8e3d"/>
       <podcast:remoteItem feedGuid="25916787-3a83-5fde-a68a-9dcf4ffaba5f" itemGuid="e57bdf74-07e8-409a-a957-3356afbda342"/>
       <podcast:remoteItem feedGuid="90412406-f04d-44a2-a33b-8c87e137c291" itemGuid="b14fe324-40de-4b8e-95db-4678d3d72356"/>
       <podcast:remoteItem feedGuid="4a433054-9e8a-54cb-a28a-2c1425e0ef59" itemGuid="79c80324-5f93-5c75-918f-8400c9628103"/>
@@ -1394,7 +1406,7 @@
     <podcast:txt purpose="episode">Homegrown Hits - Episode 15</podcast:txt>
       <podcast:remoteItem feedGuid="3d92b2f6-4aac-5f24-bffe-2536eb579286" itemGuid="4b0bc998-db1d-4366-97ab-e3d338c658a7"/>
       <podcast:remoteItem feedGuid="2269829e-8a1d-5f5e-bf61-cd7090d3f174" itemGuid="2573b3d4-d636-4c66-94b1-5426969847ca"/>
-      <podcast:remoteItem feedGuid="d6d051f1-16e4-5131-a2f5-c89570a37f8e" itemGuid="063b2cb-5c47-4b79-af7d-2928e6a63dc2"/>
+      <podcast:remoteItem feedGuid="d6d051f1-16e4-5131-a2f5-c89570a37f8e" itemGuid="2063b2cb-5c47-4b79-af7d-2928e6a63dc2"/>
       <podcast:remoteItem feedGuid="d6d051f1-16e4-5131-a2f5-c89570a37f8e" itemGuid="04f247f1-466b-493e-9c16-01328b8dd8d4"/>
       <podcast:remoteItem feedGuid="2269829e-8a1d-5f5e-bf61-cd7090d3f174" itemGuid="b1a86d43-ff8a-486f-91b3-529940311553"/>
       <podcast:remoteItem feedGuid="a3d6d7d5-4b5d-5161-b119-cf5e99d35fda" itemGuid="d6df67e4-75cb-4621-9310-71ed32772591"/>
@@ -1518,17 +1530,17 @@
       <podcast:remoteItem feedGuid="d4bd6713-ce91-5420-97d9-f6cbb68687c6" itemGuid="737958a6-9d6c-44df-ae35-db190bcc5ddc"/>
       <podcast:remoteItem feedGuid="f7d933c8-032a-52e5-9598-e34d833a3e8e" itemGuid="64dc3bca-a8d2-47f8-9a74-fee2066d969a"/>
       <podcast:remoteItem feedGuid="1e683ce1-0af5-50ac-9fbd-668519174391" itemGuid="5c8e3b28-30c9-47ba-b253-54b2f33904f5"/>
-      <podcast:remoteItem feedGuid="64ef270-728d-51f0-8052-9fed4883f662" itemGuid="https://www.falsefinish.club/wp-content/uploads/2023/05/10.-Have-Fun._24Bit_Aria_Master_MTC.mp3"/>
+      <podcast:remoteItem feedGuid="e64ef270-728d-51f0-8052-9fed4883f662" itemGuid="https://www.falsefinish.club/wp-content/uploads/2023/05/10.-Have-Fun._24Bit_Aria_Master_MTC.mp3"/>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 01</podcast:txt>
       <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="baa182e9-d088-4cc1-a3f7-e4af48ff112a"/>
       <podcast:remoteItem feedGuid="483dde8e-7e94-59a7-8eb0-2b0dc64a87bd" itemGuid="72e3bd99-49c5-4884-958c-8af44c55de3a"/>
       <podcast:remoteItem feedGuid="121c26b0-33f8-5cb9-9e14-d706bd3f5db8" itemGuid="7ab94c20-332c-40c6-a60c-f8e5885ce242"/>
       <podcast:remoteItem feedGuid="659f95a4-1291-5e03-ab86-2deac518f652" itemGuid="9ee4bfee-0359-4454-b1dc-b68c6f67e2ec"/>
       <podcast:remoteItem feedGuid="95be9fe7-30ac-40aa-a86c-bded32942a91" itemGuid="319ff63e-5541-42b0-8cc2-5a549cf6c44e"/>
-      <podcast:remoteItem feedGuid="64ef270-728d-51f0-8052-9fed4883f662" itemGuid="https://www.falsefinish.club/wp-content/uploads/2023/05/03.-Rings-of-Saturn_24Bit_Aria_Master_MTC.mp3"/>
+      <podcast:remoteItem feedGuid="e64ef270-728d-51f0-8052-9fed4883f662" itemGuid="https://www.falsefinish.club/wp-content/uploads/2023/05/03.-Rings-of-Saturn_24Bit_Aria_Master_MTC.mp3"/>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 00</podcast:txt>
       <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="8958b128-e10b-4132-975c-65df41bb45ec"/>
-      <podcast:remoteItem feedGuid="64ef270-728d-51f0-8052-9fed4883f662" itemGuid="https://www.falsefinish.club/wp-content/uploads/2023/05/03.-Rings-of-Saturn_24Bit_Aria_Master_MTC.mp3"/>
+      <podcast:remoteItem feedGuid="e64ef270-728d-51f0-8052-9fed4883f662" itemGuid="https://www.falsefinish.club/wp-content/uploads/2023/05/03.-Rings-of-Saturn_24Bit_Aria_Master_MTC.mp3"/>
       <podcast:remoteItem feedGuid="659f95a4-1291-5e03-ab86-2deac518f652" itemGuid="7470d39e-6a8a-4356-9349-b9887d0970be"/>
       <podcast:remoteItem feedGuid="b328828c-9ba0-5b1d-be33-4cce51968ae1" itemGuid="d047262b-072e-4527-aa87-fab9e4e44848"/>
   </channel>
