@@ -6,13 +6,23 @@
     <link>https://homegrownhits.xyz</link>
     <podcast:txt purpose="source-feed">https://feed.homegrownhits.xyz/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 02 Jan 2026 07:24:03 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2026 07:24:03 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 07:26:09 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 07:26:09 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/HGH-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>7af98e42-8b85-4d29-8627-5fe76363bd93</podcast:guid>
+    <podcast:guid>b7a4c9b9-f8c6-47ba-a8a5-4ce6249fbec8</podcast:guid>
+    <podcast:txt purpose="episode">Homegrown Hits - Episode 118</podcast:txt>
+      <podcast:remoteItem feedGuid="8d8cbf2b-c97d-4689-b6ea-0e85572cdcc5" itemGuid="d869a717-db78-4a8c-ac50-c88c9e62ed8e"/>
+      <podcast:remoteItem feedGuid="0c9c34d7-aff2-5730-b750-f6e943d99dea" itemGuid="a1142c28-3470-4db5-8072-1c48ebd61555"/>
+      <podcast:remoteItem feedGuid="a8d0625c-c54b-46db-ba30-faee515b5279" itemGuid="0b5e57a5-ab46-46c8-af35-0869cf772402"/>
+      <podcast:remoteItem feedGuid="fbd96f01-fc53-577d-a71c-a97994fa646a" itemGuid="bf157de8-cc4b-475a-8e38-df0b6983abaf"/>
+      <podcast:remoteItem feedGuid="ff281af2-51e1-574b-a826-e452e5361ce6" itemGuid="a5dd52f6-3b81-4ed6-b387-c7807c34fa9c"/>
+      <podcast:remoteItem feedGuid="d2d47563-f238-5501-a3e5-537e33917926" itemGuid="8428c78d-dedc-495f-a74e-b241d56d49fb"/>
+      <podcast:remoteItem feedGuid="ef5db97e-a5f3-5375-96a5-ea4749b3e8c3" itemGuid="46a675d6-ea6c-11f0-958c-00155d47856a"/>
+      <podcast:remoteItem feedGuid="c9de4288-73ae-577e-a890-d5b306155ead" itemGuid="96c09123-8588-422a-ac64-ea9eb610a4d6"/>
+      <podcast:remoteItem feedGuid="0653114c-dd08-5f36-863d-009d56bccb8d" itemGuid="1ae5633e-44c4-458b-b338-5f3578d035fe"/>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 117</podcast:txt>
       <podcast:remoteItem feedGuid="c989830b-49a1-572f-9f0e-0fec994a6d5a" itemGuid="a8f3468a-d12c-429e-b96b-fcc6a6494e86"/>
       <podcast:remoteItem feedGuid="d67ffeaa-d4cc-5c76-9616-f839aa1b48f3" itemGuid="bd8cd4e7-0637-4313-b43b-dbfda82e8c53"/>
