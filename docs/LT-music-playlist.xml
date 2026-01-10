@@ -6,13 +6,13 @@
     <link>http://lightningthrashes.com</link>
     <podcast:txt purpose="source-feed">https://sirlibre.com/lightning-thrashes-rss.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 25 Dec 2025 07:22:19 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Dec 2025 07:22:19 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Jan 2026 20:24:25 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Jan 2026 20:24:25 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/LT-music-playlist.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>0559be80-dd21-4e14-9f39-f086b561d6b2</podcast:guid>
+    <podcast:guid>71ed54ae-97f4-4414-be35-b7d0a5ec7920</podcast:guid>
     <podcast:txt purpose="episode">103 - Lightning Thrashes</podcast:txt>
       <podcast:remoteItem feedGuid="4a483a4b-867c-50d5-a61a-e99fe03ea57e" itemGuid="7078f042-0a2f-45a3-a4ff-379c124ea5c6"/>
       <podcast:remoteItem feedGuid="f1e810fd-41d9-528c-a9d0-13af637d30b4" itemGuid="c33e2883-a47d-4fb4-ba25-2f1382220f6f"/>
