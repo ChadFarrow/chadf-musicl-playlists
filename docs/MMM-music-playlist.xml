@@ -6,13 +6,13 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic-project.ams3.cdn.digitaloceanspaces.com/Mutton_Mead__Music/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 10 Jan 2026 07:19:37 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Jan 2026 07:19:37 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Jan 2026 20:24:26 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Jan 2026 20:24:26 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>daf9b68b-f8f6-4d02-9553-c245475d273c</podcast:guid>
+    <podcast:guid>1644e138-e483-4a30-b011-feba1fccbc04</podcast:guid>
     <podcast:txt purpose="episode">121st Edition - LO-FI Special vol.11</podcast:txt>
       <podcast:remoteItem feedGuid="fbbd585f-abdb-5c88-a1f7-ef3759386fcd" itemGuid="6390a800-296e-4eeb-9459-f5294a8eed6c"/>
       <podcast:remoteItem feedGuid="60ea24cd-f885-5bc8-853a-b9c5eb0efbaf" itemGuid="48081b6f-fabf-416b-a61b-4cf45ee43194"/>
