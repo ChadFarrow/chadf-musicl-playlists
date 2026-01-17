@@ -6,13 +6,27 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic-project.ams3.cdn.digitaloceanspaces.com/Mutton_Mead__Music/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 10 Jan 2026 20:24:26 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Jan 2026 20:24:26 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Jan 2026 07:19:46 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2026 07:19:46 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>1644e138-e483-4a30-b011-feba1fccbc04</podcast:guid>
+    <podcast:guid>26873e66-bb39-4aa6-98da-310901015f3b</podcast:guid>
+    <podcast:txt purpose="episode">122nd Edition</podcast:txt>
+      <podcast:remoteItem feedGuid="bd3985d4-89ea-506f-82a2-82e98835025b" itemGuid="b9a28cfe-5f2c-4977-8c2e-873bd6ed02d8"/>
+      <podcast:remoteItem feedGuid="68c193ae-820c-580c-85d3-219d36875630" itemGuid="2823f1d7-7255-4abe-b7e8-6a1d5c848b55"/>
+      <podcast:remoteItem feedGuid="0c9c34d7-aff2-5730-b750-f6e943d99dea" itemGuid="a1142c28-3470-4db5-8072-1c48ebd61555"/>
+      <podcast:remoteItem feedGuid="21f3a34b-b4c4-50d9-9492-56a51595c00c" itemGuid="dea7df0b-c66d-4197-a1ea-4cccf0730620"/>
+      <podcast:remoteItem feedGuid="204099cf-bcb0-4b78-99f9-2e64d366a3f1" itemGuid="8256cca5-be08-4f68-9298-137dcc9ccade"/>
+      <podcast:remoteItem feedGuid="f3c60a3d-2ca1-5208-811c-f6f478ba1c15" itemGuid="5d593371-1a68-4668-999f-df5a3c7ad00c"/>
+      <podcast:remoteItem feedGuid="354531e7-3ea9-55f6-bc54-7fc89eb99fe3" itemGuid="dcf44d58-723f-4b83-8bd3-fbd71a4c4a2b"/>
+      <podcast:remoteItem feedGuid="ee4e7389-cb5c-53cd-bd9d-dae63fb40612" itemGuid="475dafd4-b24f-4021-8d92-68bb3ff215b9"/>
+      <podcast:remoteItem feedGuid="28f4f864-4ce3-5958-a04a-99815f1cd0dc" itemGuid="fde19c13-6b40-4cb1-8971-f0796a55f9fe"/>
+      <podcast:remoteItem feedGuid="d25c4f5e-9078-507e-a771-58a2ec94bc99" itemGuid="d96b614e-d6ce-4f49-b96f-2f7a51508b14"/>
+      <podcast:remoteItem feedGuid="d2d47563-f238-5501-a3e5-537e33917926" itemGuid="ac59aae2-b44c-4aab-b897-f3064db7b3ef"/>
+      <podcast:remoteItem feedGuid="f04298e1-5bda-5d3f-aabf-617982208cf4" itemGuid="658c4e32-41c3-430b-a932-76e5f8fe512d"/>
+      <podcast:remoteItem feedGuid="171ea335-42ec-5a28-ac48-72ea6122b9ca" itemGuid="90bdc5ca-ac35-46df-9a25-87e9355afb59"/>
     <podcast:txt purpose="episode">121st Edition - LO-FI Special vol.11</podcast:txt>
       <podcast:remoteItem feedGuid="fbbd585f-abdb-5c88-a1f7-ef3759386fcd" itemGuid="6390a800-296e-4eeb-9459-f5294a8eed6c"/>
       <podcast:remoteItem feedGuid="60ea24cd-f885-5bc8-853a-b9c5eb0efbaf" itemGuid="48081b6f-fabf-416b-a61b-4cf45ee43194"/>
