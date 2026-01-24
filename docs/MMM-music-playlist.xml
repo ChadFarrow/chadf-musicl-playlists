@@ -6,13 +6,27 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic-project.ams3.cdn.digitaloceanspaces.com/Mutton_Mead__Music/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 17 Jan 2026 07:19:46 GMT</pubDate>
-    <lastBuildDate>Sat, 17 Jan 2026 07:19:46 GMT</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2026 07:20:37 GMT</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 07:20:37 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>26873e66-bb39-4aa6-98da-310901015f3b</podcast:guid>
+    <podcast:guid>7b5c81cd-9b83-428a-b2e1-a34c5e945e00</podcast:guid>
+    <podcast:txt purpose="episode">123rd Edition</podcast:txt>
+      <podcast:remoteItem feedGuid="82b862a0-1994-5b28-b385-41b5c7ef22fa" itemGuid="82e630a0-6ab8-5543-a70a-70bf557bc784"/>
+      <podcast:remoteItem feedGuid="3eb766b1-0d5a-5352-9baf-b0e2ea5f9d83" itemGuid="d33d991d-fb95-48ea-aacb-afe507b48ae7"/>
+      <podcast:remoteItem feedGuid="1c5fd637-054c-51ad-8e54-a2cc685f3848" itemGuid="5bd57cce-ada8-43f1-92d4-e1593dbad8e9"/>
+      <podcast:remoteItem feedGuid="cc4906ad-7e89-59cc-9519-990944329294" itemGuid="631f4d54-9faf-4e8d-b0df-ad6ef7d1f2b4"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="c4a28045-8850-4b7d-9747-7c0f164c8f84"/>
+      <podcast:remoteItem feedGuid="4a483a4b-867c-50d5-a61a-e99fe03ea57e" itemGuid="cf819594-4a34-43c6-9666-26e5fa764de6"/>
+      <podcast:remoteItem feedGuid="cb8839e5-1a14-5b69-a4fd-596cec832129" itemGuid="dfeee337-429a-4b26-b08d-69b4ce3270e8"/>
+      <podcast:remoteItem feedGuid="4d2f4718-28e1-5f10-ac4e-7cd9eb39e053" itemGuid="80c6dfa4-b684-4429-99ce-3170593bc484"/>
+      <podcast:remoteItem feedGuid="cfcabfcf-fdf1-556b-8955-94d48dbb6dcb" itemGuid="fe3f3da0-81e4-4b9a-b58d-b5ab5ad64d04"/>
+      <podcast:remoteItem feedGuid="099b6458-f8a4-5344-af8d-6abe36ce9a56" itemGuid="3ad230dc-b884-4ccc-b790-cce1796897b6"/>
+      <podcast:remoteItem feedGuid="93b7a24b-4153-58ab-8553-e3171d9d944e" itemGuid="cbb269c9-bcda-48c9-adbc-3ed9ddeb8edc"/>
+      <podcast:remoteItem feedGuid="e79dbd88-74e8-5f51-a72c-f1c67867b9db" itemGuid="01fc2c01-3d5a-4d1c-acfb-ebfc596708f6"/>
+      <podcast:remoteItem feedGuid="623953f2-cd2c-5113-aab8-9e20925d673a" itemGuid="85ed82ea-7e56-41cd-b45f-f4eb14a98aa7"/>
     <podcast:txt purpose="episode">122nd Edition</podcast:txt>
       <podcast:remoteItem feedGuid="bd3985d4-89ea-506f-82a2-82e98835025b" itemGuid="b9a28cfe-5f2c-4977-8c2e-873bd6ed02d8"/>
       <podcast:remoteItem feedGuid="68c193ae-820c-580c-85d3-219d36875630" itemGuid="2823f1d7-7255-4abe-b7e8-6a1d5c848b55"/>
