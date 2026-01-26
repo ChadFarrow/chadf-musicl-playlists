@@ -6,13 +6,28 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 12 Jan 2026 07:27:45 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Jan 2026 07:27:45 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Jan 2026 07:28:19 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2026 07:28:19 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>e826349d-06ab-4c7f-9854-0a79faa688e4</podcast:guid>
+    <podcast:guid>862483eb-f96c-4cca-ab44-630b41a7b699</podcast:guid>
+    <podcast:txt purpose="episode">66: Devil Inside</podcast:txt>
+      <podcast:remoteItem feedGuid="9e72a512-c678-5621-8fd6-dfc7cd11a846" itemGuid="060cfb50-526d-4fed-9d2d-6d0ffa94ad7b"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="c4a28045-8850-4b7d-9747-7c0f164c8f84"/>
+      <podcast:remoteItem feedGuid="d2d47563-f238-5501-a3e5-537e33917926" itemGuid="8428c78d-dedc-495f-a74e-b241d56d49fb"/>
+      <podcast:remoteItem feedGuid="099b6458-f8a4-5344-af8d-6abe36ce9a56" itemGuid="0ea598b3-39ed-4459-aec3-347a3ed1aab8"/>
+      <podcast:remoteItem feedGuid="099b6458-f8a4-5344-af8d-6abe36ce9a56" itemGuid="75810358-e00e-4cc2-aa7a-f3b8ebedc884"/>
+      <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140"/>
+      <podcast:remoteItem feedGuid="f74f38aa-6203-55d8-9495-efb1b7d5757c" itemGuid="cf626824-cedd-444d-8912-81795d737f90"/>
+      <podcast:remoteItem feedGuid="cc4906ad-7e89-59cc-9519-990944329294" itemGuid="631f4d54-9faf-4e8d-b0df-ad6ef7d1f2b4"/>
+      <podcast:remoteItem feedGuid="018c404c-9bd0-5e76-aeef-092435bd3dca" itemGuid="cdf6e9de-4978-5359-ad86-61ce6af67b51"/>
+      <podcast:remoteItem feedGuid="82b862a0-1994-5b28-b385-41b5c7ef22fa" itemGuid="82e630a0-6ab8-5543-a70a-70bf557bc784"/>
+      <podcast:remoteItem feedGuid="de032037-63e0-5c6b-820d-13d4319a2b19" itemGuid="8cf08b10-800e-48b0-af60-e533ccd28548"/>
+      <podcast:remoteItem feedGuid="850b97d6-dba8-5e5a-af14-fea5da1ede8a" itemGuid="1f1ad362-0798-4713-af52-597a19f7823b"/>
+      <podcast:remoteItem feedGuid="018a6879-3986-549e-85fa-0461f855fc8e" itemGuid="25ac344b-f39f-4c59-9131-7433c499d363"/>
+      <podcast:remoteItem feedGuid="75f0b434-19dc-5959-9920-0fb5304be61b" itemGuid="5a337969-bc8a-4763-83e5-b7f5644019be"/>
     <podcast:txt purpose="episode">What&apos;s Old is New</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">64: Radio Recap</podcast:txt>
