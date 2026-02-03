@@ -6,13 +6,13 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 26 Jan 2026 07:28:19 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2026 07:28:19 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 00:10:29 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:10:29 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>862483eb-f96c-4cca-ab44-630b41a7b699</podcast:guid>
+    <podcast:guid>46e021a1-5861-4c5f-b2a1-6a03c50083d9</podcast:guid>
     <podcast:txt purpose="episode">66: Devil Inside</podcast:txt>
       <podcast:remoteItem feedGuid="9e72a512-c678-5621-8fd6-dfc7cd11a846" itemGuid="060cfb50-526d-4fed-9d2d-6d0ffa94ad7b"/>
       <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="c4a28045-8850-4b7d-9747-7c0f164c8f84"/>
