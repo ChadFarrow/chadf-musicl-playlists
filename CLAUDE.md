@@ -71,6 +71,31 @@ The repository is configured to serve the `docs/` folder via GitHub Pages:
 - **Podcastindex Organization**: https://github.com/Podcastindex-org
 - **Podverse**: https://github.com/podverse
 
+## Automation
+
+### Greatest Hits Playlist
+
+The **Greatest Hits (GH)** playlist is automatically regenerated via GitHub Actions workflow.
+
+**How It Works**:
+- The playlist is computed/aggregated from all 10 individual playlists
+- Script `generate_greatest_hits.py` analyzes all `docs/*-music-playlist.xml` files
+- Tracks are ranked by play count across all playlists
+- Output: `docs/GH-music-playlist.xml`
+
+**Update Triggers**:
+1. **Automatic (Push)**: Runs when any individual playlist is updated in `docs/*-music-playlist.xml`
+2. **Weekly Fallback**: Every Sunday at 3 AM UTC (catches missed updates)
+3. **Manual**: Via GitHub Actions UI → "Update Greatest Hits Playlist" → Run workflow
+
+**Workflow Location**: `.github/workflows/update-greatest-hits.yml`
+
+**What Happens**:
+- Regenerates the playlist using Python script
+- Only commits if `GH-music-playlist.xml` actually changed
+- Uses github-actions bot identity for commits
+- Commit message: "Auto-update Greatest Hits playlist - Recomputed from latest playlists"
+
 ## Common Tasks
 
 Since this is a static repository, there are no build or test commands. Common operations:
@@ -78,7 +103,8 @@ Since this is a static repository, there are no build or test commands. Common o
 1. **Add a new playlist**: Create a new XML file in `docs/` following the musicL format, then add it to the publisher feed
 2. **Update playlist tracks**: Edit the XML file to add/remove `<podcast:remoteItem>` entries
 3. **Update artwork**: Add `.webp` or `.png` files to `docs/` and reference them in the feed's `<image>` tag
-4. **View locally**: Open `docs/index.html` in a browser or serve with any static server (e.g., `python3 -m http.server`)
+4. **Regenerate Greatest Hits**: Run `python3 generate_greatest_hits.py` (or wait for automatic workflow)
+5. **View locally**: Open `docs/index.html` in a browser or serve with any static server (e.g., `python3 -m http.server`)
 
 ## Notes
 

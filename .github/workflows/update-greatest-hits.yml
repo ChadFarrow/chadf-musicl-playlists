@@ -1,0 +1,52 @@
+name: Update Greatest Hits Playlist
+
+on:
+  # Trigger when individual playlists are updated
+  push:
+    branches: [main]
+    paths:
+      - 'docs/*-music-playlist.xml'
+      - '!docs/GH-music-playlist.xml'  # Ignore GH itself to prevent loops
+
+  # Weekly fallback (every Sunday at 3 AM UTC)
+  schedule:
+    - cron: '0 3 * * 0'
+
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  update-greatest-hits:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Greatest Hits generator
+        run: python3 generate_greatest_hits.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet docs/GH-music-playlist.xml; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/GH-music-playlist.xml
+          git commit -m "Auto-update Greatest Hits playlist - Recomputed from latest playlists"
+          git push
