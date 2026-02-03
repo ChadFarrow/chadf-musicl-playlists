@@ -6,7 +6,7 @@ on:
     branches: [main]
     paths:
       - 'docs/*-music-playlist.xml'
-      - '!docs/GH-music-playlist.xml'  # Ignore GH itself to prevent loops
+      - '!docs/Greatest-Hits-music-playlist.xml'  # Ignore GH itself to prevent loops
 
   # Weekly fallback (every Sunday at 3 AM UTC)
   schedule:
@@ -38,7 +38,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet docs/GH-music-playlist.xml; then
+          if git diff --quiet docs/Greatest-Hits-music-playlist.xml; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -49,6 +49,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/GH-music-playlist.xml
+          git add docs/Greatest-Hits-music-playlist.xml
           git commit -m "Auto-update Greatest Hits playlist - Recomputed from latest playlists"
           git push

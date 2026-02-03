@@ -29,7 +29,7 @@ PLAYLIST_FILES = [
     "upbeats-music-playlist.xml"
 ]
 
-OUTPUT_FILE = "docs/GH-music-playlist.xml"
+OUTPUT_FILE = "docs/Greatest-Hits-music-playlist.xml"
 
 
 def parse_playlist(filepath):

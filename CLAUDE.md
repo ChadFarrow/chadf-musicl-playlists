@@ -81,7 +81,7 @@ The **Greatest Hits (GH)** playlist is automatically regenerated via GitHub Acti
 - The playlist is computed/aggregated from all 10 individual playlists
 - Script `generate_greatest_hits.py` analyzes all `docs/*-music-playlist.xml` files
 - Tracks are ranked by play count across all playlists
-- Output: `docs/GH-music-playlist.xml`
+- Output: `docs/Greatest-Hits-music-playlist.xml`
 
 **Update Triggers**:
 1. **Automatic (Push)**: Runs when any individual playlist is updated in `docs/*-music-playlist.xml`
@@ -92,7 +92,7 @@ The **Greatest Hits (GH)** playlist is automatically regenerated via GitHub Acti
 
 **What Happens**:
 - Regenerates the playlist using Python script
-- Only commits if `GH-music-playlist.xml` actually changed
+- Only commits if `Greatest-Hits-music-playlist.xml` actually changed
 - Uses github-actions bot identity for commits
 - Commit message: "Auto-update Greatest Hits playlist - Recomputed from latest playlists"
 
