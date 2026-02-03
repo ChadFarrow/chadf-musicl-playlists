@@ -6,13 +6,13 @@
     <link>https://www.satsandsounds.com</link>
     <podcast:txt purpose="source-feed">https://satsandsounds.com/saspodcast.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 10 Jan 2026 20:24:29 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Jan 2026 20:24:29 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 00:10:25 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:10:25 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/SAS-playlist-art%20.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>460cadb3-d3ed-4da0-a717-9c458280689d</podcast:guid>
+    <podcast:guid>12075285-1bc4-43d0-8131-c76f2d295b1b</podcast:guid>
     <podcast:txt purpose="episode">Episode 100 - 2025-06-30</podcast:txt>
       <podcast:remoteItem feedGuid="6f9a16c9-24ac-5569-a713-ea5ef75ebfcf" itemGuid="e12a33e8-576a-47c2-aa06-a1c0b494185d"/>
       <podcast:remoteItem feedGuid="c4d2997f-91d9-54a8-b8f3-cab35c96b5c4" itemGuid="1f11f311-f2d0-4eca-b993-9206af4253f2"/>
