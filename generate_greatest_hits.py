@@ -148,7 +148,7 @@ def generate_xml(frequency_groups, output_file):
     image = ET.SubElement(channel, "image")
     ET.SubElement(image, "url").text = (
         "https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/"
-        "main/docs/LT-music-playlist.png"
+        "main/docs/Greatest-Hits-music-playlist.png"
     )
 
     # Podcast namespace tags
