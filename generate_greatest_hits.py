@@ -134,7 +134,7 @@ def generate_xml(frequency_groups, output_file):
     # Source feed reference
     source_feed = ET.SubElement(channel, f"{PODCAST_NS}txt")
     source_feed.set("purpose", "source-feed")
-    source_feed.text = "Generated from 10 musicL playlists"
+    source_feed.text = "https://github.com/ChadFarrow/chadf-musicl-playlists"
 
     ET.SubElement(channel, "language").text = "en"
 
