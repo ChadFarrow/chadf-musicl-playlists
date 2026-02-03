@@ -75,13 +75,15 @@ The repository is configured to serve the `docs/` folder via GitHub Pages:
 
 ### Greatest Hits Playlist
 
-The **Greatest Hits (GH)** playlist is automatically regenerated via GitHub Actions workflow.
+The **Greatest Hits** playlist is automatically regenerated via GitHub Actions workflow.
 
 **How It Works**:
 - The playlist is computed/aggregated from all 10 individual playlists
 - Script `generate_greatest_hits.py` analyzes all `docs/*-music-playlist.xml` files
-- Tracks are ranked by play count across all playlists
+- Tracks are ranked by play count across all playlists (minimum 2 plays to be included)
 - Output: `docs/Greatest-Hits-music-playlist.xml`
+- Artwork: `docs/Greatest-Hits-music-playlist.png`
+- Source feed points to this GitHub repository
 
 **Update Triggers**:
 1. **Automatic (Push)**: Runs when any individual playlist is updated in `docs/*-music-playlist.xml`
