@@ -6,13 +6,13 @@
     <link>https://homegrownhits.xyz</link>
     <podcast:txt purpose="source-feed">https://feed.homegrownhits.xyz/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 30 Jan 2026 07:40:04 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2026 07:40:04 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 00:10:11 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:10:11 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/HGH-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>17f90ca6-4d8e-4cb7-8ef6-01ae898b6410</podcast:guid>
+    <podcast:guid>31c15a96-628b-4cc2-bbe0-44ed1504f033</podcast:guid>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 121</podcast:txt>
       <podcast:remoteItem feedGuid="27735a10-3775-503d-b038-70b4b7d536ab" itemGuid="03990582-c211-4b7a-9bca-a673300727c9"/>
       <podcast:remoteItem feedGuid="e93dfb2e-3d0c-51e4-bcf9-07aae150a566" itemGuid="1b4bca52-73f0-4e2b-a163-be597c6cfd6c"/>
