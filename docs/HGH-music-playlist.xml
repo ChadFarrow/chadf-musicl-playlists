@@ -6,13 +6,28 @@
     <link>https://homegrownhits.xyz</link>
     <podcast:txt purpose="source-feed">https://feed.homegrownhits.xyz/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 03 Feb 2026 00:10:11 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Feb 2026 00:10:11 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 07:46:45 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 07:46:45 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/HGH-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>31c15a96-628b-4cc2-bbe0-44ed1504f033</podcast:guid>
+    <podcast:guid>8e5fbc05-d86e-4c5d-94d9-a3e3b724550d</podcast:guid>
+    <podcast:txt purpose="episode">Homegrown Hits - Episode 122</podcast:txt>
+      <podcast:remoteItem feedGuid="204099cf-bcb0-4b78-99f9-2e64d366a3f1" itemGuid="31aad09b-f599-4c5c-91d3-c3a0b5e75854"/>
+      <podcast:remoteItem feedGuid="20a6af46-84cc-52a8-99ee-974f53d14fd0" itemGuid="https://pirate.mxtthxw.art/@inpc/episodes/state-intervention"/>
+      <podcast:remoteItem feedGuid="4ebbe8cb-8b26-5de8-92f0-3d8ef9e9ce0f" itemGuid="b8b5ae13-23f5-4b2d-8d80-6ba8dc8be6ad"/>
+      <podcast:remoteItem feedGuid="65f05911-f982-524e-ba2e-826550f13ca4" itemGuid="de0f823d-1ea2-5a25-94fb-f133a6d8c2a9"/>
+      <podcast:remoteItem feedGuid="dee5f723-31f4-544f-bbfa-fdfe6553e678" itemGuid="31170f2b-ac98-4527-84f7-674c18cfca78"/>
+      <podcast:remoteItem feedGuid="21b56205-c6ef-58ee-81d0-7da51890edf1" itemGuid="7949c705-679b-45b4-96e6-4db0a82539ae"/>
+      <podcast:remoteItem feedGuid="7b8a607a-950f-4dc9-959d-08ea88fc14f5" itemGuid="3c1bfe17-1356-4c80-aa72-127912901feb"/>
+      <podcast:remoteItem feedGuid="63fb0d8e-793f-5033-bbb4-39a836e3da76" itemGuid="8570ee40-3261-47b5-915c-0b1bd789aa27"/>
+      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="6fcae535-09ae-46cc-9d9f-e15cf612bc89"/>
+      <podcast:remoteItem feedGuid="2c5f77fe-25d9-5a2d-97ef-236718c627df" itemGuid="c5071214-ba27-4327-ae0b-4769fc9cac06"/>
+      <podcast:remoteItem feedGuid="483dde8e-7e94-59a7-8eb0-2b0dc64a87bd" itemGuid="ee6466f3-3f9d-4969-bf69-ff6e5962858a"/>
+      <podcast:remoteItem feedGuid="6dfd9c9e-7482-5274-9fba-1c0bd1ecff39" itemGuid="7c87e621-6ae5-47fa-8114-a46ae5a14f92"/>
+      <podcast:remoteItem feedGuid="7da5a1f9-3abe-5bed-8de5-99226c4eb05b" itemGuid="e46f45aa-2d8d-44df-9083-de33e2a63fce"/>
+      <podcast:remoteItem feedGuid="1ba1b425-e9f2-548e-a7d2-3241f356d932" itemGuid="91b667cd-4d0b-4480-ae37-95661791daba"/>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 121</podcast:txt>
       <podcast:remoteItem feedGuid="27735a10-3775-503d-b038-70b4b7d536ab" itemGuid="03990582-c211-4b7a-9bca-a673300727c9"/>
       <podcast:remoteItem feedGuid="e93dfb2e-3d0c-51e4-bcf9-07aae150a566" itemGuid="1b4bca52-73f0-4e2b-a163-be597c6cfd6c"/>
