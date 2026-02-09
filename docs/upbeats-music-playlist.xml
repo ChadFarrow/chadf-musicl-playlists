@@ -6,13 +6,30 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 03 Feb 2026 00:10:29 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Feb 2026 00:10:29 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 07:57:15 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 07:57:15 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>46e021a1-5861-4c5f-b2a1-6a03c50083d9</podcast:guid>
+    <podcast:guid>1674c06b-4d1a-4ec0-afdc-4c1f992646e2</podcast:guid>
+    <podcast:txt purpose="episode">Super Node Sunday</podcast:txt>
+      <podcast:remoteItem feedGuid="d9bdd845-750f-5cc3-a3cd-36edcde2671a" itemGuid="2edc8d4c-074f-437e-b443-93df14501d7c"/>
+      <podcast:remoteItem feedGuid="e96a1f83-03bc-5e5f-af30-a9762c75b58f" itemGuid="f3b56a10-5d78-49f4-8ae0-92a108d816c6"/>
+      <podcast:remoteItem feedGuid="d5c805fb-6016-4038-9cda-2e68d2b8dcc4" itemGuid="f778d23e-0c88-4ecc-8c1f-0f2a4df789c4"/>
+      <podcast:remoteItem feedGuid="6dfd9c9e-7482-5274-9fba-1c0bd1ecff39" itemGuid="7c87e621-6ae5-47fa-8114-a46ae5a14f92"/>
+      <podcast:remoteItem feedGuid="babd1567-2803-5ede-9a19-302c2fbf9eae" itemGuid="1d66dfa1-429e-4f81-ae94-8b4715ff329a"/>
+      <podcast:remoteItem feedGuid="51ff878a-e9a6-54fb-b277-2ae68fb461fc" itemGuid="293ce7ff-5f90-45ba-a70d-f9b5afab2815"/>
+      <podcast:remoteItem feedGuid="690263b7-f575-53cf-b8a3-526b976e8f6d" itemGuid="711c75d1-9555-498b-a251-e17e213e0f23"/>
+      <podcast:remoteItem feedGuid="08614f97-bb54-5c87-8001-b84ec62fdeaa" itemGuid="d71c3470-ef7a-40aa-8608-d7466b55d083"/>
+      <podcast:remoteItem feedGuid="9c153e55-c7fb-5412-96b5-69369e1da32a" itemGuid="eed89535-4d1b-4643-92ac-40572f5f83dd"/>
+      <podcast:remoteItem feedGuid="337c3158-cd40-5011-aa2c-05f99b095b89" itemGuid="7428694c-2a34-4863-945b-d5a3fdad5a5e"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="c4a28045-8850-4b7d-9747-7c0f164c8f84"/>
+      <podcast:remoteItem feedGuid="7b7949ca-5019-5814-aa53-d4b14bd15a6d" itemGuid="f8b048de-df0c-40b1-9bf9-359307d10301"/>
+      <podcast:remoteItem feedGuid="099b6458-f8a4-5344-af8d-6abe36ce9a56" itemGuid="75810358-e00e-4cc2-aa7a-f3b8ebedc884"/>
+      <podcast:remoteItem feedGuid="916206d2-98ba-52aa-807a-9d02d074ab3d" itemGuid="dfb719c1-f536-40aa-8cad-8025371024ba"/>
+      <podcast:remoteItem feedGuid="d6fe0d1c-bd8d-552b-ac66-cce620391810" itemGuid="cf8a54a4-5cc2-4263-9ee2-a8d99697578a"/>
+      <podcast:remoteItem feedGuid="3e3769e8-b157-5cd6-b146-1eb30ee48ed0" itemGuid="96472ef6-c2ae-4044-a734-f98e796c653c"/>
     <podcast:txt purpose="episode">66: Devil Inside</podcast:txt>
       <podcast:remoteItem feedGuid="9e72a512-c678-5621-8fd6-dfc7cd11a846" itemGuid="060cfb50-526d-4fed-9d2d-6d0ffa94ad7b"/>
       <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="c4a28045-8850-4b7d-9747-7c0f164c8f84"/>
