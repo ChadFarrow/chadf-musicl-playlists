@@ -6,13 +6,25 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 07 Feb 2026 07:31:29 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Feb 2026 07:31:29 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Feb 2026 07:33:46 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:33:46 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>0e501db2-8b23-42b5-876b-7510d8f83fc1</podcast:guid>
+    <podcast:guid>b740a388-43be-4e9d-a726-2f6d04571240</podcast:guid>
+    <podcast:txt purpose="episode">126th Edition</podcast:txt>
+      <podcast:remoteItem feedGuid="b47414b1-63e9-5125-ae54-b4880f3206cd" itemGuid="4506cc54-de09-4d0e-8c63-e7d617842561"/>
+      <podcast:remoteItem feedGuid="1ba1b425-e9f2-548e-a7d2-3241f356d932" itemGuid="ed339060-99dc-481b-bdbb-b857413afc70"/>
+      <podcast:remoteItem feedGuid="fe17f4f6-074f-4b2c-a450-611faccfaea2" itemGuid="df4082e4-f883-4607-82a1-d4caba93bb9b"/>
+      <podcast:remoteItem feedGuid="86a583fb-c336-5378-8507-14ce2e7f6884" itemGuid="f7469c6f-827d-4f85-9fde-a0ed06ca7d61"/>
+      <podcast:remoteItem feedGuid="7b8a607a-950f-4dc9-959d-08ea88fc14f5" itemGuid="3c1bfe17-1356-4c80-aa72-127912901feb"/>
+      <podcast:remoteItem feedGuid="5847498b-9db5-509f-860f-3f3c3c422698" itemGuid="0624efde-d0e5-4327-b67a-1773001a4693"/>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="9fb9fb92-9c05-4a44-91cb-0ecc0d3ff8c3"/>
+      <podcast:remoteItem feedGuid="0c9a8e6d-8e8d-4790-b391-be58132feb68" itemGuid="dafafa79-1d47-4143-bdfb-1448bd7052b9"/>
+      <podcast:remoteItem feedGuid="e93dfb2e-3d0c-51e4-bcf9-07aae150a566" itemGuid="1b4bca52-73f0-4e2b-a163-be597c6cfd6c"/>
+      <podcast:remoteItem feedGuid="d5c805fb-6016-4038-9cda-2e68d2b8dcc4" itemGuid="f778d23e-0c88-4ecc-8c1f-0f2a4df789c4"/>
+      <podcast:remoteItem feedGuid="be0539e9-4305-577a-9bbe-ed3a2bdb2907" itemGuid="2677f65c-b78d-4158-a8ca-948e79f0497d"/>
     <podcast:txt purpose="episode">125th Edition - Noise Special</podcast:txt>
       <podcast:remoteItem feedGuid="eb3bc703-5584-5d72-a398-2006e6ca1faa" itemGuid="df2bee3b-0cd2-4724-9912-7c717752270b"/>
       <podcast:remoteItem feedGuid="b2048129-6288-5eca-af34-997b62bf123b" itemGuid="e135ac74-6378-4a00-936f-5c9610b31b35"/>
