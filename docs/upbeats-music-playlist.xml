@@ -6,13 +6,28 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 09 Feb 2026 07:57:15 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 07:57:15 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 07:54:57 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 07:54:57 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>1674c06b-4d1a-4ec0-afdc-4c1f992646e2</podcast:guid>
+    <podcast:guid>f2a50787-7490-43d0-bc65-3e53a04f2dab</podcast:guid>
+    <podcast:txt purpose="episode">68: UK Takeover pt 2</podcast:txt>
+      <podcast:remoteItem feedGuid="565d0930-74bc-44ba-ab5d-da2f6c4b7b79" itemGuid="50886e86-e11c-4d06-901b-7a81a95066f8"/>
+      <podcast:remoteItem feedGuid="9d8ce850-8275-4a74-9622-1fd0cbe4b41d" itemGuid="483ed9f7-1d71-4ef2-982f-9f87874bf60f"/>
+      <podcast:remoteItem feedGuid="fbd96f01-fc53-577d-a71c-a97994fa646a" itemGuid="bf157de8-cc4b-475a-8e38-df0b6983abaf"/>
+      <podcast:remoteItem feedGuid="265d6480-c5e2-502d-8e91-24290688a73c" itemGuid="f7d436f2-d163-4fa8-b5d8-7706929be4aa"/>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="9fb9fb92-9c05-4a44-91cb-0ecc0d3ff8c3"/>
+      <podcast:remoteItem feedGuid="6c047b0d-3d30-4eb7-894c-82fdd40d7e33" itemGuid="a928188c-676a-42ee-8d9e-00269ff8588e"/>
+      <podcast:remoteItem feedGuid="377602c1-b049-5c14-bddf-eb4e349bee5c" itemGuid="3634469f-61ad-4e42-97f2-f1335c6ad267"/>
+      <podcast:remoteItem feedGuid="2abcd309-3d40-4d7c-975f-4afea310a8dd" itemGuid="fcdd0782-f4e2-4714-ae9c-6dcab6215d09"/>
+      <podcast:remoteItem feedGuid="0c9a8e6d-8e8d-4790-b391-be58132feb68" itemGuid="76e7f7ad-267b-476d-88ae-f50147ba50e5"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="86f09b0e-09c1-4001-b45a-8d1e3a67dfad"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="5a646f7a-67fa-4124-83a5-85f4a1ae632f"/>
+      <podcast:remoteItem feedGuid="87750227-32d0-5154-8944-a6c65cf57157" itemGuid="98b2eec4-9f9a-40ec-8885-f872bc6bc419"/>
+      <podcast:remoteItem feedGuid="565d0930-74bc-44ba-ab5d-da2f6c4b7b79" itemGuid="df2651f4-ea69-4ac3-a65e-1107807439a0"/>
+      <podcast:remoteItem feedGuid="07121659-17cc-5e3e-b754-b9a1de54b325" itemGuid="bcc54aec-2cf5-5a43-bb1f-904e11a4a89c"/>
     <podcast:txt purpose="episode">Super Node Sunday</podcast:txt>
       <podcast:remoteItem feedGuid="d9bdd845-750f-5cc3-a3cd-36edcde2671a" itemGuid="2edc8d4c-074f-437e-b443-93df14501d7c"/>
       <podcast:remoteItem feedGuid="e96a1f83-03bc-5e5f-af30-a9762c75b58f" itemGuid="f3b56a10-5d78-49f4-8ae0-92a108d816c6"/>
