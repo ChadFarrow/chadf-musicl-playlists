@@ -6,13 +6,13 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 28 Feb 2026 07:27:10 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 07:27:10 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 22:13:51 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 22:13:51 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>c4e52177-da0c-4beb-ae05-0ccca3f1920a</podcast:guid>
+    <podcast:guid>fb7a3293-7c6e-44a3-950c-98bb06c14ac0</podcast:guid>
     <podcast:txt purpose="episode">128th Edition</podcast:txt>
       <podcast:remoteItem feedGuid="5c1615a5-84c5-5032-a5f5-a5f559a32b8f" itemGuid="3d031042-2688-4f67-9fc5-fa6558dff153"/>
       <podcast:remoteItem feedGuid="17a3580d-4374-5cb8-b5f2-74d0551e8052" itemGuid="17b0c1e1-3225-4342-9f93-4280ed002978"/>
