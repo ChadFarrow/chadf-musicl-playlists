@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title><![CDATA[Two for Tunestr Music Playlist]]></title>
+    <link>https://feeds.rssblue.com/too-angry-cunts</link>
+    <description><![CDATA[Every music reference from Two for Tunestr]]></description>
+    <language>en-us</language>
+    <copyright><![CDATA[ChadF]]></copyright>
+    <managingEditor>ChadF</managingEditor>
+    <pubDate>Sat, 28 Feb 2026 21:49:51 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 21:49:51 GMT</lastBuildDate>
+    <generator>Auto musicL Maker</generator>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <image>
+      <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
+      <title><![CDATA[Two for Tunestr Music Playlist]]></title>
+      <link>https://feeds.rssblue.com/too-angry-cunts</link>
+    </image>
+    <podcast:medium>musicL</podcast:medium>
+    <podcast:guid>f872be25-58c6-4629-a3b8-12f6c17d61cb</podcast:guid>
+    <item>
+      <title><![CDATA[It's A 3- Peat]]></title>
+      <guid isPermaLink="false">7e54130e-c670-521e-898b-60be856f3317</guid>
+      <link>undefined</link>
+      <pubDate>Sat, 28 Feb 2026 12:00:06 GMT</pubDate>
+      <description><![CDATA[It's a 3-peat on this episode of Two For Tunestr, featuring these value-4-value musician's from around the globe:
+Ben Jonesy Jones: A new release and two favorites from his catalogue
+Gilligan: Newly released tracks from band member Christian Leuenberg
+Longy: An homage to Sam Cooke and two newly released tracks with the Gospel Trash
+Jimmie Bratcher: Spreading the Gospel & Blues and taking this episode out with 3 tracks
+Support sound artists from around the globe with sound money; boost, zap & share.]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/its-a-3-peat/audio.two-for-tunestr-3-peat.mp3" type="audio/mpeg" length="104222768"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Blasting Borders]]></title>
+      <guid isPermaLink="false">83d63de1-9589-5775-aa9c-80ed274847f7</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 24 Feb 2026 16:07:34 GMT</pubDate>
+      <description><![CDATA[We're blasting borders on this episode with tracks from these artists:
+Lenze & De Baum
+Christian Leuenberg
+Joe Martin
+Nathan Abbott
+Temples
+Vicious Clay
+Monkey Robot War
+Deez Laughs
+Sakrecoer
+You can support sound artists with sound money on this value for value music podcast. Boost, zap, share and support.
+Sidenote: I will decide when a scheduled episode will come out on a specific day(maybe), for now, enjoy the music :)]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/blasting-borders/audio.season-2-ep-3-two-for-tunestr-globe-track-ing.mp3" type="audio/mpeg" length="124550587"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Hail To The Horns]]></title>
+      <guid isPermaLink="false">33e697c6-b5d7-58a3-b782-d286c4b85a08</guid>
+      <link>undefined</link>
+      <pubDate>Fri, 20 Feb 2026 18:30:34 GMT</pubDate>
+      <description><![CDATA[Two For Tunestr "Hail To The Horns" featuring these value for value artists:
+Bonus Intro New Artist: Jaded Jester
+Mellow Cassette
+Matt Finlay
+Steve Thorne
+Trifecta of Live tracks for Longy
+Liotia
+Please support the artists with a message, boost or zap and by sharing the episode.]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/hail-to-the-horns/audio.two-for-tunestr-hail-the-horns.mp3" type="audio/mpeg" length="92509796"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Digital Disk]]></title>
+      <guid isPermaLink="false">a1715b0b-adb8-568b-acda-5e7e3528fd00</guid>
+      <link>undefined</link>
+      <pubDate>Mon, 16 Feb 2026 12:00:06 GMT</pubDate>
+      <description><![CDATA[Two For Tunestr "Digital Disk" featuring these value-4-value artists:
+Zemar Red
+Crow Joe
+Johnny Delagrange
+TJ Wong
+Edwin Wiliamson
+Frankie Peroni
+Tamper
+You can support these artists with a boost, zap & message and by sharing the episode.]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/digital-disk/audio.two-for-tunestr-digital-disk.mp3" type="audio/mpeg" length="100208726"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Two For Tuesday "Its Alive"]]></title>
+      <guid isPermaLink="false">35888bb3-c00b-5fa4-81ed-ff7b4bbac063</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 10 Feb 2026 12:00:06 GMT</pubDate>
+      <description><![CDATA[EP. 42 Two For Tuesday "Its Alive"
+All live tracks featuring these value-4-value music artist's:
+Bonus Intro: "Healing Hands" live at the Railway by Longy
+Theo Katzman
+The Doerfels
+Strange Love
+Justin Lantrip
+Longy
+Please support these V4V artists with a boost, message & by sharing this episode.]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-its-alive/audio.tac-ep-42-two-for-tuesday-its-alive-2.mp3" type="audio/mpeg" length="92907701"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Swivel Heads]]></title>
+      <guid isPermaLink="false">a4faa62a-34ff-50cc-ae48-cd24c50a31ce</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 03 Feb 2026 18:03:32 GMT</pubDate>
+      <description><![CDATA[EP. 41 "Swivel Heads"
+Intro Song: "Take A Break" by Fentlay
+Mid-show track: "Waste Chop" by Crow Joe
+Outro track: "Blue Jeans" by Sam Means
+Chessboard Pawns
+The Epstein propaganda machine
+Bitcoin "Boot-lickers & hypocrites"
+El Salvador's criminal system
+Consequences of actions
+Nothing is new
+We also talk about music...shocker!]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/swivel-heads/audio.tac-ep-41-swivel-heads.mp3" type="audio/mpeg" length="169847390"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Two For Tuesday "Parallel Playlist"]]></title>
+      <guid isPermaLink="false">d62e92e4-78e8-570c-8845-3a4f64064570</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 27 Jan 2026 12:00:06 GMT</pubDate>
+      <description><![CDATA[Ep. 40 Two For Tuesday "Parallel Playlist" featuring these Value-4-Value artist's:
+Nogards
+After 3 AM
+Delta OG
+Gauge 44
+Kover
+You can support these artist's with a boost, message & by sharing the episode.]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-parallel-playlist/audio.tac-music-edition.mp3" type="audio/mpeg" length="63595291"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Two For Tuesday "Out Of Order"]]></title>
+      <guid isPermaLink="false">ec078a10-1832-564f-a4c8-16a794b10c67</guid>
+      <link>undefined</link>
+      <pubDate>Thu, 22 Jan 2026 19:20:01 GMT</pubDate>
+      <description><![CDATA[Ep. 39 Two For Tuesday "Out Of Order" featuring these value for value music artists:
+Prosperous Soul: Golden Ray & Cheap Deception
+The Velvicks: Somebody Stop Me & Get Away
+The Retrograde: Next To You & On A String
+The Trusted: Arkansas live Satellite Spotlight
+MOOKY: Ultra Low live Satellite Spotlight
+The Fifty Four Plates: Devil In Me & Lost
+You can support the value for value artist's with a boost, zap & message.]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-out-of-order/audio.tac-ep-39-two-for-tuesdat-out-of-order.mp3" type="audio/mpeg" length="67879751"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Cowbells & Boots and Other Things]]></title>
+      <guid isPermaLink="false">9087206a-3e22-53a7-a1dc-76252ad245f4</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 20 Jan 2026 19:13:15 GMT</pubDate>
+      <description><![CDATA[Ep. 38 Cowbells & Boots and Other Things
+On this episode, Bubba & Silvie discuss:
+Sports
+Life, death & regrets
+Bitcoin Drama
+On the second half of this episode, Bubba picks some tracks by these value-4-value artist's:
+Jessica Lynne Witty
+Sara Jade
+Luca Maddy
+Joe Martin
+Intro & Outro by: Sir TJ The Wrathful from Wrath Of Banjo
+Mid-show track: Good Enough by Nathan Abbott]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/cowbells-and-boots-and-other-things/audio.tac-ep-38-cowbells-and-boots-and-other-things.mp3" type="audio/mpeg" length="257427811"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Two For Tuesday "Exposure Therapy"]]></title>
+      <guid isPermaLink="false">090950c9-25e6-5fd9-ab78-f40cc74b326d</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 13 Jan 2026 21:40:06 GMT</pubDate>
+      <description><![CDATA[Ep 37.
+Two For Tuesday "Exposure Therapy" featuring these V4V music artist's:
+Fable
+Big Awesome
+Red Arrow Highway
+Matt Finlay
+A Cold Place Nowhere
+IROH
+Longy
+You can support these independent V4V musicians with a BOOST & a message!]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-exposure-therapy/audio.ep-37-tac-two-for-tuesday-exposure-therapy.mp3" type="audio/mpeg" length="90187132"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Two For Tuesday (The Block)]]></title>
+      <guid isPermaLink="false">e06e0047-f7b3-509f-b02a-5d0ee3886c26</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 13 Jan 2026 12:00:06 GMT</pubDate>
+      <description><![CDATA[Ep. 36 "Two For Tuesday (The Block)" featuring:
+Coal Bed
+Cheap Suit
+Edwin Williamson
+Corey Keller
+Ben Jonesy Jones
+Middle Season
+Riot In Progress
+Support these value-4-value artist's with a boost, message and by sharing. That's what music is meant for :-)]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-the-block/audio.tac-ep-36-two-for-tuesday-the-block.mp3" type="audio/mpeg" length="83997628"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Two For Tuesday Ⅱ]]></title>
+      <guid isPermaLink="false">10248194-8055-5e7d-80f8-36f264bbec88</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 30 Dec 2025 12:00:06 GMT</pubDate>
+      <description><![CDATA[Another Two For Tuesday featuring v4v music artists:
+The Velvicks
+OPUS
+Nathan Abbott
+Jimmy V
+The Retrograde
+Artur Yoria
+Strange Love
+You can support these v4v artists with a boost while their song plays on your favorite podcasting 2.0 app.]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-ii/audio.two-for-tuesday-2.mp3" type="audio/mpeg" length="95332986"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Two For Tuesday]]></title>
+      <guid isPermaLink="false">5d44b43c-42ab-5a75-8cd3-4971c5aa9c28</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 16 Dec 2025 12:00:06 GMT</pubDate>
+      <description><![CDATA[Ep. 33 Two For Tuesday V4V Music Edition Featuring:
+Longy
+The Greensands
+The Retrograde
+Johnny Delagrange
+Ben P Williams
+MOOKY
+POLANKSKI
+Support these value-for-value music artists with a BOOST OR A ZAP!]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/c5314065-3218-4a30-9069-5760e650d209/audio.tac-2-4-tues.mp3" type="audio/mpeg" length="86768456"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+    <item>
+      <title><![CDATA[Tune Out The Noise]]></title>
+      <guid isPermaLink="false">9464ab6b-e67c-58a4-91ea-b7d12c573f2e</guid>
+      <link>undefined</link>
+      <pubDate>Tue, 09 Dec 2025 19:32:11 GMT</pubDate>
+      <description><![CDATA[Ep. 32 "Tune Out The Noise"
+Bubba & Silvie enter the music value-verse with an episode dedicated solely to decentralized music from these v4v artist's:
+The Velvicks
+All Kings All Poets
+Joe Martin
+Longy
+The Trusted
+Late Night Special
+MOOKY
+FM Rodeo
+Strange Love
+Edwin Williamson
+Local Zero
+Two Weeks To Nashville
+POLANSKI
+And an original acoustic from Bubba]]></description>
+      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/tune-out-the-noise/audio.tac-ep-32-tune-out-the-noise.mp3" type="audio/mpeg" length="254731148"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="" type="node" address="" split="0"/>
+      </podcast:value>
+    </item>
+  </channel>
+</rss>
