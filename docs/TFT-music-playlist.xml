@@ -1,300 +1,145 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title><![CDATA[Two for Tunestr Music Playlist]]></title>
+    <author>ChadF</author>
+    <title>Two for Tunestr Music Playlist</title>
+    <description>Every music reference from Two for Tunestr</description>
     <link>https://feeds.rssblue.com/too-angry-cunts</link>
-    <podcast:txt purpose="source-rss">https://feeds.rssblue.com/too-angry-cunts</podcast:txt>
-    <description><![CDATA[Every music reference from Two for Tunestr]]></description>
-    <language>en-us</language>
-    <copyright><![CDATA[ChadF]]></copyright>
-    <managingEditor>ChadF</managingEditor>
-    <pubDate>Sat, 28 Feb 2026 21:55:53 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 21:55:53 GMT</lastBuildDate>
-    <generator>Auto musicL Maker</generator>
-    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <podcast:txt purpose="source-feed">https://feeds.rssblue.com/too-angry-cunts</podcast:txt>
+    <language>en</language>
+    <pubDate>Sat, 28 Feb 2026 22:14:03 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 22:14:03 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
-      <title><![CDATA[Two for Tunestr Music Playlist]]></title>
-      <link>https://feeds.rssblue.com/too-angry-cunts</link>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>e8f3186f-aa71-41ee-8b39-dceb00f8d792</podcast:guid>
-    <item>
-      <title><![CDATA[It's A 3- Peat]]></title>
-      <guid isPermaLink="false">7e54130e-c670-521e-898b-60be856f3317</guid>
-      <link></link>
-      <pubDate>Sat, 28 Feb 2026 12:00:06 GMT</pubDate>
-      <description><![CDATA[<h3><strong>It's a 3-peat on this episode of Two For Tunestr, featuring these value-4-value musician's from around the globe:</strong></h3>
-<ul>
-<li>Ben Jonesy Jones: A new release and two favorites from his catalogue</li>
-<li>Gilligan: Newly released tracks from band member Christian Leuenberg</li>
-<li>Longy: An homage to Sam Cooke and two newly released tracks with the Gospel Trash</li>
-<li>Jimmie Bratcher: Spreading the Gospel &amp; Blues and taking this episode out with 3 tracks</li>
-</ul>
-<p><strong>Support sound artists from around the globe with sound money; boost, zap &amp; share.</strong></p>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/its-a-3-peat/audio.two-for-tunestr-3-peat.mp3" type="audio/mpeg" length="104222768"/>
-    </item>
-    <item>
-      <title><![CDATA[Blasting Borders]]></title>
-      <guid isPermaLink="false">83d63de1-9589-5775-aa9c-80ed274847f7</guid>
-      <link></link>
-      <pubDate>Tue, 24 Feb 2026 16:07:34 GMT</pubDate>
-      <description><![CDATA[<p><strong>We're blasting borders on this episode with tracks from these artists:</strong></p>
-<ul>
-<li>Lenze &amp; De Baum</li>
-<li>Christian Leuenberg</li>
-<li>Joe Martin</li>
-<li>Nathan Abbott</li>
-<li>Temples</li>
-<li>Vicious Clay</li>
-<li>Monkey Robot War</li>
-<li>Deez Laughs</li>
-<li>Sakrecoer</li>
-</ul>
-<p><strong>You can support sound artists with sound money on this value for value music podcast. Boost, zap, share and support.</strong></p>
-<p><strong>Sidenote: I will decide when a scheduled episode will come out on a specific day(maybe), for now, enjoy the music :)</strong></p>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/blasting-borders/audio.season-2-ep-3-two-for-tunestr-globe-track-ing.mp3" type="audio/mpeg" length="124550587"/>
-    </item>
-    <item>
-      <title><![CDATA[Hail To The Horns]]></title>
-      <guid isPermaLink="false">33e697c6-b5d7-58a3-b782-d286c4b85a08</guid>
-      <link></link>
-      <pubDate>Fri, 20 Feb 2026 18:30:34 GMT</pubDate>
-      <description><![CDATA[<h3><strong>Two For Tunestr &quot;Hail To The Horns&quot; featuring these value for value artists:</strong></h3>
-<ul>
-<li>Bonus Intro New Artist: Jaded Jester</li>
-<li>Mellow Cassette</li>
-<li>Matt Finlay</li>
-<li>Steve Thorne</li>
-<li>Trifecta of Live tracks for Longy</li>
-<li>Liotia</li>
-</ul>
-<p><strong>Please support the artists with a message, boost or zap and by sharing the episode.</strong></p>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/hail-to-the-horns/audio.two-for-tunestr-hail-the-horns.mp3" type="audio/mpeg" length="92509796"/>
-    </item>
-    <item>
-      <title><![CDATA[Digital Disk]]></title>
-      <guid isPermaLink="false">a1715b0b-adb8-568b-acda-5e7e3528fd00</guid>
-      <link></link>
-      <pubDate>Mon, 16 Feb 2026 12:00:06 GMT</pubDate>
-      <description><![CDATA[<h3><strong>Two For Tunestr &quot;Digital Disk&quot; featuring these value-4-value artists:</strong></h3>
-<ul>
-<li>Zemar Red</li>
-<li>Crow Joe</li>
-<li>Johnny Delagrange</li>
-<li>TJ Wong</li>
-<li>Edwin Wiliamson</li>
-<li>Frankie Peroni</li>
-<li>Tamper</li>
-</ul>
-<h3>You can support these artists with a boost, zap &amp; message and by sharing the episode.</h3>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/digital-disk/audio.two-for-tunestr-digital-disk.mp3" type="audio/mpeg" length="100208726"/>
-    </item>
-    <item>
-      <title><![CDATA[Two For Tuesday "Its Alive"]]></title>
-      <guid isPermaLink="false">35888bb3-c00b-5fa4-81ed-ff7b4bbac063</guid>
-      <link></link>
-      <pubDate>Tue, 10 Feb 2026 12:00:06 GMT</pubDate>
-      <description><![CDATA[<h3><strong>EP. 42 Two For Tuesday &quot;Its Alive&quot;</strong></h3>
-<h3><strong>All live tracks featuring these value-4-value music artist's:</strong></h3>
-<ul>
-<li>Bonus Intro: &quot;Healing Hands&quot; live at the Railway by Longy</li>
-<li>Theo Katzman</li>
-<li>The Doerfels</li>
-<li>Strange Love</li>
-<li>Justin Lantrip</li>
-<li>Longy</li>
-</ul>
-<h3><strong>Please support these V4V artists with a boost, message &amp; by sharing this episode.</strong></h3>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-its-alive/audio.tac-ep-42-two-for-tuesday-its-alive-2.mp3" type="audio/mpeg" length="92907701"/>
-    </item>
-    <item>
-      <title><![CDATA[Swivel Heads]]></title>
-      <guid isPermaLink="false">a4faa62a-34ff-50cc-ae48-cd24c50a31ce</guid>
-      <link></link>
-      <pubDate>Tue, 03 Feb 2026 18:03:32 GMT</pubDate>
-      <description><![CDATA[<h3><strong>EP. 41 &quot;Swivel Heads&quot;</strong></h3>
-<ul>
-<li>Intro Song: &quot;Take A Break&quot; by Fentlay</li>
-<li>Mid-show track: &quot;Waste Chop&quot; by Crow Joe</li>
-<li>Outro track: &quot;Blue Jeans&quot; by Sam Means</li>
-<li>Chessboard Pawns</li>
-<li>The Epstein propaganda machine</li>
-<li>Bitcoin &quot;Boot-lickers &amp; hypocrites&quot;</li>
-<li>El Salvador's criminal system</li>
-<li>Consequences of actions</li>
-<li>Nothing is new</li>
-<li>We also talk about music...shocker!</li>
-</ul>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/swivel-heads/audio.tac-ep-41-swivel-heads.mp3" type="audio/mpeg" length="169847390"/>
-    </item>
-    <item>
-      <title><![CDATA[Two For Tuesday "Parallel Playlist"]]></title>
-      <guid isPermaLink="false">d62e92e4-78e8-570c-8845-3a4f64064570</guid>
-      <link></link>
-      <pubDate>Tue, 27 Jan 2026 12:00:06 GMT</pubDate>
-      <description><![CDATA[<h3>Ep. 40 Two For Tuesday &quot;Parallel Playlist&quot; featuring these Value-4-Value artist's:</h3>
-<ul>
-<li>Nogards</li>
-<li>After 3 AM</li>
-<li>Delta OG</li>
-<li>Gauge 44</li>
-<li>Kover</li>
-</ul>
-<h3><strong>You can support these artist's with a boost, message &amp; by sharing the episode.</strong></h3>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-parallel-playlist/audio.tac-music-edition.mp3" type="audio/mpeg" length="63595291"/>
-    </item>
-    <item>
-      <title><![CDATA[Two For Tuesday "Out Of Order"]]></title>
-      <guid isPermaLink="false">ec078a10-1832-564f-a4c8-16a794b10c67</guid>
-      <link></link>
-      <pubDate>Thu, 22 Jan 2026 19:20:01 GMT</pubDate>
-      <description><![CDATA[<h3><strong>Ep. 39 Two For Tuesday &quot;Out Of Order&quot; featuring these value for value music artists:</strong></h3>
-<ul>
-<li>Prosperous Soul: Golden Ray &amp; Cheap Deception</li>
-<li>The Velvicks: Somebody Stop Me &amp; Get Away</li>
-<li>The Retrograde: Next To You &amp; On A String</li>
-<li>The Trusted: Arkansas live Satellite Spotlight</li>
-<li>MOOKY: Ultra Low live Satellite Spotlight</li>
-<li>The Fifty Four Plates: Devil In Me &amp; Lost</li>
-</ul>
-<p><strong>You can support the value for value artist's with a boost, zap &amp; message.</strong></p>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-out-of-order/audio.tac-ep-39-two-for-tuesdat-out-of-order.mp3" type="audio/mpeg" length="67879751"/>
-    </item>
-    <item>
-      <title><![CDATA[Cowbells & Boots and Other Things]]></title>
-      <guid isPermaLink="false">9087206a-3e22-53a7-a1dc-76252ad245f4</guid>
-      <link></link>
-      <pubDate>Tue, 20 Jan 2026 19:13:15 GMT</pubDate>
-      <description><![CDATA[<h3><strong>Ep. 38 Cowbells &amp; Boots and Other Things</strong></h3>
-<p><strong>On this episode, Bubba &amp; Silvie discuss:</strong></p>
-<ul>
-<li>Sports</li>
-<li>Life, death &amp; regrets</li>
-<li>Bitcoin Drama</li>
-</ul>
-<p><strong>On the second half of this episode, Bubba picks some tracks by these value-4-value artist's:</strong></p>
-<ul>
-<li>Jessica Lynne Witty</li>
-<li>Sara Jade</li>
-<li>Luca Maddy</li>
-<li>Joe Martin</li>
-</ul>
-<p><strong>Intro &amp; Outro by: Sir TJ The Wrathful from Wrath Of Banjo</strong></p>
-<p><strong>Mid-show track: Good Enough by Nathan Abbott</strong></p>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/cowbells-and-boots-and-other-things/audio.tac-ep-38-cowbells-and-boots-and-other-things.mp3" type="audio/mpeg" length="257427811"/>
-    </item>
-    <item>
-      <title><![CDATA[Two For Tuesday "Exposure Therapy"]]></title>
-      <guid isPermaLink="false">090950c9-25e6-5fd9-ab78-f40cc74b326d</guid>
-      <link></link>
-      <pubDate>Tue, 13 Jan 2026 21:40:06 GMT</pubDate>
-      <description><![CDATA[<h3><strong>Ep 37.</strong></h3>
-<h3><strong>Two For Tuesday &quot;Exposure Therapy&quot; featuring these V4V music artist's:</strong></h3>
-<ul>
-<li>Fable</li>
-<li>Big Awesome</li>
-<li>Red Arrow Highway</li>
-<li>Matt Finlay</li>
-<li>A Cold Place Nowhere</li>
-<li>IROH</li>
-<li>Longy</li>
-</ul>
-<h3>You can support these independent V4V musicians with a BOOST &amp; a message!</h3>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-exposure-therapy/audio.ep-37-tac-two-for-tuesday-exposure-therapy.mp3" type="audio/mpeg" length="90187132"/>
-    </item>
-    <item>
-      <title><![CDATA[Two For Tuesday (The Block)]]></title>
-      <guid isPermaLink="false">e06e0047-f7b3-509f-b02a-5d0ee3886c26</guid>
-      <link></link>
-      <pubDate>Tue, 13 Jan 2026 12:00:06 GMT</pubDate>
-      <description><![CDATA[<h3><strong>Ep. 36 &quot;Two For Tuesday (The Block)&quot; featuring:</strong></h3>
-<ul>
-<li>Coal Bed</li>
-<li>Cheap Suit</li>
-<li>Edwin Williamson</li>
-<li>Corey Keller</li>
-<li>Ben Jonesy Jones</li>
-<li>Middle Season</li>
-<li>Riot In Progress</li>
-</ul>
-<h2>Support these value-4-value artist's with a boost, message and by sharing. That's what music is meant for :-)</h2>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-the-block/audio.tac-ep-36-two-for-tuesday-the-block.mp3" type="audio/mpeg" length="83997628"/>
-    </item>
-    <item>
-      <title><![CDATA[Two For Tuesday Ⅱ]]></title>
-      <guid isPermaLink="false">10248194-8055-5e7d-80f8-36f264bbec88</guid>
-      <link></link>
-      <pubDate>Tue, 30 Dec 2025 12:00:06 GMT</pubDate>
-      <description><![CDATA[<h3>Another Two For Tuesday featuring v4v music artists:</h3>
-<ul>
-<li>The Velvicks</li>
-<li>OPUS</li>
-<li>Nathan Abbott</li>
-<li>Jimmy V</li>
-<li>The Retrograde</li>
-<li>Artur Yoria</li>
-<li>Strange Love</li>
-</ul>
-<h3>You can support these v4v artists with a boost while their song plays on your favorite podcasting 2.0 app.</h3>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/two-for-tuesday-ii/audio.two-for-tuesday-2.mp3" type="audio/mpeg" length="95332986"/>
-    </item>
-    <item>
-      <title><![CDATA[Two For Tuesday]]></title>
-      <guid isPermaLink="false">5d44b43c-42ab-5a75-8cd3-4971c5aa9c28</guid>
-      <link></link>
-      <pubDate>Tue, 16 Dec 2025 12:00:06 GMT</pubDate>
-      <description><![CDATA[<p><strong>Ep. 33 Two For Tuesday V4V Music Edition Featuring:</strong></p>
-<ul>
-<li>Longy</li>
-<li>The Greensands</li>
-<li>The Retrograde</li>
-<li>Johnny Delagrange</li>
-<li>Ben P Williams</li>
-<li>MOOKY</li>
-<li>POLANKSKI</li>
-</ul>
-<p><strong>Support these value-for-value music artists with a BOOST OR A ZAP!</strong></p>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/c5314065-3218-4a30-9069-5760e650d209/audio.tac-2-4-tues.mp3" type="audio/mpeg" length="86768456"/>
-    </item>
-    <item>
-      <title><![CDATA[Tune Out The Noise]]></title>
-      <guid isPermaLink="false">9464ab6b-e67c-58a4-91ea-b7d12c573f2e</guid>
-      <link></link>
-      <pubDate>Tue, 09 Dec 2025 19:32:11 GMT</pubDate>
-      <description><![CDATA[<h3>Ep. 32 &quot;Tune Out The Noise&quot;</h3>
-<h3>Bubba &amp; Silvie enter the music value-verse with an episode dedicated solely to decentralized music from these v4v artist's:</h3>
-<ul>
-<li>The Velvicks</li>
-<li>All Kings All Poets</li>
-<li>Joe Martin</li>
-<li>Longy</li>
-<li>The Trusted</li>
-<li>Late Night Special</li>
-<li>MOOKY</li>
-<li>FM Rodeo</li>
-<li>Strange Love</li>
-<li>Edwin Williamson</li>
-<li>Local Zero</li>
-<li>Two Weeks To Nashville</li>
-<li>POLANSKI</li>
-<li>And an original acoustic from Bubba</li>
-</ul>
-]]></description>
-      <enclosure url="https://op3.dev/e,pg=fafd2bfc-98ac-5010-9fcb-7403abfd420a/media.rssblue.com/podcasts/too-angry-cunts/tune-out-the-noise/audio.tac-ep-32-tune-out-the-noise.mp3" type="audio/mpeg" length="254731148"/>
-    </item>
+    <podcast:guid>5c979397-5336-48a4-8e9e-782bed5139a3</podcast:guid>
+    <podcast:txt purpose="episode">It&apos;s A 3- Peat</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Blasting Borders</podcast:txt>
+      <podcast:remoteItem feedGuid="10ff23d2-c6d6-5b83-b690-a680d8d42cd1" itemGuid="e399cf7c-cb56-5129-81a7-869f5273a76d"/>
+      <podcast:remoteItem feedGuid="10ff23d2-c6d6-5b83-b690-a680d8d42cd1" itemGuid="a418a4dd-f068-50f3-8fc6-3bb88e0a9ba4"/>
+      <podcast:remoteItem feedGuid="f46d440a-0a8c-5323-91e3-3a00fc1d4b63" itemGuid="07allyourdreamsacoustic"/>
+      <podcast:remoteItem feedGuid="f46d440a-0a8c-5323-91e3-3a00fc1d4b63" itemGuid="06summernightsacoustic"/>
+      <podcast:remoteItem feedGuid="04a56b2c-aa51-5cf5-adec-ca4e4c122308" itemGuid="1c43b75f-b003-4482-9f37-a606792b4f3c"/>
+      <podcast:remoteItem feedGuid="265d6480-c5e2-502d-8e91-24290688a73c" itemGuid="f7d436f2-d163-4fa8-b5d8-7706929be4aa"/>
+      <podcast:remoteItem feedGuid="400284cf-5de9-5d93-be3c-aa6f7ed2f9dd" itemGuid="a94e3a0e-906e-4528-af4a-afffbd382ca6"/>
+      <podcast:remoteItem feedGuid="400284cf-5de9-5d93-be3c-aa6f7ed2f9dd" itemGuid="78f7412e-ccd8-4f95-b3dd-67105c1036ab"/>
+      <podcast:remoteItem feedGuid="ead3a19b-cfc1-57f2-a5ed-c95d2bc15676" itemGuid="8f982486-ceea-47c3-951e-da917cb8d61d"/>
+      <podcast:remoteItem feedGuid="ead3a19b-cfc1-57f2-a5ed-c95d2bc15676" itemGuid="7a30692d-96b7-40a2-9d0a-0b5d5cde5d20"/>
+      <podcast:remoteItem feedGuid="92fc540c-79ce-55b5-9dd8-b5bad9f94d7a" itemGuid="623c0f13-72b7-5920-9c4f-abe0e31e1059"/>
+      <podcast:remoteItem feedGuid="262a48c2-502d-5c09-add4-76a86056876d" itemGuid="be32eeee-d955-5fce-98ce-66acdabdf647"/>
+      <podcast:remoteItem feedGuid="8d21fba9-40d0-5f94-8f17-bdc3817ad1c5" itemGuid="4ec2794c-a564-4c03-b485-d8136c357a8b"/>
+      <podcast:remoteItem feedGuid="8d21fba9-40d0-5f94-8f17-bdc3817ad1c5" itemGuid="592bb0f6-b9e2-4914-a07b-c61afc001cdc"/>
+      <podcast:remoteItem feedGuid="cc752b9c-cdad-5b27-aa24-fe3af53807ba" itemGuid="fa1863e8-cc20-4395-be90-3cfb40e78fd6"/>
+      <podcast:remoteItem feedGuid="19854112-13d2-505e-9776-9b8b5405ed6b" itemGuid="13714e2f-29a3-42b7-a026-d1e0cc7e684d"/>
+      <podcast:remoteItem feedGuid="0caa8dc3-5502-504d-9af3-a8435569a554" itemGuid="f3f8c113-d232-451f-8eff-ecbbacbd97f7"/>
+      <podcast:remoteItem feedGuid="0a5d4da5-4f21-58fd-a4ca-71db3183c0c0" itemGuid="b2e224a0-9866-492c-8879-1ad064cb653e"/>
+    <podcast:txt purpose="episode">Hail To The Horns</podcast:txt>
+      <podcast:remoteItem feedGuid="9d8ce850-8275-4a74-9622-1fd0cbe4b41d" itemGuid="483ed9f7-1d71-4ef2-982f-9f87874bf60f"/>
+      <podcast:remoteItem feedGuid="7b7949ca-5019-5814-aa53-d4b14bd15a6d" itemGuid="dcf49e1e-1410-40f8-b50b-fe8d626a2dda"/>
+      <podcast:remoteItem feedGuid="d1b54244-b5c2-58ca-956b-dbd1497215a1" itemGuid="98c224db-2f04-4aab-bc04-020c82facb51"/>
+      <podcast:remoteItem feedGuid="fe17f4f6-074f-4b2c-a450-611faccfaea2" itemGuid="9287595a-72b1-40ec-bded-30fe4f0fec1a"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="cfce0785-7f9d-45a3-87ac-39955f9425d8"/>
+      <podcast:remoteItem feedGuid="860a5835-f4ad-5207-8b0b-9d8ece877572" itemGuid="e37f4c9d-624a-4ead-bbda-1a226bf9e448"/>
+      <podcast:remoteItem feedGuid="68c193ae-820c-580c-85d3-219d36875630" itemGuid="46f7b840-e418-410d-88b3-32c5fc4e8f21"/>
+      <podcast:remoteItem feedGuid="565d0930-74bc-44ba-ab5d-da2f6c4b7b79" itemGuid="50886e86-e11c-4d06-901b-7a81a95066f8"/>
+      <podcast:remoteItem feedGuid="565d0930-74bc-44ba-ab5d-da2f6c4b7b79" itemGuid="df2651f4-ea69-4ac3-a65e-1107807439a0"/>
+      <podcast:remoteItem feedGuid="2abcd309-3d40-4d7c-975f-4afea310a8dd" itemGuid="fcdd0782-f4e2-4714-ae9c-6dcab6215d09"/>
+      <podcast:remoteItem feedGuid="7ba336c0-93da-505a-9d1b-eb44c49dc28e" itemGuid="946cc440-a426-4918-adfa-a354976dee04"/>
+      <podcast:remoteItem feedGuid="50f589b8-dbc9-56e0-a92d-a44d9c42af29" itemGuid="4b780cc0-4f28-4aaf-9012-fd64cea4d2d9"/>
+    <podcast:txt purpose="episode">Digital Disk</podcast:txt>
+      <podcast:remoteItem feedGuid="e4e24359-0404-5df5-893a-3b3cf1acaa3e" itemGuid="a29af0fc-dbb1-4701-a43c-f2c19e0723db"/>
+      <podcast:remoteItem feedGuid="e4e24359-0404-5df5-893a-3b3cf1acaa3e" itemGuid="6b817b13-434c-4610-aaa0-a6dba35e2efd"/>
+      <podcast:remoteItem feedGuid="d9b870de-c452-5ece-90f6-4844acb0f07d" itemGuid="735af916-ba22-4e08-b4df-158a6fb2918b"/>
+      <podcast:remoteItem feedGuid="d9b870de-c452-5ece-90f6-4844acb0f07d" itemGuid="2555257c-295c-40ca-af47-d7e96bf9ae6b"/>
+      <podcast:remoteItem feedGuid="46d7f7e1-a44e-544c-9227-76b9f0d59513" itemGuid="7e744e7d-514c-43af-847d-78a7cb972992"/>
+      <podcast:remoteItem feedGuid="46d7f7e1-a44e-544c-9227-76b9f0d59513" itemGuid="d3fa8f9c-aace-4a7b-8264-55b699901642"/>
+      <podcast:remoteItem feedGuid="272efe0d-956a-579c-a087-af0a24c6e5cf" itemGuid="5874e208-d9c3-5885-8310-55b6d43b2a92"/>
+      <podcast:remoteItem feedGuid="3efc7554-1c31-53ff-a5e5-10c743a2fad4" itemGuid="9cb9ad0d-3180-5f62-b5e6-5cb1bbb8b665"/>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="9fb9fb92-9c05-4a44-91cb-0ecc0d3ff8c3"/>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="694e3f43-3f40-4c49-9602-a6a68f10ed4b"/>
+      <podcast:remoteItem feedGuid="d9bdd845-750f-5cc3-a3cd-36edcde2671a" itemGuid="afe48da8-ae86-44a1-a476-4dc94a8ff443"/>
+      <podcast:remoteItem feedGuid="d9bdd845-750f-5cc3-a3cd-36edcde2671a" itemGuid="8428c78d-dedc-495f-a74e-b241d56d49fb"/>
+      <podcast:remoteItem feedGuid="c94d67ad-83b5-5dd9-8941-48060d533018" itemGuid="66c23900-ea3a-472c-aeb7-d85b7fbc4746"/>
+      <podcast:remoteItem feedGuid="e98159a4-2ca0-5ad7-81d0-418e9983e954" itemGuid="13297b7e-a2e2-4665-8d7c-53fa7fdb45a3"/>
+    <podcast:txt purpose="episode">Two For Tuesday &quot;Its Alive&quot;</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Swivel Heads</podcast:txt>
+      <podcast:remoteItem feedGuid="d5c805fb-6016-4038-9cda-2e68d2b8dcc4" itemGuid="f778d23e-0c88-4ecc-8c1f-0f2a4df789c4"/>
+      <podcast:remoteItem feedGuid="6171cef1-c23a-56c8-b3a9-d1933809f83b" itemGuid="cefcc230-267e-44a5-bfdb-d08efc14f813"/>
+      <podcast:remoteItem feedGuid="95e5f7a9-d88e-5e51-b2ae-f4b1865d19c4" itemGuid="1528ce18-7614-4039-8d50-6d97c9adf741"/>
+      <podcast:remoteItem feedGuid="2c0485ed-a649-5d1d-9d5e-dad5894bcaa2" itemGuid="023502ac-804b-4a08-a09a-7ae4a4888ef6"/>
+    <podcast:txt purpose="episode">Two For Tuesday &quot;Parallel Playlist&quot;</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Two For Tuesday &quot;Out Of Order&quot;</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Cowbells &amp; Boots and Other Things</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Two For Tuesday &quot;Exposure Therapy&quot;</podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Two For Tuesday (The Block)</podcast:txt>
+      <podcast:remoteItem feedGuid="42c214b6-f88a-569c-9510-b5478906867d" itemGuid="c693ef2b-7bc5-4260-839a-d74036e0e897"/>
+      <podcast:remoteItem feedGuid="825c97d1-86ea-5b39-ad6c-50e1e56e0a85" itemGuid="a85379de-772a-4c24-b26c-f45bb30ecf4d"/>
+      <podcast:remoteItem feedGuid="a53d97a2-21a9-5850-957f-20e6e1f1817b" itemGuid="e5fd3601-e1c7-4bc8-a652-7b050f322802"/>
+      <podcast:remoteItem feedGuid="a53d97a2-21a9-5850-957f-20e6e1f1817b" itemGuid="857b4194-9e44-41a6-8668-fd45ec5cef29"/>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="b8b2d4d2-e09e-4648-afee-2028ccf79595"/>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="9a24f526-618c-4a40-b79d-2ecd3526bb7a"/>
+      <podcast:remoteItem feedGuid="0ee92047-b48d-5a45-80a5-f8c385a942d5" itemGuid="9830fc02-1c3b-4092-89b0-fdeae9aa4b38"/>
+      <podcast:remoteItem feedGuid="0ee92047-b48d-5a45-80a5-f8c385a942d5" itemGuid="098e0406-36c4-4457-9c52-6e40df14a85f"/>
+      <podcast:remoteItem feedGuid="5e0da9fe-a255-5f4d-a8e0-7f82ee5231f5" itemGuid="7e400669-8198-4099-b5b4-94f4d4910854"/>
+      <podcast:remoteItem feedGuid="780cb1b2-c2b8-5424-80c3-377c9d8b2096" itemGuid="010de013-1b50-4ed3-8530-b49e299bffa6"/>
+      <podcast:remoteItem feedGuid="0bc8103c-7e22-5a59-b152-04af80746b49" itemGuid="b93c4a1f-5c84-482c-9ac3-b841405c20b0"/>
+      <podcast:remoteItem feedGuid="73ca299e-ff77-5779-98bb-ab72994a0a2a" itemGuid="8ef324c7-f372-420f-8be8-aa158b9332b9"/>
+      <podcast:remoteItem feedGuid="fc157bb7-6fbd-5ab1-8de2-7c5e7b6ab16e" itemGuid="8930a402-0d13-4938-81e2-b21086add022"/>
+      <podcast:remoteItem feedGuid="fc157bb7-6fbd-5ab1-8de2-7c5e7b6ab16e" itemGuid="de4d157c-3c56-484a-887a-6e30e96185c5"/>
+    <podcast:txt purpose="episode">Two For Tuesday Ⅱ</podcast:txt>
+      <podcast:remoteItem feedGuid="1e048636-7cc2-56af-ae05-b11cf6bb6bbc" itemGuid="5f37099b-a253-594e-9408-b1d2ec3b03ec"/>
+      <podcast:remoteItem feedGuid="62d7bc46-c2ed-4b0e-a3a5-9abe7fd216ca" itemGuid="d28c62a3-0533-47e7-8970-37f9d062ed88"/>
+      <podcast:remoteItem feedGuid="f511794d-437f-5cbd-8fcd-c541652a7931" itemGuid="5b6c9535-cc62-4c8b-a385-a66422583c5e"/>
+      <podcast:remoteItem feedGuid="f511794d-437f-5cbd-8fcd-c541652a7931" itemGuid="6eca8237-c9c5-4fde-ae50-0823d267a205"/>
+      <podcast:remoteItem feedGuid="400284cf-5de9-5d93-be3c-aa6f7ed2f9dd" itemGuid="fd9e2b87-4aad-4b59-ad32-0795355ccb23"/>
+      <podcast:remoteItem feedGuid="400284cf-5de9-5d93-be3c-aa6f7ed2f9dd" itemGuid="69a4639c-f539-49e7-a814-5cc4a72911da"/>
+      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="0faf03d9-d443-40e4-b3bf-2284f539cc6a"/>
+      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="0d8507ec-78d4-4294-bbc8-1548dde98cba"/>
+      <podcast:remoteItem feedGuid="4a433054-9e8a-54cb-a28a-2c1425e0ef59" itemGuid="79c80324-5f93-5c75-918f-8400c9628103"/>
+      <podcast:remoteItem feedGuid="018c404c-9bd0-5e76-aeef-092435bd3dca" itemGuid="cdf6e9de-4978-5359-ad86-61ce6af67b51"/>
+      <podcast:remoteItem feedGuid="1044692c-e10b-5483-86e8-5238fe070127" itemGuid="966aaccc-521c-4154-8f1b-5755c520051e"/>
+      <podcast:remoteItem feedGuid="1044692c-e10b-5483-86e8-5238fe070127" itemGuid="7a78befb-ccbb-4eb5-bac8-d6bcd96abeef"/>
+      <podcast:remoteItem feedGuid="27735a10-3775-503d-b038-70b4b7d536ab" itemGuid="a4a9b3a2-a6ca-4d35-8f1e-9312d58f2747"/>
+      <podcast:remoteItem feedGuid="27735a10-3775-503d-b038-70b4b7d536ab" itemGuid="79fc1cef-fcd8-4ebd-8144-c71ee8b68983"/>
+    <podcast:txt purpose="episode">Two For Tuesday</podcast:txt>
+      <podcast:remoteItem feedGuid="5097caa0-8182-51ba-bbd2-20d294bf2f9a" itemGuid="120b4f31-7e09-4ea8-993d-535df41bb460"/>
+      <podcast:remoteItem feedGuid="93d908ad-d668-526d-8f55-a345724d2e9c" itemGuid="3b8dc0b1-ee66-4001-8521-5162399f16a4"/>
+      <podcast:remoteItem feedGuid="377602c1-b049-5c14-bddf-eb4e349bee5c" itemGuid="3634469f-61ad-4e42-97f2-f1335c6ad267"/>
+      <podcast:remoteItem feedGuid="272e59c1-e78b-5b9c-9a08-4e2a9ccd3f8e" itemGuid="c8493927-d536-4374-834f-035d0a608fab"/>
+      <podcast:remoteItem feedGuid="17a3580d-4374-5cb8-b5f2-74d0551e8052" itemGuid="c60a247e-975a-4b48-8c30-884f9609aa2b"/>
+      <podcast:remoteItem feedGuid="17a3580d-4374-5cb8-b5f2-74d0551e8052" itemGuid="f8976484-2f32-42c4-bba9-3c5788691d0e"/>
+      <podcast:remoteItem feedGuid="671612fb-9039-5189-9d4b-0fd9df2093dd" itemGuid="2afdf896-9bde-52eb-9659-5cfe51a9be57"/>
+      <podcast:remoteItem feedGuid="671612fb-9039-5189-9d4b-0fd9df2093dd" itemGuid="a566e8ed-563e-551a-a6f3-3170394f9022"/>
+      <podcast:remoteItem feedGuid="24ddd33b-cfec-568b-8402-5813bbb1d924" itemGuid="c8b93509-4d2b-4471-98d9-0235428bb7fb"/>
+      <podcast:remoteItem feedGuid="24ddd33b-cfec-568b-8402-5813bbb1d924" itemGuid="dfe05e9a-78a2-4ad9-ba1a-196738f8d632"/>
+      <podcast:remoteItem feedGuid="48e68f91-f08f-5bee-8c47-a48f9ff50384" itemGuid="3f3f608b-29b3-54a8-bccc-bc9493b61a73"/>
+      <podcast:remoteItem feedGuid="8f2a0d0e-c1b9-59ab-85a0-0c69ef62a3aa" itemGuid="1d458573-9412-5746-867c-845ee6a10501"/>
+      <podcast:remoteItem feedGuid="419b741c-a3de-5e39-acb4-74bda853510b" itemGuid="113920d0-e48d-40e4-9af0-2f2b786c9d6e"/>
+      <podcast:remoteItem feedGuid="54d743de-5a01-5405-8c32-b792e99db350" itemGuid="8635b6f4-3f5b-4572-99fe-49f2fad67537"/>
+    <podcast:txt purpose="episode">Tune Out The Noise</podcast:txt>
+      <podcast:remoteItem feedGuid="738b248e-176e-501c-a0ff-eae8c7227228" itemGuid="e7c3c76d-eac6-50c5-8f31-65059df05ec7"/>
+      <podcast:remoteItem feedGuid="b237002b-e957-570f-80ad-4e3c3c2ec186" itemGuid="b6264837-e31a-4b16-955b-1fba077abc9f"/>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="5cfc9604-7344-4314-97bb-95774c372afe"/>
+      <podcast:remoteItem feedGuid="54d743de-5a01-5405-8c32-b792e99db350" itemGuid="0ef8617e-2e91-4cd6-975e-285b8edee328"/>
+      <podcast:remoteItem feedGuid="b237002b-e957-570f-80ad-4e3c3c2ec186" itemGuid="bd4f7999-9369-4338-a4f9-d43ec3e2a49a"/>
+      <podcast:remoteItem feedGuid="87750227-32d0-5154-8944-a6c65cf57157" itemGuid="98b2eec4-9f9a-40ec-8885-f872bc6bc419"/>
+      <podcast:remoteItem feedGuid="6725424d-08a9-5fc2-a352-b8b2dd09a323" itemGuid="4da250a3-fc55-47ca-955b-9ff3126b17c4"/>
+      <podcast:remoteItem feedGuid="2cbfc960-18a5-5216-af54-312ba45a3f7b" itemGuid="1e75b446-05c6-4262-a194-de184cb264ed"/>
+      <podcast:remoteItem feedGuid="69b675bd-93ee-581a-b502-e930491620f6" itemGuid="4c356703-8b86-52aa-987b-c0c718d203c9"/>
+      <podcast:remoteItem feedGuid="7192ec54-3aa2-5c61-987b-51bf75f68568" itemGuid="58df0149-61a2-469f-bc52-ca94907dd7f6"/>
+      <podcast:remoteItem feedGuid="3f71e575-3759-5701-9619-4e52306245ad" itemGuid="276b1b8b-5e25-456d-bbba-10960a0a29c0"/>
+      <podcast:remoteItem feedGuid="6725424d-08a9-5fc2-a352-b8b2dd09a323" itemGuid="08d15078-94b7-4fdd-b141-91ec4aef8db2"/>
+      <podcast:remoteItem feedGuid="babd1567-2803-5ede-9a19-302c2fbf9eae" itemGuid="a2bf5272-8811-4882-aa39-a730c290af4d"/>
+      <podcast:remoteItem feedGuid="5888ede6-1656-43cb-9c4a-50c05abcc2a0" itemGuid="https://serve.podhome.fm/episode/7c7d46c6-d1c2-4d1e-ad1a-08dbe58ff0d1/63835618764994854431cb107e-e699-4821-a1a0-91f8ecb9b413.mp3"/>
+      <podcast:remoteItem feedGuid="6c047b0d-3d30-4eb7-894c-82fdd40d7e33" itemGuid="6fe2f866-8aa7-466e-bddc-cc1b698f723b"/>
+      <podcast:remoteItem feedGuid="3f38b0d6-d583-5b92-99bf-60a195bf764e" itemGuid="afd49dd3-948e-5cf6-b411-4caad3c9c893"/>
+      <podcast:remoteItem feedGuid="6725424d-08a9-5fc2-a352-b8b2dd09a323" itemGuid="14595c36-c15d-4166-b9c8-34160ce440c9"/>
+      <podcast:remoteItem feedGuid="b8619983-c00a-5161-9fe6-6028530e1bda" itemGuid="0492519b-e55d-47d3-9935-09ad490878c1"/>
   </channel>
 </rss>
