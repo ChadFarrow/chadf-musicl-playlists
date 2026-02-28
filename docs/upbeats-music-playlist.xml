@@ -6,13 +6,13 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 23 Feb 2026 07:54:57 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2026 07:54:57 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 22:14:11 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 22:14:11 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>f2a50787-7490-43d0-bc65-3e53a04f2dab</podcast:guid>
+    <podcast:guid>7cbb667b-2502-4a10-8a92-e3bdaa6444d1</podcast:guid>
     <podcast:txt purpose="episode">68: UK Takeover pt 2</podcast:txt>
       <podcast:remoteItem feedGuid="565d0930-74bc-44ba-ab5d-da2f6c4b7b79" itemGuid="50886e86-e11c-4d06-901b-7a81a95066f8"/>
       <podcast:remoteItem feedGuid="9d8ce850-8275-4a74-9622-1fd0cbe4b41d" itemGuid="483ed9f7-1d71-4ef2-982f-9f87874bf60f"/>
