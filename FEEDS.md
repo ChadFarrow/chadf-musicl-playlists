@@ -13,7 +13,8 @@ This file lists all available playlist feeds in this repository.
 7. **MMM-music-playlist.xml** - `docs/MMM-music-playlist.xml`
 8. **MMT-muic-playlist.xml** - `docs/MMT-muic-playlist.xml`
 9. **SAS-music-playlist.xml** - `docs/SAS-music-playlist.xml`
-10. **upbeats-music-playlist.xml** - `docs/upbeats-music-playlist.xml`
+10. **TFT-music-playlist.xml** - `docs/TFT-music-playlist.xml` (Two for Tunestr)
+11. **upbeats-music-playlist.xml** - `docs/upbeats-music-playlist.xml`
 
 ## Publisher Feed
 
