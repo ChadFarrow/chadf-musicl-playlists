@@ -16,6 +16,7 @@
       <title><![CDATA[Two for Tunestr Music Playlist]]></title>
       <link>https://feeds.rssblue.com/too-angry-cunts</link>
     </image>
+    <podcast:txt purpose="source-feed">https://feeds.rssblue.com/too-angry-cunts</podcast:txt>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>f872be25-58c6-4629-a3b8-12f6c17d61cb</podcast:guid>
     <item>
