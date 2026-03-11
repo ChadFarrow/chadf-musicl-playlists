@@ -6,13 +6,26 @@
     <link>https://feeds.rssblue.com/too-angry-cunts</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/too-angry-cunts</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 28 Feb 2026 22:50:26 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 22:50:26 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 07:43:28 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 07:43:28 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>51c2e6f0-7dad-4edf-b052-b9c9cb3c40c6</podcast:guid>
+    <podcast:guid>8c140b1b-e839-45c5-abd8-ea340ed623d6</podcast:guid>
+    <podcast:txt purpose="episode">Going Long</podcast:txt>
+      <podcast:remoteItem feedGuid="62d7bc46-c2ed-4b0e-a3a5-9abe7fd216ca" itemGuid="8558b5f1-d2f3-43e7-963e-c0bd99d1bfaa"/>
+      <podcast:remoteItem feedGuid="086c7347-5065-56da-b0e3-e8e8fc2e8c66" itemGuid="576e54d8-1d9c-4c8d-9251-029bc23e1c47"/>
+      <podcast:remoteItem feedGuid="c046b3f9-4486-5057-a177-ea53b5cdadae" itemGuid="aed9ed2d-6655-41fc-88b2-ea1d13d2ae6f"/>
+      <podcast:remoteItem feedGuid="1bd1c928-6570-5c4b-b407-a8485b925f9b" itemGuid="3c4ab272-067d-4700-8346-5c3e14a20869"/>
+      <podcast:remoteItem feedGuid="e8799cc2-1898-5daa-b0d3-e788d1d956ae" itemGuid="757bff9e-f93d-4da3-842b-186cab437c02"/>
+      <podcast:remoteItem feedGuid="242c3e80-4b70-55d6-aaf2-d8bb5302a990" itemGuid="4d3443ba-4ec9-41a7-bf0a-78dc35896aa4"/>
+      <podcast:remoteItem feedGuid="b237002b-e957-570f-80ad-4e3c3c2ec186" itemGuid="bd4f7999-9369-4338-a4f9-d43ec3e2a49a"/>
+      <podcast:remoteItem feedGuid="8c19ffd4-87bf-4da8-a4ae-52d9839786c3" itemGuid="1236bf31-5b20-432d-9db9-3a5e555ad58f"/>
+      <podcast:remoteItem feedGuid="8c19ffd4-87bf-4da8-a4ae-52d9839786c3" itemGuid="2c5b8840-563d-4e67-b2f2-03ff53d8c4f1"/>
+      <podcast:remoteItem feedGuid="565d0930-74bc-44ba-ab5d-da2f6c4b7b79" itemGuid="aba370b8-fd7d-45f4-ad88-8c9132898a62"/>
+      <podcast:remoteItem feedGuid="a1ed9ddf-d74f-5431-afad-ecce23650a6a" itemGuid="a742ad2b-7da7-4e35-a040-6d4db56980da"/>
+      <podcast:remoteItem feedGuid="1e048636-7cc2-56af-ae05-b11cf6bb6bbc" itemGuid="5f37099b-a253-594e-9408-b1d2ec3b03ec"/>
     <podcast:txt purpose="episode">It&apos;s A 3- Peat</podcast:txt>
       <podcast:remoteItem feedGuid="03fadf9c-8877-5114-bb81-b2f4f0568891" itemGuid="a237cac8-aa34-4bb2-9dd3-764e6b7597a4"/>
       <podcast:remoteItem feedGuid="5e0da9fe-a255-5f4d-a8e0-7f82ee5231f5" itemGuid="7e400669-8198-4099-b5b4-94f4d4910854"/>
