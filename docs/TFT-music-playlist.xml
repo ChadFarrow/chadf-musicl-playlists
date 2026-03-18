@@ -6,13 +6,25 @@
     <link>https://feeds.rssblue.com/too-angry-cunts</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/too-angry-cunts</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 11 Mar 2026 07:43:28 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2026 07:43:28 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 07:52:40 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 07:52:40 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>8c140b1b-e839-45c5-abd8-ea340ed623d6</podcast:guid>
+    <podcast:guid>f8d41cad-efa7-4fa8-9918-49e5e4c852bf</podcast:guid>
+    <podcast:txt purpose="episode">Until Next Time</podcast:txt>
+      <podcast:remoteItem feedGuid="d0c54cc7-3be9-56d9-9b63-400f7702badf" itemGuid="66970f74-1c61-40dc-aaaa-6c86ae9ccc37"/>
+      <podcast:remoteItem feedGuid="d0c54cc7-3be9-56d9-9b63-400f7702badf" itemGuid="d0fe8ca6-1a99-4d83-8b4e-6480372e3c78"/>
+      <podcast:remoteItem feedGuid="099b6458-f8a4-5344-af8d-6abe36ce9a56" itemGuid="3eec605b-3946-4db4-8cf3-7a0ce83f5a82"/>
+      <podcast:remoteItem feedGuid="e4e24359-0404-5df5-893a-3b3cf1acaa3e" itemGuid="de8c33ce-8b2f-4557-8dd6-f13d551149de"/>
+      <podcast:remoteItem feedGuid="ecd5d876-f1ce-53f0-b199-87f1e5fc0cb7" itemGuid="c9ff8e32-37c7-4e8b-b72d-e90f53f37754"/>
+      <podcast:remoteItem feedGuid="41169152-28b9-5267-b4c3-162481bb7ab3" itemGuid="147a1557-7617-48eb-b922-f564e9d0e923"/>
+      <podcast:remoteItem feedGuid="d9b870de-c452-5ece-90f6-4844acb0f07d" itemGuid="2555257c-295c-40ca-af47-d7e96bf9ae6b"/>
+      <podcast:remoteItem feedGuid="ce3d7a44-b9a6-53e3-a8b1-6048bcd3e515" itemGuid="f29343e5-2c8e-4445-9f1f-005e50e4d379"/>
+      <podcast:remoteItem feedGuid="35dd03d1-f1f2-5622-a673-1b8f13f365e9" itemGuid="58e3c3e0-53ae-474b-b5af-20b465b64db4"/>
+      <podcast:remoteItem feedGuid="510c7822-4813-58a6-9a68-6bcabd32a665" itemGuid="70cc1cad-2f28-499c-9e5a-b4e9c2ea8255"/>
+      <podcast:remoteItem feedGuid="c2eb19e0-4d48-5199-9839-41ce68b66aec" itemGuid="d009f422-5737-4eb6-9594-3de06f847d55"/>
     <podcast:txt purpose="episode">Going Long</podcast:txt>
       <podcast:remoteItem feedGuid="62d7bc46-c2ed-4b0e-a3a5-9abe7fd216ca" itemGuid="8558b5f1-d2f3-43e7-963e-c0bd99d1bfaa"/>
       <podcast:remoteItem feedGuid="086c7347-5065-56da-b0e3-e8e8fc2e8c66" itemGuid="576e54d8-1d9c-4c8d-9251-029bc23e1c47"/>
