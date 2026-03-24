@@ -6,13 +6,17 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 23 Mar 2026 08:01:57 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 08:01:57 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 07:53:27 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 07:53:27 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>4e91deb9-f7a4-4717-97a9-06b1b99a44df</podcast:guid>
+    <podcast:guid>7a3ea746-df17-48cf-b5f8-f607f7f3a51a</podcast:guid>
+    <podcast:txt purpose="episode">Salty Sessions w Frankie Peroni</podcast:txt>
+      <podcast:remoteItem feedGuid="d9bdd845-750f-5cc3-a3cd-36edcde2671a" itemGuid="2edc8d4c-074f-437e-b443-93df14501d7c"/>
+      <podcast:remoteItem feedGuid="d9bdd845-750f-5cc3-a3cd-36edcde2671a" itemGuid="8428c78d-dedc-495f-a74e-b241d56d49fb"/>
+      <podcast:remoteItem feedGuid="d9bdd845-750f-5cc3-a3cd-36edcde2671a" itemGuid="ac59aae2-b44c-4aab-b897-f3064db7b3ef"/>
     <podcast:txt purpose="episode">69: Major Glitch</podcast:txt>
       <podcast:remoteItem feedGuid="edcac168-0d8f-59d1-9c6c-297c97462fc3" itemGuid="dac15380-8384-4b8d-9074-ff06c99f6813"/>
       <podcast:remoteItem feedGuid="62d7bc46-c2ed-4b0e-a3a5-9abe7fd216ca" itemGuid="d28c62a3-0533-47e7-8970-37f9d062ed88"/>
