@@ -6,13 +6,27 @@
     <link>https://feeds.rssblue.com/too-angry-cunts</link>
     <podcast:txt purpose="source-feed">https://feeds.rssblue.com/too-angry-cunts</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 18 Mar 2026 07:52:40 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Mar 2026 07:52:40 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 07:52:36 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:52:36 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>f8d41cad-efa7-4fa8-9918-49e5e4c852bf</podcast:guid>
+    <podcast:guid>f5e3758f-3fa0-4c1d-8b8e-e6742589f8ff</podcast:guid>
+    <podcast:txt purpose="episode">Genre Bob &amp; Weave</podcast:txt>
+      <podcast:remoteItem feedGuid="0a1a0f51-2269-5343-a498-ae726c438235" itemGuid="1dd675a0-420c-4e20-b6f6-fb86dcb81be3"/>
+      <podcast:remoteItem feedGuid="931e5ade-07a4-559a-8835-936a02a49394" itemGuid="f2236562-8412-47e3-92c0-a33eb69a1569"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="08b637f9-0b42-424e-b05e-2e52f7673308"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="0fbcf350-913a-479b-8fac-e6ffa5f404b6"/>
+      <podcast:remoteItem feedGuid="04e812f9-1993-5aa1-9ab5-a9cf0cd81e82" itemGuid="a0dbecf2-dd83-4a38-8995-de60b73043ce"/>
+      <podcast:remoteItem feedGuid="04e812f9-1993-5aa1-9ab5-a9cf0cd81e82" itemGuid="31bc146f-5e1b-424b-a848-88a19ac457d7"/>
+      <podcast:remoteItem feedGuid="904914a2-7b9f-54e1-9202-368ead101ada" itemGuid="da6ecb35-bca1-45ec-80be-5be32f5ff1fa"/>
+      <podcast:remoteItem feedGuid="926d8cef-d499-5f9c-a54f-6ad9d23afe61" itemGuid="61a9a32d-ead1-46a7-bae9-822b4d8e66d8"/>
+      <podcast:remoteItem feedGuid="565d0930-74bc-44ba-ab5d-da2f6c4b7b79" itemGuid="6d7c8c15-56ed-4ebd-943a-52715f59d6e9"/>
+      <podcast:remoteItem feedGuid="565d0930-74bc-44ba-ab5d-da2f6c4b7b79" itemGuid="31561378-6997-4298-9baf-c1671ae6f42e"/>
+      <podcast:remoteItem feedGuid="cf2fe766-9923-5101-b57e-5f5b754c0de5" itemGuid="7c801225-84de-4a0b-979f-ca4afe1236cc"/>
+      <podcast:remoteItem feedGuid="cf2fe766-9923-5101-b57e-5f5b754c0de5" itemGuid="6e08dd1d-709c-490d-997a-0e8e7b5dc8e9"/>
+      <podcast:remoteItem feedGuid="190dd27e-02b3-440d-9d1c-38e2304d93b3" itemGuid="92769878-ac84-47ea-8f3b-a525901f4b92"/>
     <podcast:txt purpose="episode">Until Next Time</podcast:txt>
       <podcast:remoteItem feedGuid="d0c54cc7-3be9-56d9-9b63-400f7702badf" itemGuid="66970f74-1c61-40dc-aaaa-6c86ae9ccc37"/>
       <podcast:remoteItem feedGuid="d0c54cc7-3be9-56d9-9b63-400f7702badf" itemGuid="d0fe8ca6-1a99-4d83-8b4e-6480372e3c78"/>
