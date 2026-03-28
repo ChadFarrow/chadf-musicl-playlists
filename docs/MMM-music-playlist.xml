@@ -6,13 +6,20 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 21 Mar 2026 07:33:22 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Mar 2026 07:33:22 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 07:44:08 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 07:44:08 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>9254474b-b995-43a2-b7fe-6a54dd224ffb</podcast:guid>
+    <podcast:guid>07d6de4d-79e8-427b-bc0c-f82a7e804b0a</podcast:guid>
+    <podcast:txt purpose="episode">131st Edition - Matt Finlay</podcast:txt>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="9f515f93-eda1-4146-8637-7def160879b5"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="08b637f9-0b42-424e-b05e-2e52f7673308"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="d08bb247-8720-48e1-aa65-691f65bfb27a"/>
+      <podcast:remoteItem feedGuid="204099cf-bcb0-4b78-99f9-2e64d366a3f1" itemGuid="8256cca5-be08-4f68-9298-137dcc9ccade"/>
+      <podcast:remoteItem feedGuid="204099cf-bcb0-4b78-99f9-2e64d366a3f1" itemGuid="31aad09b-f599-4c5c-91d3-c3a0b5e75854"/>
+      <podcast:remoteItem feedGuid="fe17f4f6-074f-4b2c-a450-611faccfaea2" itemGuid="40537e7c-3125-4eaa-8ab7-ecc2893e6913"/>
     <podcast:txt purpose="episode">130th Edition - Special Edition</podcast:txt>
       <podcast:remoteItem feedGuid="a25a86e3-d4ac-564c-802a-462a3a40126b" itemGuid="a62b39cf-2558-400f-8b70-3e6528e06bbb"/>
       <podcast:remoteItem feedGuid="9814449b-5344-5511-9151-5c55c5edda4c" itemGuid="76e76c6f-2e08-4790-addf-41998eb1bb55"/>
