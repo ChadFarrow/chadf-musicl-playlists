@@ -4,7 +4,7 @@
     <title>UpBeats Music Playlist</title>
     <description>Every music reference from UpBEATs</description>
     <link>https://upbeatspodcast.com/</link>
-    <podcast:txt purpose="source-feed">https://feeds.rssblue.com/upbeats</podcast:txt>
+    <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/3aebb7a8-5942-5ee7-a148-8bdc14f1f3d4</podcast:txt>
     <language>en</language>
     <pubDate>Tue, 24 Mar 2026 07:53:27 GMT</pubDate>
     <lastBuildDate>Tue, 24 Mar 2026 07:53:27 GMT</lastBuildDate>
