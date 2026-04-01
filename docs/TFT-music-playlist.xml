@@ -3,16 +3,29 @@
     <author>ChadF</author>
     <title>Two for Tunestr Music Playlist</title>
     <description>Every music reference from Two for Tunestr</description>
-    <link>https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</link>
+    <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 25 Mar 2026 07:52:36 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2026 07:52:36 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 08:15:53 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:15:53 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>f5e3758f-3fa0-4c1d-8b8e-e6742589f8ff</podcast:guid>
+    <podcast:guid>da3abf81-79de-462b-b7cc-6798043496ad</podcast:guid>
+    <podcast:txt purpose="episode">Hear To There</podcast:txt>
+      <podcast:remoteItem feedGuid="a5c4040d-a1c9-59b7-a519-5374a68001bb" itemGuid="a861f0e5-08c0-47fb-a38c-49652f5ce263"/>
+      <podcast:remoteItem feedGuid="a5c4040d-a1c9-59b7-a519-5374a68001bb" itemGuid="62b27863-0638-4ce6-901d-2b1d43caf45e"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="d08058e1-4ea3-47ab-a924-9d10866e6a83"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="c4c83125-4a86-48ae-a0bc-e2700ba2439c"/>
+      <podcast:remoteItem feedGuid="910fabab-aa66-5659-88ec-1dcc6eb52d6b" itemGuid="b07bb6c2-00be-4a4d-96d5-79477d754d21"/>
+      <podcast:remoteItem feedGuid="15fa05a5-0239-57ed-be00-159d8735d93a" itemGuid="fef2edb3-b7cf-4f70-a885-e75faba2b9ca"/>
+      <podcast:remoteItem feedGuid="970cd229-dd92-5ba9-9356-00cd23c261f4" itemGuid="5903c30d-316d-4e66-92ce-3ac1e0e1f567"/>
+      <podcast:remoteItem feedGuid="970cd229-dd92-5ba9-9356-00cd23c261f4" itemGuid="b62f15e2-c31a-4c55-9886-58c493a0c069"/>
+      <podcast:remoteItem feedGuid="cd53518f-70a7-52e7-9595-7dfe1852e22d" itemGuid="3a513ed8-2c54-464b-91af-4155e496e19b"/>
+      <podcast:remoteItem feedGuid="9fab7dc0-38c5-5c72-9bdd-3645826c0388" itemGuid="41ae6ead-7fa8-4438-becc-259e05bd9383"/>
+      <podcast:remoteItem feedGuid="889f984f-26a1-5f4d-b0d5-596038b724ce" itemGuid="83b0e65b-54ae-4e0e-ae62-ab816cf720a5"/>
+      <podcast:remoteItem feedGuid="889f984f-26a1-5f4d-b0d5-596038b724ce" itemGuid="187307c4-1d6a-484f-8297-b82ef4fe5ce5"/>
     <podcast:txt purpose="episode">Genre Bob &amp; Weave</podcast:txt>
       <podcast:remoteItem feedGuid="0a1a0f51-2269-5343-a498-ae726c438235" itemGuid="1dd675a0-420c-4e20-b6f6-fb86dcb81be3"/>
       <podcast:remoteItem feedGuid="931e5ade-07a4-559a-8835-936a02a49394" itemGuid="f2236562-8412-47e3-92c0-a33eb69a1569"/>
