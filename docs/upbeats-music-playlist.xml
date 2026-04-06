@@ -6,13 +6,28 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/3aebb7a8-5942-5ee7-a148-8bdc14f1f3d4</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 24 Mar 2026 07:53:27 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2026 07:53:27 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 08:22:12 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:22:12 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>7a3ea746-df17-48cf-b5f8-f607f7f3a51a</podcast:guid>
+    <podcast:guid>25b06e06-31a6-458a-9c23-127b6c3cd049</podcast:guid>
+    <podcast:txt purpose="episode">Risen</podcast:txt>
+      <podcast:remoteItem feedGuid="c1097e6f-6457-5297-bfdd-1526ccc87eae" itemGuid="675f078b-1213-43dc-861a-bd3468926098"/>
+      <podcast:remoteItem feedGuid="15fa05a5-0239-57ed-be00-159d8735d93a" itemGuid="fef2edb3-b7cf-4f70-a885-e75faba2b9ca"/>
+      <podcast:remoteItem feedGuid="9751f439-2ffc-43ed-bcae-2905e6fe3438" itemGuid="55199efd-4324-4cd1-8832-eb85c2db0145"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="d08058e1-4ea3-47ab-a924-9d10866e6a83"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="440afc7c-2662-4c75-aa55-3c72be3d77f7"/>
+      <podcast:remoteItem feedGuid="35b1ff81-f48a-5dcc-bfbe-d294783988eb" itemGuid="74728858-8a89-4e5c-820c-85c950bc61aa"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="32041815-bca8-47fb-84c9-c75263ca3c65"/>
+      <podcast:remoteItem feedGuid="0cdcbc24-6901-5422-aca9-5aa2c91c49e3" itemGuid="49091f66-02ee-41f6-a37b-30321f403d68"/>
+      <podcast:remoteItem feedGuid="46620f3b-07b7-5344-af81-dc4012dd494c" itemGuid="e9b72d14-c6ea-4bff-b057-a625d96d00e1"/>
+      <podcast:remoteItem feedGuid="618ede0e-f359-5794-a6ee-895846f25ee5" itemGuid="02f5a1d9-ebfa-4754-9cd0-c0bb07614a51"/>
+      <podcast:remoteItem feedGuid="92fc540c-79ce-55b5-9dd8-b5bad9f94d7a" itemGuid="3ba2da3a-bec7-5e39-b56e-d0c008989203"/>
+      <podcast:remoteItem feedGuid="9e72a512-c678-5621-8fd6-dfc7cd11a846" itemGuid="060cfb50-526d-4fed-9d2d-6d0ffa94ad7b"/>
+      <podcast:remoteItem feedGuid="9e3cea98-d04d-5190-88b3-46ee6030d4ea" itemGuid="d41a449c-e75b-4262-83e1-f6f5c4c45407"/>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="751a0a7f-6e90-4d05-83fc-1ebe12bf4abc"/>
     <podcast:txt purpose="episode">Salty Sessions w Frankie Peroni</podcast:txt>
       <podcast:remoteItem feedGuid="d9bdd845-750f-5cc3-a3cd-36edcde2671a" itemGuid="2edc8d4c-074f-437e-b443-93df14501d7c"/>
       <podcast:remoteItem feedGuid="d9bdd845-750f-5cc3-a3cd-36edcde2671a" itemGuid="8428c78d-dedc-495f-a74e-b241d56d49fb"/>
