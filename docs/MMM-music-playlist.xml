@@ -6,13 +6,25 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 28 Mar 2026 07:44:08 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2026 07:44:08 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Apr 2026 07:51:31 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:51:31 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>07d6de4d-79e8-427b-bc0c-f82a7e804b0a</podcast:guid>
+    <podcast:guid>c09426f6-e2a5-4081-990f-f50389af6adf</podcast:guid>
+    <podcast:txt purpose="episode">132nd Edition</podcast:txt>
+      <podcast:remoteItem feedGuid="08612ae5-aa23-47f7-81c4-8cfafea8237f" itemGuid="74fbfddd-c5de-42a8-b182-367ea5e82f7f"/>
+      <podcast:remoteItem feedGuid="15fa05a5-0239-57ed-be00-159d8735d93a" itemGuid="fef2edb3-b7cf-4f70-a885-e75faba2b9ca"/>
+      <podcast:remoteItem feedGuid="92bb13ad-3ba7-5537-bf9a-893e311f4dbd" itemGuid="1a04e304-5f43-4122-a565-f2b71f56952f"/>
+      <podcast:remoteItem feedGuid="356501f6-7b74-510d-baa7-386600edab07" itemGuid="03e8bdbd-4c52-4759-9fbb-b63df91de03c"/>
+      <podcast:remoteItem feedGuid="b18d2139-63ae-42e9-88bb-578b40a1bc98" itemGuid="b64a45e7-0c31-47cd-81f0-e8d7321d89aa"/>
+      <podcast:remoteItem feedGuid="bd3985d4-89ea-506f-82a2-82e98835025b" itemGuid="b9a28cfe-5f2c-4977-8c2e-873bd6ed02d8"/>
+      <podcast:remoteItem feedGuid="5c1615a5-84c5-5032-a5f5-a5f559a32b8f" itemGuid="3d031042-2688-4f67-9fc5-fa6558dff153"/>
+      <podcast:remoteItem feedGuid="9d8ce850-8275-4a74-9622-1fd0cbe4b41d" itemGuid="3ae42d3a-8333-40d7-86e2-8b6730d6b6fb"/>
+      <podcast:remoteItem feedGuid="ee5942f6-8d57-5ac6-8f81-5f0225d1be48" itemGuid="cce60310-9760-442d-a979-34ace70cf265"/>
+      <podcast:remoteItem feedGuid="5f6bd882-bd60-4474-99e1-f268256100d9" itemGuid="0f18285e-a2f6-5cea-8367-21d73343f45a"/>
+      <podcast:remoteItem feedGuid="1c7218cb-f7af-5ca6-9ceb-79c775973fd9" itemGuid="0b132cb6-359e-4815-a524-3b37b56f6ff7"/>
     <podcast:txt purpose="episode">131st Edition - Matt Finlay</podcast:txt>
       <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="9f515f93-eda1-4146-8637-7def160879b5"/>
       <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="08b637f9-0b42-424e-b05e-2e52f7673308"/>
