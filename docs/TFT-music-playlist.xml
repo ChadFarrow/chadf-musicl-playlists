@@ -6,13 +6,27 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 08 Apr 2026 08:12:56 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2026 08:12:56 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 08:27:10 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 08:27:10 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>2e0c3107-bdd8-4ab7-8dd9-68ecbab193ec</podcast:guid>
+    <podcast:guid>8a51fb17-1dae-439e-8daa-bafcaf52c471</podcast:guid>
+    <podcast:txt purpose="episode">Limited Talk</podcast:txt>
+      <podcast:remoteItem feedGuid="74b98d65-0c8c-55f5-9010-9531abc4f850" itemGuid="821d3bc7-04ca-4378-8e5b-2832bd7ea0c6"/>
+      <podcast:remoteItem feedGuid="74b98d65-0c8c-55f5-9010-9531abc4f850" itemGuid="31383866-8739-442c-97f8-7d320ef06ead"/>
+      <podcast:remoteItem feedGuid="82856ae5-50bf-5e2c-8175-721d47e724b6" itemGuid="74e3745a-e344-4470-81c7-8a60d824959e"/>
+      <podcast:remoteItem feedGuid="904914a2-7b9f-54e1-9202-368ead101ada" itemGuid="da6ecb35-bca1-45ec-80be-5be32f5ff1fa"/>
+      <podcast:remoteItem feedGuid="190dd27e-02b3-440d-9d1c-38e2304d93b3" itemGuid="974adbd5-1c0a-41e2-b330-2e418aeda060"/>
+      <podcast:remoteItem feedGuid="190dd27e-02b3-440d-9d1c-38e2304d93b3" itemGuid="92769878-ac84-47ea-8f3b-a525901f4b92"/>
+      <podcast:remoteItem feedGuid="6c28ee75-9167-5373-8eff-e5024100594e" itemGuid="253646b3-930a-4b3b-bfe1-57b81ebcadb9"/>
+      <podcast:remoteItem feedGuid="9709c47c-8ee4-5a59-95e4-56454735c465" itemGuid="ea97e30a-0244-4abc-b88d-cf4728ef7cb1"/>
+      <podcast:remoteItem feedGuid="5fb7cd50-1fdb-503b-a5f5-79285e073931" itemGuid="3b56058c-b213-4ffa-a600-7e83ef206109"/>
+      <podcast:remoteItem feedGuid="9b3df836-80be-5bbc-85c9-2253af3d1915" itemGuid="fadb4a1c-a6cf-4944-af23-ca0f7ae92d40"/>
+      <podcast:remoteItem feedGuid="f182c767-6ba2-45a8-8f80-bfbe4fe65aa7" itemGuid="315a0e24-1188-4653-aab0-0f9868b596d4"/>
+      <podcast:remoteItem feedGuid="f182c767-6ba2-45a8-8f80-bfbe4fe65aa7" itemGuid="972f5435-b3e9-4dee-b350-959e4928e532"/>
+      <podcast:remoteItem feedGuid="b18d2139-63ae-42e9-88bb-578b40a1bc98" itemGuid="b64a45e7-0c31-47cd-81f0-e8d7321d89aa"/>
     <podcast:txt purpose="episode">The Disconnect</podcast:txt>
       <podcast:remoteItem feedGuid="01e0e305-48db-555d-96cc-bde6027cd114" itemGuid="1e697077-4789-4aa8-a481-23c76b450b26"/>
       <podcast:remoteItem feedGuid="1f53e56a-691a-5417-b442-06ce365d9db6" itemGuid="88e6aaa9-08fb-464b-8670-2b1681027e9c"/>
