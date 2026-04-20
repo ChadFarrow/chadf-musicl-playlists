@@ -6,14 +6,30 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/3aebb7a8-5942-5ee7-a148-8bdc14f1f3d4</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 06 Apr 2026 08:22:12 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 08:22:12 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 09:06:52 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 09:06:52 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>25b06e06-31a6-458a-9c23-127b6c3cd049</podcast:guid>
-    <podcast:txt purpose="episode">Risen</podcast:txt>
+    <podcast:guid>f5c70724-7063-4df9-a392-30d2e3381e6a</podcast:guid>
+    <podcast:txt purpose="episode">71: Fork The Index</podcast:txt>
+      <podcast:remoteItem feedGuid="fd0b5de1-9593-5d58-bdf0-63793720ca46" itemGuid="ace88a9c-bc7b-4663-959f-de61fdd0b869"/>
+      <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" itemGuid="53bf7c03-2323-4da7-ba00-d528e4b5edf6"/>
+      <podcast:remoteItem feedGuid="8a246c08-eeda-5657-b3a1-108c22430f07" itemGuid="c04dd750-2f6a-49ce-983f-f1f0096f6ba8"/>
+      <podcast:remoteItem feedGuid="b18d2139-63ae-42e9-88bb-578b40a1bc98" itemGuid="b64a45e7-0c31-47cd-81f0-e8d7321d89aa"/>
+      <podcast:remoteItem feedGuid="926d8cef-d499-5f9c-a54f-6ad9d23afe61" itemGuid="61a9a32d-ead1-46a7-bae9-822b4d8e66d8"/>
+      <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="796d5041-eb9b-46fd-8cad-6a11932f3508"/>
+      <podcast:remoteItem feedGuid="c1097e6f-6457-5297-bfdd-1526ccc87eae" itemGuid="675f078b-1213-43dc-861a-bd3468926098"/>
+      <podcast:remoteItem feedGuid="686a5851-cb23-588c-b082-46098c1fdabc" itemGuid="5c1a7fd7-171b-5f8e-b1ad-8660a3303c6b"/>
+      <podcast:remoteItem feedGuid="337c3158-cd40-5011-aa2c-05f99b095b89" itemGuid="7428694c-2a34-4863-945b-d5a3fdad5a5e"/>
+      <podcast:remoteItem feedGuid="099b6458-f8a4-5344-af8d-6abe36ce9a56" itemGuid="3ad230dc-b884-4ccc-b790-cce1796897b6"/>
+      <podcast:remoteItem feedGuid="fd0b5de1-9593-5d58-bdf0-63793720ca46" itemGuid="dc465c38-4bc2-4780-8257-fa5cbc43b7b4"/>
+      <podcast:remoteItem feedGuid="8edbc667-69a6-5a45-905d-14dde2d21cf8" itemGuid="7096047d-5d51-4cc4-9d59-39fd1272b804"/>
+      <podcast:remoteItem feedGuid="fc815bcf-3639-5395-ba7d-fa217ec93d32" itemGuid="68c5434e-bdbf-40fd-8a72-6e1860991c1c"/>
+      <podcast:remoteItem feedGuid="39b6c1de-4507-5850-89ef-0c683eabde9f" itemGuid="922f4e82-a566-5180-a8bf-9929fcd0e8cd"/>
+      <podcast:remoteItem feedGuid="75b2ec36-bf48-5950-a104-b77cafc8356b" itemGuid="9ac3be63-c9a3-4065-88fe-5f07006a1abe"/>
+    <podcast:txt purpose="episode">70: Risen</podcast:txt>
       <podcast:remoteItem feedGuid="c1097e6f-6457-5297-bfdd-1526ccc87eae" itemGuid="675f078b-1213-43dc-861a-bd3468926098"/>
       <podcast:remoteItem feedGuid="15fa05a5-0239-57ed-be00-159d8735d93a" itemGuid="fef2edb3-b7cf-4f70-a885-e75faba2b9ca"/>
       <podcast:remoteItem feedGuid="9751f439-2ffc-43ed-bcae-2905e6fe3438" itemGuid="55199efd-4324-4cd1-8832-eb85c2db0145"/>
