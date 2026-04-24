@@ -7,13 +7,13 @@
     <link>https://github.com/ChadFarrow/chadf-musicl-playlists</link>
     <podcast:txt purpose="source-feed">https://github.com/ChadFarrow/chadf-musicl-playlists</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 22 Apr 2026 08:48:44 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Apr 2026 08:48:44 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 08:59:58 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:59:58 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/Greatest-Hits-music-playlist.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>3c06ebae-5004-48e6-ac09-35b81fe1ed6e</podcast:guid>
+    <podcast:guid>aec83d56-b20b-4014-9ac1-ce3afa7b678a</podcast:guid>
     <podcast:txt purpose="playcount">22 plays</podcast:txt>
     <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140" />
     <podcast:txt purpose="playcount">20 plays</podcast:txt>
@@ -1350,6 +1350,7 @@
     <podcast:remoteItem feedGuid="de032037-63e0-5c6b-820d-13d4319a2b19" itemGuid="9ce1aa7a-a18a-47c1-8fc5-24ea86dad38d" />
     <podcast:remoteItem feedGuid="df430c13-2dae-5aef-8b0d-728148bd3587" itemGuid="081e64e3-2d6d-42e5-aedf-228b22accaad" />
     <podcast:remoteItem feedGuid="df4645b1-d7f2-5d60-90b5-1d79056e0c78" itemGuid="83f543fa-4ca2-4286-b0cd-1d771499c9b2" />
+    <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" itemGuid="53bf7c03-2323-4da7-ba00-d528e4b5edf6" />
     <podcast:remoteItem feedGuid="dff9943f-b35d-5706-995f-1ec5a7d4ad57" itemGuid="ed875824-7e1e-47c1-a90d-94a6924ecad9" />
     <podcast:remoteItem feedGuid="e08ba325-55ca-5375-9e49-f86922b97a1e" itemGuid="19a0a43f-63d1-48a1-af79-e9de2c3c854e" />
     <podcast:remoteItem feedGuid="e0ccbc88-c677-5989-a40f-2712039f2e3f" itemGuid="bf58a7f1-9860-4cee-8594-1e8f079c790f" />
