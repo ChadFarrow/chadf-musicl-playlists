@@ -6,13 +6,24 @@
     <link>https://homegrownhits.xyz</link>
     <podcast:txt purpose="source-feed">https://feed.homegrownhits.xyz/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 17 Apr 2026 08:25:59 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2026 08:25:59 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 08:59:49 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:59:49 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/HGH-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>7eaf663f-c53a-4b5b-89bf-92b9ff7168fb</podcast:guid>
+    <podcast:guid>9fd53d18-f58d-4368-84fe-93bc840ef9b6</podcast:guid>
+    <podcast:txt purpose="episode">Homegrown Hits - Episode 132</podcast:txt>
+      <podcast:remoteItem feedGuid="2d23b4c5-8458-491b-aaf5-ff14ba774c5c" itemGuid="040a8058-8394-403c-a297-ef7359431847"/>
+      <podcast:remoteItem feedGuid="2d23b4c5-8458-491b-aaf5-ff14ba774c5c" itemGuid="88d92fd1-82d3-4629-aa66-f326c739f806"/>
+      <podcast:remoteItem feedGuid="28b9dc36-4957-4e69-be84-11f02d860ee2" itemGuid="5a646f7a-67fa-4124-83a5-85f4a1ae632f"/>
+      <podcast:remoteItem feedGuid="da3f1aee-a967-4613-9c7c-4eaccbde6d06" itemGuid="eb0bc16c-9f14-4e93-bdb3-c1f0f8ef4e55"/>
+      <podcast:remoteItem feedGuid="8a106e41-c54d-451e-9f35-a8834b62fe0e" itemGuid="44c77db1-0ce2-4e2b-8cae-4b93d8585e50"/>
+      <podcast:remoteItem feedGuid="e4ce7211-2982-5d6e-a20d-9ddd46bb893b" itemGuid="9ac3be63-c9a3-4065-88fe-5f07006a1abe"/>
+      <podcast:remoteItem feedGuid="fe17f4f6-074f-4b2c-a450-611faccfaea2" itemGuid="a53ee417-c5d7-4346-bf62-27fe4c815206"/>
+      <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" itemGuid="53bf7c03-2323-4da7-ba00-d528e4b5edf6"/>
+      <podcast:remoteItem feedGuid="05ddb14a-05dd-45dd-8ddb-05ddb14a05dd" itemGuid="https://sunami.app/track/naddr1qvzqqqy0kvpzqj8fwczhhuk0zvesyq64khfy87xasyl3jvz3689sgsfcjn6x4nzrqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq35amnwvaz7tmywfhhquewvfshxumsd9ehgmmv9ehhyecprfmhxue69uhhyetvv9ujummsv4h8yetnd9ehgtnrdakszxthwden5te0wf5kymewv46jumn0wd68y6tp9eshquqpp4mhxue69uhkummn9ekx7mqpz4mhxue69uhhyetvv9ujuerfw36x7tnsw43qq8t5wfskx6edxymnwdfjx56rjdp4xcenjtt209nxz7nvw3snw8g2zyg"/>
+      <podcast:remoteItem feedGuid="75d02f1d-604c-5d31-a9e6-5a3da0ae591e" itemGuid="c0dc81aa-5b69-49d7-b5bf-54a433267a9b"/>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 131</podcast:txt>
       <podcast:remoteItem feedGuid="b18d2139-63ae-42e9-88bb-578b40a1bc98" itemGuid="b64a45e7-0c31-47cd-81f0-e8d7321d89aa"/>
       <podcast:remoteItem feedGuid="f32aff4c-3398-5c86-8955-2be20c4e5b9e" itemGuid="thenogs-donkey-11-shermans-march"/>
