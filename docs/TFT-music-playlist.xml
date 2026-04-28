@@ -6,13 +6,31 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 22 Apr 2026 08:48:33 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Apr 2026 08:48:33 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 09:21:19 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 09:21:19 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>de7b2d94-f1b9-4798-ab53-8ec9fbe64f52</podcast:guid>
+    <podcast:guid>93f38cbe-0b61-4ad9-a0b9-2b1eab8f8e71</podcast:guid>
+    <podcast:txt purpose="episode">Alternate Audio</podcast:txt>
+      <podcast:remoteItem feedGuid="e84ac77a-3779-5db3-9a7b-aec084e9bf67" itemGuid="d3b59ccc-439c-4349-acc4-032e5bd02f5e"/>
+      <podcast:remoteItem feedGuid="f4e08a17-534f-5f90-87fc-ee4d14848eb3" itemGuid="23fdefbc-a2de-4da9-bc35-d336eb05568a"/>
+      <podcast:remoteItem feedGuid="6181593c-412e-5f71-8f17-de49f58aee14" itemGuid="01hereforyou"/>
+      <podcast:remoteItem feedGuid="f2d242f6-4e01-5cb2-90ff-5c51ed83377f" itemGuid="01cantholdmedown"/>
+      <podcast:remoteItem feedGuid="aa937d9e-5b75-5d65-9115-09cac8e24b45" itemGuid="87965742-bc89-4597-a2e9-d232214ccec4"/>
+      <podcast:remoteItem feedGuid="aa937d9e-5b75-5d65-9115-09cac8e24b45" itemGuid="4fac416f-16df-48b6-9429-eb2c2a8b74d5"/>
+      <podcast:remoteItem feedGuid="87750227-32d0-5154-8944-a6c65cf57157" itemGuid="98b2eec4-9f9a-40ec-8885-f872bc6bc419"/>
+      <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="796d5041-eb9b-46fd-8cad-6a11932f3508"/>
+      <podcast:remoteItem feedGuid="fb9782db-90a3-5375-87b5-7605e728dd4b" itemGuid="443a0d15-9f3c-410e-9c72-573bec65ddcb"/>
+      <podcast:remoteItem feedGuid="0b108871-ab2d-530b-bcb3-2e03e09a7b32" itemGuid="c20df286-2d2d-4e68-9ecc-f53909920da8"/>
+      <podcast:remoteItem feedGuid="8d0c0bd8-6daa-50fd-8d02-026f51801c3c" itemGuid="a5085d38-e073-45bb-9687-b0ba0cc65493"/>
+      <podcast:remoteItem feedGuid="3af6e775-5f66-5cb1-9778-4b47095ec17b" itemGuid="37fd104c-ce03-4482-9992-f6b95b35e8ef"/>
+      <podcast:remoteItem feedGuid="419b741c-a3de-5e39-acb4-74bda853510b" itemGuid="c908e35c-7fbf-48ee-8aa3-3313613d82f4"/>
+      <podcast:remoteItem feedGuid="5847498b-9db5-509f-860f-3f3c3c422698" itemGuid="bbf5214d-2961-41dd-999f-83a4c90e07d1"/>
+      <podcast:remoteItem feedGuid="6699f042-029c-53e9-ad2e-7da90b10892c" itemGuid="83c86c86-c396-4252-af18-ed494030709f"/>
+      <podcast:remoteItem feedGuid="480cd4bc-ed48-543a-bac2-3196e078ba66" itemGuid="69cdf0fb-f42d-4beb-a0c9-8476eb287084"/>
+      <podcast:remoteItem feedGuid="2c7c9f5f-a6d1-5fdf-8208-185d437fc83d" itemGuid="1233e359-6ea8-4fef-88cb-c59fdb6e022a"/>
     <podcast:txt purpose="episode">Tetrad Of Tracks</podcast:txt>
       <podcast:remoteItem feedGuid="9c4017a3-5a53-5b3d-b2bd-783fbf2afae9" itemGuid="ac8ea012-8f97-474c-b00d-7ce5fe343cb6"/>
       <podcast:remoteItem feedGuid="9c4017a3-5a53-5b3d-b2bd-783fbf2afae9" itemGuid="3d96ace6-eacb-455c-8b34-7fb644aa984a"/>
