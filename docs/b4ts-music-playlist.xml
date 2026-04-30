@@ -6,13 +6,27 @@
     <link>https://behindthesch3m3s.com/</link>
     <podcast:txt purpose="source-feed">https://music.behindthesch3m3s.com/b4ts%20feed/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 28 Feb 2026 22:14:06 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 22:14:06 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 09:11:08 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:11:08 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/b4ts-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>112dd48e-2d67-4764-8668-e11d1aa64ddd</podcast:guid>
+    <podcast:guid>0375cd44-0409-4c5d-9855-ef217780e9cc</podcast:guid>
+    <podcast:txt purpose="episode">B4TS 04⚡︎27⚡︎2026</podcast:txt>
+      <podcast:remoteItem feedGuid="7b8a607a-950f-4dc9-959d-08ea88fc14f5" itemGuid="3c1bfe17-1356-4c80-aa72-127912901feb"/>
+      <podcast:remoteItem feedGuid="634b45ba-7241-4c99-a567-8e9fb597fdf8" itemGuid="040a8058-8394-403c-a297-ef7359431847"/>
+      <podcast:remoteItem feedGuid="f182c767-6ba2-45a8-8f80-bfbe4fe65aa7" itemGuid="5febc8b7-cc63-4006-8eab-4132687000b9"/>
+      <podcast:remoteItem feedGuid="f21daf71-4c7b-5fe1-82c6-3a1c2a48c764" itemGuid="7816f0e2-da0d-4d2e-9440-b7d10094b497"/>
+      <podcast:remoteItem feedGuid="a1077af6-602b-5daf-957b-68a65a03cad1" itemGuid="7c823adf-1e53-4df1-98c0-979da81ec916"/>
+      <podcast:remoteItem feedGuid="24eb56be-74dd-479d-aa6a-4b3a7afb8894" itemGuid="9f6eacba-c533-47ee-9d29-6e3c27099d69"/>
+      <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" itemGuid="53bf7c03-2323-4da7-ba00-d528e4b5edf6"/>
+      <podcast:remoteItem feedGuid="c6e3d288-559d-5756-a04c-8a2141c378cd" itemGuid="01savemetonight"/>
+      <podcast:remoteItem feedGuid="9c4017a3-5a53-5b3d-b2bd-783fbf2afae9" itemGuid="fea47576-2fb1-4959-8953-14f63735c299"/>
+      <podcast:remoteItem feedGuid="9eecf4ce-e7b8-5952-99da-d60e2311505e" itemGuid="0d07e36c-74ec-42a5-8581-56477148fc6e"/>
+      <podcast:remoteItem feedGuid="41bc935a-e6b0-563f-851a-47f46fb35ce8" itemGuid="73f850fd-6485-4009-af70-0c51c16dd666"/>
+      <podcast:remoteItem feedGuid="9e72a512-c678-5621-8fd6-dfc7cd11a846" itemGuid="6e54f05d-062c-4039-b876-bbd0a1e83412"/>
+      <podcast:remoteItem feedGuid="b18d2139-63ae-42e9-88bb-578b40a1bc98" itemGuid="b64a45e7-0c31-47cd-81f0-e8d7321d89aa"/>
     <podcast:txt purpose="episode">B4TS 01⚡︎04⚡︎2026</podcast:txt>
       <podcast:remoteItem feedGuid="2cfd7dfd-19e1-545b-b3f3-8465d5d1d362" itemGuid="fafc072c-9fd8-4eca-8002-89e4b8787d75"/>
       <podcast:remoteItem feedGuid="f32aff4c-3398-5c86-8955-2be20c4e5b9e" itemGuid="thenogs-donkey-01-porky-piggin-it"/>
@@ -41,7 +55,6 @@
       <podcast:remoteItem feedGuid="0bbc3ce8-5ded-57b9-b02a-0c15a515dd49" itemGuid="a1e7aa07-8ad8-4f64-910a-1d79a7f12972"/>
       <podcast:remoteItem feedGuid="f38e27af-fb9e-46ef-9ed9-5d8046d094a9" itemGuid="bd0eecb1-db56-4355-a9bb-f8d9629283e2"/>
       <podcast:remoteItem feedGuid="36d16a92-cd56-5009-a487-5db79da5a9f6" itemGuid="689a68cb-eaf1-4e52-8d62-adaa934e3947"/>
-      <podcast:remoteItem feedGuid="fdaac8ac-c63b-5065-86d0-246dccce306a" itemGuid="57560997-372d-4f9a-829b-fb51aa107d9b"/>
       <podcast:remoteItem feedGuid="bd3985d4-89ea-506f-82a2-82e98835025b" itemGuid="b9a28cfe-5f2c-4977-8c2e-873bd6ed02d8"/>
       <podcast:remoteItem feedGuid="c989830b-49a1-572f-9f0e-0fec994a6d5a" itemGuid="5a29af60-4ff7-4ce3-9a71-4333b799a90d"/>
     <podcast:txt purpose="episode">B4TS 03⚡︎09⚡︎2025</podcast:txt>
