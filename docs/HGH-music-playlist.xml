@@ -6,13 +6,26 @@
     <link>https://homegrownhits.xyz</link>
     <podcast:txt purpose="source-feed">https://feed.homegrownhits.xyz/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 24 Apr 2026 08:59:49 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 08:59:49 GMT</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 09:00:53 GMT</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 09:00:53 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/HGH-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>9fd53d18-f58d-4368-84fe-93bc840ef9b6</podcast:guid>
+    <podcast:guid>de29552b-3764-42cd-9514-dd3fa5c2fd0c</podcast:guid>
+    <podcast:txt purpose="episode">Homegrown Hits - Episode 133</podcast:txt>
+      <podcast:remoteItem feedGuid="0653114c-dd08-5f36-863d-009d56bccb8d" itemGuid="b0407496-c2c6-4703-8d7e-3e4ca6d4e651"/>
+      <podcast:remoteItem feedGuid="a1ddf2a4-6466-5af4-95ff-5ead7361e02a" itemGuid="c42493b8-e6a3-44bd-8f75-35623f6af4b8"/>
+      <podcast:remoteItem feedGuid="6c047b0d-3d30-4eb7-894c-82fdd40d7e33" itemGuid="6fe2f866-8aa7-466e-bddc-cc1b698f723b"/>
+      <podcast:remoteItem feedGuid="57676ff4-82f4-589f-b8e7-d20e50e2dff9" itemGuid="d26fa148-000a-4a54-99b5-88e53a2c7774"/>
+      <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="37e84f08-905c-4f19-9dea-18b3ffef11b4"/>
+      <podcast:remoteItem feedGuid="b62cd990-782c-59b2-b894-be436e0d1774" itemGuid="1d8cdc03-bd21-4ccf-a4df-77e1c873989f"/>
+      <podcast:remoteItem feedGuid="5cd9cbc0-0538-58fc-80db-d43ea86ce19b" itemGuid="21f4564b-9b7b-421a-89d7-751ce17236d8"/>
+      <podcast:remoteItem feedGuid="c39beac5-bd10-5e1b-9c72-16865b8fa42a" itemGuid="dc5dac9b-7b73-48c5-a11f-735bbe19b035"/>
+      <podcast:remoteItem feedGuid="48c8e887-0305-5527-817c-73708d48c393" itemGuid="https://pirate.mxtthxw.art/@comiccapers/episodes/zoinks"/>
+      <podcast:remoteItem feedGuid="480cd4bc-ed48-543a-bac2-3196e078ba66" itemGuid="69cdf0fb-f42d-4beb-a0c9-8476eb287084"/>
+      <podcast:remoteItem feedGuid="a863fc3e-3bbf-5980-abd1-33bcce26cd1a" itemGuid="fd8c400c-7dc4-4f42-94a8-54e2ad12ef3e"/>
+      <podcast:remoteItem feedGuid="c6e3d288-559d-5756-a04c-8a2141c378cd" itemGuid="01savemetonight"/>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 132</podcast:txt>
       <podcast:remoteItem feedGuid="2d23b4c5-8458-491b-aaf5-ff14ba774c5c" itemGuid="040a8058-8394-403c-a297-ef7359431847"/>
       <podcast:remoteItem feedGuid="2d23b4c5-8458-491b-aaf5-ff14ba774c5c" itemGuid="88d92fd1-82d3-4629-aa66-f326c739f806"/>
