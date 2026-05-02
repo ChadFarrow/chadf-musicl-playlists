@@ -6,13 +6,26 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 25 Apr 2026 08:05:02 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Apr 2026 08:05:02 GMT</lastBuildDate>
+    <pubDate>Sat, 02 May 2026 08:20:51 GMT</pubDate>
+    <lastBuildDate>Sat, 02 May 2026 08:20:51 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>dd32ff3e-6ac1-40cc-a66f-264dd2335161</podcast:guid>
+    <podcast:guid>2f21573b-a0f7-4efe-a5c9-fddb1a2f799c</podcast:guid>
+    <podcast:txt purpose="episode">135th Edition - Pickle Pop</podcast:txt>
+      <podcast:remoteItem feedGuid="4352473a-202f-46d0-b7d0-01bb190ef399" itemGuid="7b8c49b3-4478-4d6b-85c0-517724d20619"/>
+      <podcast:remoteItem feedGuid="20e33497-7c08-5748-b294-6f44ac23aa36" itemGuid="157154cf-82d8-46ec-87f6-e2dba5fcbbe5"/>
+      <podcast:remoteItem feedGuid="e3c362c6-a064-59ce-8137-e00a14262ba2" itemGuid="54efc2a3-51c3-4ae9-8178-8728583dd02b"/>
+      <podcast:remoteItem feedGuid="a863fc3e-3bbf-5980-abd1-33bcce26cd1a" itemGuid="fd8c400c-7dc4-4f42-94a8-54e2ad12ef3e"/>
+      <podcast:remoteItem feedGuid="c6e3d288-559d-5756-a04c-8a2141c378cd" itemGuid="01savemetonight"/>
+      <podcast:remoteItem feedGuid="96a8d37d-084f-5714-90ab-46a65b646b0a" itemGuid="c1ccb4bc-8ba9-4cd0-b9eb-ed496f49ba0c"/>
+      <podcast:remoteItem feedGuid="9b5fd385-f87d-5173-a641-5cdc3982d92e" itemGuid="97ccdaf7-9f63-4711-a446-b4026f12ffbc"/>
+      <podcast:remoteItem feedGuid="5cd9cbc0-0538-58fc-80db-d43ea86ce19b" itemGuid="21f4564b-9b7b-421a-89d7-751ce17236d8"/>
+      <podcast:remoteItem feedGuid="b8b6971e-403e-568f-a4e6-7aa2b45e50d4" itemGuid="72a3b402-8491-4cd9-823e-a621fd81b86f"/>
+      <podcast:remoteItem feedGuid="187f22db-79cb-5ac4-aa60-54e424e3915e" itemGuid="9066798b-4038-488b-9674-7ba766782028"/>
+      <podcast:remoteItem feedGuid="48c8e887-0305-5527-817c-73708d48c393" itemGuid="https://pirate.mxtthxw.art/@comiccapers/episodes/nauti-boi"/>
+      <podcast:remoteItem feedGuid="0caa8dc3-5502-504d-9af3-a8435569a554" itemGuid="9f28efcf-cf85-47be-b9c0-d5d9627b38a3"/>
     <podcast:txt purpose="episode">134th Edition</podcast:txt>
       <podcast:remoteItem feedGuid="575604d4-efdc-5aa1-a8bd-598798b65553" itemGuid="b285584f-b438-4876-94b7-90fdd725fd78"/>
       <podcast:remoteItem feedGuid="a8d5f8ef-1af4-519b-80cf-109a0491eccf" itemGuid="d3e6b7d2-fdd3-4951-8573-583fc0416272"/>
