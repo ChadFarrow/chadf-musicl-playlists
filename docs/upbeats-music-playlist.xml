@@ -6,13 +6,29 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/3aebb7a8-5942-5ee7-a148-8bdc14f1f3d4</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 20 Apr 2026 09:06:52 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 09:06:52 GMT</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 09:19:41 GMT</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 09:19:41 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>f5c70724-7063-4df9-a392-30d2e3381e6a</podcast:guid>
+    <podcast:guid>aab27c63-b2aa-43db-a496-a28748e86a83</podcast:guid>
+    <podcast:txt purpose="episode">72: VHS Vibes</podcast:txt>
+      <podcast:remoteItem feedGuid="968c5e87-566f-58b2-a0a9-4166e5e7e2f2" itemGuid="d3210837-9a57-5275-85bf-5d1e2a975299"/>
+      <podcast:remoteItem feedGuid="1256775b-f974-53f2-8f14-4afe41009a8f" itemGuid="7f302f03-52e1-410b-9648-fd7003cc70a5"/>
+      <podcast:remoteItem feedGuid="bcd811d1-9fda-51d9-b2a6-9337f0131b66" itemGuid="50e14a30-615c-4bba-bf04-07005bc5d359"/>
+      <podcast:remoteItem feedGuid="816b418c-4e41-5fa3-a608-d4059083a78e" itemGuid="4ddf4e62-c14b-4347-af00-aee318dbb8dc"/>
+      <podcast:remoteItem feedGuid="a1e7b24a-e2b5-5232-be37-69f71dd0739e" itemGuid="05d50c32-8b33-534d-ae78-1092a28bbddf"/>
+      <podcast:remoteItem feedGuid="35b1ff81-f48a-5dcc-bfbe-d294783988eb" itemGuid="74728858-8a89-4e5c-820c-85c950bc61aa"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="5a646f7a-67fa-4124-83a5-85f4a1ae632f"/>
+      <podcast:remoteItem feedGuid="ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b" itemGuid="6fb40af1-f27a-4434-b93f-9e1111796950"/>
+      <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" itemGuid="595cda03-04c4-48be-8cdf-16e62804e73e"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="08b637f9-0b42-424e-b05e-2e52f7673308"/>
+      <podcast:remoteItem feedGuid="b9ebc452-93f3-5b10-9699-d2b8dc835cd8" itemGuid="13b5be69-647d-4a7f-a313-b02dd5365b12"/>
+      <podcast:remoteItem feedGuid="5d5be024-321d-5342-838e-988d1653296b" itemGuid="fb279ed1-10ec-4060-967d-9af45c19505f"/>
+      <podcast:remoteItem feedGuid="1c5fd637-054c-51ad-8e54-a2cc685f3848" itemGuid="5bd57cce-ada8-43f1-92d4-e1593dbad8e9"/>
+      <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="796d5041-eb9b-46fd-8cad-6a11932f3508"/>
+      <podcast:remoteItem feedGuid="f3f9bee7-851c-5236-8051-8248aa5e1126" itemGuid="bdab7f8e-d40a-4b03-aff7-993b45cdc103"/>
     <podcast:txt purpose="episode">71: Fork The Index</podcast:txt>
       <podcast:remoteItem feedGuid="fd0b5de1-9593-5d58-bdf0-63793720ca46" itemGuid="ace88a9c-bc7b-4663-959f-de61fdd0b869"/>
       <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" itemGuid="53bf7c03-2323-4da7-ba00-d528e4b5edf6"/>
