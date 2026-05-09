@@ -6,13 +6,21 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 02 May 2026 08:20:51 GMT</pubDate>
-    <lastBuildDate>Sat, 02 May 2026 08:20:51 GMT</lastBuildDate>
+    <pubDate>Sat, 09 May 2026 08:26:18 GMT</pubDate>
+    <lastBuildDate>Sat, 09 May 2026 08:26:18 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>2f21573b-a0f7-4efe-a5c9-fddb1a2f799c</podcast:guid>
+    <podcast:guid>18df04ba-b847-4b2f-a1e2-2a2acfa79afc</podcast:guid>
+    <podcast:txt purpose="episode">136th Edition - AKME Beats</podcast:txt>
+      <podcast:remoteItem feedGuid="6fc33d6c-2889-5c01-af54-0b43977f4bd8" itemGuid="f3be95e8-5530-41a8-bdd8-1f09b9cc51bd"/>
+      <podcast:remoteItem feedGuid="c321ab82-014f-5f2b-8881-41aa5e880c17" itemGuid="3bb82214-4a74-43d1-9c21-4e3c644e7a47"/>
+      <podcast:remoteItem feedGuid="889f984f-26a1-5f4d-b0d5-596038b724ce" itemGuid="187307c4-1d6a-484f-8297-b82ef4fe5ce5"/>
+      <podcast:remoteItem feedGuid="f502f5c7-6085-5f78-bf18-cfdc06762a98" itemGuid="97446cdb-ded7-4caa-ab49-4a680dc5074b"/>
+      <podcast:remoteItem feedGuid="656d0c9e-af81-50bd-be95-361ee0f625ab" itemGuid="45d34c5e-64c7-411d-a3d5-2534274b85b9"/>
+      <podcast:remoteItem feedGuid="3dd189e8-8af0-5b39-a55b-b96cda9f0d8f" itemGuid="6f5474ef-8c9d-43ae-82ed-0db1aba6aae4"/>
+      <podcast:remoteItem feedGuid="074e76e0-8ca1-5d6e-aaa9-824cc5d7ec12" itemGuid="01580761-4d0e-44b1-9343-4549078e4fad"/>
     <podcast:txt purpose="episode">135th Edition - Pickle Pop</podcast:txt>
       <podcast:remoteItem feedGuid="4352473a-202f-46d0-b7d0-01bb190ef399" itemGuid="7b8c49b3-4478-4d6b-85c0-517724d20619"/>
       <podcast:remoteItem feedGuid="20e33497-7c08-5748-b294-6f44ac23aa36" itemGuid="157154cf-82d8-46ec-87f6-e2dba5fcbbe5"/>
