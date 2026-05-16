@@ -6,13 +6,28 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 09 May 2026 08:26:18 GMT</pubDate>
-    <lastBuildDate>Sat, 09 May 2026 08:26:18 GMT</lastBuildDate>
+    <pubDate>Sat, 16 May 2026 08:47:42 GMT</pubDate>
+    <lastBuildDate>Sat, 16 May 2026 08:47:42 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>18df04ba-b847-4b2f-a1e2-2a2acfa79afc</podcast:guid>
+    <podcast:guid>a812c9fc-7338-4eab-b915-46e4f92d207f</podcast:guid>
+    <podcast:txt purpose="episode">137th Edition</podcast:txt>
+      <podcast:remoteItem feedGuid="90d6ac9d-8a16-419e-8331-0eb7cb0f1579" itemGuid="61257a4e-194f-4d00-96b8-a14a2712cc8e"/>
+      <podcast:remoteItem feedGuid="d32febd6-733e-5ef4-a3c5-63116bd0ed89" itemGuid="00655cd0-8787-4295-826d-4a93ee853fb4"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="d08058e1-4ea3-47ab-a924-9d10866e6a83"/>
+      <podcast:remoteItem feedGuid="b18d2139-63ae-42e9-88bb-578b40a1bc98" itemGuid="47fe2e91-e1b1-4e80-a16e-6b822cf8bcc8"/>
+      <podcast:remoteItem feedGuid="495c0d0b-f576-5d12-a76a-d806f2e19b7e" itemGuid="5b04f023-2d3d-425d-93bf-88c310fda3ff"/>
+      <podcast:remoteItem feedGuid="42a3a45a-9dfc-5c2f-ac50-de9d9e9317e3" itemGuid="df2e41ee-2b0f-48fc-b564-e3cdad1ba6a1"/>
+      <podcast:remoteItem feedGuid="78c5059b-d36c-525f-b7c5-ea0b7f0f29be" itemGuid="e13b8da1-c493-5baf-ac64-6fdbad262769"/>
+      <podcast:remoteItem feedGuid="90d6ac9d-8a16-419e-8331-0eb7cb0f1579" itemGuid="6b599334-5a25-43f1-9826-7856f1b259d7"/>
+      <podcast:remoteItem feedGuid="f842b7c8-9f12-54f2-a0b8-4f95c63dad4c" itemGuid="ec6d696b-a580-5fdd-9049-a977501cb012"/>
+      <podcast:remoteItem feedGuid="780cb1b2-c2b8-5424-80c3-377c9d8b2096" itemGuid="010de013-1b50-4ed3-8530-b49e299bffa6"/>
+      <podcast:remoteItem feedGuid="b6655117-f52b-5547-95db-9679cabbecc0" itemGuid="3a05a06a-a6f7-4f75-866b-125eba1f890d"/>
+      <podcast:remoteItem feedGuid="889f984f-26a1-5f4d-b0d5-596038b724ce" itemGuid="7a2cd6b7-22c9-447d-8896-1f252fd4123f"/>
+      <podcast:remoteItem feedGuid="a5ebd2c4-751a-51b4-ad6b-15ce28edd67e" itemGuid="1e981862-b21a-49dc-8d7d-f34e899fae01"/>
+      <podcast:remoteItem feedGuid="2c3885e7-e953-5800-acc3-94cd8a07e90b" itemGuid="1976444e-3b96-4922-b97f-ae31d186fcf2"/>
     <podcast:txt purpose="episode">136th Edition - AKME Beats</podcast:txt>
       <podcast:remoteItem feedGuid="6fc33d6c-2889-5c01-af54-0b43977f4bd8" itemGuid="f3be95e8-5530-41a8-bdd8-1f09b9cc51bd"/>
       <podcast:remoteItem feedGuid="c321ab82-014f-5f2b-8881-41aa5e880c17" itemGuid="3bb82214-4a74-43d1-9c21-4e3c644e7a47"/>
