@@ -6,13 +6,29 @@
     <link>https://upbeatspodcast.com/</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/3aebb7a8-5942-5ee7-a148-8bdc14f1f3d4</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 04 May 2026 09:19:41 GMT</pubDate>
-    <lastBuildDate>Mon, 04 May 2026 09:19:41 GMT</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 11:06:18 GMT</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 11:06:18 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>aab27c63-b2aa-43db-a496-a28748e86a83</podcast:guid>
+    <podcast:guid>38bbc2b0-ff15-43b4-981b-65859c85e627</podcast:guid>
+    <podcast:txt purpose="episode">73: Feed Your Feed</podcast:txt>
+      <podcast:remoteItem feedGuid="b6655117-f52b-5547-95db-9679cabbecc0" itemGuid="3a05a06a-a6f7-4f75-866b-125eba1f890d"/>
+      <podcast:remoteItem feedGuid="04e5ab58-6f0f-5878-bac7-f2eced115452" itemGuid="6adbfa1d-8bc8-4c48-8d8c-6696840c5d35"/>
+      <podcast:remoteItem feedGuid="ed8d5071-7905-5b4e-b67f-463d29e4542d" itemGuid="d5b76343-c42a-533c-bb42-a88c18a8845b"/>
+      <podcast:remoteItem feedGuid="30c519c2-04cc-5c4a-808b-d437697fb760" itemGuid="2b1c8243-1aa4-4fd6-bb4a-06b7196486bf"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="f788afd4-a6d0-4abc-91d0-6611780229da"/>
+      <podcast:remoteItem feedGuid="8d1e41ed-ca70-4b5c-94ef-a4babb7395cc" itemGuid="47bc24a3-22c9-49b2-ac03-59c20b990b45"/>
+      <podcast:remoteItem feedGuid="2514d117-8a84-5345-82e8-8ed7b940cf1f" itemGuid="a25936e7-e87d-41a3-a7bd-bd206e0ffc47"/>
+      <podcast:remoteItem feedGuid="abd04d68-1949-5d4f-9ce6-88a3ddff6c39" itemGuid="89e259e3-b2eb-4069-a273-de9902678856"/>
+      <podcast:remoteItem feedGuid="cb656d86-ec4d-5a7f-b97c-22e7599c4e44" itemGuid="973c3f5d-0b98-46df-a3c9-39c2b5077b9e"/>
+      <podcast:remoteItem feedGuid="2e0c01d2-155f-5a30-b826-0b738691c153" itemGuid="30cf2422-44e9-4eb0-9c50-00bd5f767406"/>
+      <podcast:remoteItem feedGuid="dbfd9254-6f92-5b76-9b1a-25d86299f988" itemGuid="a2dfabc3-1b03-43e1-a37d-fd6e0cb7cccb"/>
+      <podcast:remoteItem feedGuid="6bf3785f-e053-57f4-9f70-261ee5e3747f" itemGuid="cefb5a94-44c9-4d17-93c0-de6830d27d50"/>
+      <podcast:remoteItem feedGuid="99a14604-f38b-5e9d-8679-9314d1207cd4" itemGuid="e90b915a-8773-4bdd-b8be-9eaea52cb99f"/>
+      <podcast:remoteItem feedGuid="fc815bcf-3639-5395-ba7d-fa217ec93d32" itemGuid="b6e5fe83-267b-472e-b86e-1190e1fbea93"/>
+      <podcast:remoteItem feedGuid="6009c9ad-7c37-51e7-bc73-d996a25f85a7" itemGuid="d6204957-5f0b-4954-b734-cbcff619caab"/>
     <podcast:txt purpose="episode">72: VHS Vibes</podcast:txt>
       <podcast:remoteItem feedGuid="968c5e87-566f-58b2-a0a9-4166e5e7e2f2" itemGuid="d3210837-9a57-5275-85bf-5d1e2a975299"/>
       <podcast:remoteItem feedGuid="1256775b-f974-53f2-8f14-4afe41009a8f" itemGuid="7f302f03-52e1-410b-9648-fd7003cc70a5"/>
@@ -336,7 +352,7 @@
       <podcast:remoteItem feedGuid="2514d117-8a84-5345-82e8-8ed7b940cf1f" itemGuid="a25936e7-e87d-41a3-a7bd-bd206e0ffc47"/>
       <podcast:remoteItem feedGuid="4a156167-aea1-5bc3-9e7d-504477127f79" itemGuid="3220a090-0355-4848-847a-450654f1de9f"/>
       <podcast:remoteItem feedGuid="de032037-63e0-5c6b-820d-13d4319a2b19" itemGuid="9ce1aa7a-a18a-47c1-8fc5-24ea86dad38d"/>
-    <podcast:txt purpose="episode">Foam Finger #1</podcast:txt>
+    <podcast:txt purpose="episode">52: Foam Finger #1</podcast:txt>
       <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="37e84f08-905c-4f19-9dea-18b3ffef11b4"/>
       <podcast:remoteItem feedGuid="e699a03a-8ddd-5005-8bd8-6e898c77657f" itemGuid="f39cac24-e688-49b6-a2e7-677c496b4dcc"/>
       <podcast:remoteItem feedGuid="babd1567-2803-5ede-9a19-302c2fbf9eae" itemGuid="05c18f7a-d0ff-4cb9-8fc4-0900f3055d99"/>
