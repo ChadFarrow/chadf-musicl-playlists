@@ -6,13 +6,15 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 05 Mar 2026 07:42:04 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2026 07:42:04 GMT</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 10:36:58 GMT</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 10:36:58 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>38c5c66f-c478-4f78-8ea9-3768e7eabacf</podcast:guid>
+    <podcast:guid>6d51ea67-e68f-4e8e-aee4-b22ab5f766f8</podcast:guid>
+    <podcast:txt purpose="episode">Episode 68...Finally</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 67 - Doerfel Exclusive</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 66 - Cheaper than Therapy</podcast:txt>
