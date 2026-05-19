@@ -6,13 +6,34 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 13 May 2026 09:44:41 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 09:44:41 GMT</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 10:37:06 GMT</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 10:37:06 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>ae3cbba3-d3cf-4e2b-b554-ae3a51c22a62</podcast:guid>
+    <podcast:guid>863e8bef-abed-4827-a7af-90a582130a01</podcast:guid>
+    <podcast:txt purpose="episode">Off The Beaten Path</podcast:txt>
+      <podcast:remoteItem feedGuid="24ddd33b-cfec-568b-8402-5813bbb1d924" itemGuid="38d69c61-7b5f-4682-8ccf-75cafc93e2c3"/>
+      <podcast:remoteItem feedGuid="24ddd33b-cfec-568b-8402-5813bbb1d924" itemGuid="d372291c-5b13-40a2-a5d9-3bd234d52fc1"/>
+      <podcast:remoteItem feedGuid="f8be98e8-d2b1-503e-95b6-9ba0eb57bd02" itemGuid="3c3b6a9c-3f54-49a9-b76d-47f9e3275687"/>
+      <podcast:remoteItem feedGuid="2ea9b5c2-17dc-5296-aaf6-59a71057273d" itemGuid="96ca2236-6a98-48d8-971e-5b2986fd13cf"/>
+      <podcast:remoteItem feedGuid="6b7a1931-8b33-554c-a7e7-b63653098eb5" itemGuid="9f47ab46-57de-406d-8c5b-f17aff7284df"/>
+      <podcast:remoteItem feedGuid="6b7a1931-8b33-554c-a7e7-b63653098eb5" itemGuid="b56a5c34-4b85-46c0-943b-59239ab73cc2"/>
+      <podcast:remoteItem feedGuid="25b80d10-82f7-5f64-a5ee-d2271a3d59d9" itemGuid="a46f6fa0-696d-4de4-b551-1c6eb845bb38"/>
+      <podcast:remoteItem feedGuid="25b80d10-82f7-5f64-a5ee-d2271a3d59d9" itemGuid="634ae108-59b7-46cc-a7ab-cbdcf298ada1"/>
+      <podcast:remoteItem feedGuid="671612fb-9039-5189-9d4b-0fd9df2093dd" itemGuid="dc6ea8b6-0054-5383-84de-5a622a7f7ca1"/>
+      <podcast:remoteItem feedGuid="671612fb-9039-5189-9d4b-0fd9df2093dd" itemGuid="2afdf896-9bde-52eb-9659-5cfe51a9be57"/>
+      <podcast:remoteItem feedGuid="04de03d9-7d29-59ce-841b-82c77d3ef47f" itemGuid="a39376ea-7ab7-4da0-8e93-d2f210e6731d"/>
+      <podcast:remoteItem feedGuid="04de03d9-7d29-59ce-841b-82c77d3ef47f" itemGuid="de235a50-cb70-4bd4-ad70-9ebe8feda084"/>
+      <podcast:remoteItem feedGuid="7cff8a96-7cff-4cff-8ff8-7cff8a967cff" itemGuid="https://sunami.app/track/naddr1qvzqqqy0kvpzqj8fwczhhuk0zvesyq64khfy87xasyl3jvz3689sgsfcjn6x4nzrqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq35amnwvaz7tmywfhhquewvfshxumsd9ehgmmv9ehhyecprfmhxue69uhhyetvv9ujummsv4h8yetnd9ehgtnrdakszxthwden5te0wf5kymewv46jumn0wd68y6tp9eshquqpp4mhxue69uhkummn9ekx7mqpz4mhxue69uhhyetvv9ujuerfw36x7tnsw43qq8t5wfskx6edxymnwdfjxsenvwpjxgunwtfex9kxwutk8pekcgr3ly2"/>
+      <podcast:remoteItem feedGuid="2de76e80-2de7-4de7-8e76-2de76e802de7" itemGuid="https://sunami.app/track/naddr1qvzqqqy0kvpzqj8fwczhhuk0zvesyq64khfy87xasyl3jvz3689sgsfcjn6x4nzrqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq35amnwvaz7tmywfhhquewvfshxumsd9ehgmmv9ehhyecprfmhxue69uhhyetvv9ujummsv4h8yetnd9ehgtnrdakszxthwden5te0wf5kymewv46jumn0wd68y6tp9eshquqpp4mhxue69uhkummn9ekx7mqpz4mhxue69uhhyetvv9ujuerfw36x7tnsw43qq8t5wfskx6edxymnwwpkxgcrxve4x5crztt3xdmhv7rcxdnx5efk4mg"/>
+      <podcast:remoteItem feedGuid="ad64db23-d152-5c8a-a0e6-175b74dcc1e4" itemGuid="f5dccd8c-36b4-4fd9-b9aa-1061dbae3e40"/>
+      <podcast:remoteItem feedGuid="825c97d1-86ea-5b39-ad6c-50e1e56e0a85" itemGuid="a85379de-772a-4c24-b26c-f45bb30ecf4d"/>
+      <podcast:remoteItem feedGuid="b878b434-b300-55ac-b747-bcb886194c9a" itemGuid="01turnupthetime"/>
+      <podcast:remoteItem feedGuid="cdeb2a92-34fc-59a3-9725-b13f90210d62" itemGuid="01whentheycamearound"/>
+      <podcast:remoteItem feedGuid="7070a618-58b0-5528-a3a5-e5378b270820" itemGuid="530fbda4-3f91-4f21-a80a-0d3665b0e8a6"/>
+      <podcast:remoteItem feedGuid="b5f6e221-f358-5cfd-8711-d864ed9b7846" itemGuid="e4eacddb-b44f-41bd-9dc6-507b95c621ab"/>
     <podcast:txt purpose="episode">At The N Pub</podcast:txt>
       <podcast:remoteItem feedGuid="03f39d9f-1b25-5b35-bc6c-779e2155f106" itemGuid="dbdc2432-6840-4ee4-a6db-da5e63e98e0b"/>
       <podcast:remoteItem feedGuid="05b75483-9f5b-5236-bd66-69e9d3e1b995" itemGuid="34d677ca-a256-491f-bc5b-7de9be44db53"/>
