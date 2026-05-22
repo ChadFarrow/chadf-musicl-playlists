@@ -6,13 +6,21 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 19 May 2026 10:36:58 GMT</pubDate>
-    <lastBuildDate>Tue, 19 May 2026 10:36:58 GMT</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 10:23:52 GMT</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 10:23:52 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>6d51ea67-e68f-4e8e-aee4-b22ab5f766f8</podcast:guid>
+    <podcast:guid>f4dfb557-9e2d-4ecd-b665-2b5f33cb32ff</podcast:guid>
+    <podcast:txt purpose="episode">Episode 69 - Late Night Podcast Bug</podcast:txt>
+      <podcast:remoteItem feedGuid="4ab3741a-4a10-5631-a026-a9d0eb62fe11" itemGuid="26611820-2bc0-4769-8272-4f4d025267c6"/>
+      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="9ff8f18b-cc79-474c-a3e9-2948113b8bf5"/>
+      <podcast:remoteItem feedGuid="3ae285ab-434c-59d8-aa2f-59c6129afb92" itemGuid="1cf98a44-120f-4304-b351-ba3f59dbe617"/>
+      <podcast:remoteItem feedGuid="dbfd9254-6f92-5b76-9b1a-25d86299f988" itemGuid="20cfb787-e9b5-432d-91eb-2786e779cc71"/>
+      <podcast:remoteItem feedGuid="b62cd990-782c-59b2-b894-be436e0d1774" itemGuid="0f2554df-e076-40d0-bd92-bc48c6e9a9c8"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="af72558e-5042-4820-bac0-d4f79a83a7bc"/>
+      <podcast:remoteItem feedGuid="4ab3741a-4a10-5631-a026-a9d0eb62fe11" itemGuid="773c4e70-9dcc-47e4-a8ab-9bfb9ad972e3"/>
     <podcast:txt purpose="episode">Episode 68...Finally</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 67 - Doerfel Exclusive</podcast:txt>
