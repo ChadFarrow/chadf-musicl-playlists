@@ -6,13 +6,21 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 16 May 2026 08:47:42 GMT</pubDate>
-    <lastBuildDate>Sat, 16 May 2026 08:47:42 GMT</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 09:01:14 GMT</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 09:01:14 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>a812c9fc-7338-4eab-b915-46e4f92d207f</podcast:guid>
+    <podcast:guid>68be0cea-8b89-4460-9b22-256349508b5e</podcast:guid>
+    <podcast:txt purpose="episode">138th Edition - G.O.L.D.</podcast:txt>
+      <podcast:remoteItem feedGuid="881196bd-0c9d-5998-b9f0-61829e931070" itemGuid="e96c9674-a8bd-422d-a2fd-a1dfffef772b"/>
+      <podcast:remoteItem feedGuid="881196bd-0c9d-5998-b9f0-61829e931070" itemGuid="0aee54a9-2370-464a-add9-9809aac43c0e"/>
+      <podcast:remoteItem feedGuid="881196bd-0c9d-5998-b9f0-61829e931070" itemGuid="d48d0f01-f45e-4a30-a8b3-e03fc9035c3e"/>
+      <podcast:remoteItem feedGuid="2b2cc685-86e1-552d-86c6-60f0871ad4fa" itemGuid="880ec6f6-f34a-4163-8023-78a2b0877fae"/>
+      <podcast:remoteItem feedGuid="581174df-0d88-5f42-bae0-04761d8575c0" itemGuid="c4afab63-af79-4c09-b507-f1eaf7afd0a1"/>
+      <podcast:remoteItem feedGuid="1b082fa2-06c2-5423-adc4-1aab95ef0587" itemGuid="91db5f8e-f428-438f-8c1a-bb17889afcce"/>
+      <podcast:remoteItem feedGuid="1b082fa2-06c2-5423-adc4-1aab95ef0587" itemGuid="6981ff86-9532-48c4-8c78-c4aa28413b49"/>
     <podcast:txt purpose="episode">137th Edition</podcast:txt>
       <podcast:remoteItem feedGuid="90d6ac9d-8a16-419e-8331-0eb7cb0f1579" itemGuid="61257a4e-194f-4d00-96b8-a14a2712cc8e"/>
       <podcast:remoteItem feedGuid="d32febd6-733e-5ef4-a3c5-63116bd0ed89" itemGuid="00655cd0-8787-4295-826d-4a93ee853fb4"/>
