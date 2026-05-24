@@ -6,13 +6,35 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 19 May 2026 10:37:06 GMT</pubDate>
-    <lastBuildDate>Tue, 19 May 2026 10:37:06 GMT</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 09:21:27 GMT</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 09:21:27 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>863e8bef-abed-4827-a7af-90a582130a01</podcast:guid>
+    <podcast:guid>ab88508f-9a14-4926-ba49-33158fdb4d10</podcast:guid>
+    <podcast:txt purpose="episode">Shooting The Poop w/Bubba</podcast:txt>
+      <podcast:remoteItem feedGuid="cb656d86-ec4d-5a7f-b97c-22e7599c4e44" itemGuid="8c9fd7dd-8214-4c09-bc64-726d513c1ba3"/>
+      <podcast:remoteItem feedGuid="cb656d86-ec4d-5a7f-b97c-22e7599c4e44" itemGuid="866dacf2-864b-4868-a405-3e41e701ba27"/>
+      <podcast:remoteItem feedGuid="fd0b5de1-9593-5d58-bdf0-63793720ca46" itemGuid="ace88a9c-bc7b-4663-959f-de61fdd0b869"/>
+      <podcast:remoteItem feedGuid="bbccda7f-e6b1-5831-97cc-de4c02d8ca72" itemGuid="a9330d61-c851-44de-b9e1-d81582e38fab"/>
+      <podcast:remoteItem feedGuid="bbccda7f-e6b1-5831-97cc-de4c02d8ca72" itemGuid="a354b454-4d34-4d8d-b00d-c000c0bd5aae"/>
+      <podcast:remoteItem feedGuid="c3ab3195-5b16-58fa-9e4a-d22dd48a8e7a" itemGuid="11d2ff5b-7c59-476a-b0ac-54a82ae0176d"/>
+      <podcast:remoteItem feedGuid="c3ab3195-5b16-58fa-9e4a-d22dd48a8e7a" itemGuid="df0ff2c7-b4aa-4abc-bd74-8de275f9b006"/>
+      <podcast:remoteItem feedGuid="018c404c-9bd0-5e76-aeef-092435bd3dca" itemGuid="cdf6e9de-4978-5359-ad86-61ce6af67b51"/>
+      <podcast:remoteItem feedGuid="671612fb-9039-5189-9d4b-0fd9df2093dd" itemGuid="2afdf896-9bde-52eb-9659-5cfe51a9be57"/>
+      <podcast:remoteItem feedGuid="f068ed0d-7ffa-489e-8194-224ad91d6aa8" itemGuid="9991aef8-fd1f-41eb-b82f-ae32ad788596"/>
+      <podcast:remoteItem feedGuid="f068ed0d-7ffa-489e-8194-224ad91d6aa8" itemGuid="daeaa6c8-f0e3-4692-be06-a40682141161"/>
+      <podcast:remoteItem feedGuid="ff519475-6e90-5231-91a0-37d092088d88" itemGuid="e33a2b26-6c15-4af7-9c4d-6d15a893a9c1"/>
+      <podcast:remoteItem feedGuid="ff519475-6e90-5231-91a0-37d092088d88" itemGuid="33f2627a-80d1-4723-b3e4-b2f5929c357b"/>
+      <podcast:remoteItem feedGuid="fc815bcf-3639-5395-ba7d-fa217ec93d32" itemGuid="68c5434e-bdbf-40fd-8a72-6e1860991c1c"/>
+      <podcast:remoteItem feedGuid="fc815bcf-3639-5395-ba7d-fa217ec93d32" itemGuid="1e5e015c-638b-48f9-a656-c1b803cd3493"/>
+      <podcast:remoteItem feedGuid="46d7f7e1-a44e-544c-9227-76b9f0d59513" itemGuid="7e744e7d-514c-43af-847d-78a7cb972992"/>
+      <podcast:remoteItem feedGuid="17a3580d-4374-5cb8-b5f2-74d0551e8052" itemGuid="f8976484-2f32-42c4-bba9-3c5788691d0e"/>
+      <podcast:remoteItem feedGuid="a2169556-f71e-5864-bcd8-9deb5dd347db" itemGuid="79b40606-bfff-4bb6-913c-00974ec5d3a8"/>
+      <podcast:remoteItem feedGuid="c7294a4f-7f44-5470-b8c5-af7618559a3b" itemGuid="ebfe41af-64cd-4738-a832-692e96e46ceb"/>
+      <podcast:remoteItem feedGuid="a08d2f84-b934-5316-8822-81a66e4ab555" itemGuid="29b90997-428c-4ef1-953c-d39a52f0a4f2"/>
+      <podcast:remoteItem feedGuid="fc9be5a7-90fc-5c7b-bbe8-d2d96cc14d64" itemGuid="329caa15-1712-4086-8abb-002c198ba4bc"/>
     <podcast:txt purpose="episode">Off The Beaten Path</podcast:txt>
       <podcast:remoteItem feedGuid="24ddd33b-cfec-568b-8402-5813bbb1d924" itemGuid="38d69c61-7b5f-4682-8ccf-75cafc93e2c3"/>
       <podcast:remoteItem feedGuid="24ddd33b-cfec-568b-8402-5813bbb1d924" itemGuid="d372291c-5b13-40a2-a5d9-3bd234d52fc1"/>
