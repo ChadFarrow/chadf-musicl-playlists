@@ -6,13 +6,28 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 23 May 2026 09:01:14 GMT</pubDate>
-    <lastBuildDate>Sat, 23 May 2026 09:01:14 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 09:16:35 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 09:16:35 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>68be0cea-8b89-4460-9b22-256349508b5e</podcast:guid>
+    <podcast:guid>86cac3d9-f1d4-41c6-b275-cee3b4385f7a</podcast:guid>
+    <podcast:txt purpose="episode">139th Edition</podcast:txt>
+      <podcast:remoteItem feedGuid="c9fa5277-09f9-50a0-b7fa-a0af1011b01d" itemGuid="057b39d1-d3bf-4bd1-bacb-fceade8bcf31"/>
+      <podcast:remoteItem feedGuid="77c66d60-dcd4-5a2d-87a3-18bff48bff84" itemGuid="88fe4629-eebb-4f50-bf8c-6990b4d81538"/>
+      <podcast:remoteItem feedGuid="f068ed0d-7ffa-489e-8194-224ad91d6aa8" itemGuid="eb1adaa0-f40d-47e0-899d-be271b7a8fa3"/>
+      <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" itemGuid="d8eb75d1-67fa-4179-9496-ad2957e146f2"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="f788afd4-a6d0-4abc-91d0-6611780229da"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="4e197141-6cd6-4366-8fe7-aa6c7c5050e3"/>
+      <podcast:remoteItem feedGuid="54d743de-5a01-5405-8c32-b792e99db350" itemGuid="467c7ab9-31c7-4833-9db6-b3be83ccc2d7"/>
+      <podcast:remoteItem feedGuid="21271797-9c37-4395-80f1-f0d9fbd73ae5" itemGuid="f25078f7-a71e-451d-9f90-01eab555c3d9"/>
+      <podcast:remoteItem feedGuid="b9e554ad-6118-5989-8e6d-de55d94ea085" itemGuid="f0201b73-9585-430f-8ee5-4d581f86e2eb"/>
+      <podcast:remoteItem feedGuid="244d54e6-2636-5f71-907a-8597416a3adf" itemGuid="bcd6125c-83dc-499e-8f14-f045e334f4f5"/>
+      <podcast:remoteItem feedGuid="ff281af2-51e1-574b-a826-e452e5361ce6" itemGuid="a5dd52f6-3b81-4ed6-b387-c7807c34fa9c"/>
+      <podcast:remoteItem feedGuid="c61f6467-f034-5a7d-87ec-e6978dc18f35" itemGuid="e6b9f03a-900b-417d-8a8a-95e0ac51add9"/>
+      <podcast:remoteItem feedGuid="a71b097b-4cf0-5e74-b6a9-1271373bb396" itemGuid="a45376c3-c8b3-4173-80c4-4cdfa266e0db"/>
+      <podcast:remoteItem feedGuid="f063831a-eaf9-5811-9c8b-699caefd19df" itemGuid="423e4f44-04ae-433c-a63b-1a85b386655a"/>
     <podcast:txt purpose="episode">138th Edition - G.O.L.D.</podcast:txt>
       <podcast:remoteItem feedGuid="881196bd-0c9d-5998-b9f0-61829e931070" itemGuid="e96c9674-a8bd-422d-a2fd-a1dfffef772b"/>
       <podcast:remoteItem feedGuid="881196bd-0c9d-5998-b9f0-61829e931070" itemGuid="0aee54a9-2370-464a-add9-9809aac43c0e"/>
