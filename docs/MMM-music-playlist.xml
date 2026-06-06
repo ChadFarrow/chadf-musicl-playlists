@@ -6,13 +6,25 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 30 May 2026 09:16:35 GMT</pubDate>
-    <lastBuildDate>Sat, 30 May 2026 09:16:35 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2026 09:25:40 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2026 09:25:40 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>86cac3d9-f1d4-41c6-b275-cee3b4385f7a</podcast:guid>
+    <podcast:guid>71746155-78fa-4fd2-8247-3ce957147426</podcast:guid>
+    <podcast:txt purpose="episode">140th Edition - Vaporwave Special</podcast:txt>
+      <podcast:remoteItem feedGuid="d822495a-241e-533e-9654-56ffd05f96bf" itemGuid="87e52c89-411c-4135-b7ce-ed2c24a1153d"/>
+      <podcast:remoteItem feedGuid="700ea33f-93b0-5f68-98f5-bb2adf3086a4" itemGuid="d8bc56a6-797b-4772-af63-335607b8b69d"/>
+      <podcast:remoteItem feedGuid="0a5d4da5-4f21-58fd-a4ca-71db3183c0c0" itemGuid="22b977f8-4523-454a-ab12-4153b0608b5b"/>
+      <podcast:remoteItem feedGuid="db80cd15-a336-56d9-ba27-d15394ce20f2" itemGuid="1afebe5a-f413-4f48-afb4-e6d312670665"/>
+      <podcast:remoteItem feedGuid="1ba1b425-e9f2-548e-a7d2-3241f356d932" itemGuid="61bc1d47-dd88-4700-8fea-9ca7e6f993b5"/>
+      <podcast:remoteItem feedGuid="c9de4288-73ae-577e-a890-d5b306155ead" itemGuid="91cc57dd-4e30-4f3d-a2d5-e629e8c4f672"/>
+      <podcast:remoteItem feedGuid="aa0f768f-5317-53ab-967a-f062cb71226e" itemGuid="4f0a96e2-3771-4f05-9dbd-db0f290667ca"/>
+      <podcast:remoteItem feedGuid="a1d700ad-11d3-55e9-8ef4-633a112cf8f6" itemGuid="a82c091f-d6d3-46fe-8f68-35a5d38a9d89"/>
+      <podcast:remoteItem feedGuid="17ce37bf-7315-55da-b97e-ceb89ce29e45" itemGuid="3c67939c-d91e-4a67-950c-3c47428ccdc9"/>
+      <podcast:remoteItem feedGuid="2c49f6b7-65bc-5f03-b69d-bbef10f46d2f" itemGuid="d59b38b6-82b7-4f6b-a998-8564d8b8fdb8"/>
+      <podcast:remoteItem feedGuid="a10ffbf0-b7f8-5084-94aa-dd566168f7a7" itemGuid="9e82cbfa-5133-48fd-ac52-d036be5210f4"/>
     <podcast:txt purpose="episode">139th Edition</podcast:txt>
       <podcast:remoteItem feedGuid="c9fa5277-09f9-50a0-b7fa-a0af1011b01d" itemGuid="057b39d1-d3bf-4bd1-bacb-fceade8bcf31"/>
       <podcast:remoteItem feedGuid="77c66d60-dcd4-5a2d-87a3-18bff48bff84" itemGuid="88fe4629-eebb-4f50-bf8c-6990b4d81538"/>
