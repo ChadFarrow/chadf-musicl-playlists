@@ -6,13 +6,15 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 22 May 2026 10:23:52 GMT</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 10:23:52 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 09:55:51 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 09:55:51 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>f4dfb557-9e2d-4ecd-b665-2b5f33cb32ff</podcast:guid>
+    <podcast:guid>2c2d7051-73bc-445b-a3a5-f5a7aa12ac9b</podcast:guid>
+    <podcast:txt purpose="episode">Episode 70 - The Original Gingers</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 69 - Late Night Podcast Bug</podcast:txt>
       <podcast:remoteItem feedGuid="4ab3741a-4a10-5631-a026-a9d0eb62fe11" itemGuid="26611820-2bc0-4769-8272-4f4d025267c6"/>
       <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="9ff8f18b-cc79-474c-a3e9-2948113b8bf5"/>
