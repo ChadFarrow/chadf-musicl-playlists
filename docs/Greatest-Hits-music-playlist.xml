@@ -7,13 +7,13 @@
     <link>https://github.com/ChadFarrow/chadf-musicl-playlists</link>
     <podcast:txt purpose="source-feed">https://github.com/ChadFarrow/chadf-musicl-playlists</podcast:txt>
     <language>en</language>
-    <pubDate>Sun, 14 Jun 2026 07:15:24 +0000</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2026 07:15:24 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 13:13:39 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:13:39 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/Greatest-Hits-music-playlist.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>d01de0c5-6fd1-4699-b56d-c07ae116e8a0</podcast:guid>
+    <podcast:guid>c147c82e-c25f-4391-a7a4-df146bcf57c3</podcast:guid>
     <podcast:txt purpose="playcount">22 plays</podcast:txt>
     <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140" />
     <podcast:txt purpose="playcount">20 plays</podcast:txt>
@@ -50,6 +50,7 @@
     <podcast:remoteItem feedGuid="07b65561-a11e-5f18-a5fe-6e0586871b7e" itemGuid="c64b27fe-23d1-5691-9e2e-3f57e1d66b9f" />
     <podcast:remoteItem feedGuid="0a8495bd-9b8f-5e6b-b522-f5b986d5faac" itemGuid="3c6a5cc4-83fa-4e69-8daa-7192e90c6b8f" />
     <podcast:remoteItem feedGuid="2468a04c-fa24-56f5-8e45-59b45de92871" itemGuid="71b08be8-1400-4886-9a16-7cd68c08a8eb" />
+    <podcast:remoteItem feedGuid="3a1102e4-f06f-53ee-a3d3-ca0636428f0e" itemGuid="e76b50f9-2a3d-43e5-8403-932b7f7cae4c" />
     <podcast:remoteItem feedGuid="627d8115-8a57-56f1-ba90-612857b9fd35" itemGuid="7845d7c0-beee-56ba-be18-6afc966e92bf" />
     <podcast:remoteItem feedGuid="72f2cafd-0535-5089-a2ff-6a54e396d30e" itemGuid="89aac7a5-20c5-42b0-9392-4d5dc5749f3a" />
     <podcast:remoteItem feedGuid="77e1364f-3fbe-52ab-8fb3-7c2ef5fea0a0" itemGuid="eb4894f2-8cb4-538e-9162-634c1981aca0" />
@@ -64,7 +65,6 @@
     <podcast:remoteItem feedGuid="1dc549bf-c1ef-5a30-813f-a2918d37b38d" itemGuid="f5f51623-49f7-4c8d-ad7a-e1bafa10bab8" />
     <podcast:remoteItem feedGuid="2514d117-8a84-5345-82e8-8ed7b940cf1f" itemGuid="a25936e7-e87d-41a3-a7bd-bd206e0ffc47" />
     <podcast:remoteItem feedGuid="29397cc2-4bd3-583e-93b8-9f5aebc3d22b" itemGuid="dc557dfe-11d0-4a46-aa73-d75a08676f2b" />
-    <podcast:remoteItem feedGuid="3a1102e4-f06f-53ee-a3d3-ca0636428f0e" itemGuid="e76b50f9-2a3d-43e5-8403-932b7f7cae4c" />
     <podcast:remoteItem feedGuid="6c277321-9d2c-5cd2-98b1-f49efcea0602" itemGuid="8b850466-1a23-4298-b14c-a1099816e9a6" />
     <podcast:remoteItem feedGuid="75f0b434-19dc-5959-9920-0fb5304be61b" itemGuid="8a483fb2-7853-4b67-853d-1a28ae08f5d5" />
     <podcast:remoteItem feedGuid="779fff9e-481a-5541-8993-a3b64c194185" itemGuid="a010a9ac-756b-5e5e-90bc-9b671aa24838" />
@@ -184,6 +184,7 @@
     <podcast:remoteItem feedGuid="25916787-3a83-5fde-a68a-9dcf4ffaba5f" itemGuid="dd067a4c-43fe-4e8a-b945-b1053e38fd6d" />
     <podcast:remoteItem feedGuid="29397cc2-4bd3-583e-93b8-9f5aebc3d22b" itemGuid="6da3cb0b-bb33-480b-b9c6-da83f8e11391" />
     <podcast:remoteItem feedGuid="29397cc2-4bd3-583e-93b8-9f5aebc3d22b" itemGuid="caf7ae96-4be2-4204-8487-a56523f9405e" />
+    <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="82b4c004-9af4-4f8d-aff7-f033bba7429b" />
     <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="d8928087-3ca9-4b7d-90cd-f63350832b83" />
     <podcast:remoteItem feedGuid="2c7c9f5f-a6d1-5fdf-8208-185d437fc83d" itemGuid="2ec9b297-dfe9-40df-a555-b90a7f7aa65b" />
     <podcast:remoteItem feedGuid="353bc37b-1c94-5997-97a0-3c28f2a45604" itemGuid="759e54c9-ecbe-4bb4-9543-a39b6150cea4" />
@@ -192,6 +193,7 @@
     <podcast:remoteItem feedGuid="419b741c-a3de-5e39-acb4-74bda853510b" itemGuid="b49ca8ab-b8b6-4fbb-af6e-7b2794cea64d" />
     <podcast:remoteItem feedGuid="428bb912-0f0d-5a2e-b3bb-b01afc3773f8" itemGuid="86422995-6d94-4f4f-a9a3-bd0ad3ea4feb" />
     <podcast:remoteItem feedGuid="42cb970f-600d-5282-880b-9b9bb6276801" itemGuid="7123063d-c6df-52aa-ab31-2d6cf1e6e932" />
+    <podcast:remoteItem feedGuid="471d1db8-40d3-5dec-8eca-6e654b3b05e5" itemGuid="5822390c-ff6d-4e2b-aa87-c87f7a5bd038" />
     <podcast:remoteItem feedGuid="483dde8e-7e94-59a7-8eb0-2b0dc64a87bd" itemGuid="72e3bd99-49c5-4884-958c-8af44c55de3a" />
     <podcast:remoteItem feedGuid="4b52d66c-4b46-543f-abd3-e7cddecab8f1" itemGuid="285fe50a-26c7-4127-b270-ad6693b3fd3e" />
     <podcast:remoteItem feedGuid="5847498b-9db5-509f-860f-3f3c3c422698" itemGuid="0624efde-d0e5-4327-b67a-1773001a4693" />
@@ -271,8 +273,8 @@
     <podcast:remoteItem feedGuid="1e7ed1fa-0456-5860-9b34-825d1335d8f8" itemGuid="5334a806-1c60-481e-a978-7577ce988b56" />
     <podcast:remoteItem feedGuid="2269829e-8a1d-5f5e-bf61-cd7090d3f174" itemGuid="752a7534-0001-400f-9e20-a866b0f8c4b5" />
     <podcast:remoteItem feedGuid="262a48c2-502d-5c09-add4-76a86056876d" itemGuid="be32eeee-d955-5fce-98ce-66acdabdf647" />
-    <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="82b4c004-9af4-4f8d-aff7-f033bba7429b" />
     <podcast:remoteItem feedGuid="2c5f77fe-25d9-5a2d-97ef-236718c627df" itemGuid="18ef7a70-2e39-4c64-ba78-26e6383e1816" />
+    <podcast:remoteItem feedGuid="3058af0c-1807-5732-9a08-9114675ef7d6" itemGuid="c51ecaa4-f237-4707-9c62-2de611820e4b" />
     <podcast:remoteItem feedGuid="316c149f-d06d-50ac-9321-6f19f685d257" itemGuid="10e66ce8-5d8f-596f-9bfe-c4571eeb8d10" />
     <podcast:remoteItem feedGuid="33049c93-e6d6-5377-a581-6db5a7cd0fd6" itemGuid="d0ba026d-4ea5-52b2-82ed-e0ec8677a6c5" />
     <podcast:remoteItem feedGuid="3319d99e-23cc-5334-8b5c-594282bb2a0d" itemGuid="f77411cd-dcf3-54e0-9d09-49051db7b655" />
@@ -281,7 +283,6 @@
     <podcast:remoteItem feedGuid="38edc858-5731-5221-86bf-86db9f886e2b" itemGuid="6cd3752b-cad0-5f5c-8c2a-b0a1560d6eec" />
     <podcast:remoteItem feedGuid="3cc2da6f-0e75-5ed4-bb73-04b3c9c4650b" itemGuid="205d56f3-badf-4beb-9511-53da1ab0d53a" />
     <podcast:remoteItem feedGuid="44895130-a46d-57cb-a6b9-ee5d5c590318" itemGuid="8420d8e4-9d23-47e2-a5d4-85ab967aec3a" />
-    <podcast:remoteItem feedGuid="471d1db8-40d3-5dec-8eca-6e654b3b05e5" itemGuid="5822390c-ff6d-4e2b-aa87-c87f7a5bd038" />
     <podcast:remoteItem feedGuid="491f0833-a80c-5911-93e9-baaaa4a58494" itemGuid="40e9def1-f84f-4a88-b4e1-7dfee8fffedf" />
     <podcast:remoteItem feedGuid="4a156167-aea1-5bc3-9e7d-504477127f79" itemGuid="3220a090-0355-4848-847a-450654f1de9f" />
     <podcast:remoteItem feedGuid="508bfb27-3623-513c-9eda-0b512a2abc82" itemGuid="a9bc2c02-a90b-403f-92db-794d40d2b7ca" />
@@ -389,7 +390,6 @@
     <podcast:remoteItem feedGuid="2cfd7dfd-19e1-545b-b3f3-8465d5d1d362" itemGuid="fafc072c-9fd8-4eca-8002-89e4b8787d75" />
     <podcast:remoteItem feedGuid="2d960ae0-0135-5c2e-8cd5-fb09be8db43f" itemGuid="1a4b90fb-fe13-49dd-a267-5f8b6106fd63" />
     <podcast:remoteItem feedGuid="2d960ae0-0135-5c2e-8cd5-fb09be8db43f" itemGuid="479afc6d-db8f-4b9f-b0e3-edc6e7e4e27e" />
-    <podcast:remoteItem feedGuid="3058af0c-1807-5732-9a08-9114675ef7d6" itemGuid="c51ecaa4-f237-4707-9c62-2de611820e4b" />
     <podcast:remoteItem feedGuid="32e4b0de-35c9-56b2-be4d-f5a4e0f94bff" itemGuid="66eacfc7-0964-56c3-88f7-78ab28e3fbd3" />
     <podcast:remoteItem feedGuid="337c3158-cd40-5011-aa2c-05f99b095b89" itemGuid="7428694c-2a34-4863-945b-d5a3fdad5a5e" />
     <podcast:remoteItem feedGuid="34973f26-85b8-582b-9db3-f67fe4be9ee7" itemGuid="e4c35f1a-e155-531d-bdf0-108e2626b2bd" />
@@ -624,6 +624,7 @@
     <podcast:remoteItem feedGuid="483dde8e-7e94-59a7-8eb0-2b0dc64a87bd" itemGuid="b1123150-0513-47ea-aef2-46d1d079e8f0" />
     <podcast:remoteItem feedGuid="49ebeec4-a99a-5c9d-bb1b-477570341b1a" itemGuid="0af8e809-59b6-4675-b57a-cb2d41cc2dcf" />
     <podcast:remoteItem feedGuid="49ebeec4-a99a-5c9d-bb1b-477570341b1a" itemGuid="d60e394c-dd11-4ca7-b02d-8445dcb2b21b" />
+    <podcast:remoteItem feedGuid="4b356cb6-8e31-55c6-9bf5-4d9fb31d5f2a" itemGuid="4214e63e-5f53-465f-b0db-363882ab2bbb" />
     <podcast:remoteItem feedGuid="4b839dad-c6d0-53da-a37e-5454cebe5f87" itemGuid="20ca156d-e896-504e-997e-9a0a7a79ad7d" />
     <podcast:remoteItem feedGuid="4b839dad-c6d0-53da-a37e-5454cebe5f87" itemGuid="e046dc24-e578-58dd-9182-751ce312ee4f" />
     <podcast:remoteItem feedGuid="4ba92892-d795-5532-9989-9e4c363146ea" itemGuid="844f6782-01f7-4578-8218-f2478ab59ad4" />
@@ -999,6 +1000,7 @@
     <podcast:remoteItem feedGuid="41bc935a-e6b0-563f-851a-47f46fb35ce8" itemGuid="ba4d7a08-ecdd-40b8-90e3-77de4eda348e" />
     <podcast:remoteItem feedGuid="41bc935a-e6b0-563f-851a-47f46fb35ce8" itemGuid="f783c606-16df-487a-b398-3bceda7f96a5" />
     <podcast:remoteItem feedGuid="436dd99f-b6c8-5a41-9d68-8d3c250ff496" itemGuid="134a532b-e06e-4ae9-8683-3c3bc8f71e2b" />
+    <podcast:remoteItem feedGuid="43dde7dc-4a63-525a-837c-f4ad9562ff27" itemGuid="8d5de391-8cbb-4c46-b40d-020c45b69ab0" />
     <podcast:remoteItem feedGuid="4568fe70-686b-58d6-9de9-ef4a9c05c373" itemGuid="6188230d-15b5-4763-ab18-d6d30642d16e" />
     <podcast:remoteItem feedGuid="47e4ca6b-90c9-5e79-844f-b232f4cdbf39" itemGuid="9cddffd4-962e-437e-9e73-78c1e5a7dd20" />
     <podcast:remoteItem feedGuid="48a8f359-36f7-5383-909c-5e911f26916b" itemGuid="9f7d4504-786f-4323-880b-c5433d4fb8b1" />
@@ -1009,7 +1011,6 @@
     <podcast:remoteItem feedGuid="4a483a4b-867c-50d5-a61a-e99fe03ea57e" itemGuid="cf819594-4a34-43c6-9666-26e5fa764de6" />
     <podcast:remoteItem feedGuid="4ab3741a-4a10-5631-a026-a9d0eb62fe11" itemGuid="b24f24f6-6e49-4685-afc9-c9fa856a9f1e" />
     <podcast:remoteItem feedGuid="4b2af8e4-ceff-5270-910c-79ed58da7540" itemGuid="6df37833-38c7-4de5-aa1d-2dca95a75776" />
-    <podcast:remoteItem feedGuid="4b356cb6-8e31-55c6-9bf5-4d9fb31d5f2a" itemGuid="4214e63e-5f53-465f-b0db-363882ab2bbb" />
     <podcast:remoteItem feedGuid="4b839dad-c6d0-53da-a37e-5454cebe5f87" itemGuid="8f15a248-34a9-57ae-9743-b830e6944487" />
     <podcast:remoteItem feedGuid="4ba92892-d795-5532-9989-9e4c363146ea" itemGuid="52569ab3-4f88-4fbf-aef0-e2b587b4e18f" />
     <podcast:remoteItem feedGuid="4cc08ce6-2e30-51f9-b1e6-69bb8188f993" itemGuid="461c8a5d-e8f4-4432-a79c-2628f52dbf61" />
@@ -1148,6 +1149,7 @@
     <podcast:remoteItem feedGuid="7a77edc0-15a5-5d27-8448-115065ca04cf" itemGuid="a5385f38-c14c-4c97-bc53-356ab83b78b4" />
     <podcast:remoteItem feedGuid="7adf85f8-eb3c-5032-9299-4c98e6392d11" itemGuid="b306e8fd-70f4-4c12-922f-cbc6529edc9b" />
     <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="796d5041-eb9b-46fd-8cad-6a11932f3508" />
+    <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="9577bbcf-45db-4b3a-8af7-054125766132" />
     <podcast:remoteItem feedGuid="7b8a607a-950f-4dc9-959d-08ea88fc14f5" itemGuid="3c1bfe17-1356-4c80-aa72-127912901feb" />
     <podcast:remoteItem feedGuid="7ce9b349-b641-5a5e-8354-9d7ea6fa42e1" itemGuid="98adb409-46e2-4a60-ab5a-194dbada4edf" />
     <podcast:remoteItem feedGuid="7cf3072b-10bd-5f4b-9195-c550dcb7c2c8" itemGuid="79490b31-9972-4984-882f-a7affc9a785a" />
@@ -1157,6 +1159,7 @@
     <podcast:remoteItem feedGuid="7ddfdfb9-cc41-5c27-b1b7-cef7cf40071b" itemGuid="a306b451-9af7-43c7-9f1c-6b04c4e0031e" />
     <podcast:remoteItem feedGuid="7ddfdfb9-cc41-5c27-b1b7-cef7cf40071b" itemGuid="e69bb498-36d6-4054-a5b2-32391e9ee19d" />
     <podcast:remoteItem feedGuid="7ddfdfb9-cc41-5c27-b1b7-cef7cf40071b" itemGuid="f323a1d5-fe69-406d-ad58-92ce5b4c4df5" />
+    <podcast:remoteItem feedGuid="7f1cfe84-baf5-5477-8cf6-0f1fc4c31e04" itemGuid="1cb0f58c-ae0f-411d-8a2f-8a2161f970e3" />
     <podcast:remoteItem feedGuid="7f1cfe84-baf5-5477-8cf6-0f1fc4c31e04" itemGuid="3d444d21-c480-497a-8299-60c7c08596ac" />
     <podcast:remoteItem feedGuid="7f1cfe84-baf5-5477-8cf6-0f1fc4c31e04" itemGuid="870f3f52-2a7c-4cd0-a29b-308b592562c5" />
     <podcast:remoteItem feedGuid="8088b8f6-8eee-561d-ab5b-5dc176f0508e" itemGuid="64557242-9b26-4f12-b6a0-5d77de90392b" />
@@ -1214,6 +1217,7 @@
     <podcast:remoteItem feedGuid="930f340b-59ac-586c-8783-76fe0c9eaf6c" itemGuid="90357e45-3530-590d-bf9a-7dec20647cf0" />
     <podcast:remoteItem feedGuid="938fb611-602e-5b30-b49a-38840410d0e0" itemGuid="35fd636c-2d89-4b62-ad5a-dbf8bef3e377" />
     <podcast:remoteItem feedGuid="93e3c7fe-a851-5c4c-8955-6a04f0f44edc" itemGuid="de8a955e-8fe9-4aa5-9530-17672bc2e67b" />
+    <podcast:remoteItem feedGuid="94661b95-cae4-5f47-a599-ed27d530dfa2" itemGuid="ba1796d0-5c80-4ccf-9c75-24c87c6dbad4" />
     <podcast:remoteItem feedGuid="94bc4847-e2e8-55d9-9a47-3a720a367a0e" itemGuid="957d0dfb-9bde-4c39-b063-2f6bc1db197b" />
     <podcast:remoteItem feedGuid="95180513-e2d4-5aa9-b7ef-9e70a8959a7a" itemGuid="fc8e0939-c29f-55a4-a5b3-4901c641f751" />
     <podcast:remoteItem feedGuid="95be9fe7-30ac-40aa-a86c-bded32942a91" itemGuid="319ff63e-5541-42b0-8cc2-5a549cf6c44e" />
@@ -1447,5 +1451,6 @@
     <podcast:remoteItem feedGuid="fe36cad5-121c-5eed-a762-69da9da4f5c8" itemGuid="30dfcef1-3684-4c82-af0e-c157b6055ff1" />
     <podcast:remoteItem feedGuid="ff08cc7e-cad8-5126-b1dd-9feef56ff27f" itemGuid="096d7ff4-f140-459b-8f9d-f79ae28b4409" />
     <podcast:remoteItem feedGuid="ff26fd4d-612e-5a3e-803e-109a07487762" itemGuid="8b1b29e1-7cbe-44dc-9eb5-fff90f3dbc98" />
+    <podcast:remoteItem feedGuid="ff5ab52d-a60b-5691-92a9-64a7233f02ad" itemGuid="b50b3897-c94f-4644-883b-359539a794d9" />
   </channel>
 </rss>
