@@ -6,13 +6,36 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 09 Jun 2026 10:34:05 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2026 10:34:05 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 13:13:23 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:13:23 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>1a780590-396f-4291-a9dc-bd866559082d</podcast:guid>
+    <podcast:guid>43089eba-9742-40a4-91cf-9064b1cb60e1</podcast:guid>
+    <podcast:txt purpose="episode">Hodl-2-Harmonies</podcast:txt>
+      <podcast:remoteItem feedGuid="43dde7dc-4a63-525a-837c-f4ad9562ff27" itemGuid="6dbe6987-8522-4582-ac08-4cd38d7d2693"/>
+      <podcast:remoteItem feedGuid="43dde7dc-4a63-525a-837c-f4ad9562ff27" itemGuid="236cb19d-742b-49e4-962d-eb4973a6f57a"/>
+      <podcast:remoteItem feedGuid="5226e736-9827-5e5d-b6c4-bf44bc4c4c69" itemGuid="01tanzamdruidenstein"/>
+      <podcast:remoteItem feedGuid="51e9ae93-3e07-584a-9ed5-38bb68e84e9d" itemGuid="01leoslullaby"/>
+      <podcast:remoteItem feedGuid="07e25967-1a9a-5c6b-8dda-d580e3dc0148" itemGuid="b4d28314-490c-4e53-be36-51d54e9eba1d"/>
+      <podcast:remoteItem feedGuid="7e3b9fc5-6b08-5feb-96a9-41a1d88b262c" itemGuid="34c6c014-fd16-4673-b1cf-f1182f49e4fc"/>
+      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="bc80fa46-9563-48f0-b6df-5f9c847c7642"/>
+      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="13b9faaa-357e-4626-9e83-820bcef1cd8e"/>
+      <podcast:remoteItem feedGuid="f077a7f3-a85d-572f-ba41-147f8bdc3b77" itemGuid="031360e2-5b5c-456d-a75f-1bc15e759b29"/>
+      <podcast:remoteItem feedGuid="87a37a97-29a2-5ae7-a581-ede34b35a200" itemGuid="04a80b95-6a6d-4823-b06e-3c95405b5229"/>
+      <podcast:remoteItem feedGuid="eb8480e3-5d10-58c3-b6b4-0ac9544232c1" itemGuid="0104fede-5539-4f44-8b2e-2adb383c9673"/>
+      <podcast:remoteItem feedGuid="eb8480e3-5d10-58c3-b6b4-0ac9544232c1" itemGuid="2f3019eb-8dee-4151-a948-398a2c035a51"/>
+      <podcast:remoteItem feedGuid="f2f0e099-13cb-4787-83ba-25d8c4af8b65" itemGuid="2b3624a7-25b9-46e8-9a93-6a7ba5fe8bea"/>
+      <podcast:remoteItem feedGuid="da3f1aee-a967-4613-9c7c-4eaccbde6d06" itemGuid="22253c15-1187-479a-82e8-fb0a3f76f84f"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="a4085a5d-0ae6-439a-82b5-4018bd215740"/>
+      <podcast:remoteItem feedGuid="8d8cbf2b-c97d-4689-b6ea-0e85572cdcc5" itemGuid="d869a717-db78-4a8c-ac50-c88c9e62ed8e"/>
+      <podcast:remoteItem feedGuid="95e5f7a9-d88e-5e51-b2ae-f4b1865d19c4" itemGuid="d79f242f-0651-4b12-be79-c2bac234cfde"/>
+      <podcast:remoteItem feedGuid="95e5f7a9-d88e-5e51-b2ae-f4b1865d19c4" itemGuid="3ad49dd4-b37c-44c7-b056-c663cc1d1687"/>
+      <podcast:remoteItem feedGuid="9bc5a8b4-e8b7-5d4f-8df1-4e121a68ede7" itemGuid="2659bfa0-a0c4-47b6-a43b-54d775c860fe"/>
+      <podcast:remoteItem feedGuid="bd513295-bc3f-58d7-bfac-33fec5d1957f" itemGuid="2350a008-9da3-4182-b13f-0d7c1603e8bd"/>
+      <podcast:remoteItem feedGuid="f86df97f-faf1-5886-9007-da7986b2a714" itemGuid="c4367257-0415-46ea-8150-9a168d14a01a"/>
+      <podcast:remoteItem feedGuid="f86df97f-faf1-5886-9007-da7986b2a714" itemGuid="0df01ece-b598-422a-99e7-92e731b7b965"/>
     <podcast:txt purpose="episode">Dysc-Function</podcast:txt>
       <podcast:remoteItem feedGuid="75d02f1d-604c-5d31-a9e6-5a3da0ae591e" itemGuid="c0dc81aa-5b69-49d7-b5bf-54a433267a9b"/>
       <podcast:remoteItem feedGuid="75d02f1d-604c-5d31-a9e6-5a3da0ae591e" itemGuid="65a09b61-8362-4cc4-ae33-a308de84cb4f"/>
