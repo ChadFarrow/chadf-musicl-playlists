@@ -6,13 +6,15 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 13 Jun 2026 09:55:56 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2026 09:55:56 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 10:08:56 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:08:56 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>c5c57dfb-bf78-4b7d-b805-05622959d4cf</podcast:guid>
+    <podcast:guid>7b458eef-61a0-4bb2-90b9-6cf97fe7b437</podcast:guid>
+    <podcast:txt purpose="episode">142nd Edition - Airklipz &amp; AKME</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">141st Edition</podcast:txt>
       <podcast:remoteItem feedGuid="896b6ecb-2c78-5a4f-8a3a-6d01256baee9" itemGuid="22c8b878-1b1d-456d-a4dc-af9bd2b8544e"/>
       <podcast:remoteItem feedGuid="f068ed0d-7ffa-489e-8194-224ad91d6aa8" itemGuid="daeaa6c8-f0e3-4692-be06-a40682141161"/>
