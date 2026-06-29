@@ -6,13 +6,32 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 23 Jun 2026 10:36:14 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 10:36:14 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 11:59:01 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:59:01 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>966c9519-b65c-4c62-999a-32f1e42748ad</podcast:guid>
+    <podcast:guid>98ac3f8f-d75d-4781-a17a-8509eadf9be1</podcast:guid>
+    <podcast:txt purpose="episode">Throwing Biscuits</podcast:txt>
+      <podcast:remoteItem feedGuid="cba9e0d8-9bcf-5b0d-af27-785455457b72" itemGuid="26c8533c-cbe7-40a5-9c82-ac9fd2f3a19e"/>
+      <podcast:remoteItem feedGuid="cba9e0d8-9bcf-5b0d-af27-785455457b72" itemGuid="0e105e47-30bf-4a3a-af57-09511f779f18"/>
+      <podcast:remoteItem feedGuid="680882f9-f371-5eeb-bd90-6767d528854f" itemGuid="4db1b9b9-02d7-4f36-85e3-000e5751395b"/>
+      <podcast:remoteItem feedGuid="680882f9-f371-5eeb-bd90-6767d528854f" itemGuid="331e1f83-e194-4bdc-91bd-acfc6f543783"/>
+      <podcast:remoteItem feedGuid="075021e3-c8e3-5561-947f-b58987718346" itemGuid="2924e08e-e9e2-4daa-8f2f-98ddd72d6376"/>
+      <podcast:remoteItem feedGuid="075021e3-c8e3-5561-947f-b58987718346" itemGuid="c429a766-ab65-4dda-b816-a70a45c32e23"/>
+      <podcast:remoteItem feedGuid="747af2a0-6adb-524d-a0ee-eb06ef92aca2" itemGuid="cf51c59d-d107-412b-9c60-0c0f4a5b6efc"/>
+      <podcast:remoteItem feedGuid="2c49f6b7-65bc-5f03-b69d-bbef10f46d2f" itemGuid="4fdc8eb5-4dab-4908-b41d-1100d4320851"/>
+      <podcast:remoteItem feedGuid="474a2071-9621-59e8-9bb5-a1d071d1c4ce" itemGuid="b86517ab-3d59-4b93-b8b5-b75ae4140e35"/>
+      <podcast:remoteItem feedGuid="474a2071-9621-59e8-9bb5-a1d071d1c4ce" itemGuid="ea818d29-5493-42d3-8a2b-13e17bbafc30"/>
+      <podcast:remoteItem feedGuid="197602d5-a833-5980-9ee1-1d7fb3834fde" itemGuid="748db32d-3284-4993-b637-7716684f9f3a"/>
+      <podcast:remoteItem feedGuid="0b0587f3-1cd9-479e-a502-26c75825db46" itemGuid="8c39b1ed-0ccd-446d-9334-d94f199a6320"/>
+      <podcast:remoteItem feedGuid="9b662791-613b-54d8-8fab-69a96a365a7a" itemGuid="77bf3b61-d302-40b6-9325-32252076a7d7"/>
+      <podcast:remoteItem feedGuid="9b564095-de21-56d1-8785-f145889068e9" itemGuid="c1310c55-9b3a-4f58-a227-eeb5627a53c3"/>
+      <podcast:remoteItem feedGuid="6dfd9c9e-7482-5274-9fba-1c0bd1ecff39" itemGuid="7c87e621-6ae5-47fa-8114-a46ae5a14f92"/>
+      <podcast:remoteItem feedGuid="c5f25062-40b8-4ac4-88d3-a2c3af1f7310" itemGuid="4b911602-5c1a-4f4e-a6cf-9a48fa28d7f3"/>
+      <podcast:remoteItem feedGuid="72f2cafd-0535-5089-a2ff-6a54e396d30e" itemGuid="89aac7a5-20c5-42b0-9392-4d5dc5749f3a"/>
+      <podcast:remoteItem feedGuid="01e0e305-48db-555d-96cc-bde6027cd114" itemGuid="90b1a66e-df96-4ce2-96b5-f0f9a2bac0a2"/>
     <podcast:txt purpose="episode">Tresillo Void</podcast:txt>
       <podcast:remoteItem feedGuid="088e37dd-dd08-5f14-91b8-f47bf24362fa" itemGuid="3aa90405-606a-480d-b51c-4c88a4c92e3a"/>
       <podcast:remoteItem feedGuid="aac951ff-5eff-51b0-acc2-8d0c04900bd3" itemGuid="ff66bca3-726c-4542-a058-736b53c3fa9f"/>
