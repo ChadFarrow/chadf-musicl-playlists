@@ -6,13 +6,23 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 13 Jun 2026 09:55:51 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2026 09:55:51 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 09:25:04 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:25:04 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>2c2d7051-73bc-445b-a3a5-f5a7aa12ac9b</podcast:guid>
+    <podcast:guid>66b6f8d1-7751-43d0-ab03-d3c675088a0a</podcast:guid>
+    <podcast:txt purpose="episode">Episode 71 - Lovely Podcast</podcast:txt>
+      <podcast:remoteItem feedGuid="3197a0a6-4c7e-56ea-8469-cfb3ca0d3cdc" itemGuid="5092dc27-2bee-4fe0-8483-2478ee0c0e64"/>
+      <podcast:remoteItem feedGuid="78771e44-95b0-5f9b-93c7-a3dda7d41522" itemGuid="e0cb2750-1763-470c-8ebc-8098b6448b55"/>
+      <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="0d616fe3-16ab-40be-a33c-98468f81fc11"/>
+      <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="b94b1090-8c7f-4c59-87ad-b8034ec058b3"/>
+      <podcast:remoteItem feedGuid="de54dc36-3eda-4c19-8749-367cf5aeec76" itemGuid="c92a2add-6af3-4ead-a8fa-fd82d33a23a3"/>
+      <podcast:remoteItem feedGuid="bb820c11-1e77-5f96-a3bd-ca1ff4e8510e" itemGuid="77b84175-06a9-401b-b58f-f91e0c38dc75"/>
+      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="c2264e2b-a564-43d2-bf7e-5be6298e2ea2"/>
+      <podcast:remoteItem feedGuid="3679b281-4f40-5463-aa5a-6ea91b8a4957" itemGuid="501675d3-5ee4-432e-978e-11141df646c4"/>
+      <podcast:remoteItem feedGuid="c76ef0a6-0181-5b9b-a4bc-dd85d4ed178b" itemGuid="fe393a12-8545-440d-b88b-64e6568936fc"/>
     <podcast:txt purpose="episode">Episode 70 - The Original Gingers</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 69 - Late Night Podcast Bug</podcast:txt>
