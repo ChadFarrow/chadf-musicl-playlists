@@ -6,13 +6,24 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 06 Jul 2026 11:27:01 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Jul 2026 11:27:01 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 09:05:20 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:05:20 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>b24d31c1-2ade-4821-9144-ea36517ce779</podcast:guid>
+    <podcast:guid>fca8bb7c-235f-4f84-909a-52156cd670c7</podcast:guid>
+    <podcast:txt purpose="episode">Summer Shorts Edition I</podcast:txt>
+      <podcast:remoteItem feedGuid="e699a03a-8ddd-5005-8bd8-6e898c77657f" itemGuid="f39cac24-e688-49b6-a2e7-677c496b4dcc"/>
+      <podcast:remoteItem feedGuid="7a70a5a3-0c69-5f87-a25e-4ae64b0e5b01" itemGuid="636db479-7463-4401-93d1-396f39803aca"/>
+      <podcast:remoteItem feedGuid="900e1b3b-a89a-5583-8fce-e00b220dee6e" itemGuid="a2b30b03-7772-4adf-8916-bbb3dacc8ceb"/>
+      <podcast:remoteItem feedGuid="b81e8eb5-f96d-50c9-85ec-0f964eaf0d32" itemGuid="1254ce57-948b-4625-96dd-ec3c1cd8b3e9"/>
+      <podcast:remoteItem feedGuid="b3a58c5d-4aaa-5160-9755-ca9e9d869172" itemGuid="23535944-8538-4a65-992e-f3c914c0d790"/>
+      <podcast:remoteItem feedGuid="7f1cfe84-baf5-5477-8cf6-0f1fc4c31e04" itemGuid="f6782ee8-5de4-43f7-b483-b87b772513eb"/>
+      <podcast:remoteItem feedGuid="05f4015e-8279-5d40-a8d1-5e8517a14fef" itemGuid="2e3f3e6a-608b-531b-b147-0b3adb7e03d3"/>
+      <podcast:remoteItem feedGuid="f8e5b649-6696-5d08-9e1c-b4fad9a775f5" itemGuid="0a83c76f-5577-559b-a68f-563c28453f32"/>
+      <podcast:remoteItem feedGuid="93dc75f2-89c2-556d-bcdd-cb96193a9a75" itemGuid="a9844af5-3edb-42b0-ba6a-a34187000b65"/>
+      <podcast:remoteItem feedGuid="53f0f080-e318-5e46-9b1b-4df00c63872f" itemGuid="c993784a-0684-433b-bc65-fbd6d4abc42c"/>
     <podcast:txt purpose="episode">Value Validation</podcast:txt>
       <podcast:remoteItem feedGuid="c0d3b6df-b70f-5386-8c44-4ce3412e5b35" itemGuid="b9d77428-d240-4e26-bf7c-1ef3d3bd5bb5"/>
       <podcast:remoteItem feedGuid="c0d3b6df-b70f-5386-8c44-4ce3412e5b35" itemGuid="3dc567ec-a27b-4924-b5b7-b05fa112cbf1"/>
