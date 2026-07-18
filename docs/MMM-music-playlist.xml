@@ -6,13 +6,15 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 11 Jul 2026 08:46:23 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2026 08:46:23 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 08:48:06 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:48:06 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>5134bd8e-5d8e-4124-a7db-0a044807a139</podcast:guid>
+    <podcast:guid>b0cc61d3-677d-4451-ae2f-c8c8d4e8cc8e</podcast:guid>
+    <podcast:txt purpose="episode">146th Edition - Southology &amp; AKME</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">145th Edition - Pickle Pop Special</podcast:txt>
       <podcast:remoteItem feedGuid="d56266d8-d29b-4342-bfc9-89d438a848a8" itemGuid="f267eac5-5956-4dcb-8a24-725f91637e72"/>
       <podcast:remoteItem feedGuid="57676ff4-82f4-589f-b8e7-d20e50e2dff9" itemGuid="850ee91e-e320-4e07-8aae-405cf3683a09"/>
