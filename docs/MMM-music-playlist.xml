@@ -6,13 +6,24 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 18 Jul 2026 08:48:06 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2026 08:48:06 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 09:00:16 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:00:16 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>b0cc61d3-677d-4451-ae2f-c8c8d4e8cc8e</podcast:guid>
+    <podcast:guid>e19a3589-c922-4352-beb5-4b06f354276e</podcast:guid>
+    <podcast:txt purpose="episode">147th Edition - Haleen</podcast:txt>
+      <podcast:remoteItem feedGuid="378b358c-0dd8-5f74-ab2e-f122a00913f0" itemGuid="4b985617-6e41-47aa-b540-ecca8b693eb7"/>
+      <podcast:remoteItem feedGuid="1e7eee3d-ceeb-5d52-b619-fb03a003fdc6" itemGuid="2999bb49-da49-4170-9f6a-d342b047e999"/>
+      <podcast:remoteItem feedGuid="7e648553-0df8-52cb-920b-800a9261b4f0" itemGuid="247ab7ec-cb95-4e23-b213-80daf51c3a2b"/>
+      <podcast:remoteItem feedGuid="e81d9484-a505-59c3-b87a-3064940135a1" itemGuid="cbfaf874-8447-4ea7-9b01-47e2c30d3844"/>
+      <podcast:remoteItem feedGuid="84528000-d631-589a-9bbb-09c8c1625628" itemGuid="0bd93fcc-0328-4dd8-a213-be1baebbe492"/>
+      <podcast:remoteItem feedGuid="16993a07-3757-599a-bdd9-d3d41ed72086" itemGuid="eecc5309-c424-4e4b-9d94-c6beb9a0f874"/>
+      <podcast:remoteItem feedGuid="16993a07-3757-599a-bdd9-d3d41ed72086" itemGuid="54062df5-502b-4a2d-a3c3-83d82c471b26"/>
+      <podcast:remoteItem feedGuid="16993a07-3757-599a-bdd9-d3d41ed72086" itemGuid="e3efe9b3-337a-4cd2-872d-b6f7e9cde99d"/>
+      <podcast:remoteItem feedGuid="16993a07-3757-599a-bdd9-d3d41ed72086" itemGuid="d0197863-b6c0-419a-9b11-2431b4ee71b7"/>
+      <podcast:remoteItem feedGuid="16993a07-3757-599a-bdd9-d3d41ed72086" itemGuid="3983f5b6-0d17-4813-bda3-56faf4418ec4"/>
     <podcast:txt purpose="episode">146th Edition - Southology &amp; AKME</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">145th Edition - Pickle Pop Special</podcast:txt>
