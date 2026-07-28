@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 27 Jul 2026 10:42:18 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2026 10:42:18 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 09:36:18 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:36:18 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -797,5 +797,20 @@
     <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="e6aacacd-84cd-41ad-817b-0cc74b0c1a06"/>
     <podcast:remoteItem feedGuid="cb8c973f-ed99-4658-b0d8-51524529a31d" itemGuid="f1c9da0b-f1a4-4501-9768-6ca03cd0a07f"/>
     <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="cebd23fb-bba1-4e29-bc35-98444704432b-c88dfb2d-f3b6-4bea-bb5f-df1360822233"/>
+    <podcast:remoteItem feedGuid="913eb949-2064-513a-a196-e30f9b1c4433" itemGuid="thenixtr.podbean.com/b5dfb4d9-a996-5def-8a2b-d249a5c643c0"/>
+    <podcast:remoteItem feedGuid="c69ddf5e-f488-4a3a-b21c-4cc0a7981c4a" itemGuid="14a671a2-2cd4-4efc-a806-a60ca52e6036"/>
+    <podcast:remoteItem feedGuid="2ff22ba8-f69b-5067-9068-9c1636ebc718" itemGuid="6c8619aa-ec65-456a-a827-6aa1dfbf06c4"/>
+    <podcast:remoteItem feedGuid="2ff22ba8-f69b-5067-9068-9c1636ebc718" itemGuid="103fab80-4002-42b5-9440-ef0e856c3c77"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-448/"/>
+    <podcast:remoteItem feedGuid="79f0590f-763a-5473-b822-af515dd6a38c" itemGuid="51fcd8b0-7ea1-497b-bc3d-d17d384e324e"/>
+    <podcast:remoteItem feedGuid="13b9fa33-bbb9-5753-86fe-336d569277ac" itemGuid="0dd59e98-4e97-4828-9fa3-b0f203b8d782"/>
+    <podcast:remoteItem feedGuid="9ad349f3-4366-5099-b224-5d74094e5c5b" itemGuid="10f70fa2-902d-4a0f-b29d-9a702606d1de"/>
+    <podcast:remoteItem feedGuid="79f0590f-763a-5473-b822-af515dd6a38c" itemGuid="9e3fa8a3-c2da-482f-8b7f-615498c9564b"/>
+    <podcast:remoteItem feedGuid="bacbf97f-e9a4-5ebe-922c-731897da0188" itemGuid="2ffa2b89-7bac-4cb7-84a5-d7277c4e4497"/>
+    <podcast:remoteItem feedGuid="c0be02f5-0e88-59a3-84cb-b76041a83264" itemGuid="f4934487-12d8-4f91-9811-e1afad81f267"/>
+    <podcast:remoteItem feedGuid="856cd618-7f34-57ea-9b84-3600f1f65e7f" itemGuid="http://1889.noagendanotes.com"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="af3549a0-de4a-4040-b7e1-04739b0f3803"/>
+    <podcast:remoteItem feedGuid="e0ac9365-689c-5043-8804-15b9dfcc545a" itemGuid="BTS219"/>
+    <podcast:remoteItem feedGuid="30ed52a9-a11c-5235-bdfc-8e3379c6edde" itemGuid="b5ba6225-23da-4624-86a8-21b4d30a674b"/>
   </channel>
 </rss>
