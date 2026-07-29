@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 28 Jul 2026 09:36:18 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 09:36:18 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 09:36:37 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 09:36:37 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -812,5 +812,15 @@
     <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="af3549a0-de4a-4040-b7e1-04739b0f3803"/>
     <podcast:remoteItem feedGuid="e0ac9365-689c-5043-8804-15b9dfcc545a" itemGuid="BTS219"/>
     <podcast:remoteItem feedGuid="30ed52a9-a11c-5235-bdfc-8e3379c6edde" itemGuid="b5ba6225-23da-4624-86a8-21b4d30a674b"/>
+    <podcast:remoteItem feedGuid="96748822-dcb1-5519-a46d-b9c9bfc0241d" itemGuid="723c227b-ab55-4611-9480-36ba78920cdd"/>
+    <podcast:remoteItem feedGuid="8dcc2110-57a4-51a5-b686-107f2d09d049" itemGuid="87bcc0c2-8651-4df6-9dd7-5b544c5a8249"/>
+    <podcast:remoteItem feedGuid="8d3aa9e5-1e42-5108-a7e0-463883d35e14" itemGuid="1f2d1a70-db25-4efa-b303-e58efc1a93e8"/>
+    <podcast:remoteItem feedGuid="e186da9b-b763-5410-bdb9-734e4065c699" itemGuid="holsteinhouse.podbean.com/72c6a7c3-2abf-32c6-bb5e-30e4a8182273"/>
+    <podcast:remoteItem feedGuid="afbaa6da-4219-55dd-934a-96e0bc79c442" itemGuid="141ae0c5-c162-4fee-8015-e93f0e4a9269"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="0f0fb9ef-2fee-42c5-a12b-ff7ba0a43202"/>
+    <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="62fd7dae-af9c-4f40-8b29-07dab8ded71c"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="bowlafterbowl.podbean.com/611d40ff-f180-3172-b643-f3ebde73b448"/>
+    <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" itemGuid="MMO20260728"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-449/"/>
   </channel>
 </rss>
