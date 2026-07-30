@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 29 Jul 2026 09:36:37 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2026 09:36:37 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 09:29:58 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 09:29:58 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -822,5 +822,11 @@
     <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="bowlafterbowl.podbean.com/611d40ff-f180-3172-b643-f3ebde73b448"/>
     <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" itemGuid="MMO20260728"/>
     <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-449/"/>
+    <podcast:remoteItem feedGuid="415a3445-758a-50d3-850c-d7b57a5b05c0" itemGuid="https://thepathtobitcoin.com/?p=5752"/>
+    <podcast:remoteItem feedGuid="f5eee1a0-d218-5141-8271-1b9b0fc47c0b" itemGuid="694f677a-2462-475b-97a0-a82db77b1f46"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="aaf920f1-7d20-433c-b13f-cf9c162c754a-ef606d7c-3d6c-40e0-b2b7-d36162a67dbb"/>
+    <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" itemGuid="a74b470b-794c-5267-9362-2ebc094b7472"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="52e4b7a8-7e4d-4358-ac38-2016126d8774"/>
+    <podcast:remoteItem feedGuid="9ad349f3-4366-5099-b224-5d74094e5c5b" itemGuid="7af3c570-0736-48e4-85ad-456c647ee963"/>
   </channel>
 </rss>
