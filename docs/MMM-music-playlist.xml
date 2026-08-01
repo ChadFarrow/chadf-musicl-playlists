@@ -6,13 +6,27 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 25 Jul 2026 09:00:16 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Jul 2026 09:00:16 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 09:05:37 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:05:37 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>e19a3589-c922-4352-beb5-4b06f354276e</podcast:guid>
+    <podcast:guid>76f7ea8b-e8b8-4cda-a9ba-5d1e3e9f7fca</podcast:guid>
+    <podcast:txt purpose="episode">148th Edition</podcast:txt>
+      <podcast:remoteItem feedGuid="e745b541-8bc1-42b5-9d2d-5c3a67817d47" itemGuid="753702e0-1c0c-4996-9f25-09ac2bd40e94"/>
+      <podcast:remoteItem feedGuid="ddf7febe-591b-5c06-a833-a766b8018fd5" itemGuid="f0b40b9b-2012-423f-920d-137dedc19d03"/>
+      <podcast:remoteItem feedGuid="df624195-5953-53e4-9c54-c26859dcc56a" itemGuid="32486e4b-c2ad-404a-a94d-a30a1ec3ad7d"/>
+      <podcast:remoteItem feedGuid="fe96a8e0-0753-4870-a986-9c7d75c876bd" itemGuid="5094a87f-6fbc-4dda-bee1-095724e921d3"/>
+      <podcast:remoteItem feedGuid="9d8ce850-8275-4a74-9622-1fd0cbe4b41d" itemGuid="3ae42d3a-8333-40d7-86e2-8b6730d6b6fb"/>
+      <podcast:remoteItem feedGuid="d0d19c49-f1a5-5d07-90ef-9c001d757c5b" itemGuid="51b9e203-701c-431e-8dee-5774192bd61e"/>
+      <podcast:remoteItem feedGuid="165b22e2-5645-54a5-83d4-7f71e6a35404" itemGuid="ac39c5a4-89f5-4aaf-b400-e265ef6f5ff2"/>
+      <podcast:remoteItem feedGuid="9d8ce850-8275-4a74-9622-1fd0cbe4b41d" itemGuid="02d87336-16e3-4c6c-83bc-659cecf9d5f9"/>
+      <podcast:remoteItem feedGuid="474a2071-9621-59e8-9bb5-a1d071d1c4ce" itemGuid="6f3d06d6-a23e-4397-87b3-9cdccf7aeb6d"/>
+      <podcast:remoteItem feedGuid="f86df97f-faf1-5886-9007-da7986b2a714" itemGuid="3989fa57-3a54-424e-84fd-cfafd4c9cdcf"/>
+      <podcast:remoteItem feedGuid="ee0682f9-5889-59a3-8aed-cb83d1acd515" itemGuid="42059043-a965-404f-b3c1-a21505060936"/>
+      <podcast:remoteItem feedGuid="62a9d1fc-c238-5d0e-b72d-7c7697cf473f" itemGuid="caa7ac83-1543-4d84-9132-08afc3ea8442"/>
+      <podcast:remoteItem feedGuid="1ba1b425-e9f2-548e-a7d2-3241f356d932" itemGuid="91b667cd-4d0b-4480-ae37-95661791daba"/>
     <podcast:txt purpose="episode">147th Edition - Haleen</podcast:txt>
       <podcast:remoteItem feedGuid="378b358c-0dd8-5f74-ab2e-f122a00913f0" itemGuid="4b985617-6e41-47aa-b540-ecca8b693eb7"/>
       <podcast:remoteItem feedGuid="1e7eee3d-ceeb-5d52-b619-fb03a003fdc6" itemGuid="2999bb49-da49-4170-9f6a-d342b047e999"/>
