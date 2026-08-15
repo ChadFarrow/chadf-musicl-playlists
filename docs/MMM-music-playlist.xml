@@ -6,13 +6,29 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 08 Aug 2026 07:49:37 GMT</pubDate>
-    <lastBuildDate>Sat, 08 Aug 2026 07:49:37 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 07:30:05 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 07:30:05 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>1faff625-36c5-411e-b561-3a5d0cb88ddb</podcast:guid>
+    <podcast:guid>b3f61508-78fc-4d1b-9fa6-987609633252</podcast:guid>
+    <podcast:txt purpose="episode">150th Edition</podcast:txt>
+      <podcast:remoteItem feedGuid="7b6f39ba-2f1b-598d-81bb-a303e18dca15" itemGuid="623da6ba-b67e-4d8e-a954-4412f084ce36"/>
+      <podcast:remoteItem feedGuid="cea7017f-6d36-520b-abfc-f17ef0fec9f7" itemGuid="e0cc5c1e-476c-5ff2-af28-1b6a5517f91c"/>
+      <podcast:remoteItem feedGuid="fe96a8e0-0753-4870-a986-9c7d75c876bd" itemGuid="c42493b8-e6a3-44bd-8f75-35623f6af4b8"/>
+      <podcast:remoteItem feedGuid="46ad8c1f-3906-5c77-a284-cbabe934e789" itemGuid="ce66f504-cfd4-419c-bd6e-8352b32457d7"/>
+      <podcast:remoteItem feedGuid="d0a3dc00-c69e-5c8a-a462-43e5a8dc08b0" itemGuid="2c32a4ee-c006-436e-a3c5-7e4fdc39c8ed"/>
+      <podcast:remoteItem feedGuid="606dd394-6294-53cd-ba85-9ea5ca59407b" itemGuid="indiesats:npub13jml82yy69370amnfl0tfsreyg5hjqwxsmnttxv7g27usl8w5h5qnvtmat:54594dfd3ad9620fcc05d89caf2dd2a78bfe67790c76d85457130a4bcb804006"/>
+      <podcast:remoteItem feedGuid="b595ac2e-22bf-5de9-a958-2b51a332fa85" itemGuid="951be296-59df-40c6-bbab-23e467573330"/>
+      <podcast:remoteItem feedGuid="634b45ba-7241-4c99-a567-8e9fb597fdf8" itemGuid="b34cb628-ffe8-4eb1-87c5-f659dad2a6f8"/>
+      <podcast:remoteItem feedGuid="ab128ced-db4b-4a35-afe0-4198102a9f58" itemGuid="5a2a2faf-f1eb-4d86-88f0-fbf695d4f8b7"/>
+      <podcast:remoteItem feedGuid="18e5f71e-e3b1-4799-b603-57b18ca944b9" itemGuid="16c1dfb8-41ab-4f7e-9c05-66425396c184"/>
+      <podcast:remoteItem feedGuid="14eea730-6e8d-5f42-beb8-92cc32bbc875" itemGuid="d56616d3-c005-4b7e-a52f-e2d21746cbf5"/>
+      <podcast:remoteItem feedGuid="2058994e-2058-4058-8589-2058994e2058" itemGuid="60831b16-6083-4083-8831-60831b166083"/>
+      <podcast:remoteItem feedGuid="bd25dc41-dc1f-58bb-ae2f-dcd5cd73b1fb" itemGuid="a63696fd-4d13-44fc-9405-2ff6bbb4796a"/>
+      <podcast:remoteItem feedGuid="9f00080e-1870-5074-bce5-08e62eb9ade0" itemGuid="30ae61b1-b7f3-46f8-b74b-19a06710ab8f"/>
+      <podcast:remoteItem feedGuid="629d9247-dd36-5d78-87a6-bb614bffe106" itemGuid="c84f6a30-0cb2-49c1-9f07-a34cab40744f"/>
     <podcast:txt purpose="episode">149th Edition</podcast:txt>
       <podcast:remoteItem feedGuid="f068ed0d-7ffa-489e-8194-224ad91d6aa8" itemGuid="543d70ba-3434-4e6e-a602-cfd6586fb5f0"/>
       <podcast:remoteItem feedGuid="8df4255e-92e5-553f-997b-3002c76f2a88" itemGuid="a99a494f-fd0e-46ca-8ea3-0ae14f766e1f"/>
