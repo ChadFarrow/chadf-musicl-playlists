@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 17 Aug 2026 07:52:19 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 07:52:19 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 07:37:02 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:37:02 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -897,5 +897,8 @@
     <podcast:remoteItem feedGuid="c1795fb3-33f9-5492-8987-19e3e377dd52" itemGuid="ca379d82-35ed-49fe-a4d7-e73669a0d989"/>
     <podcast:remoteItem feedGuid="8d3aa9e5-1e42-5108-a7e0-463883d35e14" itemGuid="3a942840-9282-47f1-80cb-68daaabb9d31"/>
     <podcast:remoteItem feedGuid="fafd2bfc-98ac-5010-9fcb-7403abfd420a" itemGuid="1673ad19-db36-4b4f-b009-81febe78ee33"/>
+    <podcast:remoteItem feedGuid="afbaa6da-4219-55dd-934a-96e0bc79c442" itemGuid="f157438e-6fdf-4769-9dd6-4582ca735ec5"/>
+    <podcast:remoteItem feedGuid="f70b7d51-aff3-54a6-8e4b-ef5fb5d7568c" itemGuid="c17da29f-287f-4f6c-a866-68da96c1b7ed"/>
+    <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="b95b645a-e23d-4c58-932a-f7b100dfe7ed"/>
   </channel>
 </rss>
