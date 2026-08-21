@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 20 Aug 2026 07:40:03 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 07:40:03 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 07:41:31 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:41:31 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -915,5 +915,12 @@
     <podcast:remoteItem feedGuid="9ad349f3-4366-5099-b224-5d74094e5c5b" itemGuid="de8e21eb-4d84-46c2-89ab-2b876432fedc"/>
     <podcast:remoteItem feedGuid="79f0590f-763a-5473-b822-af515dd6a38c" itemGuid="fddebdf3-0d92-44e1-8fcf-c3be2708dae5"/>
     <podcast:remoteItem feedGuid="79f0590f-763a-5473-b822-af515dd6a38c" itemGuid="ef7546b9-e971-4742-a5b2-88fa8f969f21"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52395"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="7ed2a6d9-b4e6-4e36-bcdc-1123471f68eb"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-452/"/>
+    <podcast:remoteItem feedGuid="79f0590f-763a-5473-b822-af515dd6a38c" itemGuid="d4ad3a47-380b-4a42-9969-701c02599055"/>
+    <podcast:remoteItem feedGuid="ea0fae35-5e4e-50fa-9e62-d1b046cdfeca" itemGuid="19a0928e-4018-47be-bc1d-3a9ff94bdaae"/>
+    <podcast:remoteItem feedGuid="ac746d09-7c3b-5bcd-b28a-f12d6456ca8f" itemGuid="homegrownhits-147"/>
+    <podcast:remoteItem feedGuid="8f2eb0c0-3627-59cf-85fc-4e252ddb6954" itemGuid="b9bfdcc7-f451-424c-93a4-2f3c83ba2611"/>
   </channel>
 </rss>
