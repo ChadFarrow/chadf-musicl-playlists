@@ -6,14 +6,21 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 15 Aug 2026 07:30:05 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 07:30:05 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 07:30:43 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:30:43 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>b3f61508-78fc-4d1b-9fa6-987609633252</podcast:guid>
-    <podcast:txt purpose="episode">150th Edition</podcast:txt>
+    <podcast:guid>81a54ba8-0794-4fc0-9789-3dac65ef1b67</podcast:guid>
+    <podcast:txt purpose="episode">151st Edition - Aaron of Essex - NMNU</podcast:txt>
+      <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="cc3e6497-2fb1-421b-856a-cdc8d2f75d47"/>
+      <podcast:remoteItem feedGuid="4b52d66c-4b46-543f-abd3-e7cddecab8f1" itemGuid="285fe50a-26c7-4127-b270-ad6693b3fd3e"/>
+      <podcast:remoteItem feedGuid="ab7db89d-9602-5b8d-bba8-42855b20c13c" itemGuid="6e034d4c-9319-4c87-a6d2-7d68ce100287"/>
+      <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="796d5041-eb9b-46fd-8cad-6a11932f3508"/>
+      <podcast:remoteItem feedGuid="634b45ba-7241-4c99-a567-8e9fb597fdf8" itemGuid="b34cb628-ffe8-4eb1-87c5-f659dad2a6f8"/>
+      <podcast:remoteItem feedGuid="c1097e6f-6457-5297-bfdd-1526ccc87eae" itemGuid="675f078b-1213-43dc-861a-bd3468926098"/>
+    <podcast:txt purpose="episode">150th Edition - PicklePop Special</podcast:txt>
       <podcast:remoteItem feedGuid="7b6f39ba-2f1b-598d-81bb-a303e18dca15" itemGuid="623da6ba-b67e-4d8e-a954-4412f084ce36"/>
       <podcast:remoteItem feedGuid="cea7017f-6d36-520b-abfc-f17ef0fec9f7" itemGuid="e0cc5c1e-476c-5ff2-af28-1b6a5517f91c"/>
       <podcast:remoteItem feedGuid="fe96a8e0-0753-4870-a986-9c7d75c876bd" itemGuid="c42493b8-e6a3-44bd-8f75-35623f6af4b8"/>
