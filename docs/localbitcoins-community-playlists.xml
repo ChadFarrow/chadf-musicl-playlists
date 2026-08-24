@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Sun, 23 Aug 2026 07:32:36 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 07:32:36 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 07:57:32 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:57:32 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -929,5 +929,13 @@
     <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="10d01dbd-c6a3-42ca-8083-3927d393f548"/>
     <podcast:remoteItem feedGuid="2ab88638-5d14-5e37-aa75-12e0c3047e5c" itemGuid="substack:post:211881562"/>
     <podcast:remoteItem feedGuid="f70b7d51-aff3-54a6-8e4b-ef5fb5d7568c" itemGuid="30328dd6-4ecd-476f-a2c6-a7e374ee8d51"/>
+    <podcast:remoteItem feedGuid="917393e3-1b1e-5cef-ace4-edaa54e1f810" itemGuid="PC20-268"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="aacc0eaf-457e-494e-b38f-75c3c6149f7d-ce4c9ffb-4fa8-4ed7-84b1-c19076df45e4"/>
+    <podcast:remoteItem feedGuid="bde061bb-4401-5bd7-b334-e798e41f157a" itemGuid="f75f5395-02f5-4716-8f15-14e0d952c8b0"/>
+    <podcast:remoteItem feedGuid="cb8c973f-ed99-4658-b0d8-51524529a31d" itemGuid="39decbad-055a-4a8d-aa4f-2e0d40c3a65a"/>
+    <podcast:remoteItem feedGuid="23cc891c-c425-50e8-ac99-c17e6f2582c8" itemGuid="44ab60b3-d369-46a3-90cd-469b6ca38a2d"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52406"/>
+    <podcast:remoteItem feedGuid="f70b7d51-aff3-54a6-8e4b-ef5fb5d7568c" itemGuid="7cc01247-852e-4e57-be09-11b03474dee2"/>
+    <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="9990aa17-0d90-4380-b485-e498e976d380"/>
   </channel>
 </rss>
