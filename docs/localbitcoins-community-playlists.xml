@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 26 Aug 2026 07:45:02 GMT</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2026 07:45:02 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 18:06:39 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:06:39 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -959,5 +959,15 @@
     <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="fcb13d4b-8375-45bd-8b7f-2589d4756ecf"/>
     <podcast:remoteItem feedGuid="d5e73072-64a2-56a3-9dcd-4a00bfe561d5" itemGuid="e5ec83cb-08c2-4f58-b000-fd4f686b84de"/>
     <podcast:remoteItem feedGuid="6c277321-9d2c-5cd2-98b1-f49efcea0602" itemGuid="8b850466-1a23-4298-b14c-a1099816e9a6"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="9ed9f37c-b305-4bb5-ae8e-5b5e8851f1c4-41fb3e75-3373-4bb9-9698-b8c09c8e6a2d"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-453/"/>
+    <podcast:remoteItem feedGuid="eb037229-9d3a-556a-bd8f-3b815c2fc409" itemGuid="6fabf282-ef77-4013-b1a4-49df2683b89f"/>
+    <podcast:remoteItem feedGuid="7b344f41-6e02-5ce9-9573-429f5fe7feb8" itemGuid="6ed554bc-d8f1-4808-9940-60f10aef97dd"/>
+    <podcast:remoteItem feedGuid="ea0fae35-5e4e-50fa-9e62-d1b046cdfeca" itemGuid="e5d6ff3e-4a07-4d20-851b-3dec87bf98cc"/>
+    <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" itemGuid="5a551d85-c109-587c-bd1e-1ca7d4f95909"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="81bfaa06-dce8-49f1-a5d0-30e110cda453"/>
+    <podcast:remoteItem feedGuid="45ba0cd2-faf8-510a-accc-8055d48a2ce2" itemGuid="ebf4e076-2fe8-40da-ab86-fbdbd9f1113b"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="35e287de-fba9-42ba-ae96-832e3c87f99c"/>
+    <podcast:remoteItem feedGuid="e186da9b-b763-5410-bdb9-734e4065c699" itemGuid="holsteinhouse.podbean.com/791fc2cf-319a-34cd-b9ba-d674cb0b417f"/>
   </channel>
 </rss>
