@@ -12,6 +12,7 @@ from datetime import datetime, timezone
 import uuid
 import os
 import re
+import io
 
 # Namespace for Podcasting 2.0
 PODCAST_NS = "{https://podcastindex.org/namespace/1.0}"
@@ -143,6 +144,24 @@ def filter_and_group_by_frequency(song_counts, min_frequency=2):
     return frequency_groups
 
 
+_DATE_TAGS = ("pubDate", "lastBuildDate")
+
+
+def _without_dates(xml_text):
+    """
+    The document with its build timestamps masked, for comparing two builds.
+
+    Only these two elements are blanked, and only at the channel level they are
+    written at — a <pubDate> inside an item would be content, not a build stamp.
+    This feed has no items, so the distinction costs nothing today and keeps the
+    comparison honest if it ever gains some.
+    """
+    out = xml_text
+    for tag in _DATE_TAGS:
+        out = re.sub(rf"<{tag}>[^<]*</{tag}>", f"<{tag}></{tag}>", out)
+    return out
+
+
 def existing_guid(output_file):
     """
     The <podcast:guid> already published in output_file, if any.
@@ -236,13 +255,38 @@ def generate_xml(frequency_groups, output_file):
             remote_item.set("feedGuid", feed_guid)
             remote_item.set("itemGuid", item_guid)
 
-    # Write to file with pretty formatting
+    # Serialize, then decide whether the timestamps are allowed to move.
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
+    buf = io.BytesIO()
+    buf.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+    tree.write(buf, encoding="UTF-8", xml_declaration=False)
+    new_xml = buf.getvalue().decode("utf-8")
+
+    try:
+        with open(output_file, "r", encoding="utf-8") as f:
+            old_xml = f.read()
+    except OSError:
+        old_xml = None
+
+    # A REBUILD IS NOT A CHANGE.
+    #
+    # Both dates were stamped with "now" unconditionally, so the file differed
+    # on every run even when the track list was identical — which defeated the
+    # workflow's "only commit if it changed" guard and produced a commit a day
+    # that said nothing. It also made lastBuildDate a lie: RSS defines it as when
+    # the CONTENT last changed, not when the script last ran.
+    #
+    # Compared with the dates masked rather than by diffing the track list, so
+    # this covers everything the document asserts — the guid, the title, the
+    # playcount groupings, the track order — and not just the pairs. Anything
+    # that makes the feed genuinely different moves the dates; nothing else does.
+    if old_xml is not None and _without_dates(new_xml) == _without_dates(old_xml):
+        print(f"\nUnchanged: {output_file} (tracks identical; timestamps left alone)")
+        return
 
     with open(output_file, "wb") as f:
-        f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
-        tree.write(f, encoding="UTF-8", xml_declaration=False)
+        f.write(new_xml.encode("utf-8"))
 
     print(f"\nGenerated: {output_file}")
 
