@@ -1,7 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
   <channel>
     <title><![CDATA[ChadF's musicL playlist]]></title>
-    <description><![CDATA[Publisher Feed of all of the musicL playlist I've made.]]></description>
+    <description><![CDATA[Publisher feed of the musicL playlists I've made, plus others I follow.]]></description>
     <itunes:image href="https://raw.githubusercontent.com/ChadFarrow/musicL-playlist-updater/refs/heads/main/playlists/ChadF-musicL-publisher-art.webp"/>
     <link>https://github.com/ChadFarrow/musicL-playlist-updater/tree/main/playlists</link>
     <generator>Sovereign Feeds</generator>
@@ -10,7 +10,7 @@
       <url>https://raw.githubusercontent.com/ChadFarrow/musicL-playlist-updater/refs/heads/main/playlists/ChadF-musicL-publisher-art.webp</url>
       <link>https://github.com/ChadFarrow/musicL-playlist-updater/tree/main/playlists</link>
       <title><![CDATA[ChadF's musicL playlist]]></title>
-      <description><![CDATA[Publisher Feed of all of the musicL playlist I've made.]]></description>
+      <description><![CDATA[Publisher feed of the musicL playlists I've made, plus others I follow.]]></description>
       <width>144</width>
       <height>144</height>
     </image>
