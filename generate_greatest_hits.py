@@ -11,6 +11,7 @@ from collections import Counter
 from datetime import datetime, timezone
 import uuid
 import os
+import re
 
 # Namespace for Podcasting 2.0
 PODCAST_NS = "{https://podcastindex.org/namespace/1.0}"
@@ -109,16 +110,40 @@ def filter_and_group_by_frequency(song_counts, min_frequency=2):
     return frequency_groups
 
 
+def existing_guid(output_file):
+    """
+    The <podcast:guid> already published in output_file, if any.
+
+    Read with a plain text scan rather than an XML parse: the file this reads is
+    the one this script previously wrote, and an older build may have written a
+    document that does not parse (see the namespace note in generate_xml). The
+    guid has to survive that, or the fix for one bug would throw away the
+    identity the other bug was corrupting.
+    """
+    try:
+        with open(output_file, "r", encoding="utf-8") as f:
+            head = f.read(4000)
+    except OSError:
+        return None
+    m = re.search(r"<podcast:guid>\s*([^<\s]+)\s*</podcast:guid>", head)
+    return m.group(1) if m else None
+
+
 def generate_xml(frequency_groups, output_file):
     """
     Generate the Greatest Hits XML feed.
     """
-    # Register namespace prefix to use 'podcast:' instead of 'ns0:'
+    # Register namespace prefix to use 'podcast:' instead of 'ns0:'.
+    # This ALREADY emits xmlns:podcast on the root when the tree is serialized.
     ET.register_namespace('podcast', 'https://podcastindex.org/namespace/1.0')
 
-    # Create RSS root element
+    # Create RSS root element.
+    # Do NOT also rss.set("xmlns:podcast", ...) here: register_namespace above
+    # writes that attribute, so setting it again emitted it TWICE, which is a
+    # duplicate attribute and makes the whole document invalid XML. Podcast Index
+    # could not parse the feed at all — it registered the URL (feed 7683902) with
+    # an empty title and a derived guid, so the playlist was unsearchable there.
     rss = ET.Element("rss", version="2.0")
-    rss.set("xmlns:podcast", "https://podcastindex.org/namespace/1.0")
 
     channel = ET.SubElement(rss, "channel")
 
@@ -154,8 +179,14 @@ def generate_xml(frequency_groups, output_file):
     # Podcast namespace tags
     ET.SubElement(channel, f"{PODCAST_NS}medium").text = "musicL"
 
+    # A feed's guid is its PERMANENT identity, so it is reused, never re-minted.
+    # This was str(uuid.uuid4()) — a new identity on every run. The workflow
+    # regenerates this file whenever any playlist changes, so the guid churned
+    # constantly: every consumer that stored it was left pointing at a feed that
+    # no longer claimed that id, and the "only commit if it changed" guard was
+    # defeated, since a fresh guid made the file differ every single time.
     playlist_guid = ET.SubElement(channel, f"{PODCAST_NS}guid")
-    playlist_guid.text = str(uuid.uuid4())
+    playlist_guid.text = existing_guid(output_file) or str(uuid.uuid4())
 
     # Add episodes organized by play count (descending)
     sorted_frequencies = sorted(frequency_groups.keys(), reverse=True)
