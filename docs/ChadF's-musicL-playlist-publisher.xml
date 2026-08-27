@@ -30,6 +30,7 @@
     <podcast:remoteItem feedGuid="0a28983e-c60c-467d-8d76-6ec7663fbfec" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/SAS-music-playlist.xml" feedImg=""/>
     <podcast:remoteItem feedGuid="8aad8bd9-0eac-4bfe-b290-6c73f7148155" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-music-playlist.xml" feedImg=""/>
     <podcast:remoteItem feedGuid="b9881dee-070e-4716-9678-00d7a35ea57c" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/Greatest-Hits-music-playlist.xml" feedImg=""/>
+    <podcast:remoteItem feedGuid="508a029b-020f-4334-9704-e0a9a5f800fb" feedUrl="https://v4vmusic.com/playlist/508a029b-020f-4334-9704-e0a9a5f800fb.xml" feedImg=""/>
     <itunes:author>ChadF</itunes:author>
     <pubDate>Sat, 06 Sep 2025 01:36:23 +0000</pubDate>
     <lastBuildDate>Sat, 06 Sep 2025 01:36:23 +0000</lastBuildDate>
