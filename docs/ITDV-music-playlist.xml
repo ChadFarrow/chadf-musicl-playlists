@@ -6,13 +6,15 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 08 Jul 2026 09:25:04 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 09:25:04 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 18:06:28 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:06:28 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>66b6f8d1-7751-43d0-ab03-d3c675088a0a</podcast:guid>
+    <podcast:guid>fdd9da39-17c9-4c67-ae78-7a664b643002</podcast:guid>
+    <podcast:txt purpose="episode">Episode 72 - Miles for miles</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 71 - Lovely Podcast</podcast:txt>
       <podcast:remoteItem feedGuid="3197a0a6-4c7e-56ea-8469-cfb3ca0d3cdc" itemGuid="5092dc27-2bee-4fe0-8483-2478ee0c0e64"/>
       <podcast:remoteItem feedGuid="78771e44-95b0-5f9b-93c7-a3dda7d41522" itemGuid="e0cb2750-1763-470c-8ebc-8098b6448b55"/>
