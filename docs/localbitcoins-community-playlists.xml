@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 29 Aug 2026 12:58:45 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2026 12:58:45 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Aug 2026 12:37:32 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:37:32 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -982,5 +982,14 @@
     <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="14d444db-0e94-435a-b202-de02e4444e4c"/>
     <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="Episode-454-livestream-bwb-rev-hodl"/>
     <podcast:remoteItem feedGuid="fafd2bfc-98ac-5010-9fcb-7403abfd420a" itemGuid="62eed7c1-88d4-41fc-8873-e3ce2d8a94fe"/>
+    <podcast:remoteItem feedGuid="fafd2bfc-98ac-5010-9fcb-7403abfd420a" itemGuid="0df4c96f-226a-4742-bbcf-052c1a03b72b"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-454/"/>
+    <podcast:remoteItem feedGuid="cb8c973f-ed99-4658-b0d8-51524529a31d" itemGuid="9c2dddfa-47bb-41e0-a0d1-7c223aa91b07"/>
+    <podcast:remoteItem feedGuid="fafd2bfc-98ac-5010-9fcb-7403abfd420a" itemGuid="7e54130e-c670-521e-898b-60be856f3317"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="c974c07a-ddb6-4b75-a1c7-f975e0cb939d-aacc0eaf-457e-494e-b38f-75c3c6149f7d"/>
+    <podcast:remoteItem feedGuid="a99822b2-35d6-5a64-89b4-80358e38fcc3" itemGuid="4f570752-2d16-4e65-a535-f209467481d1"/>
+    <podcast:remoteItem feedGuid="0de5a30d-b417-5f87-8a2e-4389cb88c54f" itemGuid="e6599601-3862-4904-b1d4-a348229d2b46"/>
+    <podcast:remoteItem feedGuid="a467ed09-3db8-574b-922a-a8edd4ef509d" itemGuid="434be164-ee32-457f-bf0b-a3a14c11a9cd"/>
+    <podcast:remoteItem feedGuid="6da2ec47-2807-5045-a77d-4dee8992d724" itemGuid="https://bitcoin-takeover.com/audio/?name=2026-08-26_s1_e2_remastered_john_carvalho_on_bitcoin_politics_-_26_08_2026_15.26.mp3"/>
   </channel>
 </rss>
