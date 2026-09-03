@@ -6,13 +6,27 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 11 Aug 2026 08:08:57 GMT</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2026 08:08:57 GMT</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 11:57:24 GMT</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:57:24 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>34254f2a-3765-40a7-b1b6-147ad70f6814</podcast:guid>
+    <podcast:guid>8796ef71-69d8-4bb9-bdc3-303fc01e482a</podcast:guid>
+    <podcast:txt purpose="episode">Dust Off The Rust</podcast:txt>
+      <podcast:remoteItem feedGuid="0988c937-cf4c-5599-b533-8f611e91b7ef" itemGuid="f1cb7b26-db41-4f12-890c-16f2a5fcc648"/>
+      <podcast:remoteItem feedGuid="0988c937-cf4c-5599-b533-8f611e91b7ef" itemGuid="ceb086f5-e81c-4175-b752-e4f5959a1d94"/>
+      <podcast:remoteItem feedGuid="2b32fbbe-8206-5fa9-9539-5e0e5d2c8b38" itemGuid="62a33fb7-3ef3-494a-8516-8a3665d16704"/>
+      <podcast:remoteItem feedGuid="0bf60dbd-a1d1-5952-bfbd-750844c1fe2f" itemGuid="92622716-0e26-4763-bf29-f4670b2ed2eb"/>
+      <podcast:remoteItem feedGuid="b92e233d-0a65-5c26-bd19-c1e63d97edc2" itemGuid="6c896ac9-e70d-45b0-b218-d1eb95f97390"/>
+      <podcast:remoteItem feedGuid="b92e233d-0a65-5c26-bd19-c1e63d97edc2" itemGuid="2a8f6c48-c836-412f-87b0-92c60edd3097"/>
+      <podcast:remoteItem feedGuid="f86df97f-faf1-5886-9007-da7986b2a714" itemGuid="3989fa57-3a54-424e-84fd-cfafd4c9cdcf"/>
+      <podcast:remoteItem feedGuid="f86df97f-faf1-5886-9007-da7986b2a714" itemGuid="62297b85-7ef7-4a82-8cee-2574fac4104a"/>
+      <podcast:remoteItem feedGuid="5847498b-9db5-509f-860f-3f3c3c422698" itemGuid="bbf5214d-2961-41dd-999f-83a4c90e07d1"/>
+      <podcast:remoteItem feedGuid="419b741c-a3de-5e39-acb4-74bda853510b" itemGuid="b49ca8ab-b8b6-4fbb-af6e-7b2794cea64d"/>
+      <podcast:remoteItem feedGuid="ee7a0abb-3ba6-507a-898b-66455598d027" itemGuid="87cb8b6d-3e19-48b0-837e-44053652f02f"/>
+      <podcast:remoteItem feedGuid="aeb21ef0-76c2-545f-a065-a6ce2d06de11" itemGuid="bbdf1c7e-dae4-486f-ac0b-6a2f70f012a6"/>
+      <podcast:remoteItem feedGuid="816b5e9a-1786-5edf-88a9-edfdfe41c099" itemGuid="f6da830e-c33b-46f3-8350-74f8057f41fa"/>
     <podcast:txt purpose="episode">Summer Shorts Edition 5</podcast:txt>
       <podcast:remoteItem feedGuid="a0947b44-5fe6-5103-aa43-5d8ceb684775" itemGuid="6fdce8e3-cfb6-43d9-858c-e5011c22972b"/>
       <podcast:remoteItem feedGuid="a0947b44-5fe6-5103-aa43-5d8ceb684775" itemGuid="f35b36a3-5233-418f-8abf-dd88bdb67823"/>
