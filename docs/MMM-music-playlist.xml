@@ -6,13 +6,15 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 29 Aug 2026 12:58:39 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2026 12:58:39 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 11:08:57 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:08:57 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>fcb97725-370e-4ee7-9ec5-88ac4d7c7220</podcast:guid>
+    <podcast:guid>2c384c9e-4dd3-45a1-aa78-7f5604010d49</podcast:guid>
+    <podcast:txt purpose="episode">153rd Edition - DJ High Yona</podcast:txt>
+      <podcast:remoteItem feedGuid="d8eeed79-5e24-5dc7-a2be-1fae9f92487d" itemGuid="7dcb236b-4d90-4301-8fd1-af40e3f2ecbf"/>
     <podcast:txt purpose="episode">152nd Edition - VoidZero</podcast:txt>
       <podcast:remoteItem feedGuid="a1853e5d-6791-5b69-888f-5115ca85106c" itemGuid="e9bf07fd-b150-45ce-9990-beb41596a606"/>
       <podcast:remoteItem feedGuid="4736741a-99d4-5e66-966b-8e694be1eedf" itemGuid="7770ec72-4ab6-5102-8ded-ef0db4a29144"/>
