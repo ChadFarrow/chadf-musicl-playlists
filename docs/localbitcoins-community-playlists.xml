@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 08 Sep 2026 11:59:29 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 11:59:29 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 12:10:28 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:10:28 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1075,5 +1075,21 @@
     <podcast:remoteItem feedGuid="7f8f8ed1-704c-5448-a6b5-4c11c844ed2d" itemGuid="94a1f385-822c-4659-884f-66defb126266"/>
     <podcast:remoteItem feedGuid="d6116d0a-bdb3-5e21-9956-9d0b49661990" itemGuid="60c6d1ce-43a7-4159-9876-bf5342db8dbe"/>
     <podcast:remoteItem feedGuid="a68e74ca-b381-58b3-a0cc-889301fc186f" itemGuid="d8b355e7-402e-478f-8615-ee7b380328b5"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="51cdf0a4-fc9e-425e-8dea-130c34ae7dc1-b7bc47d1-1fb5-4cec-ac05-a7eacd499d86"/>
+    <podcast:remoteItem feedGuid="8940493d-2215-5d52-9ff8-00d1cd892e6c" itemGuid="https://api.spreaker.com/episode/74909334"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="5d352ed8-74e9-4a6f-81de-dff23d2210ff"/>
+    <podcast:remoteItem feedGuid="9ad349f3-4366-5099-b224-5d74094e5c5b" itemGuid="ee753e3e-8567-4e83-91e0-bc8f325a0686"/>
+    <podcast:remoteItem feedGuid="f70b7d51-aff3-54a6-8e4b-ef5fb5d7568c" itemGuid="f7943282-836c-450a-8714-0b9460e9cb90"/>
+    <podcast:remoteItem feedGuid="29d75661-fc75-4897-bf1a-1f85008266fb" itemGuid="9e71f4c3-8f48-4857-b16a-d1a2e968e4da"/>
+    <podcast:remoteItem feedGuid="a467ed09-3db8-574b-922a-a8edd4ef509d" itemGuid="4d030248-3a0f-4ee5-a4b6-e668bd1600ba"/>
+    <podcast:remoteItem feedGuid="6da2ec47-2807-5045-a77d-4dee8992d724" itemGuid="https://bitcoin-takeover.com/audio/?name=2026-09-08_remastered-2026-09-07_zack_voell_bitcoin_takeover_podcast_.mp3"/>
+    <podcast:remoteItem feedGuid="142c2f5f-cc9e-52eb-bf63-890f0402651b" itemGuid="https://planetrage.show/?p=867"/>
+    <podcast:remoteItem feedGuid="7b344f41-6e02-5ce9-9573-429f5fe7feb8" itemGuid="534349f4-d327-4183-9471-f665641cd35c"/>
+    <podcast:remoteItem feedGuid="c1795fb3-33f9-5492-8987-19e3e377dd52" itemGuid="ffda0b6c-859c-4cb0-8342-32da186ae0fa"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="690fe033-1c72-496d-bc9e-3c4e10d5905d"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52525"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="Episode-456-livestream"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-456/"/>
+    <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" itemGuid="597a9202-dfd2-5ed1-a69d-aa6c72bcadcd"/>
   </channel>
 </rss>
