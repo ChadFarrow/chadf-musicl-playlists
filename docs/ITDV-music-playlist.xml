@@ -6,13 +6,15 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 05 Sep 2026 11:08:48 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2026 11:08:48 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 12:03:59 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:03:59 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>423626a1-9fdf-4bfd-b79a-fc121ea93986</podcast:guid>
+    <podcast:guid>a914fa78-0e1d-4b99-b1e8-68ae7e78a92f</podcast:guid>
+    <podcast:txt purpose="episode">Episode 73 - Mansion, Part 2</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 73 - Mansion, Part 1</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 72 - Miles for miles</podcast:txt>
