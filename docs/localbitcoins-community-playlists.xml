@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 11 Sep 2026 12:02:27 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 12:02:27 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 11:29:27 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:29:27 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1136,5 +1136,13 @@
     <podcast:remoteItem feedGuid="188961dd-894c-5d39-8b5a-53f73487976a" itemGuid="a230169a-2548-459e-9135-64a4b13537e3"/>
     <podcast:remoteItem feedGuid="c6cd3ef4-d5ec-529e-a04f-90c83cf3f947" itemGuid="a68ea94f-e1cf-49ec-ac07-355e78eb1515"/>
     <podcast:remoteItem feedGuid="038bf62c-0af8-5df3-b1d4-2001a0679629" itemGuid="1bc51ea5-5f75-4f00-890d-fef2d889e269"/>
+    <podcast:remoteItem feedGuid="de47e794-c0a3-4bb4-8712-cce1e4566b7e" itemGuid="cc6e4d20-cb4b-4e21-8c2a-29d974daf9f8"/>
+    <podcast:remoteItem feedGuid="7c6f7875-2b73-491e-b32c-e2c8d6e91d53" itemGuid="4a8c16bf-2662-4263-9cb7-14d910f2e3e2"/>
+    <podcast:remoteItem feedGuid="ac746d09-7c3b-5bcd-b28a-f12d6456ca8f" itemGuid="fcfc450b-6ad0-4c5e-8105-cfce888c1ef4"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="92193b2c-7ff0-42e1-935f-ce0103c00d01"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="ef68715d-35da-45d2-a3ee-33dab31bffdf"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52601"/>
+    <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="f3c05977-ae95-4c97-9bbf-e3837a305aad"/>
+    <podcast:remoteItem feedGuid="55b53584-4219-4fb0-b916-075ce23f714e" itemGuid="e1551234-a98f-400d-9111-620753545502"/>
   </channel>
 </rss>
