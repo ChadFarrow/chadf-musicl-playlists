@@ -6,13 +6,23 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 05 Sep 2026 11:08:57 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2026 11:08:57 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 11:29:24 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:29:24 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>2c384c9e-4dd3-45a1-aa78-7f5604010d49</podcast:guid>
+    <podcast:guid>f66c1495-71e0-4239-b6e7-8aab4d76f7c2</podcast:guid>
+    <podcast:txt purpose="episode">154th Edition - Techno Special</podcast:txt>
+      <podcast:remoteItem feedGuid="ecad4dd5-df15-5f32-adbc-1f2ad37cadf1" itemGuid="a2655223-1115-4a88-82c9-156130d7903a"/>
+      <podcast:remoteItem feedGuid="d907406c-8c09-5fd1-b6d8-f83833207dee" itemGuid="dba7402c-5bac-4982-aa6a-ee561cfa4f43"/>
+      <podcast:remoteItem feedGuid="d9ed5274-f6aa-5ea3-b32e-e4f97605c431" itemGuid="eda11da4-9491-4399-b0ed-c00961178c2e"/>
+      <podcast:remoteItem feedGuid="386ac81f-285b-5d4a-9d2e-42aa32748aa6" itemGuid="f934d119-0126-4675-af93-576d5e21fd59"/>
+      <podcast:remoteItem feedGuid="1d0dbe5d-aa52-51e6-82ed-4e0b34c271f9" itemGuid="2c54667a-2149-4d67-a512-51cf6d13f74e"/>
+      <podcast:remoteItem feedGuid="0506ec90-ddae-5329-9f75-2ea132db7397" itemGuid="2e400ad3-c9e3-4a4f-81c3-c3bade79126b"/>
+      <podcast:remoteItem feedGuid="8d74edfc-7492-50d6-9212-6acd2202ffaf" itemGuid="cd1af1b1-cba2-4061-8e45-f7ccef0394f7"/>
+      <podcast:remoteItem feedGuid="af6aff55-6122-572b-84cc-193d0f2ad78f" itemGuid="b22635fe-db2f-448e-959a-6b4de3385530"/>
+      <podcast:remoteItem feedGuid="6dc88b2c-6284-5e6c-9b15-50f74ada7f62" itemGuid="8472dcbe-2bf8-4f7a-9b3b-1bf1f700936a"/>
     <podcast:txt purpose="episode">153rd Edition - DJ High Yona</podcast:txt>
       <podcast:remoteItem feedGuid="d8eeed79-5e24-5dc7-a2be-1fae9f92487d" itemGuid="7dcb236b-4d90-4301-8fd1-af40e3f2ecbf"/>
     <podcast:txt purpose="episode">152nd Edition - VoidZero</podcast:txt>
