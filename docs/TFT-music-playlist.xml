@@ -6,13 +6,27 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 03 Sep 2026 11:57:24 GMT</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 11:57:24 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 12:28:45 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:28:45 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>8796ef71-69d8-4bb9-bdc3-303fc01e482a</podcast:guid>
+    <podcast:guid>cec41b92-4e37-496b-8226-e6e1ff66f58a</podcast:guid>
+    <podcast:txt purpose="episode">Bump &amp; Thump</podcast:txt>
+      <podcast:remoteItem feedGuid="f446aaea-c40e-553b-b212-8e0525bcab59" itemGuid="c87fe36b-a5d5-4c40-8493-d256d75d3375"/>
+      <podcast:remoteItem feedGuid="f446aaea-c40e-553b-b212-8e0525bcab59" itemGuid="57c4ecc3-886c-4d9c-9e2a-f2393acec582"/>
+      <podcast:remoteItem feedGuid="65af69db-7dcf-5c95-bf27-7526a6dbce35" itemGuid="7ebec669-a919-474b-a0cd-c2545174f752"/>
+      <podcast:remoteItem feedGuid="65af69db-7dcf-5c95-bf27-7526a6dbce35" itemGuid="025a07c1-aad3-403d-b587-e87475f5ecc4"/>
+      <podcast:remoteItem feedGuid="498875f9-4153-55f7-b701-b611cee5f057" itemGuid="24b48a3d-5018-52a2-9c4d-e276f9e19b56"/>
+      <podcast:remoteItem feedGuid="69b675bd-93ee-581a-b502-e930491620f6" itemGuid="4c356703-8b86-52aa-987b-c0c718d203c9"/>
+      <podcast:remoteItem feedGuid="52ac9f14-a8bc-59b4-92b1-986671ac535a" itemGuid="76a0d219-a635-4e57-b4cd-9bc4058538b9"/>
+      <podcast:remoteItem feedGuid="93cdb28e-06e1-5b4f-b252-6d52081b9222" itemGuid="877f8973-3e58-4638-b268-ad91544a4caf"/>
+      <podcast:remoteItem feedGuid="2bb52657-f7c0-5b43-abd1-2428c2136941" itemGuid="6c904d6d-10e4-488c-b956-f2db361d5f05"/>
+      <podcast:remoteItem feedGuid="310013bd-f266-5ffd-8bdb-fbbd4f3c0c8f" itemGuid="204caacb-2ad4-49c5-8aac-1c4e76fb18ff"/>
+      <podcast:remoteItem feedGuid="468d4d2f-eae0-5186-bf2c-5b34eaa2c974" itemGuid="d6454401-4ea8-486e-a528-cc0cb1781c1b"/>
+      <podcast:remoteItem feedGuid="127739c1-cbbf-599d-8010-92b9b33f7a73" itemGuid="3b5a6c99-e34d-4fae-8e82-59120f88ee1f"/>
+      <podcast:remoteItem feedGuid="39b799e4-6c5e-5824-8f4f-7312757b9cc0" itemGuid="b4cb6a60-36c4-4fd3-a48a-8adeb7123a4e"/>
     <podcast:txt purpose="episode">Dust Off The Rust</podcast:txt>
       <podcast:remoteItem feedGuid="0988c937-cf4c-5599-b533-8f611e91b7ef" itemGuid="f1cb7b26-db41-4f12-890c-16f2a5fcc648"/>
       <podcast:remoteItem feedGuid="0988c937-cf4c-5599-b533-8f611e91b7ef" itemGuid="ceb086f5-e81c-4175-b752-e4f5959a1d94"/>
