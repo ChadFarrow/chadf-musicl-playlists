@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 17 Sep 2026 12:26:15 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 12:26:15 GMT</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 12:05:10 GMT</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:05:10 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1189,5 +1189,13 @@
     <podcast:remoteItem feedGuid="96748822-dcb1-5519-a46d-b9c9bfc0241d" itemGuid="c000e5d3-9a96-4c11-8a60-56916d38f5e5"/>
     <podcast:remoteItem feedGuid="7005772a-c12d-4a3f-b3cc-4c05833946e0" itemGuid="0f9a254f-b0ac-4f0a-afcc-a787f10f4b19"/>
     <podcast:remoteItem feedGuid="d63a7c97-3d96-590d-acc7-fc90079c3b63" itemGuid="31841306a66733739e3a1e5bd54886d7aabe398bff4aaf1e3e9f3a305e3ea581:episode-1762428501336-8x8xbd624"/>
+    <podcast:remoteItem feedGuid="fafd2bfc-98ac-5010-9fcb-7403abfd420a" itemGuid="83d63de1-9589-5775-aa9c-80ed274847f7"/>
+    <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="9ee31797-5a62-4e00-a3e4-b61525b3915d"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=51025"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52660"/>
+    <podcast:remoteItem feedGuid="9ad349f3-4366-5099-b224-5d74094e5c5b" itemGuid="a4e9d2cf-3ece-4189-ba0e-9015880b1a2d"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="e79b6901-d2b0-4061-9107-5a5132e10f4c"/>
+    <podcast:remoteItem feedGuid="7c6f7875-2b73-491e-b32c-e2c8d6e91d53" itemGuid="8c82416b-4adf-43aa-8836-e79257362fd5"/>
+    <podcast:remoteItem feedGuid="856cd618-7f34-57ea-9b84-3600f1f65e7f" itemGuid="http://1904.noagendanotes.com"/>
   </channel>
 </rss>
