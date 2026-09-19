@@ -6,13 +6,19 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 12 Sep 2026 11:29:24 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 11:29:24 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 11:48:22 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:48:22 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>f66c1495-71e0-4239-b6e7-8aab4d76f7c2</podcast:guid>
+    <podcast:guid>17bbaaba-1fd7-47d4-87f2-8eeb7ffe5866</podcast:guid>
+    <podcast:txt purpose="episode">155th Edition - Sir TJ The Wrathful</podcast:txt>
+      <podcast:remoteItem feedGuid="a1077af6-602b-5daf-957b-68a65a03cad1" itemGuid="91db4cd2-b87e-447e-8a54-b3d227a32e27"/>
+      <podcast:remoteItem feedGuid="3197a0a6-4c7e-56ea-8469-cfb3ca0d3cdc" itemGuid="5092dc27-2bee-4fe0-8483-2478ee0c0e64"/>
+      <podcast:remoteItem feedGuid="c690112f-e347-463b-a9a8-9d61b3a5ddc7" itemGuid="02d7867a-7420-40bc-814c-eeb90c6b899d"/>
+      <podcast:remoteItem feedGuid="c3fb85f3-e45b-5927-b8b9-8aab074f3da3" itemGuid="1f221a66-1fd3-45ca-9c12-2c0de3c0f22c"/>
+      <podcast:remoteItem feedGuid="a1077af6-602b-5daf-957b-68a65a03cad1" itemGuid="e3cbc185-dfaa-4eff-b430-99eed9551c98"/>
     <podcast:txt purpose="episode">154th Edition - Techno Special</podcast:txt>
       <podcast:remoteItem feedGuid="ecad4dd5-df15-5f32-adbc-1f2ad37cadf1" itemGuid="a2655223-1115-4a88-82c9-156130d7903a"/>
       <podcast:remoteItem feedGuid="d907406c-8c09-5fd1-b6d8-f83833207dee" itemGuid="dba7402c-5bac-4982-aa6a-ee561cfa4f43"/>
