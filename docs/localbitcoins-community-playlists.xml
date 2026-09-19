@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 18 Sep 2026 12:05:10 GMT</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 12:05:10 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 11:48:28 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:48:28 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1197,5 +1197,10 @@
     <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="e79b6901-d2b0-4061-9107-5a5132e10f4c"/>
     <podcast:remoteItem feedGuid="7c6f7875-2b73-491e-b32c-e2c8d6e91d53" itemGuid="8c82416b-4adf-43aa-8836-e79257362fd5"/>
     <podcast:remoteItem feedGuid="856cd618-7f34-57ea-9b84-3600f1f65e7f" itemGuid="http://1904.noagendanotes.com"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="798bdec7-e7a3-4e81-85c2-e79a9f25f883"/>
+    <podcast:remoteItem feedGuid="3496e7a1-dd9a-5f29-bc52-d310db25e483" itemGuid="substack:post:216224025"/>
+    <podcast:remoteItem feedGuid="ac746d09-7c3b-5bcd-b28a-f12d6456ca8f" itemGuid="b4189a3c-ace3-48d9-a22d-49f584f9de3a"/>
+    <podcast:remoteItem feedGuid="6da2ec47-2807-5045-a77d-4dee8992d724" itemGuid="https://bitcoin-takeover.com/audio/?name=2026-09-16_s17_e43_mike_belshe_on_bitgo_quantum_clarity.mp3"/>
+    <podcast:remoteItem feedGuid="f70b7d51-aff3-54a6-8e4b-ef5fb5d7568c" itemGuid="ceb39601-ccf3-4aee-a1b3-1e828bc4e36f"/>
   </channel>
 </rss>
