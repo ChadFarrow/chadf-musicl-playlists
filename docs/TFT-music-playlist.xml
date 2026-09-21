@@ -6,13 +6,27 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 15 Sep 2026 12:28:45 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 12:28:45 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 13:39:45 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 13:39:45 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>cec41b92-4e37-496b-8226-e6e1ff66f58a</podcast:guid>
+    <podcast:guid>d0a5aa55-bca8-4ece-ac92-8e25aefdf457</podcast:guid>
+    <podcast:txt purpose="episode">Autumn Audio</podcast:txt>
+      <podcast:remoteItem feedGuid="a3d8424d-6a35-5dc1-9101-b1d82a6fbd8e" itemGuid="c1c7938a-07fa-4286-8e7d-228d1762b2ac"/>
+      <podcast:remoteItem feedGuid="af5c2856-2d0b-5df7-a110-8b411943c151" itemGuid="5ec94dcc-ed50-4046-b4b9-cf4cb8be40e1"/>
+      <podcast:remoteItem feedGuid="d8ffdade-d979-5c12-a0dc-96d0bba96a9d" itemGuid="c2c934c6-02af-41a1-9d66-68f00bb5b9b5"/>
+      <podcast:remoteItem feedGuid="d8ffdade-d979-5c12-a0dc-96d0bba96a9d" itemGuid="b7646e4e-e0dd-4951-9598-30df720f123a"/>
+      <podcast:remoteItem feedGuid="19215795-6853-5a12-8f84-8fe4d877ed53" itemGuid="2c7ca646-ac69-44bb-a0de-c13297e0ad7b"/>
+      <podcast:remoteItem feedGuid="19215795-6853-5a12-8f84-8fe4d877ed53" itemGuid="2007b234-1a06-4f8a-9149-6e6176b1e60e"/>
+      <podcast:remoteItem feedGuid="38edc858-5731-5221-86bf-86db9f886e2b" itemGuid="21430ec7-f699-5388-8502-8a3c1c8cb8cd"/>
+      <podcast:remoteItem feedGuid="38edc858-5731-5221-86bf-86db9f886e2b" itemGuid="ea0303a2-5f52-53c1-8bc1-15465440ed94"/>
+      <podcast:remoteItem feedGuid="597b56da-17ed-542e-9d80-e95c5e724745" itemGuid="aa8aca6f-37eb-49b3-867d-c92b1ba17b21"/>
+      <podcast:remoteItem feedGuid="f69f2f1d-830d-57a4-b486-3b7845bf0b05" itemGuid="7c5aeef5-e464-43b6-b015-7239edf9a302"/>
+      <podcast:remoteItem feedGuid="25b80d10-82f7-5f64-a5ee-d2271a3d59d9" itemGuid="634ae108-59b7-46cc-a7ab-cbdcf298ada1"/>
+      <podcast:remoteItem feedGuid="25b80d10-82f7-5f64-a5ee-d2271a3d59d9" itemGuid="e3b686ca-63c5-4974-ab5f-cd2cd497f04f"/>
+      <podcast:remoteItem feedGuid="d5c805fb-6016-4038-9cda-2e68d2b8dcc4" itemGuid="cbdaeaa0-3c58-41ce-92d1-c718710ade54"/>
     <podcast:txt purpose="episode">Bump &amp; Thump</podcast:txt>
       <podcast:remoteItem feedGuid="f446aaea-c40e-553b-b212-8e0525bcab59" itemGuid="c87fe36b-a5d5-4c40-8493-d256d75d3375"/>
       <podcast:remoteItem feedGuid="f446aaea-c40e-553b-b212-8e0525bcab59" itemGuid="57c4ecc3-886c-4d9c-9e2a-f2393acec582"/>
