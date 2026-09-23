@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Tue, 22 Sep 2026 12:23:08 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 12:23:08 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 12:34:59 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:34:59 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1232,5 +1232,14 @@
     <podcast:remoteItem feedGuid="636b509a-431d-53dd-a03a-9be92f255972" itemGuid="a53c0008e28445b321406d63a6139f12f26642707599ea77c0afd75f5f3e9cf4"/>
     <podcast:remoteItem feedGuid="fafd2bfc-98ac-5010-9fcb-7403abfd420a" itemGuid="b7bf5e8e-c083-4af5-b00b-48dfcd7b071e"/>
     <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="9dd859b9-12cb-4f9d-befa-842940d70b01"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52692"/>
+    <podcast:remoteItem feedGuid="de962cc3-105e-50fb-89cc-7ac68b34c9d7" itemGuid="ea19459a-8a4c-4d68-acac-83ec7f8e33a1"/>
+    <podcast:remoteItem feedGuid="29d75661-fc75-4897-bf1a-1f85008266fb" itemGuid="5125ed91-9a2c-4bf2-a17f-e7778e27c746"/>
+    <podcast:remoteItem feedGuid="f70b7d51-aff3-54a6-8e4b-ef5fb5d7568c" itemGuid="aa6c9151-2c9e-4f1f-9d1f-2c6ca9a58308"/>
+    <podcast:remoteItem feedGuid="917393e3-1b1e-5cef-ace4-edaa54e1f810" itemGuid="PC20-265"/>
+    <podcast:remoteItem feedGuid="4d972224-17bb-5000-9e8f-479bad83dfa1" itemGuid="Buzzsprout-19848216"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="7241e0d3-b1c2-4e02-9a0f-980a67cc34dd"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-460/"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="22a7d832-1c1a-45e9-a7a4-5bbe4442ec25"/>
   </channel>
 </rss>
