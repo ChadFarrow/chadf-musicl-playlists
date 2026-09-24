@@ -6,14 +6,20 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 17 Sep 2026 12:26:07 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 12:26:07 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 12:33:44 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:33:44 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>1747fde0-6744-4a6d-b9a1-5b86974b90a8</podcast:guid>
-    <podcast:txt purpose="episode">Episode 74 - What is Nostr?</podcast:txt>
+    <podcast:guid>41ac9f85-23b0-4a0f-80fe-df030cb284b2</podcast:guid>
+    <podcast:txt purpose="episode">Episode 75 - Artists, Listeners, Devs, Oh My!</podcast:txt>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="4e197141-6cd6-4366-8fe7-aa6c7c5050e3"/>
+      <podcast:remoteItem feedGuid="6fc2ad98-d4a8-5d70-9c68-62e9efc1209c" itemGuid="5a840925-6d63-4d4f-acc9-7e59c04eb76c"/>
+      <podcast:remoteItem feedGuid="c49ec2b5-94da-5780-870a-5101f15cde95" itemGuid="db6d2539-e214-4e13-b92b-1a3bd9aef6ad"/>
+      <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140"/>
+      <podcast:remoteItem feedGuid="c690112f-e347-463b-a9a8-9d61b3a5ddc7" itemGuid="02d7867a-7420-40bc-814c-eeb90c6b899d"/>
+    <podcast:txt purpose="episode">Episode 74 - Remember that last gig, we lost tommy?</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 73 - Mansion, Part 2</podcast:txt>
     <!-- no tracks -->
