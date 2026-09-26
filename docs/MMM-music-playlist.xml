@@ -6,13 +6,20 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 19 Sep 2026 11:48:22 GMT</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 11:48:22 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 12:04:25 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:04:25 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>17bbaaba-1fd7-47d4-87f2-8eeb7ffe5866</podcast:guid>
+    <podcast:guid>7b9d3d37-44ae-446e-81eb-66b9f8d81f25</podcast:guid>
+    <podcast:txt purpose="episode">156th Edition - Andy Princz</podcast:txt>
+      <podcast:remoteItem feedGuid="6699f042-029c-53e9-ad2e-7da90b10892c" itemGuid="2027e681-f5f3-4e90-b8b2-c845fb01dbdc"/>
+      <podcast:remoteItem feedGuid="0ccf4f55-2e0f-5562-9b01-cb10d8b71a27" itemGuid="42547399-08dd-49ac-88dd-036825c0b6ff"/>
+      <podcast:remoteItem feedGuid="930fe2d8-ea6f-5370-a571-1d592a6f40ac" itemGuid="565ad6f2-f7fe-46c9-ab9f-df4212b64f5c"/>
+      <podcast:remoteItem feedGuid="9d0a97a5-4092-530d-96d1-e2087fb77853" itemGuid="3b10aee8-ad3e-43ee-9ebe-0528cb61fb39"/>
+      <podcast:remoteItem feedGuid="9d0a97a5-4092-530d-96d1-e2087fb77853" itemGuid="29b9a167-92a0-4f17-ac62-3a7ea1d4ff76"/>
+      <podcast:remoteItem feedGuid="6eb0e84c-367f-5e8a-8c04-7eb1cb602123" itemGuid="02d472cc-4e1b-44dd-b80b-2d3b32064a1f"/>
     <podcast:txt purpose="episode">155th Edition - Sir TJ The Wrathful</podcast:txt>
       <podcast:remoteItem feedGuid="a1077af6-602b-5daf-957b-68a65a03cad1" itemGuid="91db4cd2-b87e-447e-8a54-b3d227a32e27"/>
       <podcast:remoteItem feedGuid="3197a0a6-4c7e-56ea-8469-cfb3ca0d3cdc" itemGuid="5092dc27-2bee-4fe0-8483-2478ee0c0e64"/>
