@@ -6,13 +6,26 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 21 Sep 2026 13:39:45 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 13:39:45 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 14:58:57 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:58:57 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>d0a5aa55-bca8-4ece-ac92-8e25aefdf457</podcast:guid>
+    <podcast:guid>c0255a36-cc13-42cf-ac76-1f321ae84d3c</podcast:guid>
+    <podcast:txt purpose="episode">Blended Beats</podcast:txt>
+      <podcast:remoteItem feedGuid="61a8da6d-99a4-5393-840d-cc0e7f3e1c75" itemGuid="7c9fe07f-272f-4d44-9ede-887df8fa1480"/>
+      <podcast:remoteItem feedGuid="10f9040b-fc99-5e94-a1b5-25806a2a013d" itemGuid="956dcc0c-4b12-4736-a262-3ae01759c16e"/>
+      <podcast:remoteItem feedGuid="02d62df1-f2a3-552f-9b87-3623f097326b" itemGuid="92baadbe-cc56-4a71-86e4-b6fb262ca3ea"/>
+      <podcast:remoteItem feedGuid="02d62df1-f2a3-552f-9b87-3623f097326b" itemGuid="e00cd64a-3939-4d9b-a033-2d9fc4a6f401"/>
+      <podcast:remoteItem feedGuid="7bb4f1db-032a-538d-be09-c51be444c2c9" itemGuid="a57cf117-d69a-4eb0-bff6-0fc4d049d693"/>
+      <podcast:remoteItem feedGuid="1044692c-e10b-5483-86e8-5238fe070127" itemGuid="839e021d-8553-40c6-9516-87140fdb37cd"/>
+      <podcast:remoteItem feedGuid="07adf84f-c1fa-47a7-a121-0fb544e859bd" itemGuid="0e84cf94-6e1e-47f8-bdf2-3ee970c630a1"/>
+      <podcast:remoteItem feedGuid="07adf84f-c1fa-47a7-a121-0fb544e859bd" itemGuid="0e84cf94-6e1e-47f8-bdf2-3ee970c630a1"/>
+      <podcast:remoteItem feedGuid="d5b2b954-e419-5b6c-b54f-25b3ebbe9d82" itemGuid="25bcd71b-e9b8-4633-8981-049ba824fe3c"/>
+      <podcast:remoteItem feedGuid="3c90d775-eea8-5e04-a804-e139a95988fc" itemGuid="ca7e7288-1f7f-49f1-9b41-5203b05e4083"/>
+      <podcast:remoteItem feedGuid="19835a35-b7d1-5fee-8d67-a89d996098e1" itemGuid="e43de428-6933-447e-92aa-bf9cf7dca7ea"/>
+      <podcast:remoteItem feedGuid="19835a35-b7d1-5fee-8d67-a89d996098e1" itemGuid="106dfa1b-5af6-40c7-bea6-e062383342a2"/>
     <podcast:txt purpose="episode">Autumn Audio</podcast:txt>
       <podcast:remoteItem feedGuid="a3d8424d-6a35-5dc1-9101-b1d82a6fbd8e" itemGuid="c1c7938a-07fa-4286-8e7d-228d1762b2ac"/>
       <podcast:remoteItem feedGuid="af5c2856-2d0b-5df7-a110-8b411943c151" itemGuid="5ec94dcc-ed50-4046-b4b9-cf4cb8be40e1"/>
