@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 28 Sep 2026 14:58:59 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 14:58:59 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 13:46:03 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:46:03 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1276,5 +1276,17 @@
     <podcast:remoteItem feedGuid="5c639bda-8fff-50e5-97aa-b879a2e682b8" itemGuid="75b5f1bb-5044-4a7a-a838-d8058282358b"/>
     <podcast:remoteItem feedGuid="23cc891c-c425-50e8-ac99-c17e6f2582c8" itemGuid="6186c626-b8ca-4ac7-9c2c-b2edfa2433a6"/>
     <podcast:remoteItem feedGuid="345f94c0-cb92-59d3-a984-bcec2bdab90e" itemGuid="aad5c79d-8557-4cfe-99d0-2318e25d9038"/>
+    <podcast:remoteItem feedGuid="8d3aa9e5-1e42-5108-a7e0-463883d35e14" itemGuid="a376f9da-68bc-493a-b9e9-8d78387f7593"/>
+    <podcast:remoteItem feedGuid="fafd2bfc-98ac-5010-9fcb-7403abfd420a" itemGuid="54c4052b-6986-4de1-ba8a-97028ff6941d"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=51881"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52720"/>
+    <podcast:remoteItem feedGuid="c2821db2-43cc-5593-b621-3c5b29a13a7b" itemGuid="5676eff9-f29e-4ac8-98e9-be4e1e80ee7b"/>
+    <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="de8f4547-5eb3-4ee9-8744-3061ebd5becc"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="c1a37f18-c629-4856-af62-ef6a90828c70"/>
+    <podcast:remoteItem feedGuid="2d0d7fdd-624e-5d13-961c-daa61addbe2e" itemGuid="3365e5ef-7f02-4b79-8145-0784be5530b3"/>
+    <podcast:remoteItem feedGuid="038bf62c-0af8-5df3-b1d4-2001a0679629" itemGuid="93794c2f-b3e9-4164-ade4-679cd208c54e"/>
+    <podcast:remoteItem feedGuid="3496e7a1-dd9a-5f29-bc52-d310db25e483" itemGuid="substack:post:217257003"/>
+    <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="5d93cd66-51ba-4709-b506-636dc1bec285"/>
+    <podcast:remoteItem feedGuid="2d0d7fdd-624e-5d13-961c-daa61addbe2e" itemGuid="b6e7dc0e-abe2-4ef8-a53c-af77fb533478"/>
   </channel>
 </rss>
