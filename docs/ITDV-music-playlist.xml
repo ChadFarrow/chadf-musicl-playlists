@@ -6,13 +6,19 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 24 Sep 2026 12:33:44 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 12:33:44 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 14:13:35 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:13:35 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>41ac9f85-23b0-4a0f-80fe-df030cb284b2</podcast:guid>
+    <podcast:guid>ec8d370f-49ba-44df-ace5-27ccb89dad3e</podcast:guid>
+    <podcast:txt purpose="episode">Episode 76 - Uncle Mike Lives!</podcast:txt>
+      <podcast:remoteItem feedGuid="b2a87a4c-86f0-5194-9eb3-dcba42ce0695" itemGuid="09ca517c-9162-479f-a614-a2debd618a0b"/>
+      <podcast:remoteItem feedGuid="f46d440a-0a8c-5323-91e3-3a00fc1d4b63" itemGuid="07allyourdreamsacoustic"/>
+      <podcast:remoteItem feedGuid="37844ae6-7303-53d2-a733-aed9585d253f" itemGuid="6baa5e31-8fc4-4960-b0d0-98303d6a6ad5"/>
+      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="d2346732-acc5-4256-afe5-0a0f3e670e6b"/>
+      <podcast:remoteItem feedGuid="c49ec2b5-94da-5780-870a-5101f15cde95" itemGuid="9092ea7f-49d2-4bae-82bd-76cea96adc66"/>
     <podcast:txt purpose="episode">Episode 75 - Artists, Listeners, Devs, Oh My!</podcast:txt>
       <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="4e197141-6cd6-4366-8fe7-aa6c7c5050e3"/>
       <podcast:remoteItem feedGuid="6fc2ad98-d4a8-5d70-9c68-62e9efc1209c" itemGuid="5a840925-6d63-4d4f-acc9-7e59c04eb76c"/>
