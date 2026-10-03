@@ -6,13 +6,27 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 26 Sep 2026 12:04:25 GMT</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 12:04:25 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 12:15:18 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:15:18 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>7b9d3d37-44ae-446e-81eb-66b9f8d81f25</podcast:guid>
+    <podcast:guid>5179fb0f-cc06-4c42-b30d-44574ee836d4</podcast:guid>
+    <podcast:txt purpose="episode">157th Edition</podcast:txt>
+      <podcast:remoteItem feedGuid="742673ae-4479-5a08-987f-6ab49b44dd89" itemGuid="d9aea4eb-c91f-4421-b74c-871c4e7c5b32"/>
+      <podcast:remoteItem feedGuid="d5c805fb-6016-4038-9cda-2e68d2b8dcc4" itemGuid="cbdaeaa0-3c58-41ce-92d1-c718710ade54"/>
+      <podcast:remoteItem feedGuid="8ee1347e-d09d-55c7-b4e6-673f5cbd120c" itemGuid="5c4d2caf-612b-4ba8-82bc-715124aa96dd"/>
+      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="bc80fa46-9563-48f0-b6df-5f9c847c7642"/>
+      <podcast:remoteItem feedGuid="3efc7554-1c31-53ff-a5e5-10c743a2fad4" itemGuid="9cb9ad0d-3180-5f62-b5e6-5cb1bbb8b665"/>
+      <podcast:remoteItem feedGuid="dd269ca4-560c-41a9-bd76-98af96406531" itemGuid="030a6b4e-b2a8-409c-91ef-19f58eb53604"/>
+      <podcast:remoteItem feedGuid="65dc63c4-508e-5d73-9622-ab576b8e7754" itemGuid="48430975-11fc-4050-a3ee-f1f717af84d1"/>
+      <podcast:remoteItem feedGuid="a2272d3d-6585-5f24-a2f4-c372444ad3e4" itemGuid="39b0bea7-1661-4756-8b49-a1ddd619c005"/>
+      <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="32b104cd-e453-4bed-98dd-5380beb35dab"/>
+      <podcast:remoteItem feedGuid="e4358296-d801-532a-a8d9-ed1ab9a39546" itemGuid="5e6251ed-5170-4e2d-8518-e2b6cf0d406d"/>
+      <podcast:remoteItem feedGuid="eab7b37f-aaa1-5985-9f24-0f0724686da1" itemGuid="d7fcd936-5959-5211-bdfe-20276f17464a"/>
+      <podcast:remoteItem feedGuid="8c59eb75-67da-5d37-8c2b-42e421b91d0d" itemGuid="0881d4fb-8a41-47cc-9e4c-bab8e7b80a3e"/>
+      <podcast:remoteItem feedGuid="d21e7c21-f1bc-5fff-ba86-d727c05c7592" itemGuid="4dee5273-4c5c-4624-95d2-d74fbe8711f2"/>
     <podcast:txt purpose="episode">156th Edition - Andy Princz</podcast:txt>
       <podcast:remoteItem feedGuid="6699f042-029c-53e9-ad2e-7da90b10892c" itemGuid="2027e681-f5f3-4e90-b8b2-c845fb01dbdc"/>
       <podcast:remoteItem feedGuid="0ccf4f55-2e0f-5562-9b01-cb10d8b71a27" itemGuid="42547399-08dd-49ac-88dd-036825c0b6ff"/>
