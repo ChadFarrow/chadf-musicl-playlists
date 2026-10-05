@@ -6,13 +6,25 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 28 Sep 2026 14:58:57 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 14:58:57 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 15:35:03 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:35:03 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>c0255a36-cc13-42cf-ac76-1f321ae84d3c</podcast:guid>
+    <podcast:guid>63cafbfc-05cc-43d0-a07e-c976326a8a5b</podcast:guid>
+    <podcast:txt purpose="episode">Rolling Deuces</podcast:txt>
+      <podcast:remoteItem feedGuid="2c01c17b-a088-5af1-943c-435d4ae8945e" itemGuid="1c9013f8-8c30-40d1-bf33-c8efcb83bc44"/>
+      <podcast:remoteItem feedGuid="71fbb301-75cf-5a8f-9af7-c6c377e409c4" itemGuid="4eb11e8f-f11e-458e-9a7c-32843d959fc7"/>
+      <podcast:remoteItem feedGuid="aec01329-eb70-5516-b4d5-f3e46adf3242" itemGuid="bff0d2a2-3c69-430c-a77a-6bdd27c29b68"/>
+      <podcast:remoteItem feedGuid="a18151d7-c61b-5a74-ab15-f3133c126e1c" itemGuid="6480cea8-cf6a-46b4-8367-dafbeebd5699"/>
+      <podcast:remoteItem feedGuid="bcd67b21-5360-5526-b586-a78a14b0502e" itemGuid="1de5ada2-8e91-4c44-9325-7106f858f604"/>
+      <podcast:remoteItem feedGuid="83d9b014-1879-55aa-937b-729133fdea56" itemGuid="c5abf939-fba5-4a1e-8668-e01ae84c3d7b"/>
+      <podcast:remoteItem feedGuid="51600df4-540f-5f94-87a6-6932568c8a40" itemGuid="61ef3f12-484b-4815-adbb-16d76ccccbea"/>
+      <podcast:remoteItem feedGuid="2f0cdb3e-362b-51a7-86a3-01e97edce520" itemGuid="1dd23133-f848-4951-908d-dc94908e5b8b"/>
+      <podcast:remoteItem feedGuid="07075729-f3a5-55f2-b89a-02d07ab6fa81" itemGuid="ee20f36e-4e2c-455a-9554-ca40dc681370"/>
+      <podcast:remoteItem feedGuid="07075729-f3a5-55f2-b89a-02d07ab6fa81" itemGuid="a007bbdd-c5f1-404e-9426-0569d5331ad1"/>
+      <podcast:remoteItem feedGuid="8cf9e41a-a526-52c7-97e4-421b9c1e54bf" itemGuid="47a1cb37-c84d-4089-ad2a-606f42ee4379"/>
     <podcast:txt purpose="episode">Blended Beats</podcast:txt>
       <podcast:remoteItem feedGuid="61a8da6d-99a4-5393-840d-cc0e7f3e1c75" itemGuid="7c9fe07f-272f-4d44-9ede-887df8fa1480"/>
       <podcast:remoteItem feedGuid="10f9040b-fc99-5e94-a1b5-25806a2a013d" itemGuid="956dcc0c-4b12-4736-a262-3ae01759c16e"/>
