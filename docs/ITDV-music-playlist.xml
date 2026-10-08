@@ -6,13 +6,15 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 01 Oct 2026 14:13:35 GMT</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 14:13:35 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 14:23:30 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:23:30 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>ec8d370f-49ba-44df-ace5-27ccb89dad3e</podcast:guid>
+    <podcast:guid>d5fcf86e-f77c-4055-a36c-65689aaecb96</podcast:guid>
+    <podcast:txt purpose="episode">Episode 77 - Kim&apos;s Here!</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 76 - Uncle Mike Lives!</podcast:txt>
       <podcast:remoteItem feedGuid="b2a87a4c-86f0-5194-9eb3-dcba42ce0695" itemGuid="09ca517c-9162-479f-a614-a2debd618a0b"/>
       <podcast:remoteItem feedGuid="f46d440a-0a8c-5323-91e3-3a00fc1d4b63" itemGuid="07allyourdreamsacoustic"/>
