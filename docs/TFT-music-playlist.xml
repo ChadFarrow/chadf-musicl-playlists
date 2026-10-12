@@ -6,13 +6,28 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 05 Oct 2026 15:35:03 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 15:35:03 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 16:31:02 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:31:02 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>63cafbfc-05cc-43d0-a07e-c976326a8a5b</podcast:guid>
+    <podcast:guid>a7ca86df-d1fb-45b2-b331-e5617035e8d8</podcast:guid>
+    <podcast:txt purpose="episode">Press Play</podcast:txt>
+      <podcast:remoteItem feedGuid="2a1b7346-0f58-523e-a423-7952fe6b7cc9" itemGuid="de2ea7f4-3d5c-4933-b89f-2e4edec8186f"/>
+      <podcast:remoteItem feedGuid="a1bbbe69-7728-5e42-a184-6d7a34109d8b" itemGuid="b6bdbe8d-d8cc-4a5d-8081-943dd8dc827a"/>
+      <podcast:remoteItem feedGuid="c5f25062-40b8-4ac4-88d3-a2c3af1f7310" itemGuid="4b911602-5c1a-4f4e-a6cf-9a48fa28d7f3"/>
+      <podcast:remoteItem feedGuid="3997b916-fd64-5820-955f-57d5274b76cb" itemGuid="1b31af2a-83f3-44eb-8c09-d67f6994dcc7"/>
+      <podcast:remoteItem feedGuid="881d1cc1-44c4-565d-9b04-25326d463b79" itemGuid="293028f2-23dd-4738-a987-2c93edca9dff"/>
+      <podcast:remoteItem feedGuid="881d1cc1-44c4-565d-9b04-25326d463b79" itemGuid="f5ffbe1d-3ac0-4f05-a73a-c49c9d8f0f1f"/>
+      <podcast:remoteItem feedGuid="126a95ad-28db-57e2-bbda-7e04c9ef95b3" itemGuid="d0fa7f48-9a85-4db6-9d27-3ed5755fd1cf"/>
+      <podcast:remoteItem feedGuid="8a82a01c-acfe-5b64-af0a-1ee11c6928e9" itemGuid="7f5443bd-5249-436a-b43e-9899461cd6c1"/>
+      <podcast:remoteItem feedGuid="634b45ba-7241-4c99-a567-8e9fb597fdf8" itemGuid="43cffbe1-4a75-42b6-931d-a6c080526f53"/>
+      <podcast:remoteItem feedGuid="634b45ba-7241-4c99-a567-8e9fb597fdf8" itemGuid="b34cb628-ffe8-4eb1-87c5-f659dad2a6f8"/>
+      <podcast:remoteItem feedGuid="a3e44967-e5de-57c0-9c2b-320811e16889" itemGuid="0600ca06-c4e3-4f05-9a55-cbd3db286d6f"/>
+      <podcast:remoteItem feedGuid="a3e44967-e5de-57c0-9c2b-320811e16889" itemGuid="88d4a93c-d32a-4a62-85b1-f25cfa51f415"/>
+      <podcast:remoteItem feedGuid="e98159a4-2ca0-5ad7-81d0-418e9983e954" itemGuid="66b3c746-e5e0-41cd-820b-d768c07911b0"/>
+      <podcast:remoteItem feedGuid="7ff44dc2-7c5d-5f6d-9a1b-81bfc3ef1435" itemGuid="d059bf82-9e6c-4313-837a-09c1911d3757"/>
     <podcast:txt purpose="episode">Rolling Deuces</podcast:txt>
       <podcast:remoteItem feedGuid="2c01c17b-a088-5af1-943c-435d4ae8945e" itemGuid="1c9013f8-8c30-40d1-bf33-c8efcb83bc44"/>
       <podcast:remoteItem feedGuid="71fbb301-75cf-5a8f-9af7-c6c377e409c4" itemGuid="4eb11e8f-f11e-458e-9a7c-32843d959fc7"/>
