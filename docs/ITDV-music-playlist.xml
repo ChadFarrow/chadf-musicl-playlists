@@ -6,13 +6,17 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 08 Oct 2026 14:23:30 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2026 14:23:30 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 12:28:15 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:28:15 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>d5fcf86e-f77c-4055-a36c-65689aaecb96</podcast:guid>
+    <podcast:guid>6d4c5e57-4278-4823-b072-5f5f1e56111d</podcast:guid>
+    <podcast:txt purpose="episode">Episode 79 - Bluegrass ITDV oct 9 replay </podcast:txt>
+    <!-- no tracks -->
+    <podcast:txt purpose="episode">Episode 78 - phifer</podcast:txt>
+    <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 77 - Kim&apos;s Here!</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 76 - Uncle Mike Lives!</podcast:txt>
