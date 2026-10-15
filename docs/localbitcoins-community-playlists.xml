@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Wed, 14 Oct 2026 12:40:06 GMT</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 12:40:06 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 12:28:26 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:28:26 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1424,5 +1424,14 @@
     <podcast:remoteItem feedGuid="188961dd-894c-5d39-8b5a-53f73487976a" itemGuid="fa6e4866-ad56-4ec6-b12a-c939d6d15236"/>
     <podcast:remoteItem feedGuid="7b344f41-6e02-5ce9-9573-429f5fe7feb8" itemGuid="7bc22ac6-6266-4a07-9591-ef1806397aca"/>
     <podcast:remoteItem feedGuid="2ab88638-5d14-5e37-aa75-12e0c3047e5c" itemGuid="substack:post:220225188"/>
+    <podcast:remoteItem feedGuid="f70b7d51-aff3-54a6-8e4b-ef5fb5d7568c" itemGuid="46cc7c16-3e67-49b6-aef7-1e0e2eaab107"/>
+    <podcast:remoteItem feedGuid="c1795fb3-33f9-5492-8987-19e3e377dd52" itemGuid="c7112de5-be61-4522-929e-6803f4135e38"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="072268ab-1f4f-40bb-b2c2-6f045af54571"/>
+    <podcast:remoteItem feedGuid="e67106b4-08a8-5edb-a6fc-cb7e96af3ca7" itemGuid="1463aa8f-a620-4c83-8347-92869b93dacf"/>
+    <podcast:remoteItem feedGuid="4f113bce-3f2a-59d4-ab3e-8d9886aa39ec" itemGuid="https://vonupodcast.com/?p=5723"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52863"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="8fecd398-27c4-4673-9d8a-c099fe97c40c"/>
+    <podcast:remoteItem feedGuid="9ad349f3-4366-5099-b224-5d74094e5c5b" itemGuid="5974491b-1598-4fad-b88b-9fc84c1c66b1"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52886"/>
   </channel>
 </rss>
