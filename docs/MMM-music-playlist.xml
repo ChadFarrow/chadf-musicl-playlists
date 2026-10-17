@@ -6,13 +6,17 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 10 Oct 2026 13:18:09 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 13:18:09 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 11:24:18 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:24:18 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>8e61eee8-3b88-445b-acde-a2b0922fc6db</podcast:guid>
+    <podcast:guid>ff061b82-f37f-4624-865b-2b71cb9531f9</podcast:guid>
+    <podcast:txt purpose="episode">159th Edition - Jimmy V</podcast:txt>
+      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="7cf60bc3-6618-45cd-a85f-670e30ea9368"/>
+      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="13ca4e6c-74b3-456f-bdac-b9e2ab053842"/>
+      <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="0b6a3889-87ee-432b-a7ee-f6bef65ca3c4"/>
     <podcast:txt purpose="episode">158th Edition - Mike Epting</podcast:txt>
       <podcast:remoteItem feedGuid="99a14604-f38b-5e9d-8679-9314d1207cd4" itemGuid="86460cfa-0217-47d7-ba88-7179df615415"/>
       <podcast:remoteItem feedGuid="89606593-efe1-5981-9fae-25eeb51e6cc0" itemGuid="229dd5e1-1237-40b3-8162-40edf179ff77"/>
