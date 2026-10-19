@@ -6,13 +6,24 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 12 Oct 2026 16:31:02 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 16:31:02 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 14:22:30 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:22:30 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>a7ca86df-d1fb-45b2-b331-e5617035e8d8</podcast:guid>
+    <podcast:guid>45ddb084-ec37-4895-8797-541ddcf0dff8</podcast:guid>
+    <podcast:txt purpose="episode">Running Low</podcast:txt>
+      <podcast:remoteItem feedGuid="048d73a2-5ca3-4593-8d8d-bca7d9e72d4a" itemGuid="246281c0-55b1-4979-adac-e2de7e782566"/>
+      <podcast:remoteItem feedGuid="048d73a2-5ca3-4593-8d8d-bca7d9e72d4a" itemGuid="0788036f-417e-4a64-8281-ea8a2ff3653c"/>
+      <podcast:remoteItem feedGuid="07121659-17cc-5e3e-b754-b9a1de54b325" itemGuid="bcc54aec-2cf5-5a43-bb1f-904e11a4a89c"/>
+      <podcast:remoteItem feedGuid="a34a0bf0-84f7-54f8-8980-e8edec3d7219" itemGuid="4275c481-1342-56d8-82c9-f7647d5bf5a1"/>
+      <podcast:remoteItem feedGuid="a2d5203f-e9f6-52ff-8979-27c33ee5ec26" itemGuid="f44e9870-805b-4f3f-9cd1-7052054210c9"/>
+      <podcast:remoteItem feedGuid="d0d19c49-f1a5-5d07-90ef-9c001d757c5b" itemGuid="bb5b38cf-e109-4177-b052-64b4af0ffb34"/>
+      <podcast:remoteItem feedGuid="c4d9ab67-4e5a-4cbe-b01e-f406ca3dcdec" itemGuid="450e510e-9aba-4892-bf04-0b438954cf6b"/>
+      <podcast:remoteItem feedGuid="4f46f775-5ed9-44ce-b203-163c13138436" itemGuid="70398c6c-73bf-4e35-a092-bcb91303aa82"/>
+      <podcast:remoteItem feedGuid="48c8e887-0305-5527-817c-73708d48c393" itemGuid="https://pirate.mxtthxw.art/@comiccapers/episodes/funky-ramsgate"/>
+      <podcast:remoteItem feedGuid="20a6af46-84cc-52a8-99ee-974f53d14fd0" itemGuid="https://pirate.mxtthxw.art/@inpc/episodes/meta-data"/>
     <podcast:txt purpose="episode">Press Play</podcast:txt>
       <podcast:remoteItem feedGuid="2a1b7346-0f58-523e-a423-7952fe6b7cc9" itemGuid="de2ea7f4-3d5c-4933-b89f-2e4edec8186f"/>
       <podcast:remoteItem feedGuid="a1bbbe69-7728-5e42-a184-6d7a34109d8b" itemGuid="b6bdbe8d-d8cc-4a5d-8081-943dd8dc827a"/>
