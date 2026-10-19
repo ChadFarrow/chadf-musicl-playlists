@@ -6,8 +6,8 @@
     <link>https://localbitcoiners.com/feeds</link>
     <podcast:txt purpose="source-feed">https://localbitcoiners.com/api/community-boosts</podcast:txt>
     <language>en</language>
-    <pubDate>Sun, 18 Oct 2026 11:57:27 GMT</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2026 11:57:27 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 14:22:32 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:22:32 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1450,10 +1450,17 @@
     <podcast:remoteItem feedGuid="e75bb1e8-46f8-5153-8d62-6f129bab7421" itemGuid="ef77b8fc-0e70-4898-aaeb-7bbbc2ee5781"/>
     <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="11933946-c754-4818-918a-65d29c83beb8"/>
     <podcast:remoteItem feedGuid="8d3aa9e5-1e42-5108-a7e0-463883d35e14" itemGuid="2334c4a5-652a-433c-b34f-5558968ddc0f"/>
-    <podcast:remoteItem feedGuid="8d3aa9e5-1e42-5108-a7e0-463883d35e14" itemGuid="bc07f406-edb4-4c61-820d-3468b9ccc03d"/>
     <podcast:remoteItem feedGuid="d1dca4bb-1966-59d7-9aff-c1eda9f31fb7" itemGuid="e39fdf0f-4c69-4cbd-aa98-25481fc1edca"/>
+    <podcast:remoteItem feedGuid="8d3aa9e5-1e42-5108-a7e0-463883d35e14" itemGuid="bc07f406-edb4-4c61-820d-3468b9ccc03d"/>
     <podcast:remoteItem feedGuid="ae4b16d7-cffa-52ba-8982-19280fe4b253" itemGuid="47eff238-cf87-473a-86d9-749a45787a4d"/>
     <podcast:remoteItem feedGuid="8ab72df1-134f-5c04-a181-8927ace98cb8" itemGuid="52c4b858-c7d8-4f52-afe1-dec003df3762"/>
     <podcast:remoteItem feedGuid="ae4b16d7-cffa-52ba-8982-19280fe4b253" itemGuid="e39fdf0f-4c69-4cbd-aa98-25481fc1edca"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="3e6780f9-5fb8-459f-b312-dff810213930"/>
+    <podcast:remoteItem feedGuid="913eb949-2064-513a-a196-e30f9b1c4433" itemGuid="thenixtr.podbean.com/7a5346a7-c524-5afd-aa82-d622cdd71587"/>
+    <podcast:remoteItem feedGuid="6da2ec47-2807-5045-a77d-4dee8992d724" itemGuid="https://bitcoin-takeover.com/audio/?name=2026-10-18_s17_e47-_tabconf_8_livestream_with_kevin_loaec_ekrem_bal_spaces_protocol_the_bitcoin_pivot.mp3"/>
+    <podcast:remoteItem feedGuid="23cc891c-c425-50e8-ac99-c17e6f2582c8" itemGuid="dd9c6db9-e5be-42d3-ad84-7ae1c6becd69"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52913"/>
+    <podcast:remoteItem feedGuid="c1959795-28f1-502d-ad3e-70abf5a034a9" itemGuid="c1fbf44d-3e12-4c7c-a1a0-1b8fc385ee1d"/>
+    <podcast:remoteItem feedGuid="bde061bb-4401-5bd7-b334-e798e41f157a" itemGuid="bc394e43-200b-4bba-b537-f2d8298b1c42"/>
   </channel>
 </rss>
