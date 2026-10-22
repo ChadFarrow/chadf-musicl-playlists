@@ -6,14 +6,19 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 15 Oct 2026 12:28:15 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 12:28:15 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 12:47:33 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:47:33 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>6d4c5e57-4278-4823-b072-5f5f1e56111d</podcast:guid>
-    <podcast:txt purpose="episode">Episode 79 - Bluegrass ITDV oct 9 replay </podcast:txt>
+    <podcast:guid>87044bfd-67c9-48e5-816c-d1b5a7035ef4</podcast:guid>
+    <podcast:txt purpose="episode">Episode 80 - Am I A Bitcoiner?</podcast:txt>
+      <podcast:remoteItem feedGuid="a1077af6-602b-5daf-957b-68a65a03cad1" itemGuid="8ec41aed-2072-4562-ad11-2ffa9169d3ab"/>
+      <podcast:remoteItem feedGuid="7891de21-7e3f-5d3c-b0d3-fcafd4537777" itemGuid="693daffc-3b45-44ab-a5f2-6c2246d1c8c8"/>
+      <podcast:remoteItem feedGuid="207f1305-84df-5162-a05f-441394a046d2" itemGuid="a168547e-de8b-4faa-9e2c-ab67f3e90be7"/>
+      <podcast:remoteItem feedGuid="b2a87a4c-86f0-5194-9eb3-dcba42ce0695" itemGuid="12711f57-2d41-4794-8cb9-154ecebb7cf7"/>
+    <podcast:txt purpose="episode">Episode 79 - Bluegrass ITDV oct 9 replay</podcast:txt>
     <!-- no tracks -->
     <podcast:txt purpose="episode">Episode 78 - phifer</podcast:txt>
     <!-- no tracks -->
