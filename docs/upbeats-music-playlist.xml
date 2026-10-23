@@ -6,13 +6,13 @@
     <link>https://serve.podhome.fm/upbeats</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/3aebb7a8-5942-5ee7-a148-8bdc14f1f3d4</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 23 Oct 2026 19:28:53 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 19:28:53 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 19:38:45 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:38:45 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/UpBEATs-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>fda1e758-310f-458d-8edc-5b6a563f50e6</podcast:guid>
+    <podcast:guid>06e166e9-d7c1-4295-b3da-5cedab3234f3</podcast:guid>
     <podcast:txt purpose="episode">75: RTFM</podcast:txt>
       <podcast:remoteItem feedGuid="37126732-c95e-540e-a5fc-371f9080273c" itemGuid="60977190-0774-48c9-855e-868708d486e9"/>
       <podcast:remoteItem feedGuid="1f69cece-703e-5bc3-875c-d5432d1fe197" itemGuid="e39ac279-151e-4669-8ee3-d472967ffe5d"/>
