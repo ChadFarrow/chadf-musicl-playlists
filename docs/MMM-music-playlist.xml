@@ -6,13 +6,13 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 17 Oct 2026 11:24:18 GMT</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 11:24:18 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 19:28:36 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:28:36 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>ff061b82-f37f-4624-865b-2b71cb9531f9</podcast:guid>
+    <podcast:guid>c38f8977-3d7a-4988-8948-903e9bd6841f</podcast:guid>
     <podcast:txt purpose="episode">159th Edition - Jimmy V</podcast:txt>
       <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="7cf60bc3-6618-45cd-a85f-670e30ea9368"/>
       <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" itemGuid="13ca4e6c-74b3-456f-bdac-b9e2ab053842"/>
