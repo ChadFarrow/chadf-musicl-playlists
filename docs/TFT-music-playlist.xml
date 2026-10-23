@@ -6,13 +6,13 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 23 Oct 2026 19:28:46 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 19:28:46 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 19:38:39 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:38:39 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>0ad9de83-743b-4ef1-9de2-4dc13939b92e</podcast:guid>
+    <podcast:guid>5c979397-5336-48a4-8e9e-782bed5139a3</podcast:guid>
     <podcast:txt purpose="episode">Running Low</podcast:txt>
       <podcast:remoteItem feedGuid="048d73a2-5ca3-4593-8d8d-bca7d9e72d4a" itemGuid="246281c0-55b1-4979-adac-e2de7e782566"/>
       <podcast:remoteItem feedGuid="048d73a2-5ca3-4593-8d8d-bca7d9e72d4a" itemGuid="0788036f-417e-4a64-8281-ea8a2ff3653c"/>
