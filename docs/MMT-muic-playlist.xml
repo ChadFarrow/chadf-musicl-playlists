@@ -6,13 +6,13 @@
     <link>https://mikesmixtape.com</link>
     <podcast:txt purpose="source-feed">https://mikesmixtape.com/mikesmixtaperss.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 28 Feb 2026 22:13:55 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 22:13:55 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 19:28:40 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:28:40 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMT-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
-    <podcast:guid>b23ffb9e-4662-4b67-9817-659386c66d60</podcast:guid>
+    <podcast:guid>74fa7180-149c-4ca8-ad5d-9f0d083a7b20</podcast:guid>
     <podcast:txt purpose="episode">Volume IX</podcast:txt>
       <podcast:remoteItem feedGuid="d126bfe6-c1a8-55ca-8ca1-85332e67ade5" itemGuid="e405efcf-698d-4356-8ab0-34e1d1385cc1"/>
       <podcast:remoteItem feedGuid="a53d97a2-21a9-5850-957f-20e6e1f1817b" itemGuid="e5fd3601-e1c7-4bc8-a652-7b050f322802"/>
