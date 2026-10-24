@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:28:53.649Z",
+  "updatedAt": "2026-10-24T11:51:47.962Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -81,6 +81,14 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "mutton-mead-music",
+      "feedGuid": "8d3aa9e5-1e42-5108-a7e0-463883d35e14",
+      "feedUrl": "https://mmmusic.show/podcast/feed.xml",
+      "itemGuid": "65d7d2c4-9226-4d0c-bd2a-5df150bcd429",
+      "pubDate": "2026-10-23T20:50:18.000Z",
+      "medium": "podcast"
+    },
     {
       "slug": "chad-and-reeds-podcast",
       "feedGuid": "7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
@@ -561,14 +569,6 @@
       "feedUrl": "https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
       "itemGuid": "e365727b-5b4a-4e6d-b1c9-c511e6acef0d",
       "pubDate": "2026-08-15T16:00:00.000Z",
-      "medium": "podcast"
-    },
-    {
-      "slug": "mutton-mead-music",
-      "feedGuid": "8d3aa9e5-1e42-5108-a7e0-463883d35e14",
-      "feedUrl": "https://mmmusic.show/podcast/feed.xml",
-      "itemGuid": "3a942840-9282-47f1-80cb-68daaabb9d31",
-      "pubDate": "2026-08-14T22:29:23.000Z",
       "medium": "podcast"
     },
     {
