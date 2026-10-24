@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-10-24T11:51:47.962Z",
+  "updatedAt": "2026-10-24T15:15:07.154Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
       "name": "ABS n' a 6-Pack",
       "feedUrl": "https://www.absna6pack.com/?format=rss",
       "feedGuid": "054525df-0123-5647-8421-dd9083e56636"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "name": "Accidentally Interesting",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c"
     },
     {
       "slug": "before-the-sch3m3s",
@@ -18,6 +24,12 @@
       "name": "Behind the Sch3m3s",
       "feedUrl": "https://feed.behindthesch3m3s.com/feed.xml",
       "feedGuid": "e0ac9365-689c-5043-8804-15b9dfcc545a"
+    },
+    {
+      "slug": "between-the-sch3m3s",
+      "name": "Between The Sch3m3s",
+      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a"
     },
     {
       "slug": "bowl-after-bowl",
@@ -68,6 +80,12 @@
       "feedGuid": "8d3aa9e5-1e42-5108-a7e0-463883d35e14"
     },
     {
+      "slug": "nick-the-rat-radio",
+      "name": "Nick the Rat Radio",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9"
+    },
+    {
       "slug": "rare-encounter",
       "name": "Rare Encounter",
       "feedUrl": "https://rareencounter.net/feed.xml",
@@ -78,9 +96,35 @@
       "name": "RevDoc's Revival",
       "feedUrl": "https://folkhour.com/feed.xml",
       "feedGuid": "45b899bb-cbef-57b5-ab14-04aaf49e3ac3"
+    },
+    {
+      "slug": "rollz-radio",
+      "name": "Rollz Radio",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954"
+    },
+    {
+      "slug": "v4vmusic",
+      "name": "v4vmusic",
+      "feedUrl": "https://cdn.kolomona.com/podcasts/v4vmusic/v4vmusic-rss.xml",
+      "feedGuid": "c1959795-28f1-502d-ad3e-70abf5a034a9"
+    },
+    {
+      "slug": "v4v-music-spotlight",
+      "name": "V4V Music Spotlight",
+      "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
+      "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566"
     }
   ],
   "episodes": [
+    {
+      "slug": "v4v-music-spotlight",
+      "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
+      "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
+      "itemGuid": "06fa0fb3-880f-46b5-928e-096c21a2b5c0",
+      "pubDate": "2026-10-24T06:53:22.000Z",
+      "medium": "podcast"
+    },
     {
       "slug": "mutton-mead-music",
       "feedGuid": "8d3aa9e5-1e42-5108-a7e0-463883d35e14",
@@ -114,6 +158,21 @@
       "medium": "podcast"
     },
     {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "45ca8c3c-5372-48aa-b703-933633aeb9d8",
+      "pubDate": "2026-10-21T14:25:05.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E562.mp3",
+      "pubDate": "2026-10-21T08:20:00.000Z"
+    },
+    {
       "slug": "bowl-after-bowl",
       "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
       "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
@@ -128,11 +187,34 @@
       "pubDate": "2026-10-21T02:02:19.000Z"
     },
     {
+      "slug": "v4vmusic",
+      "feedGuid": "c1959795-28f1-502d-ad3e-70abf5a034a9",
+      "feedUrl": "https://cdn.kolomona.com/podcasts/v4vmusic/v4vmusic-rss.xml",
+      "itemGuid": "dec6a433-d307-4df0-b248-1f34fa85748d",
+      "pubDate": "2026-10-19T19:34:56.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-014",
+      "pubDate": "2026-10-17T12:00:00.000Z"
+    },
+    {
       "slug": "mutton-mead-music",
       "feedGuid": "8d3aa9e5-1e42-5108-a7e0-463883d35e14",
       "feedUrl": "https://mmmusic.show/podcast/feed.xml",
       "itemGuid": "bc07f406-edb4-4c61-820d-3468b9ccc03d",
       "pubDate": "2026-10-16T22:07:28.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "4ee8c15e-1e53-4db2-adda-df3cf15841a3",
+      "pubDate": "2026-10-15T17:35:19.000Z",
       "medium": "podcast"
     },
     {
@@ -150,6 +232,13 @@
       "itemGuid": "56f0b135-90cb-442d-bc1f-7daee13f1d60",
       "pubDate": "2026-10-15T00:59:18.000Z",
       "medium": "podcast"
+    },
+    {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E561.mp3",
+      "pubDate": "2026-10-14T09:20:00.000Z"
     },
     {
       "slug": "millennial-media-offensive",
@@ -171,6 +260,13 @@
       "feedUrl": "https://www.absna6pack.com/?format=rss",
       "itemGuid": "5e8e4af89f932a4f8dc55486:5e8f306098ae344efaa56591:6acc678b2eca04663d17dec3",
       "pubDate": "2026-10-12T06:22:16.000Z"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-013",
+      "pubDate": "2026-10-10T12:00:00.000Z"
     },
     {
       "slug": "mutton-mead-music",
@@ -205,6 +301,13 @@
       "medium": "podcast"
     },
     {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E560.mp3",
+      "pubDate": "2026-10-07T09:20:00.000Z"
+    },
+    {
       "slug": "bowl-after-bowl",
       "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
       "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
@@ -217,6 +320,13 @@
       "feedUrl": "https://mmo.show/wp-content/feed.xml",
       "itemGuid": "https://mmo.show/?post_type=podcast&p=5213",
       "pubDate": "2026-10-07T02:14:54.000Z"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-012",
+      "pubDate": "2026-10-03T12:00:00.000Z"
     },
     {
       "slug": "mutton-mead-music",
@@ -251,12 +361,27 @@
       "medium": "podcast"
     },
     {
+      "slug": "v4v-music-spotlight",
+      "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
+      "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
+      "itemGuid": "e5dfa41e-17f8-4740-949c-aa1f09b42454",
+      "pubDate": "2026-10-01T07:18:48.000Z",
+      "medium": "podcast"
+    },
+    {
       "slug": "into-the-doerfelverse",
       "feedGuid": "41aace28-8679-5ef1-9958-75cf76c2b5f0",
       "feedUrl": "https://www.doerfelverse.com/feeds/intothedoerfelverse.xml",
       "itemGuid": "c5b3532a-1b5b-4779-9c98-2f54eeaeff94",
       "pubDate": "2026-09-30T18:10:10.000Z",
       "medium": "podcast"
+    },
+    {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E559.mp3",
+      "pubDate": "2026-09-30T09:20:00.000Z"
     },
     {
       "slug": "bowl-after-bowl",
@@ -271,6 +396,21 @@
       "feedUrl": "https://mmo.show/wp-content/feed.xml",
       "itemGuid": "https://mmo.show/?post_type=podcast&p=5196",
       "pubDate": "2026-09-30T01:44:07.000Z"
+    },
+    {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "4c271c37-a65c-46b2-bd14-87e1ff401448",
+      "pubDate": "2026-09-29T16:15:00.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-011",
+      "pubDate": "2026-09-26T12:00:00.000Z"
     },
     {
       "slug": "homegrown-hits",
@@ -305,6 +445,13 @@
       "medium": "podcast"
     },
     {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E558.mp3",
+      "pubDate": "2026-09-23T09:20:00.000Z"
+    },
+    {
       "slug": "bowl-after-bowl",
       "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
       "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
@@ -317,6 +464,21 @@
       "feedUrl": "https://mmo.show/wp-content/feed.xml",
       "itemGuid": "https://mmo.show/?post_type=podcast&p=5180",
       "pubDate": "2026-09-23T02:28:10.000Z"
+    },
+    {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "4f676c2b-358f-496d-9d5f-637c339cea92",
+      "pubDate": "2026-09-21T17:42:00.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-010",
+      "pubDate": "2026-09-19T12:00:00.000Z"
     },
     {
       "slug": "bowl-after-bowl",
@@ -366,6 +528,13 @@
       "medium": "podcast"
     },
     {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E557.mp3",
+      "pubDate": "2026-09-16T09:20:00.000Z"
+    },
+    {
       "slug": "bowl-after-bowl",
       "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
       "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
@@ -386,6 +555,13 @@
       "itemGuid": "b96a1f64-1ca9-4c64-aba7-e4f6af5d51f4",
       "pubDate": "2026-09-13T03:56:46.000Z",
       "medium": "podcast"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-009",
+      "pubDate": "2026-09-12T12:00:00.000Z"
     },
     {
       "slug": "bowl-after-bowl",
@@ -427,6 +603,13 @@
       "medium": "podcast"
     },
     {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E556.mp3",
+      "pubDate": "2026-09-09T09:20:00.000Z"
+    },
+    {
       "slug": "bowl-after-bowl",
       "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
       "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
@@ -439,6 +622,13 @@
       "feedUrl": "https://mmo.show/wp-content/feed.xml",
       "itemGuid": "597a9202-dfd2-5ed1-a69d-aa6c72bcadcd",
       "pubDate": "2026-09-09T02:13:04.000Z"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-008",
+      "pubDate": "2026-09-05T12:00:00.000Z"
     },
     {
       "slug": "into-the-doerfelverse",
@@ -454,6 +644,14 @@
       "feedUrl": "https://mmmusic.show/podcast/feed.xml",
       "itemGuid": "f915ec2b-3526-40a6-958f-5371c6d17710",
       "pubDate": "2026-09-04T22:20:51.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "963cd47c-dbff-49aa-95b9-9357deb7bad6",
+      "pubDate": "2026-09-04T13:17:06.000Z",
       "medium": "podcast"
     },
     {
@@ -473,6 +671,13 @@
       "medium": "podcast"
     },
     {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E555.mp3",
+      "pubDate": "2026-09-02T09:20:00.000Z"
+    },
+    {
       "slug": "bowl-after-bowl",
       "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
       "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
@@ -485,6 +690,13 @@
       "feedUrl": "https://mmo.show/wp-content/feed.xml",
       "itemGuid": "f398505e-c5da-5c07-a8f0-1f2dbb45b96c",
       "pubDate": "2026-09-02T01:12:59.000Z"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-007",
+      "pubDate": "2026-08-29T12:00:00.000Z"
     },
     {
       "slug": "mutton-mead-music",
@@ -519,11 +731,33 @@
       "medium": "podcast"
     },
     {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E554.mp3",
+      "pubDate": "2026-08-26T09:20:00.000Z"
+    },
+    {
       "slug": "millennial-media-offensive",
       "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
       "feedUrl": "https://mmo.show/wp-content/feed.xml",
       "itemGuid": "5a551d85-c109-587c-bd1e-1ca7d4f95909",
       "pubDate": "2026-08-26T02:21:48.000Z"
+    },
+    {
+      "slug": "v4v-music-spotlight",
+      "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
+      "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
+      "itemGuid": "8e9e01d7-bc5a-4bc0-8a02-c6bcb7e0647a",
+      "pubDate": "2026-08-25T10:32:35.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-006",
+      "pubDate": "2026-08-22T12:00:00.000Z"
     },
     {
       "slug": "mutton-mead-music",
@@ -550,6 +784,21 @@
       "medium": "podcast"
     },
     {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "b9bfdcc7-f451-424c-93a4-2f3c83ba2611",
+      "pubDate": "2026-08-20T18:39:13.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E553.mp3",
+      "pubDate": "2026-08-19T09:20:00.000Z"
+    },
+    {
       "slug": "millennial-media-offensive",
       "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
       "feedUrl": "https://mmo.show/wp-content/feed.xml",
@@ -572,11 +821,34 @@
       "medium": "podcast"
     },
     {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-005",
+      "pubDate": "2026-08-15T12:00:00.000Z"
+    },
+    {
       "slug": "homegrown-hits",
       "feedGuid": "ac746d09-7c3b-5bcd-b28a-f12d6456ca8f",
       "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
       "itemGuid": "e1a221cf-7aee-41fa-9175-6745b0fbf89e",
       "pubDate": "2026-08-13T21:20:00.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "ab6cfe0a-4311-4569-85e0-eaff9b11e5ea",
+      "pubDate": "2026-08-10T22:04:59.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "v4v-music-spotlight",
+      "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
+      "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
+      "itemGuid": "cca6cbc9-add3-4ee4-bd86-f01045a42a25",
+      "pubDate": "2026-08-03T12:23:31.000Z",
       "medium": "podcast"
     },
     {
@@ -596,11 +868,35 @@
       "medium": "podcast"
     },
     {
+      "slug": "between-the-sch3m3s",
+      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "itemGuid": "19cdad35-6b32-4063-8ec9-fffdd0a6b4d7",
+      "pubDate": "2026-07-25T16:12:17.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "cb439ebb-a982-499b-885c-fa0c193acfab",
+      "pubDate": "2026-07-25T12:18:02.000Z",
+      "medium": "podcast"
+    },
+    {
       "slug": "before-the-sch3m3s",
       "feedGuid": "f38e27af-fb9e-46ef-9ed9-5d8046d094a9",
       "feedUrl": "https://music.behindthesch3m3s.com/b4ts%20feed/feed.xml",
       "itemGuid": "279296e5-4dc4-461a-9fdd-f635b703df5a",
       "pubDate": "2026-07-19T03:21:01.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "498491c9-b491-4088-8f45-521ff7a5edb3",
+      "pubDate": "2026-07-14T13:47:16.000Z",
       "medium": "podcast"
     },
     {
@@ -612,11 +908,27 @@
       "medium": "podcast"
     },
     {
+      "slug": "v4v-music-spotlight",
+      "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
+      "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
+      "itemGuid": "82c34a36-6087-4726-adb1-7be734f92094",
+      "pubDate": "2026-07-05T09:49:34.000Z",
+      "medium": "podcast"
+    },
+    {
       "slug": "abs-n-a-6-pack",
       "feedGuid": "054525df-0123-5647-8421-dd9083e56636",
       "feedUrl": "https://www.absna6pack.com/?format=rss",
       "itemGuid": "5e8e4af89f932a4f8dc55486:5e8f306098ae344efaa56591:6a44334705bd934a8c339df1",
       "pubDate": "2026-06-30T21:25:16.000Z"
+    },
+    {
+      "slug": "rollz-radio",
+      "feedGuid": "8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "feedUrl": "https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954",
+      "itemGuid": "573bf263-5a7d-46ac-a034-0fca90aad657",
+      "pubDate": "2026-06-30T02:58:24.000Z",
+      "medium": "podcast"
     },
     {
       "slug": "abs-n-a-6-pack",
@@ -658,6 +970,22 @@
       "medium": "podcast"
     },
     {
+      "slug": "v4v-music-spotlight",
+      "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
+      "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
+      "itemGuid": "f293facd-db22-4f70-a9e4-07437f61a7bd",
+      "pubDate": "2026-06-03T08:23:40.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "between-the-sch3m3s",
+      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "itemGuid": "3cee9f9e-3051-4b26-9d4a-737644c3f049",
+      "pubDate": "2026-05-23T03:41:40.000Z",
+      "medium": "podcast"
+    },
+    {
       "slug": "lightning-thrashes",
       "feedGuid": "d5e73072-64a2-56a3-9dcd-4a00bfe561d5",
       "feedUrl": "https://sirlibre.com/lightning-thrashes-rss.xml",
@@ -682,6 +1010,14 @@
       "medium": "podcast"
     },
     {
+      "slug": "v4v-music-spotlight",
+      "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
+      "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
+      "itemGuid": "b8964b7b-0102-4646-8b7b-4d4043bd0721",
+      "pubDate": "2026-05-02T09:09:38.000Z",
+      "medium": "podcast"
+    },
+    {
       "slug": "before-the-sch3m3s",
       "feedGuid": "f38e27af-fb9e-46ef-9ed9-5d8046d094a9",
       "feedUrl": "https://music.behindthesch3m3s.com/b4ts%20feed/feed.xml",
@@ -695,6 +1031,14 @@
       "feedUrl": "https://sirlibre.com/lightning-thrashes-rss.xml",
       "itemGuid": "4d34e45d-4df1-4f3b-afa1-a311ee87bb8a",
       "pubDate": "2026-04-29T22:13:52.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "between-the-sch3m3s",
+      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "itemGuid": "cab27821-793b-459e-8be3-50c1b8b3c9e9",
+      "pubDate": "2026-04-24T17:55:59.000Z",
       "medium": "podcast"
     },
     {
@@ -728,6 +1072,22 @@
       "medium": "podcast"
     },
     {
+      "slug": "between-the-sch3m3s",
+      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "itemGuid": "8fbd6cd3-6d7a-4f5f-a110-9e621c769b4b",
+      "pubDate": "2026-04-07T07:31:13.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "between-the-sch3m3s",
+      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "itemGuid": "81b21be9-9360-43a1-a907-cd27927b7484",
+      "pubDate": "2026-03-28T09:23:57.000Z",
+      "medium": "podcast"
+    },
+    {
       "slug": "behind-the-sch3m3s",
       "feedGuid": "e0ac9365-689c-5043-8804-15b9dfcc545a",
       "feedUrl": "https://feed.behindthesch3m3s.com/feed.xml",
@@ -748,6 +1108,22 @@
       "feedUrl": "https://feed.behindthesch3m3s.com/feed.xml",
       "itemGuid": "f5120cf6-db1b-4114-a6ae-d51ccb8e0ca5",
       "pubDate": "2026-02-17T22:38:59.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "between-the-sch3m3s",
+      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "itemGuid": "5eda42d5-452d-4d34-a2d0-2ce622b9cb81",
+      "pubDate": "2026-01-27T22:02:43.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "between-the-sch3m3s",
+      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "itemGuid": "15d74449-c86f-45a4-ac8d-4d3aae832b90",
+      "pubDate": "2026-01-26T20:04:47.000Z",
       "medium": "podcast"
     },
     {
@@ -796,11 +1172,27 @@
       "pubDate": "2025-12-21T09:24:33.000Z"
     },
     {
+      "slug": "v4vmusic",
+      "feedGuid": "c1959795-28f1-502d-ad3e-70abf5a034a9",
+      "feedUrl": "https://cdn.kolomona.com/podcasts/v4vmusic/v4vmusic-rss.xml",
+      "itemGuid": "df05038f-277d-400b-ab1b-6742d701abed",
+      "pubDate": "2025-12-18T15:46:48.000Z",
+      "medium": "podcast"
+    },
+    {
       "slug": "lightning-thrashes",
       "feedGuid": "d5e73072-64a2-56a3-9dcd-4a00bfe561d5",
       "feedUrl": "https://sirlibre.com/lightning-thrashes-rss.xml",
       "itemGuid": "553a5734-592b-4f17-885a-d45692f53d4a",
       "pubDate": "2025-12-17T14:54:12.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "v4vmusic",
+      "feedGuid": "c1959795-28f1-502d-ad3e-70abf5a034a9",
+      "feedUrl": "https://cdn.kolomona.com/podcasts/v4vmusic/v4vmusic-rss.xml",
+      "itemGuid": "d784a96c-7ad4-4d26-9f76-b52061c3f5e8",
+      "pubDate": "2025-12-08T21:53:22.000Z",
       "medium": "podcast"
     },
     {
