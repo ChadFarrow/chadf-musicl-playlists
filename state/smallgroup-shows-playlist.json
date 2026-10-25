@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T15:15:07.154Z",
+  "updatedAt": "2026-10-25T12:23:44.614Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,13 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-015",
+      "pubDate": "2026-10-24T12:00:00.000Z"
+    },
     {
       "slug": "v4v-music-spotlight",
       "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
@@ -819,13 +826,6 @@
       "itemGuid": "e365727b-5b4a-4e6d-b1c9-c511e6acef0d",
       "pubDate": "2026-08-15T16:00:00.000Z",
       "medium": "podcast"
-    },
-    {
-      "slug": "accidentally-interesting",
-      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
-      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
-      "itemGuid": "accidentally-interesting-005",
-      "pubDate": "2026-08-15T12:00:00.000Z"
     },
     {
       "slug": "homegrown-hits",
