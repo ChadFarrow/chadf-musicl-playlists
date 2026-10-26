@@ -6,13 +6,26 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 23 Oct 2026 20:01:42 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 20:01:42 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 13:55:04 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:55:04 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>5c979397-5336-48a4-8e9e-782bed5139a3</podcast:guid>
+    <podcast:txt purpose="episode">Boost Mode</podcast:txt>
+      <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="c676892c-850a-426c-9dbd-8524f39334c1"/>
+      <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="32b104cd-e453-4bed-98dd-5380beb35dab"/>
+      <podcast:remoteItem feedGuid="7e3b9fc5-6b08-5feb-96a9-41a1d88b262c" itemGuid="32fcf76b-f8c2-4e3d-b26d-59c90101bc40"/>
+      <podcast:remoteItem feedGuid="07e25967-1a9a-5c6b-8dda-d580e3dc0148" itemGuid="d8787f79-1bd9-4504-8f71-0dd1e6206305"/>
+      <podcast:remoteItem feedGuid="7fa60922-aab8-5422-a3c1-6d051a3ed5a4" itemGuid="3f0c508e-364d-412f-9169-401fbd77bdf3"/>
+      <podcast:remoteItem feedGuid="7f9962f0-589e-50fa-8874-024821ec160e" itemGuid="bd566170-5493-484b-b5ed-7cea0de82a9b"/>
+      <podcast:remoteItem feedGuid="7b6bc244-743a-5639-81c4-7ebafea342d8" itemGuid="779bd595-224b-4f74-9c75-b0c4a23d1bb1"/>
+      <podcast:remoteItem feedGuid="808dc647-f945-5096-95d1-e0558a6d68aa" itemGuid="c00c1c43-c5c5-40bb-83bd-175788903854"/>
+      <podcast:remoteItem feedGuid="01f2e29a-7b54-5d42-94e0-9bec0bd851d3" itemGuid="e2ef463f-ee6a-4ee1-be0e-2ad9901c60d4"/>
+      <podcast:remoteItem feedGuid="01f2e29a-7b54-5d42-94e0-9bec0bd851d3" itemGuid="32920795-2003-4658-8be4-9a2ab171ced6"/>
+      <podcast:remoteItem feedGuid="001fc38a-7e2e-5dfb-a41b-d07ea8fd4a4e" itemGuid="529b205a-df17-4065-8748-8435a17bc960"/>
+      <podcast:remoteItem feedGuid="6c8a078d-cd43-50e1-a3fa-dbfdaff2f779" itemGuid="7aee35c6-2ffa-4417-a1a3-ee6dc506e121"/>
     <podcast:txt purpose="episode">Running Low</podcast:txt>
       <podcast:remoteItem feedGuid="048d73a2-5ca3-4593-8d8d-bca7d9e72d4a" itemGuid="246281c0-55b1-4979-adac-e2de7e782566"/>
       <podcast:remoteItem feedGuid="048d73a2-5ca3-4593-8d8d-bca7d9e72d4a" itemGuid="0788036f-417e-4a64-8281-ea8a2ff3653c"/>
