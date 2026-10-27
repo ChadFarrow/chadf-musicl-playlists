@@ -5,8 +5,8 @@
     <description>A podcastL playlist aggregating podcast episodes the Local Bitcoiners community has boosted, sourced from localbitcoiners.com/feeds.</description>
     <link>https://localbitcoiners.com/feeds</link>
     <language>en</language>
-    <pubDate>Mon, 26 Oct 2026 13:55:08 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 13:55:08 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 12:59:37 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:59:37 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1518,5 +1518,13 @@
     <podcast:remoteItem feedGuid="d6116d0a-bdb3-5e21-9956-9d0b49661990" itemGuid="e55482d9-1ccd-40af-8a2c-344ef1b4f32a"/>
     <podcast:remoteItem feedGuid="2d0d7fdd-624e-5d13-961c-daa61addbe2e" itemGuid="e4d3afaf-8460-42f9-9c78-0ecb15836293"/>
     <podcast:remoteItem feedGuid="13b9fa33-bbb9-5753-86fe-336d569277ac" itemGuid="a930c35b-1513-43eb-bbbc-38c0b6d3ae46"/>
+    <podcast:remoteItem feedGuid="fafd2bfc-98ac-5010-9fcb-7403abfd420a" itemGuid="9e6ce6a8-6b9b-4a1d-a82b-a427c426da93"/>
+    <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="c7f14cdc-55fe-4aca-9b8d-5aaa8e4d2791"/>
+    <podcast:remoteItem feedGuid="3496e7a1-dd9a-5f29-bc52-d310db25e483" itemGuid="substack:post:221673337"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="9bb34846-7300-4d3e-8cc8-ad96a4cae10a"/>
+    <podcast:remoteItem feedGuid="5c639bda-8fff-50e5-97aa-b879a2e682b8" itemGuid="4913bfd6-7960-42c0-8a83-2f1b1ad0c714"/>
+    <podcast:remoteItem feedGuid="cb8c973f-ed99-4658-b0d8-51524529a31d" itemGuid="4c1e12dd-1e14-4be2-83f3-10363d0e70eb"/>
+    <podcast:remoteItem feedGuid="ac746d09-7c3b-5bcd-b28a-f12d6456ca8f" itemGuid="61a16e10-359c-461a-986e-b5d91244beb7"/>
+    <podcast:remoteItem feedGuid="f38e27af-fb9e-46ef-9ed9-5d8046d094a9" itemGuid="c036d268-918a-4f8f-b510-e5f99024621f"/>
   </channel>
 </rss>
