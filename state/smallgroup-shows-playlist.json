@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T12:23:44.614Z",
+  "updatedAt": "2026-10-28T13:50:50.846Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -14,22 +14,10 @@
       "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c"
     },
     {
-      "slug": "before-the-sch3m3s",
-      "name": "Before The Sch3m3s",
-      "feedUrl": "https://music.behindthesch3m3s.com/b4ts%20feed/feed.xml",
-      "feedGuid": "f38e27af-fb9e-46ef-9ed9-5d8046d094a9"
-    },
-    {
       "slug": "behind-the-sch3m3s",
       "name": "Behind the Sch3m3s",
       "feedUrl": "https://feed.behindthesch3m3s.com/feed.xml",
       "feedGuid": "e0ac9365-689c-5043-8804-15b9dfcc545a"
-    },
-    {
-      "slug": "between-the-sch3m3s",
-      "name": "Between The Sch3m3s",
-      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
-      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a"
     },
     {
       "slug": "bowl-after-bowl",
@@ -114,9 +102,43 @@
       "name": "V4V Music Spotlight",
       "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
       "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566"
+    },
+    {
+      "slug": "before-the-sch3m3s",
+      "name": "Show Page",
+      "feedUrl": "https://music.behindthesch3m3s.com/b4ts%20feed/feed.xml",
+      "feedGuid": "f38e27af-fb9e-46ef-9ed9-5d8046d094a9"
+    },
+    {
+      "slug": "between-the-sch3m3s",
+      "name": "Show Page",
+      "feedUrl": "https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a",
+      "feedGuid": "c5e5322c-0144-498b-b8d9-a4eb958cf98a"
     }
   ],
   "episodes": [
+    {
+      "slug": "bowl-after-bowl",
+      "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
+      "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
+      "itemGuid": "https://bowlafterbowl.com/episodes/episode-465/",
+      "pubDate": "2026-10-28T04:33:00.000Z"
+    },
+    {
+      "slug": "before-the-sch3m3s",
+      "feedGuid": "f38e27af-fb9e-46ef-9ed9-5d8046d094a9",
+      "feedUrl": "https://music.behindthesch3m3s.com/b4ts%20feed/feed.xml",
+      "itemGuid": "ad852eab-c448-429a-ae0c-f436499759e5",
+      "pubDate": "2026-10-28T03:39:27.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "millennial-media-offensive",
+      "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
+      "feedUrl": "https://mmo.show/wp-content/feed.xml",
+      "itemGuid": "5be6954b-31bb-5c41-a731-9b10d02652b2",
+      "pubDate": "2026-10-28T01:47:32.000Z"
+    },
     {
       "slug": "accidentally-interesting",
       "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
@@ -685,13 +707,6 @@
       "pubDate": "2026-09-02T09:20:00.000Z"
     },
     {
-      "slug": "bowl-after-bowl",
-      "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
-      "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
-      "itemGuid": "https://bowlafterbowl.com/episodes/episode-455/",
-      "pubDate": "2026-09-02T04:33:00.000Z"
-    },
-    {
       "slug": "millennial-media-offensive",
       "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
       "feedUrl": "https://mmo.show/wp-content/feed.xml",
@@ -804,13 +819,6 @@
       "feedUrl": "https://nicktherat.com/radio/feed.xml",
       "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E553.mp3",
       "pubDate": "2026-08-19T09:20:00.000Z"
-    },
-    {
-      "slug": "millennial-media-offensive",
-      "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
-      "feedUrl": "https://mmo.show/wp-content/feed.xml",
-      "itemGuid": "df7030d5-5200-59d1-8057-80eadc7f2cfb",
-      "pubDate": "2026-08-19T02:42:49.000Z"
     },
     {
       "slug": "abs-n-a-6-pack",
@@ -1257,14 +1265,6 @@
       "feedUrl": "https://music.behindthesch3m3s.com/b4ts%20feed/feed.xml",
       "itemGuid": "2eb64f46-a134-4f33-ac79-0dd81d11d88b",
       "pubDate": "2024-12-17T09:15:02.000Z",
-      "medium": "podcast"
-    },
-    {
-      "slug": "before-the-sch3m3s",
-      "feedGuid": "f38e27af-fb9e-46ef-9ed9-5d8046d094a9",
-      "feedUrl": "https://music.behindthesch3m3s.com/b4ts%20feed/feed.xml",
-      "itemGuid": "e62a0d1c-f538-4efb-97bc-96abf92f7db2",
-      "pubDate": "2024-12-10T09:43:34.000Z",
       "medium": "podcast"
     },
     {
