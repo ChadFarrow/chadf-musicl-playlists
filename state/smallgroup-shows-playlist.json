@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T13:50:50.846Z",
+  "updatedAt": "2026-10-30T13:51:48.825Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -118,6 +118,14 @@
   ],
   "episodes": [
     {
+      "slug": "chad-and-reeds-podcast",
+      "feedGuid": "7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
+      "feedUrl": "https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
+      "itemGuid": "c361f4e5-d956-4a32-a9c5-8dfcf758cfd0",
+      "pubDate": "2026-10-30T10:00:00.000Z",
+      "medium": "podcast"
+    },
+    {
       "slug": "bowl-after-bowl",
       "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
       "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
@@ -193,6 +201,13 @@
       "itemGuid": "45ca8c3c-5372-48aa-b703-933633aeb9d8",
       "pubDate": "2026-10-21T14:25:05.000Z",
       "medium": "podcast"
+    },
+    {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E563.mp3",
+      "pubDate": "2026-10-21T08:20:00.000Z"
     },
     {
       "slug": "nick-the-rat-radio",
@@ -814,26 +829,11 @@
       "medium": "podcast"
     },
     {
-      "slug": "nick-the-rat-radio",
-      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
-      "feedUrl": "https://nicktherat.com/radio/feed.xml",
-      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E553.mp3",
-      "pubDate": "2026-08-19T09:20:00.000Z"
-    },
-    {
       "slug": "abs-n-a-6-pack",
       "feedGuid": "054525df-0123-5647-8421-dd9083e56636",
       "feedUrl": "https://www.absna6pack.com/?format=rss",
       "itemGuid": "5e8e4af89f932a4f8dc55486:5e8f306098ae344efaa56591:6a84edb7cbad795462a3342c",
       "pubDate": "2026-08-19T02:03:37.000Z"
-    },
-    {
-      "slug": "chad-and-reeds-podcast",
-      "feedGuid": "7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
-      "feedUrl": "https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
-      "itemGuid": "e365727b-5b4a-4e6d-b1c9-c511e6acef0d",
-      "pubDate": "2026-08-15T16:00:00.000Z",
-      "medium": "podcast"
     },
     {
       "slug": "homegrown-hits",
