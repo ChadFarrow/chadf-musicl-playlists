@@ -5,8 +5,8 @@
     <description>A podcastL playlist aggregating podcast episodes the Local Bitcoiners community has boosted, sourced from localbitcoiners.com/feeds.</description>
     <link>https://localbitcoiners.com/feeds</link>
     <language>en</language>
-    <pubDate>Thu, 29 Oct 2026 13:57:12 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 13:57:12 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 13:51:38 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:51:38 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1535,5 +1535,14 @@
     <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="a681a7d3-af65-48a3-bc49-b5b15fa54259"/>
     <podcast:remoteItem feedGuid="30ed52a9-a11c-5235-bdfc-8e3379c6edde" itemGuid="41940f07-7743-4464-a952-cbbac9469349"/>
     <podcast:remoteItem feedGuid="30ed52a9-a11c-5235-bdfc-8e3379c6edde" itemGuid="0aba3949-97ea-4012-9417-d17569bc66b2"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52940"/>
+    <podcast:remoteItem feedGuid="8f4b31cb-3b98-57ba-ac36-b464d5584539" itemGuid="1739270f-caec-49cd-a54f-a3cdda7a356c"/>
+    <podcast:remoteItem feedGuid="98be2e8b-dad0-5f00-a575-ede36e01e718" itemGuid="fed36ff3-948d-457e-9547-a50a6f5a136d"/>
+    <podcast:remoteItem feedGuid="de47e794-c0a3-4bb4-8712-cce1e4566b7e" itemGuid="02b592a6-5377-4814-8d61-d8529202be28"/>
+    <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" itemGuid="5be6954b-31bb-5c41-a731-9b10d02652b2"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=53027"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="7cae89d0-351a-4089-a3bf-5a8f0866c365"/>
+    <podcast:remoteItem feedGuid="2ab88638-5d14-5e37-aa75-12e0c3047e5c" itemGuid="substack:post:222671289"/>
+    <podcast:remoteItem feedGuid="856cd618-7f34-57ea-9b84-3600f1f65e7f" itemGuid="http://1916.noagendanotes.com"/>
   </channel>
 </rss>
