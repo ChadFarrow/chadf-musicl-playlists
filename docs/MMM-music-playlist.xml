@@ -6,13 +6,19 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 24 Oct 2026 11:51:28 GMT</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2026 11:51:28 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 13:20:21 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:20:21 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>92ac9b10-20fd-4c95-a5d2-1be9681b7644</podcast:guid>
+    <podcast:txt purpose="episode">161st Edition - Andy Brash</podcast:txt>
+      <podcast:remoteItem feedGuid="3aed2a73-2fb7-5858-bfc2-727c9744c001" itemGuid="eae3cb83-2ea1-4373-a4fc-d9b6242830f7"/>
+      <podcast:remoteItem feedGuid="f068ed0d-7ffa-489e-8194-224ad91d6aa8" itemGuid="543d70ba-3434-4e6e-a602-cfd6586fb5f0"/>
+      <podcast:remoteItem feedGuid="d4816e81-63c5-5333-8023-d593b5911a51" itemGuid="7264491a-d51e-4b48-b762-bf9a5de615c5"/>
+      <podcast:remoteItem feedGuid="fe96a8e0-0753-4870-a986-9c7d75c876bd" itemGuid="5094a87f-6fbc-4dda-bee1-095724e921d3"/>
+      <podcast:remoteItem feedGuid="0b0587f3-1cd9-479e-a502-26c75825db46" itemGuid="8c39b1ed-0ccd-446d-9334-d94f199a6320"/>
     <podcast:txt purpose="episode">160th Edition - Sir Libre - v4vmusic.com</podcast:txt>
       <podcast:remoteItem feedGuid="2514d117-8a84-5345-82e8-8ed7b940cf1f" itemGuid="17f08114-2911-4a5b-b4d6-1dead302ddd2"/>
       <podcast:remoteItem feedGuid="babd1567-2803-5ede-9a19-302c2fbf9eae" itemGuid="e9231107-c238-406b-957f-c01e38f748f3"/>
