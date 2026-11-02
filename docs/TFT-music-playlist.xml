@@ -6,13 +6,29 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 26 Oct 2026 13:55:04 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 13:55:04 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 16:50:52 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:50:52 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>5c979397-5336-48a4-8e9e-782bed5139a3</podcast:guid>
+    <podcast:txt purpose="episode">Open Range</podcast:txt>
+      <podcast:remoteItem feedGuid="93007b6c-2093-5ddb-9b5f-7226c93d67e0" itemGuid="4f7db8a6-d2fa-4b98-b8e0-b7f71bf4ca34"/>
+      <podcast:remoteItem feedGuid="93007b6c-2093-5ddb-9b5f-7226c93d67e0" itemGuid="e053b275-a07f-43af-a1ae-6d95238759dd"/>
+      <podcast:remoteItem feedGuid="3ce5d33d-8202-5081-a01e-5832d405baa8" itemGuid="eb3c31dc-4b95-4dd3-aa27-2a7378551b56"/>
+      <podcast:remoteItem feedGuid="8bbe423f-c6ea-5a2b-9f38-3b52ca77e7f3" itemGuid="d30d771f-df8b-4df4-a669-059891216c6e"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="c4c83125-4a86-48ae-a0bc-e2700ba2439c"/>
+      <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" itemGuid="c4a28045-8850-4b7d-9747-7c0f164c8f84"/>
+      <podcast:remoteItem feedGuid="49ebeec4-a99a-5c9d-bb1b-477570341b1a" itemGuid="0af8e809-59b6-4675-b57a-cb2d41cc2dcf"/>
+      <podcast:remoteItem feedGuid="49ebeec4-a99a-5c9d-bb1b-477570341b1a" itemGuid="ec839155-4c80-4014-b35c-250cf300c7d3"/>
+      <podcast:remoteItem feedGuid="6725424d-08a9-5fc2-a352-b8b2dd09a323" itemGuid="0c43363e-f165-4b6a-b780-be81f128d0ee"/>
+      <podcast:remoteItem feedGuid="6725424d-08a9-5fc2-a352-b8b2dd09a323" itemGuid="08d15078-94b7-4fdd-b141-91ec4aef8db2"/>
+      <podcast:remoteItem feedGuid="bd3985d4-89ea-506f-82a2-82e98835025b" itemGuid="b9a28cfe-5f2c-4977-8c2e-873bd6ed02d8"/>
+      <podcast:remoteItem feedGuid="66162162-76b3-54c2-b519-096ccd887a6f" itemGuid="e3678bcd-876c-49c6-a485-ffb1ecd24072"/>
+      <podcast:remoteItem feedGuid="aa1402e1-8e07-5ccf-b2f3-e485d15aa1cb" itemGuid="22403532-d448-4879-a387-781c7d2e6bc4"/>
+      <podcast:remoteItem feedGuid="0bbc3ce8-5ded-57b9-b02a-0c15a515dd49" itemGuid="34358f0a-2316-40f6-af7f-bbddb50e7619"/>
+      <podcast:remoteItem feedGuid="e5d1f663-eb73-54e6-bb24-36c4e478b84e" itemGuid="8cf7add3-b046-44b4-94c0-29b74538c31e"/>
     <podcast:txt purpose="episode">Boost Mode</podcast:txt>
       <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="c676892c-850a-426c-9dbd-8524f39334c1"/>
       <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" itemGuid="32b104cd-e453-4bed-98dd-5380beb35dab"/>
