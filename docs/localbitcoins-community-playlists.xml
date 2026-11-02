@@ -5,8 +5,8 @@
     <description>A podcastL playlist aggregating podcast episodes the Local Bitcoiners community has boosted, sourced from localbitcoiners.com/feeds.</description>
     <link>https://localbitcoiners.com/feeds</link>
     <language>en</language>
-    <pubDate>Sun, 01 Nov 2026 14:03:25 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 14:03:25 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 16:50:59 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:50:59 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1557,5 +1557,14 @@
     <podcast:remoteItem feedGuid="9ad349f3-4366-5099-b224-5d74094e5c5b" itemGuid="d1b60c7d-c571-4710-865c-9b4d7e8fe258"/>
     <podcast:remoteItem feedGuid="96748822-dcb1-5519-a46d-b9c9bfc0241d" itemGuid="61c1c3a0-9c5d-4f71-8795-2d55aefb14a6"/>
     <podcast:remoteItem feedGuid="636b509a-431d-53dd-a03a-9be92f255972" itemGuid="826d912fb325719df0279530e572ea2c3dfc9c28bef79ca67928046b6191f040"/>
+    <podcast:remoteItem feedGuid="3496e7a1-dd9a-5f29-bc52-d310db25e483" itemGuid="substack:post:222661597"/>
+    <podcast:remoteItem feedGuid="2c85e01a-cb9c-56fb-8682-a0e42a5521d8" itemGuid="351f2a75-1eea-4d9a-bb12-44ba89533599"/>
+    <podcast:remoteItem feedGuid="636b509a-431d-53dd-a03a-9be92f255972" itemGuid="9bc667e1e9dc125c4e7d6c513e7d8570501bc7b9d4231ecce0cb49e367cf9ebb"/>
+    <podcast:remoteItem feedGuid="d6116d0a-bdb3-5e21-9956-9d0b49661990" itemGuid="e223725a-d42e-48c1-9bce-8e7f3162c407"/>
+    <podcast:remoteItem feedGuid="ac746d09-7c3b-5bcd-b28a-f12d6456ca8f" itemGuid="27344c82-e8ce-4022-aea3-7b6e96b0e36c"/>
+    <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="88f5f57e-a6a0-470a-a357-478f92fd19aa"/>
+    <podcast:remoteItem feedGuid="29d75661-fc75-4897-bf1a-1f85008266fb" itemGuid="c513725b-e4a6-47ef-89fb-5cdea1927c1e"/>
+    <podcast:remoteItem feedGuid="b892b9f0-eb3c-5970-92ff-d71fb2155029" itemGuid="https://www.thesurvivalpodcast.com/?p=52352"/>
+    <podcast:remoteItem feedGuid="c90e609a-df1e-596a-bd5e-57bcc8aad6cc" itemGuid="bc909609-b160-4cf5-a083-eba3a123f832"/>
   </channel>
 </rss>
