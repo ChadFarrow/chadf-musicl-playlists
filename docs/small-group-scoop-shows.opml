@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Small Group Scoop Shows</title>
+    <dateCreated>Mon, 02 Nov 2026 18:35:29 GMT</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ABS n' a 6-Pack" title="ABS n' a 6-Pack" xmlUrl="https://www.absna6pack.com/?format=rss" htmlUrl="https://www.absna6pack.com"/>
+    <outline type="rss" text="Accidentally Interesting" title="Accidentally Interesting" xmlUrl="https://accidentallyinteresting.com/feed.xml" htmlUrl="https://accidentallyinteresting.com"/>
+    <outline type="rss" text="Before The Sch3m3s" title="Before The Sch3m3s" xmlUrl="https://music.behindthesch3m3s.com/b4ts%20feed/feed.xml" htmlUrl="https://behindthesch3m3s.com"/>
+    <outline type="rss" text="Behind the Sch3m3s" title="Behind the Sch3m3s" xmlUrl="https://www.feed.behindthesch3m3s.com/feed.xml" htmlUrl="https://www.behindthesch3m3s.com"/>
+    <outline type="rss" text="Between The Sch3m3s" title="Between The Sch3m3s" xmlUrl="https://serve.podhome.fm/rss/c5e5322c-0144-498b-b8d9-a4eb958cf98a" htmlUrl="https://serve.podhome.fm/between-the-sch3m3s"/>
+    <outline type="rss" text="Bowl After Bowl" title="Bowl After Bowl" xmlUrl="https://feed.bowlafterbowl.com/feed.xml" htmlUrl="https://bowlafterbowl.com"/>
+    <outline type="rss" text="Chad and Reeds Podcast" title="Chad and Reeds Podcast" xmlUrl="https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53" htmlUrl="https://candr.space"/>
+    <outline type="rss" text="Homegrown Hits" title="Homegrown Hits" xmlUrl="https://feed.homegrownhits.xyz/feed.xml" htmlUrl="https://homegrownhits.xyz"/>
+    <outline type="rss" text="Hyper SpaceOut" title="Hyper SpaceOut" xmlUrl="https://feed.falsefinish.club/HSO/podcast-rss.xml" htmlUrl="https://hyperspaceout.com"/>
+    <outline type="rss" text="Into The Doerfelverse" title="Into The Doerfelverse" xmlUrl="https://www.doerfelverse.com/feeds/intothedoerfelverse.xml" htmlUrl="https://www.doerfelverse.com"/>
+    <outline type="rss" text="Lightning Thrashes" title="Lightning Thrashes" xmlUrl="https://sirlibre.com/lightning-thrashes-rss.xml" htmlUrl="https://sirlibre.com"/>
+    <outline type="rss" text="Millennial Media Offensive" title="Millennial Media Offensive" xmlUrl="https://mmo.show/wp-content/feed.xml" htmlUrl="https://mmo.show"/>
+    <outline type="rss" text="Mutton, Mead &amp; Music" title="Mutton, Mead &amp; Music" xmlUrl="https://mmmusic.show/podcast/feed.xml" htmlUrl="https://mmmusic.show"/>
+    <outline type="rss" text="Nick the Rat Radio" title="Nick the Rat Radio" xmlUrl="https://nicktherat.com/radio/feed.xml" htmlUrl="https://nicktherat.com"/>
+    <outline type="rss" text="Rare Encounter" title="Rare Encounter" xmlUrl="https://rareencounter.net/feed.xml" htmlUrl="https://rareencounter.net"/>
+    <outline type="rss" text="RevDoc's Revival" title="RevDoc's Revival" xmlUrl="https://folkhour.com/feed.xml" htmlUrl="https://revival.show"/>
+    <outline type="rss" text="Rollz Radio" title="Rollz Radio" xmlUrl="https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954" htmlUrl="https://podcasters.spotify.com/pod/show/rollz-mcguyver"/>
+    <outline type="rss" text="v4vmusic" title="v4vmusic" xmlUrl="https://cdn.kolomona.com/podcasts/v4vmusic/v4vmusic-rss.xml" htmlUrl="https://v4vmusic.com/s/206"/>
+    <outline type="rss" text="V4V Music Spotlight" title="V4V Music Spotlight" xmlUrl="https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml" htmlUrl="https://phafe.com"/>
+  </body>
+</opml>

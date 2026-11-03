@@ -29,6 +29,11 @@ Playlists of full podcast episodes (`<podcast:medium>podcastL</podcast:medium>`)
 
 - **chadf-musicl-publisher.xml** - `docs/chadf-musicl-publisher.xml` (Aggregated publisher feed for all musicL playlists)
 
+## OPML
+
+- **small-group-scoop-shows.opml** - `docs/small-group-scoop-shows.opml` (The 19 Small Group Scoop shows, to import into a podcast app. A fixed list: nothing updates it.)
+  - URL: https://chadfarrow.github.io/chadf-musicl-playlists/small-group-scoop-shows.opml
+
 ## Notes
 
 - All playlist XML files are located in the `docs/` directory

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a **static hosting repository** for MusicL playlists. It contains no application code - only XML playlist feeds, artwork files, and documentation served via GitHub Pages.
+This is a **static hosting repository** for MusicL playlists. It contains no application code - only XML playlist feeds, one static OPML list, artwork files, and documentation served via GitHub Pages.
 
 ## Architecture
 
@@ -33,6 +33,7 @@ docs/
 ├── *.webp, *.png           # Playlist artwork
 ├── index.html              # Landing page
 ├── chadf-musicl-publisher.xml  # Publisher aggregation feed
+├── small-group-scoop-shows.opml  # Static list of the Small Group Scoop shows; nothing updates it
 └── PORT_HANDLING.md        # Unrelated volo-app documentation (legacy)
 ```
 
