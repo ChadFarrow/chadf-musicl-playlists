@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T16:51:14.923Z",
+  "updatedAt": "2026-11-04T15:08:23.892Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,20 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "bowl-after-bowl",
+      "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
+      "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
+      "itemGuid": "https://bowlafterbowl.com/episodes/episode-466/",
+      "pubDate": "2026-11-04T05:33:00.000Z"
+    },
+    {
+      "slug": "millennial-media-offensive",
+      "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
+      "feedUrl": "https://mmo.show/wp-content/feed.xml",
+      "itemGuid": "https://mmo.show/?post_type=podcast&p=5270",
+      "pubDate": "2026-11-04T03:33:24.000Z"
+    },
     {
       "slug": "accidentally-interesting",
       "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
@@ -677,13 +691,6 @@
       "pubDate": "2026-09-09T09:20:00.000Z"
     },
     {
-      "slug": "bowl-after-bowl",
-      "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
-      "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
-      "itemGuid": "https://bowlafterbowl.com/episodes/episode-456/",
-      "pubDate": "2026-09-09T04:33:00.000Z"
-    },
-    {
       "slug": "millennial-media-offensive",
       "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
       "feedUrl": "https://mmo.show/wp-content/feed.xml",
@@ -796,13 +803,6 @@
       "feedUrl": "https://nicktherat.com/radio/feed.xml",
       "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E554.mp3",
       "pubDate": "2026-08-26T09:20:00.000Z"
-    },
-    {
-      "slug": "millennial-media-offensive",
-      "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
-      "feedUrl": "https://mmo.show/wp-content/feed.xml",
-      "itemGuid": "5a551d85-c109-587c-bd1e-1ca7d4f95909",
-      "pubDate": "2026-08-26T02:21:48.000Z"
     },
     {
       "slug": "v4v-music-spotlight",
