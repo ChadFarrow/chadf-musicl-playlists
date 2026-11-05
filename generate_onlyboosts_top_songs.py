@@ -9,6 +9,12 @@ chart ranks boosts, and a boost outlives the song it paid for: on the first run 
 all-time #4's feed and audio both answered HTTP 410, and #14 was a live event that ended.
 A failed row is skipped and the next row on the chart takes its place.
 
+Only a clear answer removes a song: HTTP 404 or 410, no such item in a feed that was
+read, or a "no" from Podcast Index. No answer proves nothing, so a timeout, HTTP 403,
+429 or 5xx keeps the song. The first CI run lost 20 rows to hosts that had only timed
+out for that runner, and those feeds answered elsewhere in 0.2 seconds. A chart with
+too many such rows is an outage, and the run stops and writes nothing.
+
 A row must also resolve in Podcast Index, because that is how apps find a remoteItem:
 all-time #16's feed and audio are fine, but the index does not hold the track, so an app shows
 a blank row. The script asks through a public boostmebitch route, so it needs no key.
@@ -100,13 +106,19 @@ PLAYLISTS = (
 # No list is longer than this.
 TRACKS = 100
 PAGE_SIZE = 100
-# More failures than this is an outage, not dead songs. Leave the published file alone.
+# More of either on one chart is an outage, not dead songs. Leave the published file alone.
 MAX_SKIPPED = 20
+MAX_UNSURE = 20
 
 USER_AGENT = "Mozilla/5.0 (compatible; chadf-musicl-playlists; +https://github.com/ChadFarrow/chadf-musicl-playlists)"
 TIMEOUT = 30
 MAX_BODY_BYTES = 40 * 1024 * 1024
 ATTEMPTS = 3
+NETWORK_ATTEMPTS = 2  # A host that is silent twice stays silent, and each try costs TIMEOUT.
+AUDIO_TIMEOUT = 15
+# Only these answers say that the thing is gone. HTTP 403 can be a host that refuses a
+# datacenter address, as music.jimmyv4v.com did to the CI runner.
+GONE = {404, 410}
 # wavlake.com answers HTTP 429 to six parallel requests, and most of its feeds are here.
 HOST_GAP_SECONDS = 2.0
 AUDIO_TYPES = re.compile(r"audio|octet-stream|mpeg|mp4|ogg|flac", re.I)
@@ -115,6 +127,7 @@ PODCAST_GUID_NAMESPACE = uuid.UUID("ead4c236-bf58-58c6-a2c6-a6b28d128cb6")
 PRIVATE_HOST = re.compile(r"^(localhost$|127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2\d|3[01])\.|\[)")
 
 _last_hit = {}
+_silent_feed_hosts = set()
 
 
 class KeepHeadOnRedirect(urllib.request.HTTPRedirectHandler):
@@ -138,6 +151,14 @@ class Skip(Exception):
     """This row cannot be a track. The message says why."""
 
 
+class Unsure(Exception):
+    """Nobody could tell whether this row plays, so the song stays on the list."""
+
+
+class NoAnswer(Unsure):
+    """The host did not answer at all."""
+
+
 def encode_url(url):
     """The URL with spaces and the like encoded, and existing %XX escapes kept."""
     return urllib.parse.quote(url, safe="%/:=&?~#+!$,;'@()*[]")
@@ -150,32 +171,36 @@ def _throttle(host):
     _last_hit[host] = time.monotonic()
 
 
-def fetch(url, method="GET", headers=None, data=None, read=True):
+def fetch(url, method="GET", headers=None, data=None, read=True, timeout=TIMEOUT):
     """
     Returns (status, content_type, body), and the body is empty when read is False.
-    Retries HTTP 429, HTTP 5xx and network errors, then raises Skip. A definite
-    refusal such as HTTP 410 raises Skip at once.
+    Raises Skip for an answer that says the thing is gone, NoAnswer when the host stays
+    silent, and Unsure for any other failure. Retries HTTP 429, HTTP 5xx and silence.
     """
     parts = urllib.parse.urlsplit(url)
     if parts.scheme not in ("http", "https") or PRIVATE_HOST.match(parts.hostname or ""):
         raise Skip(f"refused address {url}")
 
-    reason = "no attempt"
+    error = NoAnswer("no attempt")
     for attempt in range(ATTEMPTS):
         _throttle(parts.hostname)
         req = urllib.request.Request(encode_url(url), method=method, data=data, headers={"User-Agent": USER_AGENT, **(headers or {})})
         try:
-            with _opener.open(req, timeout=TIMEOUT) as res:
+            with _opener.open(req, timeout=timeout) as res:
                 return res.status, res.headers.get("Content-Type", ""), res.read(MAX_BODY_BYTES) if read else b""
         except urllib.error.HTTPError as e:
-            reason = f"HTTP {e.code}"
+            if e.code in GONE:
+                raise Skip(f"HTTP {e.code}") from e
+            error = Unsure(f"HTTP {e.code}")
             if e.code != 429 and e.code < 500:
-                raise Skip(reason) from e
+                raise error from e
             time.sleep(min(int(e.headers.get("Retry-After") or 0) or 5 * (attempt + 1), 60))
         except (urllib.error.URLError, TimeoutError, OSError, HTTPException) as e:
-            reason = str(getattr(e, "reason", e))
-            time.sleep(5 * (attempt + 1))
-    raise Skip(reason)
+            error = NoAnswer(str(getattr(e, "reason", e)))
+            if attempt + 1 >= NETWORK_ATTEMPTS:
+                break
+            time.sleep(5)
+    raise error
 
 
 def parse_feed(xml_text):
@@ -197,14 +222,24 @@ def check_guids(row, feeds):
     if not feed_url:
         raise Skip("no feed address")
     if feed_url not in feeds:
+        host = urllib.parse.urlsplit(feed_url).hostname
         try:
+            if host in _silent_feed_hosts:
+                raise NoAnswer(f"{host} did not answer earlier in this run")
             feeds[feed_url] = parse_feed(fetch(feed_url)[2].decode("utf-8", "replace"))
-        except Skip as e:
+        except NoAnswer as e:
+            _silent_feed_hosts.add(host)
             feeds[feed_url] = e
-    if isinstance(feeds[feed_url], Skip):
-        raise Skip(f"feed {feeds[feed_url]}")
+        except (Skip, Unsure) as e:
+            feeds[feed_url] = e
+    if isinstance(feeds[feed_url], Exception):
+        failure = feeds[feed_url]
+        raise type(failure)(f"feed {failure}")
 
     feed_guid, item_guids = feeds[feed_url]
+    # A feed with no items can be a host's error page. It does not show that the song left.
+    if not item_guids:
+        raise Unsure("feed answered with no items")
     # No tag is allowed. Podcast Index then holds the guid: PINK FLIGHT by ECHO REALITY
     # has none, and Podcast Index resolves its tracks by the guid the chart gives.
     if feed_guid and feed_guid.lower() != row["show"]["guid"].lower():
@@ -218,13 +253,16 @@ def check_audio(row):
     if not url:
         raise Skip("no audio address")
     try:
-        status, content_type, _ = fetch(url, method="HEAD", read=False)
-    except Skip:
+        status, content_type, _ = fetch(url, method="HEAD", read=False, timeout=AUDIO_TIMEOUT)
+    except NoAnswer as e:
+        # A GET would wait for the same silence.
+        raise NoAnswer(f"audio {e}") from e
+    except (Skip, Unsure):
         # Some hosts refuse HEAD. One byte shows the same thing, and the body stays unread.
         try:
-            status, content_type, _ = fetch(url, headers={"Range": "bytes=0-0"}, read=False)
-        except Skip as e:
-            raise Skip(f"audio {e}") from e
+            status, content_type, _ = fetch(url, headers={"Range": "bytes=0-0"}, read=False, timeout=AUDIO_TIMEOUT)
+        except (Skip, Unsure) as e:
+            raise type(e)(f"audio {e}") from e
     if status == 204:
         raise Skip("audio address returns no content")
     if not AUDIO_TYPES.search(content_type):
@@ -241,19 +279,19 @@ def podcast_index_answers(rows):
     try:
         answer = fetch(RESOLVER_API, method="POST", headers={"Content-Type": "application/json"}, data=body)[2]
         return json.loads(answer)["episodes"]
-    except (Skip, ValueError, KeyError, TypeError) as e:
+    except (Skip, Unsure, ValueError, KeyError, TypeError) as e:
         sys.exit(f"Podcast Index lookup failed ({e}). Nothing written.")
 
 
 def collect_tracks(playlist, feeds):
-    """Up to TRACKS playable rows in chart order, and the rows that were skipped."""
-    tracks, skipped, seen = [], [], set()
+    """Up to TRACKS rows in chart order, the rows that were skipped, and the rows kept unsure."""
+    tracks, skipped, unsure, seen = [], [], [], set()
     offset = 0
     while offset is not None and len(tracks) < TRACKS:
         query = urllib.parse.urlencode({"medium": "music", "sort": "chart", "range": playlist.chart_range, "limit": PAGE_SIZE, "offset": offset})
         try:
             page = json.loads(fetch(f"{CHART_API}?{query}")[2])
-        except (Skip, ValueError) as e:
+        except (Skip, Unsure, ValueError) as e:
             sys.exit(f"Chart API failed ({e}). Nothing written.")
         rows = page.get("episodes", [])
         answers = podcast_index_answers(rows)
@@ -277,6 +315,12 @@ def collect_tracks(playlist, feeds):
                 check_audio(row)
                 tracks.append(row)
                 print(f"  ok    {label}", flush=True)
+            except Unsure as e:
+                tracks.append(row)
+                unsure.append((label, str(e)))
+                print(f"  KEPT  {label}: {e}", flush=True)
+                if len(unsure) > MAX_UNSURE:
+                    sys.exit(f"More than {MAX_UNSURE} rows could not be checked, which looks like an outage. Nothing written.")
             except Skip as e:
                 skipped.append((label, str(e)))
                 print(f"  SKIP  {label}: {e}", flush=True)
@@ -285,7 +329,7 @@ def collect_tracks(playlist, feeds):
         offset = page.get("next_offset")
     if len(tracks) < playlist.min_tracks:
         sys.exit(f"{playlist.name}: only {len(tracks)} tracks, and it needs {playlist.min_tracks}. Nothing written.")
-    return tracks, skipped
+    return tracks, skipped, unsure
 
 
 def comment_text(text):
@@ -350,10 +394,13 @@ def main():
         print(f"Checking the {playlist.chart_range} chart at {playlist.link}")
         built.append((playlist, *collect_tracks(playlist, feeds)))
     stamp = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
-    for playlist, tracks, skipped in built:
+    for playlist, tracks, skipped, unsure in built:
         write_if_changed(playlist.output_file, build_xml(playlist, tracks, stamp))
         print(f"{len(tracks)} tracks, down to chart rank {tracks[-1].get('rank')}. {len(skipped)} rows skipped:")
         for label, reason in skipped:
+            print(f"  {label}: {reason}")
+        print(f"{len(unsure)} rows kept without a check:")
+        for label, reason in unsure:
             print(f"  {label}: {reason}")
 
 

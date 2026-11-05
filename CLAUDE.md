@@ -110,9 +110,10 @@ Two playlists come from the charts at https://onlyboosts.social/music/songs:
 
 - **These playlists are not submitted to Podcast Index. That is Chad's decision (2026-11-04).** Do not call `add/byfeedurl` or `pubnotify` for them, do not send a Podping, and do not move them into the updater's daily run, which does both. So boostmebitch shows them as "NOT IN PI · PREVIEW".
 - The data is `GET https://onlyboosts.social/api/v1/episodes?medium=music&sort=chart&range=<range>`, the call that page makes. A row's `show.guid` is the `feedGuid` and its `guid` is the `itemGuid`. The site's source is https://github.com/ReedBTC/onlyboosts.
-- A row becomes a track only when Podcast Index holds it, its feed confirms both guids, and its audio file answers. Otherwise the next row on the chart takes its place, so the all-time list can reach below rank 100. A song returns by itself when it passes again.
+- A row becomes a track when Podcast Index holds it, its feed confirms both guids, and its audio file answers. On a clear failure (HTTP 404 or 410, no such item in a feed that was read, a "no" from Podcast Index) the next row on the chart takes its place, so the all-time list can reach below rank 100. A song returns by itself when it passes again.
+- **No answer is not a failure.** A timeout, HTTP 403, 429 or 5xx proves nothing about the song, so the row stays and the log marks it `KEPT`. Hosts time out for the GitHub runner while they answer elsewhere, and one such run would otherwise drop real songs for a week. A feed host that stays silent is not asked again in that run.
 - The Podcast Index question goes through `POST https://www.boostmebitch.com/api/episode-by-guid/batch`, so no key is needed. If that route changes, the run fails and writes nothing.
-- A run updates both files or neither. More than 20 failed rows on a chart, too few tracks (`min_tracks`), or a failed chart or lookup request stops the run and writes nothing, so an outage cannot empty a list.
+- A run updates both files or neither. More than 20 skipped rows or more than 20 `KEPT` rows on a chart, too few tracks (`min_tracks`), or a failed chart or lookup request stops the run and writes nothing, so an outage cannot empty a list.
 - Each run replaces the whole list, because a chart must be able to drop a song. The dates move only when the list moved.
 - Keep the file names free of `-music-playlist`, and do not add a `source-feed` tag. The script's docstring gives the reasons.
 
