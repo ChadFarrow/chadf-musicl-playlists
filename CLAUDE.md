@@ -99,6 +99,15 @@ The **Greatest Hits** playlist is automatically regenerated via GitHub Actions w
 - Uses github-actions bot identity for commits
 - Commit message: "Auto-update Greatest Hits playlist - Recomputed from latest playlists"
 
+### OnlyBoosts Top Songs Playlist
+
+`docs/onlyboosts-top-songs-playlist.xml` holds the top 100 songs of the all-time chart at https://onlyboosts.social/music/songs. `python3 generate_onlyboosts_top_songs.py` rebuilds it. **Nothing runs it on a schedule**, so the file is a snapshot until someone runs it again.
+
+- The data is `GET https://onlyboosts.social/api/v1/episodes?medium=music&sort=chart&range=all`, the call that page makes. A row's `show.guid` is the `feedGuid` and its `guid` is the `itemGuid`. The site's source is https://github.com/ReedBTC/onlyboosts.
+- A row becomes a track only when its feed confirms both guids and its audio file answers. Otherwise the next row on the chart takes its place, so the list can reach below rank 100. More than 20 failed rows stops the run and writes nothing.
+- Each run replaces the whole list, because a chart must be able to drop a song. The dates move only when the list moved.
+- Keep the file name free of `-music-playlist`, and do not add a `source-feed` tag. The script's docstring gives the reasons.
+
 ## Common Tasks
 
 Since this is a static repository, there are no build or test commands. Common operations:

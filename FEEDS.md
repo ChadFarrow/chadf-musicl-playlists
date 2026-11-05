@@ -16,6 +16,14 @@ This file lists all available playlist feeds in this repository.
 10. **TFT-music-playlist.xml** - `docs/TFT-music-playlist.xml` (Two for Tunestr)
 11. **upbeats-music-playlist.xml** - `docs/upbeats-music-playlist.xml`
 
+## Chart Playlist Feeds
+
+musicL playlists built from a public chart, not from a source RSS feed. The updater's RSS loop does not take them.
+
+1. **onlyboosts-top-songs-playlist.xml** - `docs/onlyboosts-top-songs-playlist.xml` (Top 100 Songs on OnlyBoosts: the all-time chart at [onlyboosts.social/music/songs](https://onlyboosts.social/music/songs), without the songs that can no longer play)
+   - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/onlyboosts-top-songs-playlist.xml
+   - Regenerate: `python3 generate_onlyboosts_top_songs.py`. Nothing runs it on a schedule.
+
 ## PodcastL Playlist Feeds
 
 Playlists of full podcast episodes (`<podcast:medium>podcastL</podcast:medium>`), kept separate from the musicL music playlists above.
