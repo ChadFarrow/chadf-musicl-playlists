@@ -1,0 +1,70 @@
+name: Update OnlyBoosts Top Songs Playlist
+
+on:
+  # Weekly: Mondays at 05:00 UTC.
+  schedule:
+    - cron: '0 5 * * 1'
+
+  # Allow manual triggering
+  workflow_dispatch:
+
+  # A change to the build runs the whole build in CI and pushes nothing.
+  pull_request:
+    paths:
+      - 'generate_onlyboosts_top_songs.py'
+      - '.github/workflows/update-onlyboosts-top-songs.yml'
+
+concurrency:
+  group: update-onlyboosts-top-songs
+  cancel-in-progress: false
+
+# This playlist is deliberately not submitted to Podcast Index, so this job must
+# not call add/byfeedurl or pubnotify, and must not send a Podping.
+jobs:
+  update-onlyboosts-top-songs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Run the generator
+        run: python3 generate_onlyboosts_top_songs.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --stat docs/onlyboosts-top-songs-playlist.xml
+          if git diff --quiet docs/onlyboosts-top-songs-playlist.xml; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true' && github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/onlyboosts-top-songs-playlist.xml
+          git commit -m "Auto-update OnlyBoosts Top Songs playlist"
+          # Retry push against a moving remote: the updater's daily run and the
+          # Greatest Hits workflow push to main too.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt); rebasing on latest main and retrying..."
+            git pull --rebase origin main
+          done
+          echo "::error::Failed to push after 5 attempts"
+          exit 1
