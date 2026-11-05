@@ -53,6 +53,14 @@ HOST_GAP_SECONDS = 2.0
 AUDIO_TYPES = re.compile(r"audio|octet-stream|mpeg|mp4|ogg|flac", re.I)
 # The namespace the Podcast Namespace spec names for deriving a podcast:guid.
 PODCAST_GUID_NAMESPACE = uuid.UUID("ead4c236-bf58-58c6-a2c6-a6b28d128cb6")
+# Podcast Index does not hold these items, so an app that resolves a remoteItem by guid
+# shows a blank row. Their feed and audio are fine, so no check below can see this. On
+# 2026-11-04 its record of this feed held 26 episodes, last updated 2024-11-01, and the
+# feed had 38 items. Delete an entry when Podcast Index holds the item again.
+NOT_IN_PODCAST_INDEX = {
+    "4a0a38f0-8492-4839-a2d6-d2692a87cb7e",  # Too Bit To Fail - Mouse Click Money (PlebRap)
+    "2bf29869-c257-433e-8790-76ad6649dd38",  # Too Bit To Fail - Signale (PlebRap)
+}
 PRIVATE_HOST = re.compile(r"^(localhost$|127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2\d|3[01])\.|\[)")
 
 _last_hit = {}
@@ -175,6 +183,8 @@ def collect_tracks():
                 if key in seen:
                     raise Skip("already listed")
                 seen.add(key)
+                if row["guid"] in NOT_IN_PODCAST_INDEX:
+                    raise Skip("Podcast Index does not hold this item")
                 check_guids(row, feeds)
                 check_audio(row)
                 tracks.append(row)

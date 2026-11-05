@@ -106,6 +106,7 @@ The **Greatest Hits** playlist is automatically regenerated via GitHub Actions w
 - The data is `GET https://onlyboosts.social/api/v1/episodes?medium=music&sort=chart&range=all`, the call that page makes. A row's `show.guid` is the `feedGuid` and its `guid` is the `itemGuid`. The site's source is https://github.com/ReedBTC/onlyboosts.
 - A row becomes a track only when its feed confirms both guids and its audio file answers. Otherwise the next row on the chart takes its place, so the list can reach below rank 100. More than 20 failed rows stops the run and writes nothing.
 - Each run replaces the whole list, because a chart must be able to drop a song. The dates move only when the list moved.
+- **The script cannot see a gap in Podcast Index.** After each run, ask a real app to resolve the list: `curl -sL "https://www.boostmebitch.com/api/playlist?url=<feed URL>&limit=100" | jq .notFound` must print `0`. Test a branch through its commit address (`raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/<sha>/docs/...`), because the CDN caches a branch address. Put an item it cannot resolve in `NOT_IN_PODCAST_INDEX` in the script.
 - Keep the file name free of `-music-playlist`, and do not add a `source-feed` tag. The script's docstring gives the reasons.
 
 ## Common Tasks

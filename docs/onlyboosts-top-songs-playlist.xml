@@ -5,8 +5,8 @@
     <description>The top songs on the OnlyBoosts all-time chart, ranked by the sats, boosts and boosters they received on Nostr. Songs that can no longer play are left out. Built by ChadF from the public chart, not made by OnlyBoosts.</description>
     <link>https://onlyboosts.social/music/songs</link>
     <language>en</language>
-    <pubDate>Thu, 05 Nov 2026 01:41:06 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 01:41:06 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 01:48:37 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:48:37 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/onlyboosts-top-songs-playlist-art.png</url>
     </image>
@@ -38,8 +38,6 @@
     <podcast:remoteItem feedGuid="37e37337-c011-5dd3-ae9e-f34eecc34064" feedUrl="https://wavlake.com/feed/music/4a79f1d0-f0f2-4f0d-bc1e-a24fe4d43a8a" itemGuid="3eec9f36-0d59-42b9-9a20-c5ea5fc58e37"/>
     <!-- 15. Wale Watu (Those People) - Billiv -->
     <podcast:remoteItem feedGuid="e77a3882-ae07-5778-8383-560301db1603" feedUrl="https://wavlake.com/feed/music/96a8ba54-71bf-4d56-ada9-196078d3fb5c" itemGuid="d5303d36-bf52-49fe-9678-6e41c7f50740"/>
-    <!-- 16. Too Bit To Fail - Mouse Click Money - PlebRap -->
-    <podcast:remoteItem feedGuid="47081700-bd65-511f-b535-f545f3cd660c" feedUrl="https://wavlake.com/feed/music/d1ed0ec9-21a8-4eda-b2c9-b17c8019a7e8" itemGuid="4a0a38f0-8492-4839-a2d6-d2692a87cb7e"/>
     <!-- 17. Lowkey - Ollie -->
     <podcast:remoteItem feedGuid="60e9fcee-0285-5ba9-870f-7e4c381ef846" feedUrl="https://wavlake.com/feed/music/1e0e29c2-f05d-42a6-8b6e-acbfe2b29318" itemGuid="4554be73-db5e-40b1-aa1f-ff34fe39f1bf"/>
     <!-- 18. World Issue - MadMunky mashupmix - MadMunky -->
@@ -100,8 +98,6 @@
     <podcast:remoteItem feedGuid="0c6704d4-52a2-54cb-8da3-3f6eccfb57be" feedUrl="https://wavlake.com/feed/music/c16028bf-ceb4-4200-9463-4b45ea8c0b7b" itemGuid="076e6d0d-81e1-42d1-a0af-4a98ebb2e494"/>
     <!-- 47. Alone In Valentine - single - Joe Martin -->
     <podcast:remoteItem feedGuid="265d6480-c5e2-502d-8e91-24290688a73c" feedUrl="https://wavlake.com/feed/music/980f77e8-78d5-46eb-8b72-eb61bd42d9b6" itemGuid="f7d436f2-d163-4fa8-b5d8-7706929be4aa"/>
-    <!-- 48. Too Bit To Fail - Signale - PlebRap -->
-    <podcast:remoteItem feedGuid="47081700-bd65-511f-b535-f545f3cd660c" feedUrl="https://wavlake.com/feed/music/d1ed0ec9-21a8-4eda-b2c9-b17c8019a7e8" itemGuid="2bf29869-c257-433e-8790-76ad6649dd38"/>
     <!-- 49. Into The Valueverse - Full Show Live - Joe Martin - Longy - Nathan Abbott -->
     <podcast:remoteItem feedGuid="78fb9abe-19b8-5958-82e4-0e92cb8f3d0a" feedUrl="https://headstarts.uk/msp/into-the-valueverse-full-show/into-the-valueverse-full-show.xml" itemGuid="e8718e6e-3a64-4e18-9f0f-971063b1d5d1"/>
     <!-- 50. Burn - Silverseed -->
@@ -212,5 +208,9 @@
     <podcast:remoteItem feedGuid="f8e5b649-6696-5d08-9e1c-b4fad9a775f5" feedUrl="https://epochradio.com/feed/tony-salomone-cool-summer" itemGuid="0a83c76f-5577-559b-a68f-563c28453f32"/>
     <!-- 103. scoot - Kathryn -->
     <podcast:remoteItem feedGuid="b2c1f762-1f54-5a71-aeb0-b3a041a85f8d" feedUrl="https://feeds.fountain.fm/DsIzE8JF79ZiGmlen8uC" itemGuid="f916c296-248a-42d2-9589-31398320198f"/>
+    <!-- 104. Cats in the Hall - Strange Love -->
+    <podcast:remoteItem feedGuid="27735a10-3775-503d-b038-70b4b7d536ab" feedUrl="https://new.musicsideproject.com/api/hosted/27735a10-3775-503d-b038-70b4b7d536ab.xml" itemGuid="03990582-c211-4b7a-9bca-a673300727c9"/>
+    <!-- 105. Away From Me - Jaded Jester -->
+    <podcast:remoteItem feedGuid="9d8ce850-8275-4a74-9622-1fd0cbe4b41d" feedUrl="https://headstarts.uk/msp/jaded-jester/Icarus.xml" itemGuid="02d87336-16e3-4c6c-83bc-659cecf9d5f9"/>
   </channel>
 </rss>
