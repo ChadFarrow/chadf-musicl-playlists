@@ -101,12 +101,14 @@ The **Greatest Hits** playlist is automatically regenerated via GitHub Actions w
 
 ### OnlyBoosts Top Songs Playlist
 
-`docs/onlyboosts-top-songs-playlist.xml` holds the top 100 songs of the all-time chart at https://onlyboosts.social/music/songs. `python3 generate_onlyboosts_top_songs.py` rebuilds it. **Nothing runs it on a schedule**, so the file is a snapshot until someone runs it again.
+`docs/onlyboosts-top-songs-playlist.xml` holds the top 100 songs of the all-time chart at https://onlyboosts.social/music/songs. `.github/workflows/update-onlyboosts-top-songs.yml` rebuilds it every Monday at 05:00 UTC with `generate_onlyboosts_top_songs.py`, and commits only when the list changed. A pull request that changes the script or the workflow runs the whole build and pushes nothing.
 
+- **This playlist is not submitted to Podcast Index. That is Chad's decision (2026-11-04).** Do not call `add/byfeedurl` or `pubnotify` for it, do not send a Podping, and do not move it into the updater's daily run, which does both. So boostmebitch shows it as "NOT IN PI · PREVIEW".
 - The data is `GET https://onlyboosts.social/api/v1/episodes?medium=music&sort=chart&range=all`, the call that page makes. A row's `show.guid` is the `feedGuid` and its `guid` is the `itemGuid`. The site's source is https://github.com/ReedBTC/onlyboosts.
-- A row becomes a track only when its feed confirms both guids and its audio file answers. Otherwise the next row on the chart takes its place, so the list can reach below rank 100. More than 20 failed rows stops the run and writes nothing.
+- A row becomes a track only when Podcast Index holds it, its feed confirms both guids, and its audio file answers. Otherwise the next row on the chart takes its place, so the list can reach below rank 100. A song returns by itself when it passes again.
+- The Podcast Index question goes through `POST https://www.boostmebitch.com/api/episode-by-guid/batch`, so no key is needed. If that route changes, the run fails and writes nothing.
+- More than 20 failed rows, or a failed chart or lookup request, stops the run and writes nothing, so an outage cannot empty the list.
 - Each run replaces the whole list, because a chart must be able to drop a song. The dates move only when the list moved.
-- **The script cannot see a gap in Podcast Index.** After each run, ask a real app to resolve the list: `curl -sL "https://www.boostmebitch.com/api/playlist?url=<feed URL>&limit=100" | jq .notFound` must print `0`. Test a branch through its commit address (`raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/<sha>/docs/...`), because the CDN caches a branch address. Put an item it cannot resolve in `NOT_IN_PODCAST_INDEX` in the script.
 - Keep the file name free of `-music-playlist`, and do not add a `source-feed` tag. The script's docstring gives the reasons.
 
 ## Common Tasks

@@ -9,6 +9,14 @@ chart ranks boosts, and a boost outlives the song it paid for: on the first run 
 #4 song's feed and audio both answered HTTP 410, and #14 was a live event that ended.
 A failed row is skipped and the next row on the chart takes its place.
 
+A row must also resolve in Podcast Index, because that is how apps find a remoteItem:
+#16's feed and audio are fine, but the index does not hold the track, so an app shows
+a blank row. The script asks through a public boostmebitch route, so it needs no key.
+
+THIS PLAYLIST IS NOT SUBMITTED TO PODCAST INDEX. That is Chad's decision (2026-11-04).
+This script only reads the index. It and its workflow must never call add/byfeedurl
+or pubnotify, send a Podping, or move into the updater's daily run, which does both.
+
 The whole list is replaced on every run. A chart has to be able to drop a song, so
 this does not merge with the published file the way the updater's aggregators do.
 
@@ -17,6 +25,8 @@ Greatest Hits workflow, and FEEDS.md entries with it are taken by the updater's 
 loop, which would look for a source feed here that does not exist. For the same
 reason it writes no <podcast:txt purpose="source-feed">: the chart is not a feed,
 and boostmebitch downloads that tag's URL as the show a playlist was built from.
+
+.github/workflows/update-onlyboosts-top-songs.yml runs this every week.
 
 Usage: python3 generate_onlyboosts_top_songs.py
 """
@@ -30,10 +40,12 @@ import urllib.parse
 import urllib.request
 import uuid
 from datetime import datetime, timezone
+from http.client import HTTPException
 from xml.sax.saxutils import escape, quoteattr
 
 CHART_API = "https://onlyboosts.social/api/v1/episodes"
 CHART_PAGE = "https://onlyboosts.social/music/songs"
+RESOLVER_API = "https://www.boostmebitch.com/api/episode-by-guid/batch"
 RAW_DOCS = "https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs"
 
 OUTPUT_FILE = "docs/onlyboosts-top-songs-playlist.xml"
@@ -47,23 +59,33 @@ MAX_SKIPPED = 20
 
 USER_AGENT = "Mozilla/5.0 (compatible; chadf-musicl-playlists; +https://github.com/ChadFarrow/chadf-musicl-playlists)"
 TIMEOUT = 30
+MAX_BODY_BYTES = 40 * 1024 * 1024
 ATTEMPTS = 3
 # wavlake.com answers HTTP 429 to six parallel requests, and most of its feeds are here.
 HOST_GAP_SECONDS = 2.0
 AUDIO_TYPES = re.compile(r"audio|octet-stream|mpeg|mp4|ogg|flac", re.I)
 # The namespace the Podcast Namespace spec names for deriving a podcast:guid.
 PODCAST_GUID_NAMESPACE = uuid.UUID("ead4c236-bf58-58c6-a2c6-a6b28d128cb6")
-# Podcast Index does not hold these items, so an app that resolves a remoteItem by guid
-# shows a blank row. Their feed and audio are fine, so no check below can see this. On
-# 2026-11-04 its record of this feed held 26 episodes, last updated 2024-11-01, and the
-# feed had 38 items. Delete an entry when Podcast Index holds the item again.
-NOT_IN_PODCAST_INDEX = {
-    "4a0a38f0-8492-4839-a2d6-d2692a87cb7e",  # Too Bit To Fail - Mouse Click Money (PlebRap)
-    "2bf29869-c257-433e-8790-76ad6649dd38",  # Too Bit To Fail - Signale (PlebRap)
-}
 PRIVATE_HOST = re.compile(r"^(localhost$|127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2\d|3[01])\.|\[)")
 
 _last_hit = {}
+
+
+class KeepHeadOnRedirect(urllib.request.HTTPRedirectHandler):
+    """
+    Older Python versions follow a redirected HEAD with a GET. Most audio here
+    redirects through op3.dev, so one check would download the song and count as a
+    download for the artist, on every song, every week.
+    """
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        new = super().redirect_request(req, fp, code, msg, headers, newurl)
+        if new is not None and req.get_method() == "HEAD":
+            new.method = "HEAD"
+        return new
+
+
+_opener = urllib.request.build_opener(KeepHeadOnRedirect)
 
 
 class Skip(Exception):
@@ -82,10 +104,11 @@ def _throttle(host):
     _last_hit[host] = time.monotonic()
 
 
-def http(url, method="GET", headers=None):
+def fetch(url, method="GET", headers=None, data=None, read=True):
     """
-    Returns (status, content_type, body). Retries HTTP 429, HTTP 5xx and network
-    errors, then raises Skip. A definite refusal such as HTTP 410 raises Skip at once.
+    Returns (status, content_type, body), and the body is empty when read is False.
+    Retries HTTP 429, HTTP 5xx and network errors, then raises Skip. A definite
+    refusal such as HTTP 410 raises Skip at once.
     """
     parts = urllib.parse.urlsplit(url)
     if parts.scheme not in ("http", "https") or PRIVATE_HOST.match(parts.hostname or ""):
@@ -94,16 +117,16 @@ def http(url, method="GET", headers=None):
     reason = "no attempt"
     for attempt in range(ATTEMPTS):
         _throttle(parts.hostname)
-        req = urllib.request.Request(encode_url(url), method=method, headers={"User-Agent": USER_AGENT, **(headers or {})})
+        req = urllib.request.Request(encode_url(url), method=method, data=data, headers={"User-Agent": USER_AGENT, **(headers or {})})
         try:
-            with urllib.request.urlopen(req, timeout=TIMEOUT) as res:
-                return res.status, res.headers.get("Content-Type", ""), res.read()
+            with _opener.open(req, timeout=TIMEOUT) as res:
+                return res.status, res.headers.get("Content-Type", ""), res.read(MAX_BODY_BYTES) if read else b""
         except urllib.error.HTTPError as e:
             reason = f"HTTP {e.code}"
             if e.code != 429 and e.code < 500:
                 raise Skip(reason) from e
             time.sleep(min(int(e.headers.get("Retry-After") or 0) or 5 * (attempt + 1), 60))
-        except (urllib.error.URLError, TimeoutError, OSError) as e:
+        except (urllib.error.URLError, TimeoutError, OSError, HTTPException) as e:
             reason = str(getattr(e, "reason", e))
             time.sleep(5 * (attempt + 1))
     raise Skip(reason)
@@ -129,7 +152,7 @@ def check_guids(row, feeds):
         raise Skip("no feed address")
     if feed_url not in feeds:
         try:
-            feeds[feed_url] = parse_feed(http(feed_url)[2].decode("utf-8", "replace"))
+            feeds[feed_url] = parse_feed(fetch(feed_url)[2].decode("utf-8", "replace"))
         except Skip as e:
             feeds[feed_url] = e
     if isinstance(feeds[feed_url], Skip):
@@ -149,17 +172,31 @@ def check_audio(row):
     if not url:
         raise Skip("no audio address")
     try:
-        status, content_type, _ = http(url, method="HEAD")
+        status, content_type, _ = fetch(url, method="HEAD", read=False)
     except Skip:
-        # Some hosts refuse HEAD. One byte shows the same thing.
+        # Some hosts refuse HEAD. One byte shows the same thing, and the body stays unread.
         try:
-            status, content_type, _ = http(url, headers={"Range": "bytes=0-0"})
+            status, content_type, _ = fetch(url, headers={"Range": "bytes=0-0"}, read=False)
         except Skip as e:
             raise Skip(f"audio {e}") from e
     if status == 204:
         raise Skip("audio address returns no content")
     if not AUDIO_TYPES.search(content_type):
         raise Skip(f"audio address returns {content_type or 'no content type'}")
+
+
+def podcast_index_answers(rows):
+    """
+    {"feedGuid:itemGuid": record or None}. None means the index does not hold the item.
+    A key that is absent means nobody could ask, which is an outage and not an answer.
+    """
+    refs = [{"feedGuid": r["show"]["guid"], "itemGuid": r["guid"]} for r in rows if r.get("guid") and r.get("show", {}).get("guid")]
+    body = json.dumps({"refs": refs}).encode("utf-8")
+    try:
+        answer = fetch(RESOLVER_API, method="POST", headers={"Content-Type": "application/json"}, data=body)[2]
+        return json.loads(answer)["episodes"]
+    except (Skip, ValueError, KeyError, TypeError) as e:
+        sys.exit(f"Podcast Index lookup failed ({e}). Nothing written.")
 
 
 def collect_tracks():
@@ -169,10 +206,12 @@ def collect_tracks():
     while offset is not None and len(tracks) < TRACKS:
         query = urllib.parse.urlencode({"medium": "music", "sort": "chart", "range": "all", "limit": PAGE_SIZE, "offset": offset})
         try:
-            page = json.loads(http(f"{CHART_API}?{query}")[2])
-        except Skip as e:
+            page = json.loads(fetch(f"{CHART_API}?{query}")[2])
+        except (Skip, ValueError) as e:
             sys.exit(f"Chart API failed ({e}). Nothing written.")
-        for row in page.get("episodes", []):
+        rows = page.get("episodes", [])
+        answers = podcast_index_answers(rows)
+        for row in rows:
             if len(tracks) == TRACKS:
                 break
             label = f"#{row.get('rank')} {row.get('title')} - {row.get('show', {}).get('author')}"
@@ -183,7 +222,10 @@ def collect_tracks():
                 if key in seen:
                     raise Skip("already listed")
                 seen.add(key)
-                if row["guid"] in NOT_IN_PODCAST_INDEX:
+                index_key = f"{row['show']['guid']}:{row['guid']}"
+                if index_key not in answers:
+                    sys.exit(f"Could not ask Podcast Index about {label}. Nothing written.")
+                if answers[index_key] is None:
                     raise Skip("Podcast Index does not hold this item")
                 check_guids(row, feeds)
                 check_audio(row)
