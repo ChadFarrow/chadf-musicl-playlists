@@ -24,6 +24,9 @@ musicL playlists built from a public chart, not from a source RSS feed. The upda
    - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/onlyboosts-top-songs-playlist.xml
    - A GitHub Action rebuilds it every Monday. To rebuild by hand: `python3 generate_onlyboosts_top_songs.py`.
    - Not submitted to Podcast Index, on purpose.
+2. **onlyboosts-top-songs-month-playlist.xml** - `docs/onlyboosts-top-songs-month-playlist.xml` (Top Songs This Month on OnlyBoosts: the chart for the last 30 days at [onlyboosts.social/music/songs?range=1m](https://onlyboosts.social/music/songs?range=1m), without the songs that can no longer play)
+   - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/onlyboosts-top-songs-month-playlist.xml
+   - The same Action and script rebuild it. Not submitted to Podcast Index, on purpose.
 
 ## PodcastL Playlist Feeds
 

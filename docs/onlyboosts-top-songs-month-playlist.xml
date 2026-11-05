@@ -1,0 +1,194 @@
+<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <author>ChadF</author>
+    <title>Top Songs This Month on OnlyBoosts</title>
+    <description>The top songs on the OnlyBoosts chart for the last 30 days, ranked by the sats, boosts and boosters they received on Nostr in that time. Songs that can no longer play are left out. Built by ChadF from the public chart, not made by OnlyBoosts.</description>
+    <link>https://onlyboosts.social/music/songs?range=1m</link>
+    <language>en</language>
+    <pubDate>Thu, 05 Nov 2026 06:25:57 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:25:57 GMT</lastBuildDate>
+    <image>
+      <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/onlyboosts-top-songs-month-playlist-art.png</url>
+    </image>
+    <podcast:medium>musicL</podcast:medium>
+    <podcast:guid>0af2c3a4-7a59-5358-ae00-5b3f7bc224c1</podcast:guid>
+    <!-- 2. Insanity (Deep In The Mind) - PQS -->
+    <podcast:remoteItem feedGuid="638e94f7-d20c-4034-af21-0f6947417f44" feedUrl="https://headstarts.uk/msp/psq/The_Drake_Equation.xml" itemGuid="704daf75-38d1-42e3-b373-30668c8ee717"/>
+    <!-- 3. Silent Upgrade - Haleen -->
+    <podcast:remoteItem feedGuid="33d1729a-d124-5880-8f99-5ac4df73de73" feedUrl="https://feeds.fountain.fm/Y0plQRY2ETwZkIEjVV6J" itemGuid="aa047faf-4872-42a7-93cc-4e9b9712a25c"/>
+    <!-- 4. Flood Gates - Justin Lantrip -->
+    <podcast:remoteItem feedGuid="7b6bc244-743a-5639-81c4-7ebafea342d8" feedUrl="https://feeds.fountain.fm/Pw6d3L9h2Itp3KxLpF3a" itemGuid="f10868ca-5733-4a1d-b526-8b0cc637b21d"/>
+    <!-- 5. Space Witch - Bacalao -->
+    <podcast:remoteItem feedGuid="24eb56be-74dd-479d-aa6a-4b3a7afb8894" feedUrl="http://bacalao.ch/podcast2/bakalator/Bakalator.xml" itemGuid="45381cc9-d386-4cb0-ba1a-8a1fbea59a9b"/>
+    <!-- 6. Red Light - Tony Salomone -->
+    <podcast:remoteItem feedGuid="cf3d1279-c38c-51fc-a834-96e6b9b71f45" feedUrl="https://epochradio.com/feed/tony-salomone-red-light" itemGuid="0e552265-173d-5ef3-948a-bad8e06e8d0a"/>
+    <!-- 7. Catch Me if You Can - Jimmy V -->
+    <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" feedUrl="https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/jimmy_v-jimmy_v_collection-rss.xml" itemGuid="13ca4e6c-74b3-456f-bdac-b9e2ab053842"/>
+    <!-- 7. A Challenger Stackin' Sats in this Optic Insanity - ICT - DJ Lexo -->
+    <podcast:remoteItem feedGuid="fe7e8c8f-d04d-55c6-b61b-ee54ddbdcbff" feedUrl="https://wavlake.com/feed/music/74f58a8b-1a37-45f3-8099-647717db92d8" itemGuid="8eba42f3-b6c3-471a-93da-2b9438fdc485"/>
+    <!-- 7. Aviation Phonetic Alphanumeric - ICT - DJ Lexo -->
+    <podcast:remoteItem feedGuid="abbc1d99-96fd-53ff-9471-a659f5ffff9a" feedUrl="https://wavlake.com/feed/music/b8eb4e47-cc63-4a9d-bebf-d91e356065ca" itemGuid="a17f9988-9b27-4fa4-9374-8eee0bc92932"/>
+    <!-- 10. You Are Enough - Haleen -->
+    <podcast:remoteItem feedGuid="97745d4b-676e-5f97-87d6-54b77c6a330f" feedUrl="https://feeds.fountain.fm/XClrgWIGNvOrFl24ivmH" itemGuid="52d67cff-c984-4957-9e5e-d58210d71072"/>
+    <!-- 11. The Sacred Temple - Haleen -->
+    <podcast:remoteItem feedGuid="6b82e21d-d997-5a0f-928a-35bab0d70d78" feedUrl="https://feeds.fountain.fm/xG5pGs1egUEy6m8hEHtx" itemGuid="1e2e5162-9e36-4f2a-902f-34e692cb4efa"/>
+    <!-- 11. Unify - Haleen -->
+    <podcast:remoteItem feedGuid="c3d3ada8-c7a1-5ef1-9c33-f727f2322df9" feedUrl="https://feeds.fountain.fm/j36JuKFhAdETOMC8o6d5" itemGuid="2a035199-091d-493f-8067-c77e59646a75"/>
+    <!-- 11. Spinning In Circles - Haleen -->
+    <podcast:remoteItem feedGuid="34e288dc-2799-5c82-b141-c85e18f1323b" feedUrl="https://feeds.fountain.fm/LFeB31V2bGZUjOE3QOvm" itemGuid="74825f62-f465-4f22-837e-6a4262a496e0"/>
+    <!-- 11. Stories of the Mind - Haleen -->
+    <podcast:remoteItem feedGuid="4d2c1113-8f6f-5fd7-9e04-a91a7c51b6e6" feedUrl="https://feeds.fountain.fm/7c8E9WRq0nuwG8MgOntw" itemGuid="7f9daaea-7016-4f31-9c4b-55d1334f9702"/>
+    <!-- 11. Dog Days of Paper B*tcoin S*mmer - Rod Palmer -->
+    <podcast:remoteItem feedGuid="2a18c532-81f6-566a-9281-1b581cda8382" feedUrl="https://wavlake.com/feed/music/42782dc8-9fd9-4ea7-9735-6fcf87acb32e" itemGuid="f9c90b03-bb20-410f-9ded-0b4f65e24df9"/>
+    <!-- 16. Preflight Air Flow, Go! - ICT - DJ Lexo -->
+    <podcast:remoteItem feedGuid="09c89f54-3f32-5dd9-b6bd-f01375c7d883" feedUrl="https://wavlake.com/feed/music/057dadaf-5d20-46ab-a971-8e9c3721a453" itemGuid="28ccc936-4fb3-45da-a8e9-9e9107ff372e"/>
+    <!-- 17. Funk Summer Mix 2026 - 100% Vinyl - DJ Cricket -->
+    <podcast:remoteItem feedGuid="be51bf9f-4350-4f79-896a-e9328b3c332b" feedUrl="https://pc2.basspistol.com/dj-cricket/DJ_Cricket_Summer_Mixes.xml" itemGuid="844a1743-e50f-4cd4-a459-d9892b041944"/>
+    <!-- 18. Adi Mantra - Haleen -->
+    <podcast:remoteItem feedGuid="5cd9cbc0-0538-58fc-80db-d43ea86ce19b" feedUrl="https://feeds.fountain.fm/wy2XLIYTsT11h05opooz" itemGuid="21f4564b-9b7b-421a-89d7-751ce17236d8"/>
+    <!-- 18. Angels - Haleen -->
+    <podcast:remoteItem feedGuid="c85fb751-c786-5473-bc23-3e2edb4c5757" feedUrl="https://feeds.fountain.fm/nYS1PuwpdD1LfzgbBJpK" itemGuid="d379fdaa-72dd-4e5f-922e-e8d2b1d09fc6"/>
+    <!-- 21. Act Like A Saint - Haleen -->
+    <podcast:remoteItem feedGuid="d64460ea-05e3-5c10-91a2-48dc9607cd7f" feedUrl="https://feeds.fountain.fm/c7Rtp0gbCmrpSoMszblG" itemGuid="311a478a-759c-40d0-abb4-1884fae866cb"/>
+    <!-- 21. inale - Mishkin Fitzgerald -->
+    <podcast:remoteItem feedGuid="20e84e84-db1b-5187-a315-f683a1d519c1" feedUrl="https://feeds.fountain.fm/9XXsBdcc61EpaFgI05tj" itemGuid="337d9ff6-dfee-4ab4-8968-8cbdeaab936c"/>
+    <!-- 21. Cry For Compensation - Haleen -->
+    <podcast:remoteItem feedGuid="d64460ea-05e3-5c10-91a2-48dc9607cd7f" feedUrl="https://feeds.fountain.fm/c7Rtp0gbCmrpSoMszblG" itemGuid="40f83957-f014-4a63-bbda-d58584abb237"/>
+    <!-- 21. The Ideal Chapter - Haleen -->
+    <podcast:remoteItem feedGuid="d64460ea-05e3-5c10-91a2-48dc9607cd7f" feedUrl="https://feeds.fountain.fm/c7Rtp0gbCmrpSoMszblG" itemGuid="42d6b87e-86f3-4686-9d0c-61c57ced5bae"/>
+    <!-- 21. FTG (ft. G.O.L.D) - Andy Princz -->
+    <podcast:remoteItem feedGuid="6699f042-029c-53e9-ad2e-7da90b10892c" feedUrl="https://wavlake.com/feed/music/066d6612-44f0-4ffd-9e68-c6564392eaef" itemGuid="615b9bf5-66b9-4e86-b488-bb45821e59cb"/>
+    <!-- 21. Man In The Whole - Haleen -->
+    <podcast:remoteItem feedGuid="d64460ea-05e3-5c10-91a2-48dc9607cd7f" feedUrl="https://feeds.fountain.fm/c7Rtp0gbCmrpSoMszblG" itemGuid="9e6255e8-9e3a-41e9-914e-18e4dc2dfa86"/>
+    <!-- 21. Damn Your Idols - Haleen -->
+    <podcast:remoteItem feedGuid="d64460ea-05e3-5c10-91a2-48dc9607cd7f" feedUrl="https://feeds.fountain.fm/c7Rtp0gbCmrpSoMszblG" itemGuid="a8c533bf-6bac-4645-a2ba-92d32af63fbf"/>
+    <!-- 21. Never Let You Go - Haleen -->
+    <podcast:remoteItem feedGuid="d64460ea-05e3-5c10-91a2-48dc9607cd7f" feedUrl="https://feeds.fountain.fm/c7Rtp0gbCmrpSoMszblG" itemGuid="c33f1943-1dd7-4d8b-b36e-c7d7dde0d8da"/>
+    <!-- 21. Message To My Maker - Haleen -->
+    <podcast:remoteItem feedGuid="d64460ea-05e3-5c10-91a2-48dc9607cd7f" feedUrl="https://feeds.fountain.fm/c7Rtp0gbCmrpSoMszblG" itemGuid="d631f9da-fe71-496b-a9ec-dbed172375e1"/>
+    <!-- 21. Life Holds Us Down - Haleen -->
+    <podcast:remoteItem feedGuid="d64460ea-05e3-5c10-91a2-48dc9607cd7f" feedUrl="https://feeds.fountain.fm/c7Rtp0gbCmrpSoMszblG" itemGuid="fbf1c2bd-ddb7-4b21-b281-75e7fd6e40c8"/>
+    <!-- 31. The Moment We Leave - Strange Love -->
+    <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" feedUrl="https://musicsideproject.com/api/hosted/dfc51831-1d1b-4f06-80e3-2f7051dc4052.xml" itemGuid="c3d6750e-a6b3-415f-891f-22bc4d690553"/>
+    <!-- 32. Stay Awhile - Able and The Wolf -->
+    <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" feedUrl="https://ableandthewolf.com/static/media/feed.xml" itemGuid="baa182e9-d088-4cc1-a3f7-e4af48ff112a"/>
+    <!-- 33. Swoon - Frankie Peroni -->
+    <podcast:remoteItem feedGuid="7b2228f8-9963-483d-8741-1b6f37f830c4" feedUrl="https://headstarts.uk/msp/frankie-peroni/singles/Singles.xml" itemGuid="c676892c-850a-426c-9dbd-8524f39334c1"/>
+    <!-- 34. The Platform (lofi beats mix) - HeyCitizen -->
+    <podcast:remoteItem feedGuid="187f22db-79cb-5ac4-aa60-54e424e3915e" feedUrl="https://files.heycitizen.xyz/Songs/Albums/Lofi-Experience/lofi.xml" itemGuid="17313b1e-3585-4bfa-9fb4-288636b84313"/>
+    <!-- 34. Burn the night - Bacalao -->
+    <podcast:remoteItem feedGuid="24eb56be-74dd-479d-aa6a-4b3a7afb8894" feedUrl="http://bacalao.ch/podcast2/bakalator/Bakalator.xml" itemGuid="78c08056-7cb6-4741-8889-a32d2c08802e"/>
+    <!-- 34. Kiss Me Always  (lofi beats mix) - HeyCitizen -->
+    <podcast:remoteItem feedGuid="187f22db-79cb-5ac4-aa60-54e424e3915e" feedUrl="https://files.heycitizen.xyz/Songs/Albums/Lofi-Experience/lofi.xml" itemGuid="ddeff100-294f-4eaf-a572-a6eea09fbb6a"/>
+    <!-- 37. Wealthy Man - Arthur Yoria -->
+    <podcast:remoteItem feedGuid="7bb4f1db-032a-538d-be09-c51be444c2c9" feedUrl="https://wavlake.com/feed/music/8df0028d-9941-411c-8e8a-13a03231350e" itemGuid="a57cf117-d69a-4eb0-bff6-0fc4d049d693"/>
+    <!-- 38. Disco Swag - The Doerfels -->
+    <podcast:remoteItem feedGuid="b2a87a4c-86f0-5194-9eb3-dcba42ce0695" feedUrl="https://www.doerfelverse.com/feeds/disco-swag-album.xml" itemGuid="3298db5c-2753-4d45-8d8f-e4dc3878d748"/>
+    <!-- 39. Cats in the Hall (Live) - Strange Love -->
+    <podcast:remoteItem feedGuid="7192ec54-3aa2-5c61-987b-51bf75f68568" feedUrl="https://new.musicsideproject.com/api/hosted/7192ec54-3aa2-5c61-987b-51bf75f68568.xml" itemGuid="f0e48dc0-d0b0-494f-8b75-c1741f0db81e"/>
+    <!-- 40. Never Enough - Haleen -->
+    <podcast:remoteItem feedGuid="d64460ea-05e3-5c10-91a2-48dc9607cd7f" feedUrl="https://feeds.fountain.fm/c7Rtp0gbCmrpSoMszblG" itemGuid="31bebd42-d48f-4db3-9a79-1c1a417fc2ea"/>
+    <!-- 41. Dragon's Eye - Edwin Williamson -->
+    <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" feedUrl="https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-the-westend-sessions.xml" itemGuid="9a24f526-618c-4a40-b79d-2ecd3526bb7a"/>
+    <!-- 43. Lullaby - Hana Piranha -->
+    <podcast:remoteItem feedGuid="629d9247-dd36-5d78-87a6-bb614bffe106" feedUrl="https://feeds.fountain.fm/eQ4qN2rBf5vdFQiu40hN" itemGuid="c84f6a30-0cb2-49c1-9f07-a34cab40744f"/>
+    <!-- 44. No Longer Afraid - Middle Season -->
+    <podcast:remoteItem feedGuid="c690112f-e347-463b-a9a8-9d61b3a5ddc7" feedUrl="https://www.doerfelverse.com/artists/middleseason/no-longer-afraid.xml" itemGuid="02d7867a-7420-40bc-814c-eeb90c6b899d"/>
+    <!-- 44. Away From Me - Jaded Jester -->
+    <podcast:remoteItem feedGuid="9d8ce850-8275-4a74-9622-1fd0cbe4b41d" feedUrl="https://headstarts.uk/msp/jaded-jester/Icarus.xml" itemGuid="02d87336-16e3-4c6c-83bc-659cecf9d5f9"/>
+    <!-- 44. Diamonds In The Rough - Henrik Flyman -->
+    <podcast:remoteItem feedGuid="dd269ca4-560c-41a9-bd76-98af96406531" feedUrl="https://henrikflyman.com/wp-content/uploads/rssfeed/album_feeds/henrik_flyman/diamonds_in_the_rough.xml" itemGuid="030a6b4e-b2a8-409c-91ef-19f58eb53604"/>
+    <!-- 44. Kick It - Caroline Hale -->
+    <podcast:remoteItem feedGuid="a1e7b24a-e2b5-5232-be37-69f71dd0739e" feedUrl="https://epochradio.com/feed/caroline-hale-kick-it" itemGuid="05d50c32-8b33-534d-ae78-1092a28bbddf"/>
+    <!-- 44. Pirate Radio - Vertigo Kidd -->
+    <podcast:remoteItem feedGuid="a3e44967-e5de-57c0-9c2b-320811e16889" feedUrl="https://www.wavlake.com/feed/2907d493-0eeb-4e37-b2eb-929d98427a66" itemGuid="0600ca06-c4e3-4f05-9a55-cbd3db286d6f"/>
+    <!-- 44. I'll Be Fine (Acoustic) - All Kings All Poets -->
+    <podcast:remoteItem feedGuid="6725424d-08a9-5fc2-a352-b8b2dd09a323" feedUrl="https://www.wavlake.com/feed/4b6201e9-3f8f-4305-92f7-dc95fbddcf93" itemGuid="08d15078-94b7-4fdd-b141-91ec4aef8db2"/>
+    <!-- 44. The Jack n Jill Blues - Longy -->
+    <podcast:remoteItem feedGuid="3997b916-fd64-5820-955f-57d5274b76cb" feedUrl="https://headstarts.uk/msp/longy/Tape%20Up/tape%20up.xml" itemGuid="1b31af2a-83f3-44eb-8c09-d67f6994dcc7"/>
+    <!-- 44. bye bye birdie - shy kids -->
+    <podcast:remoteItem feedGuid="bcd67b21-5360-5526-b586-a78a14b0502e" feedUrl="https://wavlake.com/feed/music/daab7b78-e39f-41bc-be5c-13646c1622d8" itemGuid="1de5ada2-8e91-4c44-9325-7106f858f604"/>
+    <!-- 44. Dirge - Tripodacus -->
+    <podcast:remoteItem feedGuid="89606593-efe1-5981-9fae-25eeb51e6cc0" feedUrl="https://music.behindthesch3m3s.com/wp-content/uploads/Tripodacus/tripodacus.xml" itemGuid="229dd5e1-1237-40b3-8162-40edf179ff77"/>
+    <!-- 44. Rightly So - Patrick Manian -->
+    <podcast:remoteItem feedGuid="881d1cc1-44c4-565d-9b04-25326d463b79" feedUrl="https://wavlake.com/feed/music/59ff22c4-f907-4259-aeff-5f2ec5df7759" itemGuid="293028f2-23dd-4738-a987-2c93edca9dff"/>
+    <!-- 44. Engine's Stalling - Vestigial Hearts -->
+    <podcast:remoteItem feedGuid="7fa60922-aab8-5422-a3c1-6d051a3ed5a4" feedUrl="https://wavlake.com/feed/music/fd6f7934-8f2b-42d9-a6eb-4be5a5028e09" itemGuid="3f0c508e-364d-412f-9169-401fbd77bdf3"/>
+    <!-- 44. ACID - Horseheads -->
+    <podcast:remoteItem feedGuid="634b45ba-7241-4c99-a567-8e9fb597fdf8" feedUrl="https://headstarts.uk/msp/theshorseheads/singles/Singles.xml" itemGuid="43cffbe1-4a75-42b6-931d-a6c080526f53"/>
+    <!-- 44. Shine - Damn Your Idols -->
+    <podcast:remoteItem feedGuid="65dc63c4-508e-5d73-9622-ab576b8e7754" feedUrl="https://cdn.kolomona.com/podcasts/lightning-thrashes/bands/damn-your-idols/damn-your-idols/damn-your-idols-rss.xml" itemGuid="48430975-11fc-4050-a3ee-f1f717af84d1"/>
+    <!-- 44. Vampire - Brash Habits -->
+    <podcast:remoteItem feedGuid="f068ed0d-7ffa-489e-8194-224ad91d6aa8" feedUrl="https://brashhabits.com/music/BrashHabits/FeelingTheLight/BrashHabits-FeelingtheLight-2026.xml" itemGuid="543d70ba-3434-4e6e-a602-cfd6586fb5f0"/>
+    <!-- 44. Shadowbanned - Henrik Flyman -->
+    <podcast:remoteItem feedGuid="a93a5ba1-2b22-43d4-9429-d3c664e36351" feedUrl="https://henrikflyman.com/wp-content/uploads/rssfeed/album_feeds/henrik_flyman/shadowbanned.xml" itemGuid="5ae500c9-b7b2-4753-bbaa-c2bc8c0a0b0d"/>
+    <!-- 44. Anodyne - Karoline Kaminski -->
+    <podcast:remoteItem feedGuid="8ee1347e-d09d-55c7-b4e6-673f5cbd120c" feedUrl="https://wavlake.com/feed/music/d2807310-3265-40b8-9f07-8035ed578a25" itemGuid="5c4d2caf-612b-4ba8-82bc-715124aa96dd"/>
+    <!-- 44. Man In The Whole - Damn Your Idols -->
+    <podcast:remoteItem feedGuid="65dc63c4-508e-5d73-9622-ab576b8e7754" feedUrl="https://cdn.kolomona.com/podcasts/lightning-thrashes/bands/damn-your-idols/damn-your-idols/damn-your-idols-rss.xml" itemGuid="79062f7f-757c-4391-99d3-3885702d4f3d"/>
+    <!-- 44. Good On My Own - Juliana Hale -->
+    <podcast:remoteItem feedGuid="8a82a01c-acfe-5b64-af0a-1ee11c6928e9" feedUrl="https://feeds.fountain.fm/pruzkQIq3ItqaFPvfAMK" itemGuid="7f5443bd-5249-436a-b43e-9899461cd6c1"/>
+    <!-- 44. To be in Nashville - HeyCitizen -->
+    <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" feedUrl="https://files.heycitizen.xyz/Songs/Albums/The-Heycitizen-Experience/the_heycitizen_experience.xml" itemGuid="ac34129c-c78a-463e-a64f-01405e1f2be4"/>
+    <!-- 44. Renaissance Man - Cal Volpe -->
+    <podcast:remoteItem feedGuid="a1bbbe69-7728-5e42-a184-6d7a34109d8b" feedUrl="https://wavlake.com/feed/music/ccec7788-d2bd-4422-816f-af77a6c01cf4" itemGuid="b6bdbe8d-d8cc-4a5d-8081-943dd8dc827a"/>
+    <!-- 44. Woman of the Year - Jimmy V -->
+    <podcast:remoteItem feedGuid="dbad52b9-6253-4a9b-bfab-246b9e839815" feedUrl="https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/jimmy_v-jimmy_v_collection-rss.xml" itemGuid="bc80fa46-9563-48f0-b6df-5f9c847c7642"/>
+    <!-- 44. No More Trouble - Rollz and Dice -->
+    <podcast:remoteItem feedGuid="ee7351fd-9646-4843-ae49-0e2aacf524be" feedUrl="https://rss.rollzmcguyver.com/artists/rollz-and-dice.xml" itemGuid="bf920e4c-7d6f-4458-b4d3-c1d8e79eaa03"/>
+    <!-- 44. Head Full Of Fire - Justin Lantrip -->
+    <podcast:remoteItem feedGuid="808dc647-f945-5096-95d1-e0558a6d68aa" feedUrl="https://feeds.fountain.fm/cmzGa1uhxLpUBPdFQLp2" itemGuid="c00c1c43-c5c5-40bb-83bd-175788903854"/>
+    <!-- 44. River People - The Fifty Four Plates -->
+    <podcast:remoteItem feedGuid="05eaeb68-1d19-5f15-afb6-06aeba50381b" feedUrl="https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state.xml" itemGuid="c4c83125-4a86-48ae-a0bc-e2700ba2439c"/>
+    <!-- 44. Nevertheless - Riot in Progress -->
+    <podcast:remoteItem feedGuid="3c90d775-eea8-5e04-a804-e139a95988fc" feedUrl="https://wavlake.com/feed/music/b2f3f61f-b7c6-4bdb-89f4-2de06e938806" itemGuid="ca7e7288-1f7f-49f1-9b41-5203b05e4083"/>
+    <!-- 44. Drift Current - Can't Wait Again - Rubber Factory Records -->
+    <podcast:remoteItem feedGuid="8bbe423f-c6ea-5a2b-9f38-3b52ca77e7f3" feedUrl="https://wavlake.com/feed/music/b29d724c-93d8-45fc-9fd8-d9781acf8b18" itemGuid="d30d771f-df8b-4df4-a669-059891216c6e"/>
+    <!-- 44. Cares and Worries - Fepeste -->
+    <podcast:remoteItem feedGuid="07e25967-1a9a-5c6b-8dda-d580e3dc0148" feedUrl="https://wavlake.com/feed/music/4d15b057-eb53-4b70-b870-41e24aee130c" itemGuid="d8787f79-1bd9-4504-8f71-0dd1e6206305"/>
+    <!-- 44. Castle of Sand - Prosperous Soul -->
+    <podcast:remoteItem feedGuid="742673ae-4479-5a08-987f-6ab49b44dd89" feedUrl="https://feeds.fountain.fm/LiMX1rPl999wWC6OTG24" itemGuid="d9aea4eb-c91f-4421-b74c-871c4e7c5b32"/>
+    <!-- 44. Tenterhooks - Birdeatsbaby (Mishkin Fitzgerald) -->
+    <podcast:remoteItem feedGuid="01f2e29a-7b54-5d42-94e0-9bec0bd851d3" feedUrl="https://feeds.fountain.fm/H5A1PlNhFWi1IB2tFQTi" itemGuid="dfe4f888-4fd8-425b-b386-06c191414fd0"/>
+    <!-- 44. Sunday Painters - Universal Sigh -->
+    <podcast:remoteItem feedGuid="93007b6c-2093-5ddb-9b5f-7226c93d67e0" feedUrl="https://wavlake.com/feed/music/843f0c80-3bbf-4f96-a028-8da5c68551e9" itemGuid="e053b275-a07f-43af-a1ae-6d95238759dd"/>
+    <!-- 44. Sense Of Awe - Haleen -->
+    <podcast:remoteItem feedGuid="1d384fbd-19e7-593c-a236-b070b454c03b" feedUrl="https://feeds.fountain.fm/Y3LcNBS2ko70VB7pwefK" itemGuid="ec63b782-0781-4268-bd47-753cc8467a81"/>
+    <!-- 44. Man Done Wrong - Matt Bigelow -->
+    <podcast:remoteItem feedGuid="49ebeec4-a99a-5c9d-bb1b-477570341b1a" feedUrl="https://music.behindthesch3m3s.com/wp-content/uploads/Matt_B/matty_b_and_the_black_river_band.xml" itemGuid="ec839155-4c80-4014-b35c-250cf300c7d3"/>
+    <!-- 77. Luv Song 4 U - HeyCitizen -->
+    <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" feedUrl="https://files.heycitizen.xyz/Songs/Albums/The-Heycitizen-Experience/the_heycitizen_experience.xml" itemGuid="9ff8f18b-cc79-474c-a3e9-2948113b8bf5"/>
+    <!-- 78. All On A Mission - Rollz and Dice -->
+    <podcast:remoteItem feedGuid="ee7351fd-9646-4843-ae49-0e2aacf524be" feedUrl="https://rss.rollzmcguyver.com/artists/rollz-and-dice.xml" itemGuid="cc29f22c-a37a-44f0-a13c-7d04bb1bfe9f"/>
+    <!-- 79. The Rhythm of Your Breath - Sorout Beats -->
+    <podcast:remoteItem feedGuid="8bc6c20e-db5e-5c5a-ab96-6dd2bc4d24e2" feedUrl="https://wavlake.com/feed/music/4ee4f6a7-d179-4cee-86ba-34eea08abbae" itemGuid="1eacbf06-dc6c-4fa2-8de7-7e37798d1988"/>
+    <!-- 79. Healing Hands (Maple Mix) - Longy -->
+    <podcast:remoteItem feedGuid="c5f25062-40b8-4ac4-88d3-a2c3af1f7310" feedUrl="https://headstarts.uk/msp/longy/Healing%20Hands/Healing_Hands.xml" itemGuid="4b911602-5c1a-4f4e-a6cf-9a48fa28d7f3"/>
+    <!-- 79. Sound of the Drum - Fable -->
+    <podcast:remoteItem feedGuid="93be285b-1cef-5cef-85ec-5ec11b07af3d" feedUrl="https://headstarts.uk/msp/fable%20music/the%20raven/the%20raven.xml" itemGuid="b47be111-6b93-4d04-965a-215a3df51928"/>
+    <!-- 79. Put 'Em In A Cage - Yellow Velvet Milk Club -->
+    <podcast:remoteItem feedGuid="b92e233d-0a65-5c26-bd19-c1e63d97edc2" feedUrl="https://wavlake.com/feed/music/ef73370e-dc92-4091-9111-b7eefd0407e3" itemGuid="ca98e777-e7fc-4070-96e7-2c245b3a522b"/>
+    <!-- 79. Drop Btc - Sovereign Frequency -->
+    <podcast:remoteItem feedGuid="8a9954fe-980d-5b76-b501-c83adc9a84e9" feedUrl="https://files.catbox.moe/h8zz4c.xml" itemGuid="d082c003-a08a-4dd3-9cba-07aa81d16e9f"/>
+    <!-- 79. Samsara - Fable -->
+    <podcast:remoteItem feedGuid="04e812f9-1993-5aa1-9ab5-a9cf0cd81e82" feedUrl="https://headstarts.uk/msp/fable%20music/trickster/trickster.xml" itemGuid="f002a096-086e-48bb-8672-036b717d80ee"/>
+    <!-- 85. Healing Hands (Live at the Railway) - Longy -->
+    <podcast:remoteItem feedGuid="c5f25062-40b8-4ac4-88d3-a2c3af1f7310" feedUrl="https://headstarts.uk/msp/longy/Healing%20Hands/Healing_Hands.xml" itemGuid="0621d4c2-e793-49da-b892-19a60bf071c4"/>
+    <!-- 85. Lady, You Shot Me! - Longy -->
+    <podcast:remoteItem feedGuid="6dfd9c9e-7482-5274-9fba-1c0bd1ecff39" feedUrl="https://headstarts.uk/msp/longy/Lady/Lady-You-Shot-Me.xml" itemGuid="7c87e621-6ae5-47fa-8114-a46ae5a14f92"/>
+    <!-- 85. Grow A Pair [606Hz] - Matt Finlay -->
+    <podcast:remoteItem feedGuid="204099cf-bcb0-4b78-99f9-2e64d366a3f1" feedUrl="https://phafe.com/wp-content/uploads/rssfeed/music/matt_finlay/government_approved_ep/Government_Approved_EP_432Hz.xml" itemGuid="8256cca5-be08-4f68-9298-137dcc9ccade"/>
+    <!-- 85. That Anti-Mask Song - Matt Finlay -->
+    <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" feedUrl="https://phafe.com/wp-content/uploads/rssfeed/music/matt_finlay/kulture_collection/Kulture_Collection.xml" itemGuid="9287595a-72b1-40ec-bded-30fe4f0fec1a"/>
+    <!-- 85. Safe And Effective - Matt Finlay -->
+    <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" feedUrl="https://phafe.com/wp-content/uploads/rssfeed/music/matt_finlay/kulture_collection/Kulture_Collection.xml" itemGuid="cfce0785-7f9d-45a3-87ac-39955f9425d8"/>
+    <!-- 90. Angel Beast - The Doerfels -->
+    <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" feedUrl="https://www.doerfelverse.com/feeds/music-from-the-doerfelverse.xml" itemGuid="82b4c004-9af4-4f8d-aff7-f033bba7429b"/>
+    <!-- 91. SIDE A: Demon Fuzzz - Velectrix -->
+    <podcast:remoteItem feedGuid="e1b9c210-eec2-493a-b1ca-5615d55266e3" feedUrl="https://mmmusic.show/msp/Velectrix_DFGS/demonfuzzz.xml" itemGuid="56b31dbd-2943-4d8e-829f-0d900eb1b87f"/>
+    <!-- 92. Incogneetus - HeyCitizen -->
+    <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" feedUrl="https://files.heycitizen.xyz/Songs/Albums/The-Heycitizen-Experience/the_heycitizen_experience.xml" itemGuid="4e83fc9e-6878-4af5-a299-9dce2415eb16"/>
+    <!-- 93. You Are Enough - Haleen -->
+    <podcast:remoteItem feedGuid="ba11c670-c86e-531f-a8ad-da3f532b3606" feedUrl="https://wavlake.com/feed/music/0c56dc85-be29-45bc-81fc-dd6d92a9d868" itemGuid="da7c7916-bc6d-4597-80fd-fb348d32a078"/>
+  </channel>
+</rss>

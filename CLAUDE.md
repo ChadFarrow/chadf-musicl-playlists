@@ -99,17 +99,22 @@ The **Greatest Hits** playlist is automatically regenerated via GitHub Actions w
 - Uses github-actions bot identity for commits
 - Commit message: "Auto-update Greatest Hits playlist - Recomputed from latest playlists"
 
-### OnlyBoosts Top Songs Playlist
+### OnlyBoosts Top Songs Playlists
 
-`docs/onlyboosts-top-songs-playlist.xml` holds the top 100 songs of the all-time chart at https://onlyboosts.social/music/songs. `.github/workflows/update-onlyboosts-top-songs.yml` rebuilds it every Monday at 05:00 UTC with `generate_onlyboosts_top_songs.py`, and commits only when the list changed. A pull request that changes the script or the workflow runs the whole build and pushes nothing.
+Two playlists come from the charts at https://onlyboosts.social/music/songs:
 
-- **This playlist is not submitted to Podcast Index. That is Chad's decision (2026-11-04).** Do not call `add/byfeedurl` or `pubnotify` for it, do not send a Podping, and do not move it into the updater's daily run, which does both. So boostmebitch shows it as "NOT IN PI · PREVIEW".
-- The data is `GET https://onlyboosts.social/api/v1/episodes?medium=music&sort=chart&range=all`, the call that page makes. A row's `show.guid` is the `feedGuid` and its `guid` is the `itemGuid`. The site's source is https://github.com/ReedBTC/onlyboosts.
-- A row becomes a track only when Podcast Index holds it, its feed confirms both guids, and its audio file answers. Otherwise the next row on the chart takes its place, so the list can reach below rank 100. A song returns by itself when it passes again.
+- `docs/onlyboosts-top-songs-playlist.xml`: the top 100 songs of all time (`range=all`).
+- `docs/onlyboosts-top-songs-month-playlist.xml`: up to 100 songs of the last 30 days (`range=1m`). The window trails, so it is not the calendar month. It held 93 songs on 2026-11-05, and 88 of them had one booster, so it is often the whole chart.
+
+`.github/workflows/update-onlyboosts-top-songs.yml` rebuilds both every Monday at 05:00 UTC with `generate_onlyboosts_top_songs.py`, and commits only when a list changed. A pull request that changes the script or the workflow runs the whole build and pushes nothing. `PLAYLISTS` in the script names each list.
+
+- **These playlists are not submitted to Podcast Index. That is Chad's decision (2026-11-04).** Do not call `add/byfeedurl` or `pubnotify` for them, do not send a Podping, and do not move them into the updater's daily run, which does both. So boostmebitch shows them as "NOT IN PI · PREVIEW".
+- The data is `GET https://onlyboosts.social/api/v1/episodes?medium=music&sort=chart&range=<range>`, the call that page makes. A row's `show.guid` is the `feedGuid` and its `guid` is the `itemGuid`. The site's source is https://github.com/ReedBTC/onlyboosts.
+- A row becomes a track only when Podcast Index holds it, its feed confirms both guids, and its audio file answers. Otherwise the next row on the chart takes its place, so the all-time list can reach below rank 100. A song returns by itself when it passes again.
 - The Podcast Index question goes through `POST https://www.boostmebitch.com/api/episode-by-guid/batch`, so no key is needed. If that route changes, the run fails and writes nothing.
-- More than 20 failed rows, or a failed chart or lookup request, stops the run and writes nothing, so an outage cannot empty the list.
+- A run updates both files or neither. More than 20 failed rows on a chart, too few tracks (`min_tracks`), or a failed chart or lookup request stops the run and writes nothing, so an outage cannot empty a list.
 - Each run replaces the whole list, because a chart must be able to drop a song. The dates move only when the list moved.
-- Keep the file name free of `-music-playlist`, and do not add a `source-feed` tag. The script's docstring gives the reasons.
+- Keep the file names free of `-music-playlist`, and do not add a `source-feed` tag. The script's docstring gives the reasons.
 
 ## Common Tasks
 

@@ -1,29 +1,30 @@
 #!/usr/bin/env python3
 """
-Generate the OnlyBoosts Top Songs musicL playlist.
+Generate the OnlyBoosts Top Songs musicL playlists: all time, and the last 30 days.
 
-Reads the all-time chart at https://onlyboosts.social/music/songs through the API
-that page calls, and writes the top songs in chart order. A chart row becomes a
+Reads the charts at https://onlyboosts.social/music/songs through the API that page
+calls, and writes the top songs in chart order. PLAYLISTS names each list. A chart row becomes a
 track only after the song's own feed and audio file have been checked, because the
 chart ranks boosts, and a boost outlives the song it paid for: on the first run the
-#4 song's feed and audio both answered HTTP 410, and #14 was a live event that ended.
+all-time #4's feed and audio both answered HTTP 410, and #14 was a live event that ended.
 A failed row is skipped and the next row on the chart takes its place.
 
 A row must also resolve in Podcast Index, because that is how apps find a remoteItem:
-#16's feed and audio are fine, but the index does not hold the track, so an app shows
+all-time #16's feed and audio are fine, but the index does not hold the track, so an app shows
 a blank row. The script asks through a public boostmebitch route, so it needs no key.
 
-THIS PLAYLIST IS NOT SUBMITTED TO PODCAST INDEX. That is Chad's decision (2026-11-04).
+THESE PLAYLISTS ARE NOT SUBMITTED TO PODCAST INDEX. That is Chad's decision (2026-11-04).
 This script only reads the index. It and its workflow must never call add/byfeedurl
 or pubnotify, send a Podping, or move into the updater's daily run, which does both.
 
+Nothing is written until every list has passed, so a run updates all of them or none.
 The whole list is replaced on every run. A chart has to be able to drop a song, so
 this does not merge with the published file the way the updater's aggregators do.
 
-The file is deliberately NOT named *-music-playlist.xml. That name would start the
+The files are deliberately NOT named *-music-playlist.xml. That name would start the
 Greatest Hits workflow, and FEEDS.md entries with it are taken by the updater's RSS
 loop, which would look for a source feed here that does not exist. For the same
-reason it writes no <podcast:txt purpose="source-feed">: the chart is not a feed,
+reason they have no <podcast:txt purpose="source-feed">: the chart is not a feed,
 and boostmebitch downloads that tag's URL as the show a playlist was built from.
 
 .github/workflows/update-onlyboosts-top-songs.yml runs this every week.
@@ -39,6 +40,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import uuid
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from http.client import HTTPException
 from xml.sax.saxutils import escape, quoteattr
@@ -48,10 +50,54 @@ CHART_PAGE = "https://onlyboosts.social/music/songs"
 RESOLVER_API = "https://www.boostmebitch.com/api/episode-by-guid/batch"
 RAW_DOCS = "https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs"
 
-OUTPUT_FILE = "docs/onlyboosts-top-songs-playlist.xml"
-FEED_URL = f"{RAW_DOCS}/onlyboosts-top-songs-playlist.xml"
-IMAGE_URL = f"{RAW_DOCS}/onlyboosts-top-songs-playlist-art.png"
+CREDIT = "Songs that can no longer play are left out. Built by ChadF from the public chart, not made by OnlyBoosts."
 
+
+@dataclass(frozen=True)
+class Playlist:
+    name: str  # The file is docs/<name>.xml and its art is docs/<name>-art.png.
+    chart_range: str  # The API's range: 1w, 1m, 1y or all.
+    title: str  # {count} becomes the number of tracks.
+    description: str
+    link: str
+    # Fewer tracks than this is an outage, not a quiet chart. Leave the published file alone.
+    min_tracks: int
+
+    @property
+    def output_file(self):
+        return f"docs/{self.name}.xml"
+
+    @property
+    def feed_url(self):
+        return f"{RAW_DOCS}/{self.name}.xml"
+
+    @property
+    def image_url(self):
+        return f"{RAW_DOCS}/{self.name}-art.png"
+
+
+PLAYLISTS = (
+    Playlist(
+        name="onlyboosts-top-songs-playlist",
+        chart_range="all",
+        title="Top {count} Songs on OnlyBoosts",
+        description=f"The top songs on the OnlyBoosts all-time chart, ranked by the sats, boosts and boosters they received on Nostr. {CREDIT}",
+        link=CHART_PAGE,
+        min_tracks=100,
+    ),
+    # The chart window trails: the last 30 days, not the calendar month. On 2026-11-05 it
+    # held 93 songs, so this list is often the whole chart and not a cut of it.
+    Playlist(
+        name="onlyboosts-top-songs-month-playlist",
+        chart_range="1m",
+        title="Top Songs This Month on OnlyBoosts",
+        description=f"The top songs on the OnlyBoosts chart for the last 30 days, ranked by the sats, boosts and boosters they received on Nostr in that time. {CREDIT}",
+        link=f"{CHART_PAGE}?range=1m",
+        min_tracks=10,
+    ),
+)
+
+# No list is longer than this.
 TRACKS = 100
 PAGE_SIZE = 100
 # More failures than this is an outage, not dead songs. Leave the published file alone.
@@ -199,12 +245,12 @@ def podcast_index_answers(rows):
         sys.exit(f"Podcast Index lookup failed ({e}). Nothing written.")
 
 
-def collect_tracks():
-    """The top TRACKS playable rows in chart order, and the rows that were skipped."""
-    tracks, skipped, seen, feeds = [], [], set(), {}
+def collect_tracks(playlist, feeds):
+    """Up to TRACKS playable rows in chart order, and the rows that were skipped."""
+    tracks, skipped, seen = [], [], set()
     offset = 0
     while offset is not None and len(tracks) < TRACKS:
-        query = urllib.parse.urlencode({"medium": "music", "sort": "chart", "range": "all", "limit": PAGE_SIZE, "offset": offset})
+        query = urllib.parse.urlencode({"medium": "music", "sort": "chart", "range": playlist.chart_range, "limit": PAGE_SIZE, "offset": offset})
         try:
             page = json.loads(fetch(f"{CHART_API}?{query}")[2])
         except (Skip, ValueError) as e:
@@ -237,8 +283,8 @@ def collect_tracks():
                 if len(skipped) > MAX_SKIPPED:
                     sys.exit(f"More than {MAX_SKIPPED} rows failed, which looks like an outage. Nothing written.")
         offset = page.get("next_offset")
-    if len(tracks) < TRACKS:
-        sys.exit(f"Only {len(tracks)} of {TRACKS} tracks found. Nothing written.")
+    if len(tracks) < playlist.min_tracks:
+        sys.exit(f"{playlist.name}: only {len(tracks)} tracks, and it needs {playlist.min_tracks}. Nothing written.")
     return tracks, skipped
 
 
@@ -248,23 +294,21 @@ def comment_text(text):
     return re.sub(r"-{2,}", "-", text).strip("- ")
 
 
-def build_xml(tracks, stamp):
+def build_xml(playlist, tracks, stamp):
     # A permanent identity: the spec's UUIDv5 of the feed URL without its scheme.
-    guid = uuid.uuid5(PODCAST_GUID_NAMESPACE, FEED_URL.split("://", 1)[1])
+    guid = uuid.uuid5(PODCAST_GUID_NAMESPACE, playlist.feed_url.split("://", 1)[1])
     lines = [
         '<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">',
         "  <channel>",
         "    <author>ChadF</author>",
-        f"    <title>Top {len(tracks)} Songs on OnlyBoosts</title>",
-        "    <description>The top songs on the OnlyBoosts all-time chart, ranked by the sats, boosts and "
-        "boosters they received on Nostr. Songs that can no longer play are left out. "
-        "Built by ChadF from the public chart, not made by OnlyBoosts.</description>",
-        f"    <link>{escape(CHART_PAGE)}</link>",
+        f"    <title>{escape(playlist.title.format(count=len(tracks)))}</title>",
+        f"    <description>{escape(playlist.description)}</description>",
+        f"    <link>{escape(playlist.link)}</link>",
         "    <language>en</language>",
         f"    <pubDate>{stamp}</pubDate>",
         f"    <lastBuildDate>{stamp}</lastBuildDate>",
         "    <image>",
-        f"      <url>{escape(IMAGE_URL)}</url>",
+        f"      <url>{escape(playlist.image_url)}</url>",
         "    </image>",
         "    <podcast:medium>musicL</podcast:medium>",
         f"    <podcast:guid>{guid}</podcast:guid>",
@@ -285,28 +329,32 @@ def without_dates(xml_text):
     return re.sub(r"<(pubDate|lastBuildDate)>[^<]*</\1>", r"<\1></\1>", xml_text)
 
 
-def write_if_changed(new_xml):
+def write_if_changed(output_file, new_xml):
     """A rebuild is not a change: the dates move only when the list moved."""
     try:
-        with open(OUTPUT_FILE, encoding="utf-8") as f:
+        with open(output_file, encoding="utf-8") as f:
             if without_dates(f.read()) == without_dates(new_xml):
-                print(f"\nUnchanged: {OUTPUT_FILE}")
+                print(f"\nUnchanged: {output_file}")
                 return
     except OSError:
         pass
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         f.write(new_xml)
-    print(f"\nGenerated: {OUTPUT_FILE}")
+    print(f"\nGenerated: {output_file}")
 
 
 def main():
-    print(f"Checking the chart at {CHART_PAGE}")
-    tracks, skipped = collect_tracks()
+    feeds = {}  # Shared: a feed on both charts is read once.
+    built = []
+    for playlist in PLAYLISTS:
+        print(f"Checking the {playlist.chart_range} chart at {playlist.link}")
+        built.append((playlist, *collect_tracks(playlist, feeds)))
     stamp = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
-    write_if_changed(build_xml(tracks, stamp))
-    print(f"{len(tracks)} tracks, down to chart rank {tracks[-1].get('rank')}. {len(skipped)} rows skipped:")
-    for label, reason in skipped:
-        print(f"  {label}: {reason}")
+    for playlist, tracks, skipped in built:
+        write_if_changed(playlist.output_file, build_xml(playlist, tracks, stamp))
+        print(f"{len(tracks)} tracks, down to chart rank {tracks[-1].get('rank')}. {len(skipped)} rows skipped:")
+        for label, reason in skipped:
+            print(f"  {label}: {reason}")
 
 
 if __name__ == "__main__":
