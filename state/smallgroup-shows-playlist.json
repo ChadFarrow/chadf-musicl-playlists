@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:08:23.892Z",
+  "updatedAt": "2026-11-06T14:48:17.130Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,21 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "homegrown-hits",
+      "feedGuid": "ac746d09-7c3b-5bcd-b28a-f12d6456ca8f",
+      "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
+      "itemGuid": "de330c86-439f-46d5-a83e-ee870aa20c1c",
+      "pubDate": "2026-11-05T21:20:00.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E564.mp3",
+      "pubDate": "2026-11-04T08:20:00.000Z"
+    },
     {
       "slug": "bowl-after-bowl",
       "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
@@ -798,13 +813,6 @@
       "medium": "podcast"
     },
     {
-      "slug": "nick-the-rat-radio",
-      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
-      "feedUrl": "https://nicktherat.com/radio/feed.xml",
-      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E554.mp3",
-      "pubDate": "2026-08-26T09:20:00.000Z"
-    },
-    {
       "slug": "v4v-music-spotlight",
       "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
       "feedUrl": "https://phafe.com/wp-content/uploads/rssfeed/v4v_music_spotlight/V4V_Music_Spotlight.xml",
@@ -818,14 +826,6 @@
       "feedUrl": "https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
       "itemGuid": "2c0b0505-89d6-4384-8c51-8334efe6bfde",
       "pubDate": "2026-08-21T10:00:00.000Z",
-      "medium": "podcast"
-    },
-    {
-      "slug": "homegrown-hits",
-      "feedGuid": "ac746d09-7c3b-5bcd-b28a-f12d6456ca8f",
-      "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
-      "itemGuid": "93ede04f-2988-4238-b78f-49a9d08e936f",
-      "pubDate": "2026-08-20T21:20:00.000Z",
       "medium": "podcast"
     },
     {
