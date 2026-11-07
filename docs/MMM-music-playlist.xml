@@ -6,13 +6,19 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 31 Oct 2026 13:20:21 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 13:20:21 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 13:45:15 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:45:15 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>92ac9b10-20fd-4c95-a5d2-1be9681b7644</podcast:guid>
+    <podcast:txt purpose="episode">162nd Edition - Sir Spencer / The Wolf</podcast:txt>
+      <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="baa182e9-d088-4cc1-a3f7-e4af48ff112a"/>
+      <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="8958b128-e10b-4132-975c-65df41bb45ec"/>
+      <podcast:remoteItem feedGuid="6c277321-9d2c-5cd2-98b1-f49efcea0602" itemGuid="8b850466-1a23-4298-b14c-a1099816e9a6"/>
+      <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="c7003607-233e-40e8-b2fa-6465127d0076"/>
+      <podcast:remoteItem feedGuid="a71b097b-4cf0-5e74-b6a9-1271373bb396" itemGuid="a45376c3-c8b3-4173-80c4-4cdfa266e0db"/>
     <podcast:txt purpose="episode">161st Edition - Andy Brash</podcast:txt>
       <podcast:remoteItem feedGuid="3aed2a73-2fb7-5858-bfc2-727c9744c001" itemGuid="eae3cb83-2ea1-4373-a4fc-d9b6242830f7"/>
       <podcast:remoteItem feedGuid="f068ed0d-7ffa-489e-8194-224ad91d6aa8" itemGuid="543d70ba-3434-4e6e-a602-cfd6586fb5f0"/>
