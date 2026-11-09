@@ -6,13 +6,18 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Fri, 23 Oct 2026 20:01:21 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 20:01:21 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 17:11:02 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:11:02 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>88b0640a-489f-4920-be4f-00f85af5b2d4</podcast:guid>
+    <podcast:txt purpose="episode">Ep 81 - Wrathful Ramblings</podcast:txt>
+      <podcast:remoteItem feedGuid="a1077af6-602b-5daf-957b-68a65a03cad1" itemGuid="8106e789-25e4-4b33-9c47-1ab5de6f7b77"/>
+      <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="50faf7bf-ac8f-4c33-aa62-0ac0ae87c134"/>
+      <podcast:remoteItem feedGuid="57203632-2003-55d2-b710-c699db963f18" itemGuid="b66d8b6c-686d-45e0-804a-1881b9b519ce"/>
+      <podcast:remoteItem feedGuid="c8d77c9c-e661-5d79-8d5f-735cfe9a95b7" itemGuid="17249ca4-fc26-45bb-afa3-d86212c9b2f8"/>
     <podcast:txt purpose="episode">Episode 80 - Am I A Bitcoiner?</podcast:txt>
       <podcast:remoteItem feedGuid="a1077af6-602b-5daf-957b-68a65a03cad1" itemGuid="8ec41aed-2072-4562-ad11-2ffa9169d3ab"/>
       <podcast:remoteItem feedGuid="7891de21-7e3f-5d3c-b0d3-fcafd4537777" itemGuid="693daffc-3b45-44ab-a5f2-6c2246d1c8c8"/>
