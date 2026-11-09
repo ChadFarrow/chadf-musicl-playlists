@@ -7,8 +7,8 @@
     <link>https://github.com/ChadFarrow/chadf-musicl-playlists</link>
     <podcast:txt purpose="source-feed">https://github.com/ChadFarrow/chadf-musicl-playlists</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 07 Nov 2026 13:45:24 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Nov 2026 13:45:24 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 17:11:12 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:11:12 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/Greatest-Hits-music-playlist.png</url>
     </image>
@@ -407,6 +407,7 @@
     <podcast:remoteItem feedGuid="c1fd79f4-7bdd-5dd1-8074-264c97f0f857" itemGuid="9a24f526-618c-4a40-b79d-2ecd3526bb7a" />
     <podcast:remoteItem feedGuid="c39beac5-bd10-5e1b-9c72-16865b8fa42a" itemGuid="dc5dac9b-7b73-48c5-a11f-735bbe19b035" />
     <podcast:remoteItem feedGuid="c73b1a23-1c28-5edb-94c3-10d1745d0877" itemGuid="0842d07e-76a3-47da-b253-946f090836c2" />
+    <podcast:remoteItem feedGuid="c8d77c9c-e661-5d79-8d5f-735cfe9a95b7" itemGuid="17249ca4-fc26-45bb-afa3-d86212c9b2f8" />
     <podcast:remoteItem feedGuid="cad72e7a-7c92-5e1f-ac86-a7a8e3ebc751" itemGuid="6f95bd87-64a4-416b-ac71-cb070359257d" />
     <podcast:remoteItem feedGuid="cb086537-5673-57a8-9c78-72542da2a7d4" itemGuid="9a29c9f0-649f-4ddd-8888-55ed84d7c2ab" />
     <podcast:remoteItem feedGuid="cb123fdd-2c91-5af4-a1aa-fd4e0f992696" itemGuid="cd4c37d0-ef9f-4165-97a2-dabc31b03257" />
@@ -524,6 +525,7 @@
     <podcast:remoteItem feedGuid="6725424d-08a9-5fc2-a352-b8b2dd09a323" itemGuid="f486b2ff-97ca-4ffa-b6da-97ed4d8baae8" />
     <podcast:remoteItem feedGuid="686a5851-cb23-588c-b082-46098c1fdabc" itemGuid="5c1a7fd7-171b-5f8e-b1ad-8660a3303c6b" />
     <podcast:remoteItem feedGuid="69b675bd-93ee-581a-b502-e930491620f6" itemGuid="4c356703-8b86-52aa-987b-c0c718d203c9" />
+    <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="50faf7bf-ac8f-4c33-aa62-0ac0ae87c134" />
     <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="879b47dc-5aab-467c-8903-99d27d0aa30f" />
     <podcast:remoteItem feedGuid="69daacd1-1e22-574c-a296-601298837db6" itemGuid="6cc25ad8-89f9-4646-9af9-9d6261c96c69" />
     <podcast:remoteItem feedGuid="6ce442f3-a83a-5f0a-9e9c-0f151c1cd3e3" itemGuid="0e368ed1-7c8d-48bc-9252-87173709905c" />
@@ -606,7 +608,6 @@
     <podcast:remoteItem feedGuid="c73b1a23-1c28-5edb-94c3-10d1745d0877" itemGuid="882b5d1b-0646-42cb-861f-a65345d66e9a" />
     <podcast:remoteItem feedGuid="c73b1a23-1c28-5edb-94c3-10d1745d0877" itemGuid="b27ca1e6-9c86-40a7-aff6-2e25ae10e020" />
     <podcast:remoteItem feedGuid="c763c404-60e1-5955-885a-d7a54773eb3f" itemGuid="2036d16d-976c-44eb-89f0-d2c309bfcf67" />
-    <podcast:remoteItem feedGuid="c8d77c9c-e661-5d79-8d5f-735cfe9a95b7" itemGuid="17249ca4-fc26-45bb-afa3-d86212c9b2f8" />
     <podcast:remoteItem feedGuid="c989830b-49a1-572f-9f0e-0fec994a6d5a" itemGuid="637a08f6-049f-4610-9308-73f50ae423cf" />
     <podcast:remoteItem feedGuid="cc4906ad-7e89-59cc-9519-990944329294" itemGuid="631f4d54-9faf-4e8d-b0df-ad6ef7d1f2b4" />
     <podcast:remoteItem feedGuid="cf2fe766-9923-5101-b57e-5f5b754c0de5" itemGuid="6e08dd1d-709c-490d-997a-0e8e7b5dc8e9" />
@@ -825,7 +826,6 @@
     <podcast:remoteItem feedGuid="68678a97-855a-5968-8920-f4df641eac49" itemGuid="65e440ec-f285-5cd9-8c42-1249ca9fd1c8" />
     <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="2b8cef29-6aa5-4e2f-a726-92f916f2424a" />
     <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="37e84f08-905c-4f19-9dea-18b3ffef11b4" />
-    <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="50faf7bf-ac8f-4c33-aa62-0ac0ae87c134" />
     <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="584953af-7321-4bfe-882d-7cadd697e807" />
     <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="b94b1090-8c7f-4c59-87ad-b8034ec058b3" />
     <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="be15639d-3c00-4d6a-a78d-18be7d99980b" />
