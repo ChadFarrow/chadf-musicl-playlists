@@ -1,4 +1,4 @@
-name: Update OnlyBoosts Top Songs Playlist
+name: Update OnlyBoosts Top Songs Playlists
 
 on:
   # Weekly: Mondays at 05:00 UTC.
@@ -18,12 +18,14 @@ concurrency:
   group: update-onlyboosts-top-songs
   cancel-in-progress: false
 
-# This playlist is deliberately not submitted to Podcast Index, so this job must
+# These playlists are deliberately not submitted to Podcast Index, so this job must
 # not call add/byfeedurl or pubnotify, and must not send a Podping.
 jobs:
   update-onlyboosts-top-songs:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
+    env:
+      PLAYLISTS: docs/onlyboosts-top-songs-playlist.xml docs/onlyboosts-top-songs-month-playlist.xml
     permissions:
       contents: write
 
@@ -42,8 +44,8 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --stat docs/onlyboosts-top-songs-playlist.xml
-          if git diff --quiet docs/onlyboosts-top-songs-playlist.xml; then
+          git diff --stat -- $PLAYLISTS
+          if git diff --quiet -- $PLAYLISTS; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -54,8 +56,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/onlyboosts-top-songs-playlist.xml
-          git commit -m "Auto-update OnlyBoosts Top Songs playlist"
+          git add -- $PLAYLISTS
+          git commit -m "Auto-update OnlyBoosts Top Songs playlists"
           # Retry push against a moving remote: the updater's daily run and the
           # Greatest Hits workflow push to main too.
           for attempt in 1 2 3 4 5; do
