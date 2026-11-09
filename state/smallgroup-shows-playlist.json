@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T14:05:32.681Z",
+  "updatedAt": "2026-11-09T17:11:21.522Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,21 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "into-the-doerfelverse",
+      "feedGuid": "41aace28-8679-5ef1-9958-75cf76c2b5f0",
+      "feedUrl": "https://www.doerfelverse.com/feeds/intothedoerfelverse.xml",
+      "itemGuid": "828b4675-284a-40bf-831f-ef75a1323bdd",
+      "pubDate": "2026-11-09T05:31:00.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-017",
+      "pubDate": "2026-11-07T12:00:00.000Z"
+    },
     {
       "slug": "v4v-music-spotlight",
       "feedGuid": "31e6e997-df26-59d5-9301-1f5928809566",
@@ -798,13 +813,6 @@
       "pubDate": "2026-09-02T01:12:59.000Z"
     },
     {
-      "slug": "accidentally-interesting",
-      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
-      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
-      "itemGuid": "accidentally-interesting-007",
-      "pubDate": "2026-08-29T12:00:00.000Z"
-    },
-    {
       "slug": "chad-and-reeds-podcast",
       "feedGuid": "7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
       "feedUrl": "https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
@@ -818,14 +826,6 @@
       "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
       "itemGuid": "28cb4f3e-8a64-48ba-b94d-3e2fa6207b9e",
       "pubDate": "2026-08-27T21:20:00.000Z",
-      "medium": "podcast"
-    },
-    {
-      "slug": "into-the-doerfelverse",
-      "feedGuid": "41aace28-8679-5ef1-9958-75cf76c2b5f0",
-      "feedUrl": "https://www.doerfelverse.com/feeds/intothedoerfelverse.xml",
-      "itemGuid": "0480f3c0-6bbe-49ce-93ec-62899b9f5002",
-      "pubDate": "2026-08-27T00:06:58.000Z",
       "medium": "podcast"
     },
     {
