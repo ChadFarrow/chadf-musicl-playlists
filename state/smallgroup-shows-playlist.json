@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T17:11:21.522Z",
+  "updatedAt": "2026-11-11T14:56:27.985Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,13 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "millennial-media-offensive",
+      "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
+      "feedUrl": "https://mmo.show/wp-content/feed.xml",
+      "itemGuid": "55e47c05-81d3-539f-bc2a-8511a4ddd219",
+      "pubDate": "2026-11-11T03:11:05.000Z"
+    },
     {
       "slug": "into-the-doerfelverse",
       "feedGuid": "41aace28-8679-5ef1-9958-75cf76c2b5f0",
@@ -804,13 +811,6 @@
       "feedUrl": "https://nicktherat.com/radio/feed.xml",
       "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E555.mp3",
       "pubDate": "2026-09-02T09:20:00.000Z"
-    },
-    {
-      "slug": "millennial-media-offensive",
-      "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
-      "feedUrl": "https://mmo.show/wp-content/feed.xml",
-      "itemGuid": "f398505e-c5da-5c07-a8f0-1f2dbb45b96c",
-      "pubDate": "2026-09-02T01:12:59.000Z"
     },
     {
       "slug": "chad-and-reeds-podcast",
