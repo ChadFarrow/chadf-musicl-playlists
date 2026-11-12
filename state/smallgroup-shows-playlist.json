@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T14:56:27.985Z",
+  "updatedAt": "2026-11-12T15:46:59.410Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,21 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "into-the-doerfelverse",
+      "feedGuid": "41aace28-8679-5ef1-9958-75cf76c2b5f0",
+      "feedUrl": "https://www.doerfelverse.com/feeds/intothedoerfelverse.xml",
+      "itemGuid": "7be4bdf2-1308-4d8d-86a6-b4e5aa6ba0ca",
+      "pubDate": "2026-11-11T22:25:32.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "bowl-after-bowl",
+      "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
+      "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
+      "itemGuid": "https://bowlafterbowl.com/episodes/episode-467/",
+      "pubDate": "2026-11-11T05:33:00.000Z"
+    },
     {
       "slug": "millennial-media-offensive",
       "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
@@ -706,13 +721,6 @@
       "pubDate": "2026-09-12T12:00:00.000Z"
     },
     {
-      "slug": "bowl-after-bowl",
-      "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
-      "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
-      "itemGuid": "https://bowlafterbowl.com/episodes/episode-457/",
-      "pubDate": "2026-09-12T04:33:00.000Z"
-    },
-    {
       "slug": "mutton-mead-music",
       "feedGuid": "8d3aa9e5-1e42-5108-a7e0-463883d35e14",
       "feedUrl": "https://mmmusic.show/podcast/feed.xml",
@@ -764,14 +772,6 @@
       "feedUrl": "https://accidentallyinteresting.com/feed.xml",
       "itemGuid": "accidentally-interesting-008",
       "pubDate": "2026-09-05T12:00:00.000Z"
-    },
-    {
-      "slug": "into-the-doerfelverse",
-      "feedGuid": "41aace28-8679-5ef1-9958-75cf76c2b5f0",
-      "feedUrl": "https://www.doerfelverse.com/feeds/intothedoerfelverse.xml",
-      "itemGuid": "84c63dfc-29f1-4612-b9f1-9992bc53e79f",
-      "pubDate": "2026-09-05T01:10:24.000Z",
-      "medium": "podcast"
     },
     {
       "slug": "mutton-mead-music",
