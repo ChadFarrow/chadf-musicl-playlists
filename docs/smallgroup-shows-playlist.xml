@@ -5,13 +5,15 @@
     <description>The latest episodes from every show on smallgroupscoop.com/shows, newest first.</description>
     <link>https://smallgroupscoop.com/shows/</link>
     <language>en</language>
-    <pubDate>Wed, 11 Nov 2026 14:56:26 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 14:56:26 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 15:46:54 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:46:54 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/smallgroup-shows-playlist-art.png</url>
     </image>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>5da03898-d837-435d-9474-4be9a6c95e13</podcast:guid>
+    <podcast:remoteItem feedGuid="41aace28-8679-5ef1-9958-75cf76c2b5f0" feedUrl="https://www.doerfelverse.com/feeds/intothedoerfelverse.xml" itemGuid="7be4bdf2-1308-4d8d-86a6-b4e5aa6ba0ca"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" feedUrl="https://feed.bowlafterbowl.com/feed.xml" itemGuid="https://bowlafterbowl.com/episodes/episode-467/"/>
     <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" feedUrl="https://mmo.show/wp-content/feed.xml" itemGuid="55e47c05-81d3-539f-bc2a-8511a4ddd219"/>
     <podcast:remoteItem feedGuid="41aace28-8679-5ef1-9958-75cf76c2b5f0" feedUrl="https://www.doerfelverse.com/feeds/intothedoerfelverse.xml" itemGuid="828b4675-284a-40bf-831f-ef75a1323bdd"/>
     <podcast:remoteItem feedGuid="89bf141a-f4cf-575c-b09a-75dbce16332c" feedUrl="https://accidentallyinteresting.com/feed.xml" itemGuid="accidentally-interesting-017"/>
@@ -90,7 +92,6 @@
     <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" feedUrl="https://mmo.show/wp-content/feed.xml" itemGuid="e4156ad8-8900-5a9b-9452-1b8c1bb4da0f"/>
     <podcast:remoteItem feedGuid="e0ac9365-689c-5043-8804-15b9dfcc545a" feedUrl="https://feed.behindthesch3m3s.com/feed.xml" itemGuid="b96a1f64-1ca9-4c64-aba7-e4f6af5d51f4"/>
     <podcast:remoteItem feedGuid="89bf141a-f4cf-575c-b09a-75dbce16332c" feedUrl="https://accidentallyinteresting.com/feed.xml" itemGuid="accidentally-interesting-009"/>
-    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" feedUrl="https://feed.bowlafterbowl.com/feed.xml" itemGuid="https://bowlafterbowl.com/episodes/episode-457/"/>
     <podcast:remoteItem feedGuid="8d3aa9e5-1e42-5108-a7e0-463883d35e14" feedUrl="https://mmmusic.show/podcast/feed.xml" itemGuid="9f08e070-f947-4a02-90b9-9e5e5ac437f7"/>
     <podcast:remoteItem feedGuid="7c6f7875-2b73-491e-b32c-e2c8d6e91d53" feedUrl="https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53" itemGuid="4a8c16bf-2662-4263-9cb7-14d910f2e3e2"/>
     <podcast:remoteItem feedGuid="ac746d09-7c3b-5bcd-b28a-f12d6456ca8f" feedUrl="https://feed.homegrownhits.xyz/feed.xml" itemGuid="fcfc450b-6ad0-4c5e-8105-cfce888c1ef4"/>
@@ -98,7 +99,6 @@
     <podcast:remoteItem feedGuid="23cd2e78-6042-5834-9ca8-34feca4d02b9" feedUrl="https://nicktherat.com/radio/feed.xml" itemGuid="https://nicktherat.com/radio/Nick%20the%20Rat%20S1E556.mp3"/>
     <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" feedUrl="https://mmo.show/wp-content/feed.xml" itemGuid="597a9202-dfd2-5ed1-a69d-aa6c72bcadcd"/>
     <podcast:remoteItem feedGuid="89bf141a-f4cf-575c-b09a-75dbce16332c" feedUrl="https://accidentallyinteresting.com/feed.xml" itemGuid="accidentally-interesting-008"/>
-    <podcast:remoteItem feedGuid="41aace28-8679-5ef1-9958-75cf76c2b5f0" feedUrl="https://www.doerfelverse.com/feeds/intothedoerfelverse.xml" itemGuid="84c63dfc-29f1-4612-b9f1-9992bc53e79f"/>
     <podcast:remoteItem feedGuid="8d3aa9e5-1e42-5108-a7e0-463883d35e14" feedUrl="https://mmmusic.show/podcast/feed.xml" itemGuid="f915ec2b-3526-40a6-958f-5371c6d17710"/>
     <podcast:remoteItem feedGuid="8f2eb0c0-3627-59cf-85fc-4e252ddb6954" feedUrl="https://serve.podhome.fm/rss/8f2eb0c0-3627-59cf-85fc-4e252ddb6954" itemGuid="963cd47c-dbff-49aa-95b9-9357deb7bad6"/>
     <podcast:remoteItem feedGuid="7c6f7875-2b73-491e-b32c-e2c8d6e91d53" feedUrl="https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53" itemGuid="7100c94b-7e8e-4424-8c21-a591f95d8a43"/>
