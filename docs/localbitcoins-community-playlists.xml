@@ -5,8 +5,8 @@
     <description>A podcastL playlist aggregating podcast episodes the Local Bitcoiners community has boosted, sourced from localbitcoiners.com/feeds.</description>
     <link>https://localbitcoiners.com/feeds</link>
     <language>en</language>
-    <pubDate>Wed, 11 Nov 2026 14:56:13 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 14:56:13 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 15:46:46 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:46:46 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1621,5 +1621,12 @@
     <podcast:remoteItem feedGuid="30ed52a9-a11c-5235-bdfc-8e3379c6edde" itemGuid="6fa4d6fa-d014-4d9b-a97b-6da34cfac8b4"/>
     <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="d7bf2f79-8a67-4acc-ae6f-d0ae0296a5cf-af403e2d-1312-4f21-942f-cea181ea896d"/>
     <podcast:remoteItem feedGuid="e22a2294-d951-51dd-9498-cd04b4467ce1" itemGuid="2694d2a1-590c-44d7-8e43-b37ae604825e"/>
+    <podcast:remoteItem feedGuid="e22a2294-d951-51dd-9498-cd04b4467ce1" itemGuid="2e0f860c-50da-452c-8b5e-f02ec872df78"/>
+    <podcast:remoteItem feedGuid="41aace28-8679-5ef1-9958-75cf76c2b5f0" itemGuid="4f3e021a-bee1-424b-8b72-9e5aeeb33b6e"/>
+    <podcast:remoteItem feedGuid="55b53584-4219-4fb0-b916-075ce23f714e" itemGuid="ce38877f-97cc-4edf-9c47-80d4843e6546"/>
+    <podcast:remoteItem feedGuid="41aace28-8679-5ef1-9958-75cf76c2b5f0" itemGuid="7be4bdf2-1308-4d8d-86a6-b4e5aa6ba0ca"/>
+    <podcast:remoteItem feedGuid="7c6f7875-2b73-491e-b32c-e2c8d6e91d53" itemGuid="84c10ff3-cbc3-4871-97f4-ef1283878261"/>
+    <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-467/"/>
+    <podcast:remoteItem feedGuid="29d75661-fc75-4897-bf1a-1f85008266fb" itemGuid="6dc7073f-16b3-4341-b10e-c90381413ab1"/>
   </channel>
 </rss>
