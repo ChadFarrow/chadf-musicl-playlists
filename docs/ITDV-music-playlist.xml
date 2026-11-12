@@ -6,13 +6,16 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 09 Nov 2026 17:11:02 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2026 17:11:02 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 15:46:41 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:46:41 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>88b0640a-489f-4920-be4f-00f85af5b2d4</podcast:guid>
+    <podcast:txt purpose="episode">Ep 82 - DOERFELMON</podcast:txt>
+      <podcast:remoteItem feedGuid="4ab3741a-4a10-5631-a026-a9d0eb62fe11" itemGuid="8909ec3a-169e-476b-9b02-b8b623c2bc12"/>
+      <podcast:remoteItem feedGuid="9c2c6cf7-fc81-5281-8232-310411b8ca5d" itemGuid="ebabb91a-27fb-4d75-bec9-7ce7e4d6e5b1"/>
     <podcast:txt purpose="episode">Ep 81 - Wrathful Ramblings</podcast:txt>
       <podcast:remoteItem feedGuid="a1077af6-602b-5daf-957b-68a65a03cad1" itemGuid="8106e789-25e4-4b33-9c47-1ab5de6f7b77"/>
       <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="50faf7bf-ac8f-4c33-aa62-0ac0ae87c134"/>
