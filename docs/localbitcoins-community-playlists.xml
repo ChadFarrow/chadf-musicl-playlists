@@ -5,8 +5,8 @@
     <description>A podcastL playlist aggregating podcast episodes the Local Bitcoiners community has boosted, sourced from localbitcoiners.com/feeds.</description>
     <link>https://localbitcoiners.com/feeds</link>
     <language>en</language>
-    <pubDate>Thu, 12 Nov 2026 15:46:46 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2026 15:46:46 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 15:07:24 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:07:24 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1628,5 +1628,13 @@
     <podcast:remoteItem feedGuid="7c6f7875-2b73-491e-b32c-e2c8d6e91d53" itemGuid="84c10ff3-cbc3-4871-97f4-ef1283878261"/>
     <podcast:remoteItem feedGuid="2d418249-453a-5714-8abc-5b657570b641" itemGuid="https://bowlafterbowl.com/episodes/episode-467/"/>
     <podcast:remoteItem feedGuid="29d75661-fc75-4897-bf1a-1f85008266fb" itemGuid="6dc7073f-16b3-4341-b10e-c90381413ab1"/>
+    <podcast:remoteItem feedGuid="e22a2294-d951-51dd-9498-cd04b4467ce1" itemGuid="3b3cd37b-23a1-49af-b641-f9acdafb1a98"/>
+    <podcast:remoteItem feedGuid="e22a2294-d951-51dd-9498-cd04b4467ce1" itemGuid="d963a622-6286-47ac-8513-d0fa3ca3b35a"/>
+    <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="fb6bb8bf-7ef7-44ad-8b2d-8ad4e696971f"/>
+    <podcast:remoteItem feedGuid="0de5a30d-b417-5f87-8a2e-4389cb88c54f" itemGuid="3c3565bd-e824-4ab6-8d9b-fa760c731c7d"/>
+    <podcast:remoteItem feedGuid="e22a2294-d951-51dd-9498-cd04b4467ce1" itemGuid="298890f9-b223-4537-b21c-c6fe2439a64c"/>
+    <podcast:remoteItem feedGuid="23cc891c-c425-50e8-ac99-c17e6f2582c8" itemGuid="d0f72c78-74ae-4de8-a9ef-c60ef3cdf7c3"/>
+    <podcast:remoteItem feedGuid="c0be02f5-0e88-59a3-84cb-b76041a83264" itemGuid="31490089-572b-4c28-ab58-da62d70a1188"/>
+    <podcast:remoteItem feedGuid="e22a2294-d951-51dd-9498-cd04b4467ce1" itemGuid="e2dea5ee-ad2e-486d-b2da-42781326436e"/>
   </channel>
 </rss>
