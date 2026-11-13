@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T15:46:59.410Z",
+  "updatedAt": "2026-11-13T15:07:35.103Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -118,12 +118,35 @@
   ],
   "episodes": [
     {
+      "slug": "chad-and-reeds-podcast",
+      "feedGuid": "7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
+      "feedUrl": "https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
+      "itemGuid": "84c10ff3-cbc3-4871-97f4-ef1283878261",
+      "pubDate": "2026-11-13T11:00:00.000Z",
+      "medium": "podcast"
+    },
+    {
+      "slug": "homegrown-hits",
+      "feedGuid": "ac746d09-7c3b-5bcd-b28a-f12d6456ca8f",
+      "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
+      "itemGuid": "808d3620-84b0-4fcc-aeea-15c74873ee32",
+      "pubDate": "2026-11-12T21:20:00.000Z",
+      "medium": "podcast"
+    },
+    {
       "slug": "into-the-doerfelverse",
       "feedGuid": "41aace28-8679-5ef1-9958-75cf76c2b5f0",
       "feedUrl": "https://www.doerfelverse.com/feeds/intothedoerfelverse.xml",
       "itemGuid": "7be4bdf2-1308-4d8d-86a6-b4e5aa6ba0ca",
       "pubDate": "2026-11-11T22:25:32.000Z",
       "medium": "podcast"
+    },
+    {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E565.mp3",
+      "pubDate": "2026-11-11T08:20:00.000Z"
     },
     {
       "slug": "bowl-after-bowl",
@@ -803,29 +826,6 @@
       "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
       "itemGuid": "f28fe4ce-f2fe-4abb-ac7d-af4e0a902828",
       "pubDate": "2026-09-03T21:20:00.000Z",
-      "medium": "podcast"
-    },
-    {
-      "slug": "nick-the-rat-radio",
-      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
-      "feedUrl": "https://nicktherat.com/radio/feed.xml",
-      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E555.mp3",
-      "pubDate": "2026-09-02T09:20:00.000Z"
-    },
-    {
-      "slug": "chad-and-reeds-podcast",
-      "feedGuid": "7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
-      "feedUrl": "https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
-      "itemGuid": "9dd48d1d-a188-4016-93c6-3e8671617cf5",
-      "pubDate": "2026-08-28T10:00:00.000Z",
-      "medium": "podcast"
-    },
-    {
-      "slug": "homegrown-hits",
-      "feedGuid": "ac746d09-7c3b-5bcd-b28a-f12d6456ca8f",
-      "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
-      "itemGuid": "28cb4f3e-8a64-48ba-b94d-3e2fa6207b9e",
-      "pubDate": "2026-08-27T21:20:00.000Z",
       "medium": "podcast"
     },
     {
