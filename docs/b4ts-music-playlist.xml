@@ -11,6 +11,9 @@
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/b4ts-playlist-art.webp</url>
     </image>
+    <podcast:publisher>
+      <podcast:remoteItem medium="publisher" feedGuid="a778e463-ecc3-5219-8f05-f33b3983e173" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml"/>
+    </podcast:publisher>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>f716ed8c-6cb5-4452-a498-6ed5974bccb7</podcast:guid>
     <podcast:txt purpose="episode">B4TS 10⚡︎26⚡︎2026</podcast:txt>

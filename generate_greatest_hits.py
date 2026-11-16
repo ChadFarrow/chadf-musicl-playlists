@@ -17,6 +17,14 @@ import io
 # Namespace for Podcasting 2.0
 PODCAST_NS = "{https://podcastindex.org/namespace/1.0}"
 
+# ChadF's publisher feed. It lists this playlist, and this playlist links back to
+# it with <podcast:publisher>. Apps trust the link only when it goes both ways.
+PUBLISHER_FEED_GUID = "a778e463-ecc3-5219-8f05-f33b3983e173"
+PUBLISHER_FEED_URL = (
+    "https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/"
+    "refs/heads/main/docs/chadf-musicl-publisher.xml"
+)
+
 # Individual playlist files to analyze
 PLAYLIST_FILES = [
     "b4ts-music-playlist.xml",
@@ -227,6 +235,15 @@ def generate_xml(frequency_groups, output_file):
         "https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/"
         "main/docs/Greatest-Hits-music-playlist.png"
     )
+
+    # Back-link to the publisher feed. It has no itemGuid, so the track readers
+    # (parse_playlist, _scan_remote_items) do not count it as a song.
+    publisher = ET.SubElement(channel, f"{PODCAST_NS}publisher")
+    ET.SubElement(publisher, f"{PODCAST_NS}remoteItem", {
+        "medium": "publisher",
+        "feedGuid": PUBLISHER_FEED_GUID,
+        "feedUrl": PUBLISHER_FEED_URL,
+    })
 
     # Podcast namespace tags
     ET.SubElement(channel, f"{PODCAST_NS}medium").text = "musicL"

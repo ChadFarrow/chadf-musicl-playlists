@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <author>ChadF</author>
-    <title>Mutton, Mead & Music Playlist</title>
-    <description>Curated playlist from Mutton, Mead & Music podcast featuring Value4Value independent artists</description>
+    <title>Mutton, Mead &amp; Music Playlist</title>
+    <description>Curated playlist from Mutton, Mead &amp; Music podcast featuring Value4Value independent artists</description>
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
@@ -11,6 +11,9 @@
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
+    <podcast:publisher>
+      <podcast:remoteItem medium="publisher" feedGuid="a778e463-ecc3-5219-8f05-f33b3983e173" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml"/>
+    </podcast:publisher>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>92ac9b10-20fd-4c95-a5d2-1be9681b7644</podcast:guid>
     <podcast:txt purpose="episode">163rd Edition - ChadF / MSP2.0</podcast:txt>

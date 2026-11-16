@@ -11,6 +11,9 @@
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/LT-music-playlist.png</url>
     </image>
+    <podcast:publisher>
+      <podcast:remoteItem medium="publisher" feedGuid="a778e463-ecc3-5219-8f05-f33b3983e173" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml"/>
+    </podcast:publisher>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>bf813fcc-eaa3-4c47-8c88-18b3b697daeb</podcast:guid>
     <podcast:txt purpose="episode">111 - Lightning Thrashes</podcast:txt>
