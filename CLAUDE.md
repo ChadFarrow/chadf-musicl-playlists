@@ -20,10 +20,15 @@ The repository contains two types of feeds:
    - Tracks are organized into episodes using `<podcast:txt purpose="episode">` markers
    - Example playlists: Lightning Thrashes (LT), Homegrown Hits (HGH), Into The Doerfel-Verse (ITDV), etc.
 
-2. **Publisher Feed** (`chadf-musicl-publisher.xml`)
+2. **Publisher Feed** (`chadf-musicl-publisher.xml`, guid `a778e463-ecc3-5219-8f05-f33b3983e173`)
    - Aggregates all individual playlists using `<podcast:medium>publisher</podcast:medium>`
-   - Uses `<podcast:remoteItem>` tags to reference each playlist feed by its `feedGuid` and `feedUrl`
+   - Uses `<podcast:remoteItem medium="musicL">` tags to reference each playlist feed by its `feedGuid`, `feedUrl` and `feedImg`
    - Serves as a single discovery point for all ChadF musicL playlists
+   - Lists every musicL feed in `docs/` except the two OnlyBoosts playlists (they stay out of Podcast Index by decision). The podcastL playlists are not listed.
+   - Also lists ChadF's playlists made on Boost Me Buddy (`https://www.boostmebuddy.com/feeds/playlists/<id>.xml`). Those are listed **one way**: a feed names only one publisher, and each BMB playlist names its BMB publisher feed (`/feeds/publishers/<npub>.xml`, boostmebitch #586). Add a new BMB playlist here by hand: its `feedGuid` is the `<podcast:guid>` in its feed.
+   - **The link goes both ways.** Each listed playlist carries a `<podcast:publisher>` block with one `<podcast:remoteItem medium="publisher" rel="curator">` that points back here (the [publisher spec](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/examples/publishers/publishers.md): an app discards a one-way link). The block sits right before `<podcast:medium>`. `generate_greatest_hits.py` writes it, and `musicL-playlist-updater` writes it for the playlists it rebuilds. The back-link has no `itemGuid`, so the track readers skip it.
+   - **`rel="curator"` on both sides** (each entry here and each back-link; podcast-namespace PR #793). musicindex.org counts a role only when both sides give the same set, and with no agreed role it calls a publisher an artist when the playlists' author matches its name. `curator` is not one of the PR's starting tokens yet; it is proposed there.
+   - Must use the `https://podcastindex.org/namespace/1.0` namespace. The old GitHub namespace URL made a namespace-aware parser see no medium, no guid and no children.
 
 ### File Organization
 
@@ -121,7 +126,7 @@ Two playlists come from the charts at https://onlyboosts.social/music/songs:
 
 Since this is a static repository, there are no build or test commands. Common operations:
 
-1. **Add a new playlist**: Create a new XML file in `docs/` following the musicL format, then add it to the publisher feed
+1. **Add a new playlist**: Create a new XML file in `docs/` following the musicL format. Add it to the publisher feed, and add the `<podcast:publisher>` back-link to the playlist. Do both, or apps ignore the link.
 2. **Update playlist tracks**: Edit the XML file to add/remove `<podcast:remoteItem>` entries
 3. **Update artwork**: Add `.webp` or `.png` files to `docs/` and reference them in the feed's `<image>` tag
 4. **Regenerate Greatest Hits**: Run `python3 generate_greatest_hits.py` (or wait for automatic workflow)

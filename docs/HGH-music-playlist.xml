@@ -11,6 +11,9 @@
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/HGH-playlist-art.webp</url>
     </image>
+    <podcast:publisher>
+      <podcast:remoteItem medium="publisher" rel="curator" feedGuid="a778e463-ecc3-5219-8f05-f33b3983e173" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml"/>
+    </podcast:publisher>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>8aad8bd9-0eac-4bfe-b290-6c73f7148155</podcast:guid>
     <podcast:txt purpose="episode">Homegrown Hits - Episode 158</podcast:txt>

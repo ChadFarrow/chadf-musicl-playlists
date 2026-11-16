@@ -11,6 +11,9 @@
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
+    <podcast:publisher>
+      <podcast:remoteItem medium="publisher" rel="curator" feedGuid="a778e463-ecc3-5219-8f05-f33b3983e173" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml"/>
+    </podcast:publisher>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>88b0640a-489f-4920-be4f-00f85af5b2d4</podcast:guid>
     <podcast:txt purpose="episode">Ep 82 - DOERFELMON</podcast:txt>
