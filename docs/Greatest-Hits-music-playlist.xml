@@ -7,13 +7,13 @@
     <link>https://github.com/ChadFarrow/chadf-musicl-playlists</link>
     <podcast:txt purpose="source-feed">https://github.com/ChadFarrow/chadf-musicl-playlists</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 16 Nov 2026 17:07:36 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 17:07:36 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 17:53:55 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:53:55 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/Greatest-Hits-music-playlist.png</url>
     </image>
     <podcast:publisher>
-      <podcast:remoteItem medium="publisher" feedGuid="a778e463-ecc3-5219-8f05-f33b3983e173" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml" />
+      <podcast:remoteItem medium="publisher" rel="curator" feedGuid="a778e463-ecc3-5219-8f05-f33b3983e173" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml" />
     </podcast:publisher>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>b9881dee-070e-4716-9678-00d7a35ea57c</podcast:guid>

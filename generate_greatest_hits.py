@@ -20,6 +20,10 @@ PODCAST_NS = "{https://podcastindex.org/namespace/1.0}"
 # ChadF's publisher feed. It lists this playlist, and this playlist links back to
 # it with <podcast:publisher>. Apps trust the link only when it goes both ways.
 PUBLISHER_FEED_GUID = "a778e463-ecc3-5219-8f05-f33b3983e173"
+# ChadF's role on each playlist, the same on both sides of the link (podcast-namespace
+# PR #793). musicindex.org counts a role only when both sides agree, and with no agreed
+# role it calls a publisher an artist when the names match. ChadF curates playlists.
+PUBLISHER_REL = "curator"
 PUBLISHER_FEED_URL = (
     "https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/"
     "refs/heads/main/docs/chadf-musicl-publisher.xml"
@@ -241,6 +245,7 @@ def generate_xml(frequency_groups, output_file):
     publisher = ET.SubElement(channel, f"{PODCAST_NS}publisher")
     ET.SubElement(publisher, f"{PODCAST_NS}remoteItem", {
         "medium": "publisher",
+        "rel": PUBLISHER_REL,
         "feedGuid": PUBLISHER_FEED_GUID,
         "feedUrl": PUBLISHER_FEED_URL,
     })
