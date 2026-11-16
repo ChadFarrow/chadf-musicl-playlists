@@ -25,6 +25,7 @@ The repository contains two types of feeds:
    - Uses `<podcast:remoteItem medium="musicL">` tags to reference each playlist feed by its `feedGuid`, `feedUrl` and `feedImg`
    - Serves as a single discovery point for all ChadF musicL playlists
    - Lists every musicL feed in `docs/` except the two OnlyBoosts playlists (they stay out of Podcast Index by decision). The podcastL playlists are not listed.
+   - Also lists ChadF's playlists made on Boost Me Buddy (`https://www.boostmebuddy.com/feeds/playlists/<id>.xml`). Those are listed **one way**: a feed names only one publisher, and each BMB playlist names its BMB publisher feed (`/feeds/publishers/<npub>.xml`, boostmebitch #586). Add a new BMB playlist here by hand: its `feedGuid` is the `<podcast:guid>` in its feed.
    - **The link goes both ways.** Each listed playlist carries a `<podcast:publisher>` block with one `<podcast:remoteItem medium="publisher">` that points back here (the [publisher spec](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/examples/publishers/publishers.md): an app discards a one-way link). The block sits right before `<podcast:medium>`. `generate_greatest_hits.py` writes it, and `musicL-playlist-updater` writes it for the playlists it rebuilds. The back-link has no `itemGuid`, so the track readers skip it.
    - Must use the `https://podcastindex.org/namespace/1.0` namespace. The old GitHub namespace URL made a namespace-aware parser see no medium, no guid and no children.
 

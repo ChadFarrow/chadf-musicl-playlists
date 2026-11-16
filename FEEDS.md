@@ -39,7 +39,7 @@ Playlists of full podcast episodes (`<podcast:medium>podcastL</podcast:medium>`)
 
 ## Publisher Feed
 
-- **chadf-musicl-publisher.xml** - `docs/chadf-musicl-publisher.xml` (Publisher feed. It lists every musicL playlist in this repo except the two OnlyBoosts playlists, and each listed playlist links back to it with `<podcast:publisher>`.)
+- **chadf-musicl-publisher.xml** - `docs/chadf-musicl-publisher.xml` (Publisher feed. It lists every musicL playlist in this repo except the two OnlyBoosts playlists, and each listed playlist links back to it with `<podcast:publisher>`. It also lists ChadF's Boost Me Buddy playlists, one way: they link back to their Boost Me Buddy publisher feed.)
   - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml
 
 ## OPML
