@@ -17,7 +17,7 @@ The workflow files are in `.github/workflows/`:
 ## Order of the jobs
 
 1. The updater in `musicL-playlist-updater` reads `FEEDS.md` from this repo. It writes the playlist files to `docs/` through the GitHub API.
-2. Each of those writes is a push to `main`, so it starts the Greatest Hits job. Greatest Hits makes one playlist from all the other playlists.
+2. A write to a `docs/*-music-playlist.xml` file is a push to `main`, so it starts the Greatest Hits job. Writes to the Small Group, LocalBitcoiners and MMT files, and to `state/`, do not start it. Greatest Hits makes one playlist from the 10 files listed in `generate_greatest_hits.py`.
 3. The OnlyBoosts job does not use the other playlists. It runs by itself.
 
 If you run the jobs outside GitHub, you lose step 2. Thus, run Greatest Hits after the updater finishes (see "Run the jobs locally").
