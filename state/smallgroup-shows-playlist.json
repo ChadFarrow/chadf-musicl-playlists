@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:46:27.835Z",
+  "updatedAt": "2026-11-17T16:42:49.292Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,14 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "v4vmusic",
+      "feedGuid": "c1959795-28f1-502d-ad3e-70abf5a034a9",
+      "feedUrl": "https://cdn.kolomona.com/podcasts/v4vmusic/v4vmusic-rss.xml",
+      "itemGuid": "e3353fc4-5771-4133-bdbd-65e3ca0e128c",
+      "pubDate": "2026-11-16T18:26:43.000Z",
+      "medium": "podcast"
+    },
     {
       "slug": "accidentally-interesting",
       "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
