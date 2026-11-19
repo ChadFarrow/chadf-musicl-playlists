@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:12:40.925Z",
+  "updatedAt": "2026-11-19T16:19:57.503Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,14 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "into-the-doerfelverse",
+      "feedGuid": "41aace28-8679-5ef1-9958-75cf76c2b5f0",
+      "feedUrl": "https://www.doerfelverse.com/feeds/intothedoerfelverse.xml",
+      "itemGuid": "d2d2806d-68ba-49d6-a12c-79a3b0576e24",
+      "pubDate": "2026-11-18T17:12:17.000Z",
+      "medium": "podcast"
+    },
     {
       "slug": "bowl-after-bowl",
       "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
@@ -803,14 +811,6 @@
       "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
       "itemGuid": "fcfc450b-6ad0-4c5e-8105-cfce888c1ef4",
       "pubDate": "2026-09-10T21:20:00.000Z",
-      "medium": "podcast"
-    },
-    {
-      "slug": "into-the-doerfelverse",
-      "feedGuid": "41aace28-8679-5ef1-9958-75cf76c2b5f0",
-      "feedUrl": "https://www.doerfelverse.com/feeds/intothedoerfelverse.xml",
-      "itemGuid": "e6550aac-45fd-4890-b23c-c9f1c0729602",
-      "pubDate": "2026-09-09T19:06:45.000Z",
       "medium": "podcast"
     },
     {
