@@ -7,8 +7,8 @@
     <link>https://github.com/ChadFarrow/chadf-musicl-playlists</link>
     <podcast:txt purpose="source-feed">https://github.com/ChadFarrow/chadf-musicl-playlists</podcast:txt>
     <language>en</language>
-    <pubDate>Mon, 16 Nov 2026 17:53:55 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 17:53:55 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 16:19:43 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:19:43 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/Greatest-Hits-music-playlist.png</url>
     </image>
@@ -657,6 +657,7 @@
     <podcast:remoteItem feedGuid="fe17f4f6-074f-4b2c-a450-611faccfaea2" itemGuid="a53ee417-c5d7-4346-bf62-27fe4c815206" />
     <podcast:txt purpose="playcount">3 plays</podcast:txt>
     <podcast:remoteItem feedGuid="00ea7395-2b2c-50cb-b77d-db404c1c1b01" itemGuid="c7660dba-f7b1-425c-b171-f576a2a8e40d" />
+    <podcast:remoteItem feedGuid="00f7669f-050e-551f-9e43-6195893835bc" itemGuid="4cc7672d-7886-4b29-9a0f-f6581b6cec2d" />
     <podcast:remoteItem feedGuid="01c81dd5-a799-5a6b-8667-d6a17fec2f4f" itemGuid="f6922ab8-4eff-4cac-8d07-71e8deff67dd" />
     <podcast:remoteItem feedGuid="0249f11d-bb04-5797-bf1c-bc66ccf513a4" itemGuid="40fb6d0b-2d3c-4436-bbcf-7ecef9ace5ca" />
     <podcast:remoteItem feedGuid="04e812f9-1993-5aa1-9ab5-a9cf0cd81e82" itemGuid="f002a096-086e-48bb-8672-036b717d80ee" />
@@ -1071,7 +1072,6 @@
     <podcast:remoteItem feedGuid="ff5ab52d-a60b-5691-92a9-64a7233f02ad" itemGuid="b50b3897-c94f-4644-883b-359539a794d9" />
     <podcast:txt purpose="playcount">2 plays</podcast:txt>
     <podcast:remoteItem feedGuid="000a2723-e569-5c6e-9920-6afc5d5f70c0" itemGuid="8389cc61-22fb-4edc-aead-ef4556c98836" />
-    <podcast:remoteItem feedGuid="00f7669f-050e-551f-9e43-6195893835bc" itemGuid="4cc7672d-7886-4b29-9a0f-f6581b6cec2d" />
     <podcast:remoteItem feedGuid="01128ba4-19c4-53d4-b209-d4a7ece8b889" itemGuid="e83408c9-9940-42e9-9fcf-fcb99d47cb5c" />
     <podcast:remoteItem feedGuid="0126e416-7b24-5bc0-b0b7-5400476e6eaa" itemGuid="bb6d240c-14e9-4b15-a859-a9577bcc0eb4" />
     <podcast:remoteItem feedGuid="0168c073-223a-5127-8ceb-2b43e06aa302" itemGuid="0742e911-2e2c-4391-b816-02c0faa21beb" />
