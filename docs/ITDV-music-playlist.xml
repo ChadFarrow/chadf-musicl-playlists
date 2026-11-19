@@ -6,8 +6,8 @@
     <link>https://www.doerfelverse.com/</link>
     <podcast:txt purpose="source-feed">https://www.doerfelverse.com/feeds/intothedoerfelverse.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Thu, 12 Nov 2026 15:46:41 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2026 15:46:41 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 16:19:34 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:19:34 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/ITDV-music-playlist.webp</url>
     </image>
@@ -16,6 +16,10 @@
     </podcast:publisher>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>88b0640a-489f-4920-be4f-00f85af5b2d4</podcast:guid>
+    <podcast:txt purpose="episode">Ep 83 - Jon Ross</podcast:txt>
+      <podcast:remoteItem feedGuid="7316a674-bb22-504c-91ce-10fbb72ca46e" itemGuid="c9682acb-907d-47fd-be4a-08826b316364"/>
+      <podcast:remoteItem feedGuid="00f7669f-050e-551f-9e43-6195893835bc" itemGuid="dfb831a6-5ed2-4cc2-87c1-b0659c9e5d2d"/>
+      <podcast:remoteItem feedGuid="00f7669f-050e-551f-9e43-6195893835bc" itemGuid="4cc7672d-7886-4b29-9a0f-f6581b6cec2d"/>
     <podcast:txt purpose="episode">Ep 82 - DOERFELMON</podcast:txt>
       <podcast:remoteItem feedGuid="4ab3741a-4a10-5631-a026-a9d0eb62fe11" itemGuid="8909ec3a-169e-476b-9b02-b8b623c2bc12"/>
       <podcast:remoteItem feedGuid="9c2c6cf7-fc81-5281-8232-310411b8ca5d" itemGuid="ebabb91a-27fb-4d75-bec9-7ce7e4d6e5b1"/>
