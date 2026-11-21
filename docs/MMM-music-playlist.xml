@@ -6,8 +6,8 @@
     <link>https://mmmusic.show</link>
     <podcast:txt purpose="source-feed">https://mmmusic.show/podcast/feed.xml</podcast:txt>
     <language>en</language>
-    <pubDate>Sat, 14 Nov 2026 13:57:41 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 13:57:41 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 15:06:34 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:06:34 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/MMM-playlist-art.webp</url>
     </image>
@@ -16,6 +16,12 @@
     </podcast:publisher>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>92ac9b10-20fd-4c95-a5d2-1be9681b7644</podcast:guid>
+    <podcast:txt purpose="episode">164th Edition - Boo Bury</podcast:txt>
+      <podcast:remoteItem feedGuid="7ce9b349-b641-5a5e-8354-9d7ea6fa42e1" itemGuid="21252ede-e41a-4202-8cd1-f5f4a4027921"/>
+      <podcast:remoteItem feedGuid="5bb8f186-2460-54dc-911d-54f642e8adf6" itemGuid="213ba1ef-4751-4fc9-a33e-52c49f61c63a"/>
+      <podcast:remoteItem feedGuid="121c26b0-33f8-5cb9-9e14-d706bd3f5db8" itemGuid="7ab94c20-332c-40c6-a60c-f8e5885ce242"/>
+      <podcast:remoteItem feedGuid="9c4017a3-5a53-5b3d-b2bd-783fbf2afae9" itemGuid="1c8289d8-ffb0-4370-aef2-74379e30044c"/>
+      <podcast:remoteItem feedGuid="bf99e8c3-1f97-558d-bc1d-a4bda04027f7" itemGuid="09ac3b7b-ad0e-4e0c-8780-9015ab97e162"/>
     <podcast:txt purpose="episode">163rd Edition - ChadF / MSP2.0</podcast:txt>
       <podcast:remoteItem feedGuid="2eaa9796-b444-43e4-aedf-fe79da54bb8f" itemGuid="33f6df2d-f182-4358-8fa2-deb8b051b754"/>
       <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="9f515f93-eda1-4146-8637-7def160879b5"/>
