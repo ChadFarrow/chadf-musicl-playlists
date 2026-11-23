@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <author>ChadF</author>
+    <title>The OnlyBoosts Social Hour Music Playlist</title>
+    <description>Every music reference from The OnlyBoosts Social Hour</description>
+    <link>https://onlyboosts.social</link>
+    <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/de0bcde8-964b-4d71-9280-85d0ca2682c8</podcast:txt>
+    <language>en</language>
+    <pubDate>Mon, 23 Nov 2026 18:51:08 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:51:08 GMT</lastBuildDate>
+    <image>
+      <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/OBSH-playlist-art.jpg</url>
+    </image>
+    <podcast:publisher>
+      <podcast:remoteItem medium="publisher" rel="curator" feedGuid="a778e463-ecc3-5219-8f05-f33b3983e173" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml"/>
+    </podcast:publisher>
+    <podcast:medium>musicL</podcast:medium>
+    <podcast:guid>d29f5cf4-1275-4c7f-bbc3-1ab86985b5cc</podcast:guid>
+    <podcast:txt purpose="episode">Introduction &amp; The OnlyBoosts Top 10 Songs of the Week | Ep. 001</podcast:txt>
+      <podcast:remoteItem feedGuid="b2a87a4c-86f0-5194-9eb3-dcba42ce0695" itemGuid="1ecd5b59-0d4f-4437-8027-f931a9c799b5"/>
+      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="ae81976d-a05e-4ff9-9adf-cdb11a33fff9"/>
+      <podcast:remoteItem feedGuid="3058af0c-1807-5732-9a08-9114675ef7d6" itemGuid="c51ecaa4-f237-4707-9c62-2de611820e4b"/>
+      <podcast:remoteItem feedGuid="70456036-6a9c-5165-8fa7-84352259d602" itemGuid="ba10024a-d040-4b31-b61d-ea1fca19387d"/>
+      <podcast:remoteItem feedGuid="00f7669f-050e-551f-9e43-6195893835bc" itemGuid="4cc7672d-7886-4b29-9a0f-f6581b6cec2d"/>
+      <podcast:remoteItem feedGuid="b62cd990-782c-59b2-b894-be436e0d1774" itemGuid="1d8cdc03-bd21-4ccf-a4df-77e1c873989f"/>
+      <podcast:remoteItem feedGuid="37844ae6-7303-53d2-a733-aed9585d253f" itemGuid="6baa5e31-8fc4-4960-b0d0-98303d6a6ad5"/>
+      <podcast:remoteItem feedGuid="33d1729a-d124-5880-8f99-5ac4df73de73" itemGuid="aa047faf-4872-42a7-93cc-4e9b9712a25c"/>
+      <podcast:remoteItem feedGuid="b328828c-9ba0-5b1d-be33-4cce51968ae1" itemGuid="d047262b-072e-4527-aa87-fab9e4e44848"/>
+      <podcast:remoteItem feedGuid="b2a87a4c-86f0-5194-9eb3-dcba42ce0695" itemGuid="12711f57-2d41-4794-8cb9-154ecebb7cf7"/>
+  </channel>
+</rss>

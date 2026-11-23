@@ -31,13 +31,14 @@
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="8aad8bd9-0eac-4bfe-b290-6c73f7148155" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-music-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/HGH-playlist-art.webp"/>
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="bf813fcc-eaa3-4c47-8c88-18b3b697daeb" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/LT-music-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/LT-music-playlist.png"/>
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="5c979397-5336-48a4-8e9e-782bed5139a3" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/TFT-music-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png"/>
+    <podcast:remoteItem medium="musicL" rel="curator" feedGuid="d29f5cf4-1275-4c7f-bbc3-1ab86985b5cc" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/OBSH-music-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/OBSH-playlist-art.jpg"/>
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="b9881dee-070e-4716-9678-00d7a35ea57c" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/Greatest-Hits-music-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/Greatest-Hits-music-playlist.png"/>
     <!-- Made on Boost Me Buddy. Each one names its Boost Me Buddy publisher feed in <podcast:publisher> (a feed can name only one), so this feed lists them one way. -->
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="2bb7307c-c7ed-558d-9a9b-b018e86c8d67" feedUrl="https://www.boostmebuddy.com/feeds/playlists/ed79e282-3d6e-4764-adb5-8702eaf77086.xml" feedImg="https://podtards.com/c01def2718dc1994142b6d8eaac1a7ebb90350707887650cf80267ab3b5a1b35"/>
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="4633a3fd-cb83-5032-b10a-38b4e629d483" feedUrl="https://www.boostmebuddy.com/feeds/playlists/a4aa16f4-976a-4b72-a111-b9ed274a27da.xml" feedImg="https://podtards.com/5cb24c6e75fcb90e4d8726d508f2881b00861560fadf00dab7c0e925a6dec6fb.jpg"/>
     <itunes:author>ChadF</itunes:author>
-    <pubDate>Mon, 16 Nov 2026 17:35:00 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 17:35:00 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 18:52:00 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:52:00 +0000</lastBuildDate>
     <category>How To</category>
     <podcast:guid>a778e463-ecc3-5219-8f05-f33b3983e173</podcast:guid>
   </channel>
