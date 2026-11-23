@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:06:52.812Z",
+  "updatedAt": "2026-11-23T19:26:03.702Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,13 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "accidentally-interesting",
+      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
+      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
+      "itemGuid": "accidentally-interesting-019",
+      "pubDate": "2026-11-21T12:00:00.000Z"
+    },
     {
       "slug": "mutton-mead-music",
       "feedGuid": "8d3aa9e5-1e42-5108-a7e0-463883d35e14",
@@ -812,13 +819,6 @@
       "itemGuid": "b96a1f64-1ca9-4c64-aba7-e4f6af5d51f4",
       "pubDate": "2026-09-13T03:56:46.000Z",
       "medium": "podcast"
-    },
-    {
-      "slug": "accidentally-interesting",
-      "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
-      "feedUrl": "https://accidentallyinteresting.com/feed.xml",
-      "itemGuid": "accidentally-interesting-009",
-      "pubDate": "2026-09-12T12:00:00.000Z"
     },
     {
       "slug": "chad-and-reeds-podcast",
