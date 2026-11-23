@@ -5,8 +5,8 @@
     <description>A podcastL playlist aggregating podcast episodes the Local Bitcoiners community has boosted, sourced from localbitcoiners.com/feeds.</description>
     <link>https://localbitcoiners.com/feeds</link>
     <language>en</language>
-    <pubDate>Sun, 22 Nov 2026 15:17:11 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 15:17:11 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 19:13:02 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:13:02 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -97,8 +97,8 @@
     <podcast:remoteItem feedGuid="43a4f801-04a3-5897-bc32-9f905e163a36" itemGuid="f8de388c-4dda-4976-9277-186a3ca2fbef"/>
     <podcast:remoteItem feedGuid="6e7f321d-6cb1-5431-8281-cba5883b4063" itemGuid="e86a874a-5790-4b36-b9f8-2eeba0b51426"/>
     <podcast:remoteItem feedGuid="7b344f41-6e02-5ce9-9573-429f5fe7feb8" itemGuid="bef36377-c778-4fa3-b542-432e16dc8534"/>
-    <podcast:remoteItem feedGuid="448f3276-7ce6-5844-a3e2-f7de05876077" itemGuid="ee75d8d5-6045-4ddd-bc65-072d7374462c"/>
     <podcast:remoteItem feedGuid="641d41cf-5c91-58f9-91e0-245195579374" itemGuid="1ce908b2-2259-403a-abe8-cef5ae8ee263"/>
+    <podcast:remoteItem feedGuid="448f3276-7ce6-5844-a3e2-f7de05876077" itemGuid="ee75d8d5-6045-4ddd-bc65-072d7374462c"/>
     <podcast:remoteItem feedGuid="29ab10b6-f9e4-5dc8-9bb1-0347a651ab1b" itemGuid="Buzzsprout-18786478"/>
     <podcast:remoteItem feedGuid="290e12c3-91a7-5c30-be14-1837a1a976e2" itemGuid="c0c41fb0-87a9-45cd-9193-6de2751cde84-5503d0d8-2519-45b3-8f54-5781984641e8"/>
     <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" itemGuid="https://mmo.show/?post_type=podcast&amp;p=4761"/>
@@ -1713,5 +1713,20 @@
     <podcast:remoteItem feedGuid="0de5a30d-b417-5f87-8a2e-4389cb88c54f" itemGuid="3c0b4cc8-11fc-4583-971a-51cc7c7a5647"/>
     <podcast:remoteItem feedGuid="c0be02f5-0e88-59a3-84cb-b76041a83264" itemGuid="bca2eb37-170e-4bcc-9508-f70bf1f9c5fb"/>
     <podcast:remoteItem feedGuid="de47e794-c0a3-4bb4-8712-cce1e4566b7e" itemGuid="1882be27-3fc0-4fb9-b422-4496be8e8ef0"/>
+    <podcast:remoteItem feedGuid="45b899bb-cbef-57b5-ab14-04aaf49e3ac3" itemGuid="20261122FH"/>
+    <podcast:remoteItem feedGuid="8ab72df1-134f-5c04-a181-8927ace98cb8" itemGuid="5fa70c93-ca9b-429c-8cec-04b5f9fc6340"/>
+    <podcast:remoteItem feedGuid="afbaa6da-4219-55dd-934a-96e0bc79c442" itemGuid="12534ae4-530a-4604-ab8b-6c9e07da1350"/>
+    <podcast:remoteItem feedGuid="e75bb1e8-46f8-5153-8d62-6f129bab7421" itemGuid="08efd293-cba2-4cb7-ba90-e7eb6e4c44fe"/>
+    <podcast:remoteItem feedGuid="e22a2294-d951-51dd-9498-cd04b4467ce1" itemGuid="504a090a-fb5c-4397-a2de-912d7878ea5d"/>
+    <podcast:remoteItem feedGuid="de962cc3-105e-50fb-89cc-7ac68b34c9d7" itemGuid="f0640d8d-0b9f-47bf-bdca-f05795ab9b4c"/>
+    <podcast:remoteItem feedGuid="de47e794-c0a3-4bb4-8712-cce1e4566b7e" itemGuid="bce45cd4-a190-4982-97f1-9c04a6dd08e5"/>
+    <podcast:remoteItem feedGuid="f9bec571-abfc-59a1-b89a-c2699c68e011" itemGuid="24d6c6dd-9ef1-4a83-8cf7-8bea1194c088"/>
+    <podcast:remoteItem feedGuid="de962cc3-105e-50fb-89cc-7ac68b34c9d7" itemGuid="05aa9bc5-0499-4011-9f50-86ba4ec09773"/>
+    <podcast:remoteItem feedGuid="de962cc3-105e-50fb-89cc-7ac68b34c9d7" itemGuid="26029860-bd18-42cb-80de-8bbd4870a140"/>
+    <podcast:remoteItem feedGuid="7005772a-c12d-4a3f-b3cc-4c05833946e0" itemGuid="317ffcf3-cebf-4a01-9791-d51e979ca5b8"/>
+    <podcast:remoteItem feedGuid="0de5a30d-b417-5f87-8a2e-4389cb88c54f" itemGuid="abc2fd74-28f4-4453-a995-05a3d33261df"/>
+    <podcast:remoteItem feedGuid="13b9fa33-bbb9-5753-86fe-336d569277ac" itemGuid="be957a44-de74-41c5-83a3-9643cbf5a56f"/>
+    <podcast:remoteItem feedGuid="e22a2294-d951-51dd-9498-cd04b4467ce1" itemGuid="7bc07053-c2b8-447e-8817-5b681f4f329c"/>
+    <podcast:remoteItem feedGuid="de0bcde8-964b-4d71-9280-85d0ca2682c8" itemGuid="8bcebfb8-015e-473c-b641-94d13a017ddf"/>
   </channel>
 </rss>
