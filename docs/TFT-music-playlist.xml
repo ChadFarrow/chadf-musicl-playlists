@@ -6,8 +6,8 @@
     <link>https://serve.podhome.fm/two-for-tunestr</link>
     <podcast:txt purpose="source-feed">https://serve.podhome.fm/rss/fafd2bfc-98ac-5010-9fcb-7403abfd420a</podcast:txt>
     <language>en</language>
-    <pubDate>Sun, 15 Nov 2026 14:31:44 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 14:31:44 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 19:09:36 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:09:36 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png</url>
     </image>
@@ -16,6 +16,26 @@
     </podcast:publisher>
     <podcast:medium>musicL</podcast:medium>
     <podcast:guid>5c979397-5336-48a4-8e9e-782bed5139a3</podcast:guid>
+    <podcast:txt purpose="episode">Feast Your Ears</podcast:txt>
+      <podcast:remoteItem feedGuid="c690112f-e347-463b-a9a8-9d61b3a5ddc7" itemGuid="02d7867a-7420-40bc-814c-eeb90c6b899d"/>
+      <podcast:remoteItem feedGuid="b8d2719b-2c1a-4d48-bde8-c6ad33363545" itemGuid="f2566e72-1fca-43d0-a9eb-eb876e152573"/>
+      <podcast:remoteItem feedGuid="6c3c38e1-34f6-4fe1-a0f8-edbefe4ec5dc" itemGuid="98af8aef-c9fe-4f14-a7be-47623ae3cd76"/>
+      <podcast:remoteItem feedGuid="6c3c38e1-34f6-4fe1-a0f8-edbefe4ec5dc" itemGuid="fe227c33-91f2-485f-938e-930bd613fad3"/>
+      <podcast:remoteItem feedGuid="27735a10-3775-503d-b038-70b4b7d536ab" itemGuid="93900acc-f969-496c-8403-69030fb9e3d8"/>
+      <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" itemGuid="d8eb75d1-67fa-4179-9496-ad2957e146f2"/>
+      <podcast:remoteItem feedGuid="e88a4a67-877c-5e03-b8fd-a70cebc821af" itemGuid="a4085a5d-0ae6-439a-82b5-4018bd215740"/>
+      <podcast:remoteItem feedGuid="204099cf-bcb0-4b78-99f9-2e64d366a3f1" itemGuid="6412dca0-82d6-414f-8987-da72a399ac62"/>
+      <podcast:remoteItem feedGuid="40d8b0ff-cfa9-5dde-9204-9e659b3a3bcf" itemGuid="105bd045-8650-4a42-a1d9-53e1bac5bd96"/>
+      <podcast:remoteItem feedGuid="a4e6e5ab-bc98-5c95-86c0-2f9f7bdf0682" itemGuid="524191cd-a3bb-44dc-83cf-04b7ed65d41c"/>
+      <podcast:remoteItem feedGuid="f46d440a-0a8c-5323-91e3-3a00fc1d4b63" itemGuid="01dyingsouls"/>
+      <podcast:remoteItem feedGuid="25b3d680-c95c-5352-bc54-b72b5a6a33ca" itemGuid="01remember"/>
+      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="caae8d61-bedd-40d9-ad57-8c86c1509020"/>
+      <podcast:remoteItem feedGuid="2b62ef49-fcff-523c-b81a-0a7dde2b0609" itemGuid="a15e8173-6cc5-40a1-8b44-57402bc4fc07"/>
+      <podcast:remoteItem feedGuid="babd1567-2803-5ede-9a19-302c2fbf9eae" itemGuid="0d8c851b-c78b-4c7e-8fb0-81475efb472d"/>
+      <podcast:remoteItem feedGuid="babd1567-2803-5ede-9a19-302c2fbf9eae" itemGuid="32f6b55e-b769-4897-952d-dc5697728be6"/>
+      <podcast:remoteItem feedGuid="8507797d-cbbb-59ad-aab4-3d9700ec4406" itemGuid="d367e167-af9c-40d4-b59e-a5fd99391883"/>
+      <podcast:remoteItem feedGuid="8507797d-cbbb-59ad-aab4-3d9700ec4406" itemGuid="4e231a19-9e93-4b9e-8300-097ef7c396f0"/>
+      <podcast:remoteItem feedGuid="638e94f7-d20c-4034-af21-0f6947417f44" itemGuid="704daf75-38d1-42e3-b373-30668c8ee717"/>
     <podcast:txt purpose="episode">Eclectic Frequencies</podcast:txt>
       <podcast:remoteItem feedGuid="649bc8f4-494b-548b-9077-7cdfd500c034" itemGuid="06ef6e94-5a38-4877-9f59-35ea1d5297ee"/>
       <podcast:remoteItem feedGuid="649bc8f4-494b-548b-9077-7cdfd500c034" itemGuid="deded50f-7abd-4b36-8090-93aa2fa10ba5"/>
