@@ -5,13 +5,14 @@
     <description>The latest episodes from every show on smallgroupscoop.com/shows, newest first.</description>
     <link>https://smallgroupscoop.com/shows/</link>
     <language>en</language>
-    <pubDate>Mon, 23 Nov 2026 19:26:02 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2026 19:26:02 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 18:15:36 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:15:36 GMT</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/smallgroup-shows-playlist-art.png</url>
     </image>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>5da03898-d837-435d-9474-4be9a6c95e13</podcast:guid>
+    <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" feedUrl="https://mmo.show/wp-content/feed.xml" itemGuid="https://mmo.show/?post_type=podcast&amp;p=5343"/>
     <podcast:remoteItem feedGuid="89bf141a-f4cf-575c-b09a-75dbce16332c" feedUrl="https://accidentallyinteresting.com/feed.xml" itemGuid="accidentally-interesting-019"/>
     <podcast:remoteItem feedGuid="8d3aa9e5-1e42-5108-a7e0-463883d35e14" feedUrl="https://mmmusic.show/podcast/feed.xml" itemGuid="d1de728d-7a05-46c5-a8fa-4df5f288ee63"/>
     <podcast:remoteItem feedGuid="7c6f7875-2b73-491e-b32c-e2c8d6e91d53" feedUrl="https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53" itemGuid="3229411a-26c5-4679-ab2e-ed66c88f678d"/>
@@ -103,7 +104,6 @@
     <podcast:remoteItem feedGuid="e0ac9365-689c-5043-8804-15b9dfcc545a" feedUrl="https://feed.behindthesch3m3s.com/feed.xml" itemGuid="0b7d5355-b7e2-42b0-adda-88d44fb15fd2"/>
     <podcast:remoteItem feedGuid="41aace28-8679-5ef1-9958-75cf76c2b5f0" feedUrl="https://www.doerfelverse.com/feeds/intothedoerfelverse.xml" itemGuid="b82293b8-1720-4828-9c21-fbbb3c86e91d"/>
     <podcast:remoteItem feedGuid="23cd2e78-6042-5834-9ca8-34feca4d02b9" feedUrl="https://nicktherat.com/radio/feed.xml" itemGuid="https://nicktherat.com/radio/Nick%20the%20Rat%20S1E557.mp3"/>
-    <podcast:remoteItem feedGuid="31740861-81e8-5dda-8801-a2abb2634271" feedUrl="https://mmo.show/wp-content/feed.xml" itemGuid="e4156ad8-8900-5a9b-9452-1b8c1bb4da0f"/>
     <podcast:remoteItem feedGuid="e0ac9365-689c-5043-8804-15b9dfcc545a" feedUrl="https://feed.behindthesch3m3s.com/feed.xml" itemGuid="b96a1f64-1ca9-4c64-aba7-e4f6af5d51f4"/>
     <podcast:remoteItem feedGuid="7c6f7875-2b73-491e-b32c-e2c8d6e91d53" feedUrl="https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53" itemGuid="4a8c16bf-2662-4263-9cb7-14d910f2e3e2"/>
     <podcast:remoteItem feedGuid="ac746d09-7c3b-5bcd-b28a-f12d6456ca8f" feedUrl="https://feed.homegrownhits.xyz/feed.xml" itemGuid="fcfc450b-6ad0-4c5e-8105-cfce888c1ef4"/>
