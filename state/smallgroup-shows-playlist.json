@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T19:26:03.702Z",
+  "updatedAt": "2026-11-25T18:15:39.564Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,13 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "millennial-media-offensive",
+      "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
+      "feedUrl": "https://mmo.show/wp-content/feed.xml",
+      "itemGuid": "https://mmo.show/?post_type=podcast&p=5343",
+      "pubDate": "2026-11-25T03:08:00.000Z"
+    },
     {
       "slug": "accidentally-interesting",
       "feedGuid": "89bf141a-f4cf-575c-b09a-75dbce16332c",
@@ -804,13 +811,6 @@
       "feedUrl": "https://nicktherat.com/radio/feed.xml",
       "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E557.mp3",
       "pubDate": "2026-09-16T09:20:00.000Z"
-    },
-    {
-      "slug": "millennial-media-offensive",
-      "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
-      "feedUrl": "https://mmo.show/wp-content/feed.xml",
-      "itemGuid": "e4156ad8-8900-5a9b-9452-1b8c1bb4da0f",
-      "pubDate": "2026-09-16T02:12:16.000Z"
     },
     {
       "slug": "behind-the-sch3m3s",
