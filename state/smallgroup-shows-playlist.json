@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:15:39.564Z",
+  "updatedAt": "2026-11-26T17:33:10.021Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,20 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "nick-the-rat-radio",
+      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
+      "feedUrl": "https://nicktherat.com/radio/feed.xml",
+      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E567.mp3",
+      "pubDate": "2026-11-25T09:20:00.000Z"
+    },
+    {
+      "slug": "bowl-after-bowl",
+      "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
+      "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
+      "itemGuid": "https://bowlafterbowl.com/episodes/episode-469/",
+      "pubDate": "2026-11-25T05:33:00.000Z"
+    },
     {
       "slug": "millennial-media-offensive",
       "feedGuid": "31740861-81e8-5dda-8801-a2abb2634271",
@@ -759,13 +773,6 @@
       "pubDate": "2026-09-19T12:00:00.000Z"
     },
     {
-      "slug": "bowl-after-bowl",
-      "feedGuid": "2d418249-453a-5714-8abc-5b657570b641",
-      "feedUrl": "https://feed.bowlafterbowl.com/feed.xml",
-      "itemGuid": "https://bowlafterbowl.com/episodes/episode-459/",
-      "pubDate": "2026-09-19T04:33:00.000Z"
-    },
-    {
       "slug": "mutton-mead-music",
       "feedGuid": "8d3aa9e5-1e42-5108-a7e0-463883d35e14",
       "feedUrl": "https://mmmusic.show/podcast/feed.xml",
@@ -804,13 +811,6 @@
       "itemGuid": "b82293b8-1720-4828-9c21-fbbb3c86e91d",
       "pubDate": "2026-09-16T20:14:06.000Z",
       "medium": "podcast"
-    },
-    {
-      "slug": "nick-the-rat-radio",
-      "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
-      "feedUrl": "https://nicktherat.com/radio/feed.xml",
-      "itemGuid": "https://nicktherat.com/radio/Nick%20the%20Rat%20S1E557.mp3",
-      "pubDate": "2026-09-16T09:20:00.000Z"
     },
     {
       "slug": "behind-the-sch3m3s",
