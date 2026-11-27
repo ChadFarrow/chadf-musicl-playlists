@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T17:33:10.021Z",
+  "updatedAt": "2026-11-27T17:15:18.648Z",
   "shows": [
     {
       "slug": "abs-n-a-6-pack",
@@ -117,6 +117,14 @@
     }
   ],
   "episodes": [
+    {
+      "slug": "homegrown-hits",
+      "feedGuid": "ac746d09-7c3b-5bcd-b28a-f12d6456ca8f",
+      "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
+      "itemGuid": "c9fefc84-39eb-4dfc-8205-e5c75479c9a2",
+      "pubDate": "2026-11-26T21:20:00.000Z",
+      "medium": "podcast"
+    },
     {
       "slug": "nick-the-rat-radio",
       "feedGuid": "23cd2e78-6042-5834-9ca8-34feca4d02b9",
@@ -826,14 +834,6 @@
       "feedUrl": "https://serve.podhome.fm/rss/7c6f7875-2b73-491e-b32c-e2c8d6e91d53",
       "itemGuid": "4a8c16bf-2662-4263-9cb7-14d910f2e3e2",
       "pubDate": "2026-09-11T10:00:00.000Z",
-      "medium": "podcast"
-    },
-    {
-      "slug": "homegrown-hits",
-      "feedGuid": "ac746d09-7c3b-5bcd-b28a-f12d6456ca8f",
-      "feedUrl": "https://feed.homegrownhits.xyz/feed.xml",
-      "itemGuid": "fcfc450b-6ad0-4c5e-8105-cfce888c1ef4",
-      "pubDate": "2026-09-10T21:20:00.000Z",
       "medium": "podcast"
     },
     {
