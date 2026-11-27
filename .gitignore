@@ -63,3 +63,6 @@ worker-configuration.d.ts
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Python (the scripts import user_agent.py)
+__pycache__/

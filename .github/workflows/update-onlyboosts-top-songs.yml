@@ -12,6 +12,7 @@ on:
   pull_request:
     paths:
       - 'generate_onlyboosts_top_songs.py'
+      - 'user_agent.py'
       - '.github/workflows/update-onlyboosts-top-songs.yml'
 
 concurrency:

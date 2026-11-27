@@ -145,5 +145,6 @@ Since this is a static repository, there are no build or test commands. Common o
 
 ## Notes
 
+- **One User-Agent for every script request**: `USER_AGENT` in `user_agent.py`, `chadf-musicl-playlists/<APP_VERSION> (+https://chadfarrow.github.io/chadf-musicl-playlists/)`. `generate_onlyboosts_top_songs.py` and `generate_hgh_hitsgiving.py` import it, so run them from this folder as `python3 <script>` (not `python3 -I`, which drops the folder from the import path). The repo has no package file, so `APP_VERSION` there is its version. No email, no browser name: until 2026-11-27 both scripts sent `Mozilla/5.0 (compatible; chadf-musicl-playlists; +<GitHub URL>)`, and every probed host gave the same answer for the new name. A change to `user_agent.py` runs the OnlyBoosts build in CI, as a change to its script does.
 - The `.cursorrules` file references an unrelated tech stack (React, Vite, Firebase, etc.) - these are **NOT** used in this repository and can be ignored
 - `PORT_HANDLING.md` contains documentation for an unrelated volo-app project - this is legacy and not relevant to the musicL playlists
