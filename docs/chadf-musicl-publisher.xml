@@ -32,6 +32,7 @@
     <!-- Homegrown Hits specials: one playlist per Hitsgiving episode, a supplement to the HGH playlist above (generate_hgh_hitsgiving.py). -->
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="dc1d22fd-9c75-5b01-9795-e9129df1131c" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2024-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2024-playlist-art.jpg"/>
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="341badc3-b958-5688-98a4-83e6d617c71e" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2025-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2025-playlist-art.jpg"/>
+    <podcast:remoteItem medium="musicL" rel="curator" feedGuid="b645bff1-f51b-5703-80c7-3a846b2c644e" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2026-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2026-playlist-art.jpg"/>
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="bf813fcc-eaa3-4c47-8c88-18b3b697daeb" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/LT-music-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/LT-music-playlist.png"/>
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="5c979397-5336-48a4-8e9e-782bed5139a3" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/TFT-music-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/TFT-playlist-art.png"/>
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="d29f5cf4-1275-4c7f-bbc3-1ab86985b5cc" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/OBSH-music-playlist.xml" feedImg="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/main/docs/OBSH-playlist-art.jpg"/>
@@ -40,8 +41,8 @@
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="2bb7307c-c7ed-558d-9a9b-b018e86c8d67" feedUrl="https://www.boostmebuddy.com/feeds/playlists/ed79e282-3d6e-4764-adb5-8702eaf77086.xml" feedImg="https://podtards.com/c01def2718dc1994142b6d8eaac1a7ebb90350707887650cf80267ab3b5a1b35"/>
     <podcast:remoteItem medium="musicL" rel="curator" feedGuid="4633a3fd-cb83-5032-b10a-38b4e629d483" feedUrl="https://www.boostmebuddy.com/feeds/playlists/a4aa16f4-976a-4b72-a111-b9ed274a27da.xml" feedImg="https://podtards.com/5cb24c6e75fcb90e4d8726d508f2881b00861560fadf00dab7c0e925a6dec6fb.jpg"/>
     <itunes:author>ChadF</itunes:author>
-    <pubDate>Fri, 27 Nov 2026 02:18:23 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2026 02:18:23 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 10:46:24 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:46:24 +0000</lastBuildDate>
     <category>How To</category>
     <podcast:guid>a778e463-ecc3-5219-8f05-f33b3983e173</podcast:guid>
   </channel>
