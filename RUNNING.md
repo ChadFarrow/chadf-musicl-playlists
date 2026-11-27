@@ -8,6 +8,7 @@ This file tells you what runs automatically in this repo, what each job needs, a
 |---|---|---|---|
 | Greatest Hits | A push changes a `docs/*-music-playlist.xml` file. Also every Sunday at 03:00 UTC. Also by hand. | `python3 generate_greatest_hits.py` | `docs/Greatest-Hits-music-playlist.xml` |
 | OnlyBoosts Top Songs | Every Monday at 05:00 UTC. Also by hand. A PR that changes the script runs a test build and pushes nothing. | `python3 generate_onlyboosts_top_songs.py` | `docs/onlyboosts-top-songs-playlist.xml`, `docs/onlyboosts-top-songs-month-playlist.xml` |
+| Homegrown Hits Hitsgiving | By hand only, when a new Hitsgiving episode is out. No workflow. | `python3 generate_hgh_hitsgiving.py` | `docs/HGH-hitsgiving-<year>-playlist.xml` |
 | Daily playlist update (in a different repo) | Every day at 07:00 UTC | [musicL-playlist-updater](https://github.com/ChadFarrow/musicL-playlist-updater) | The other playlist files in `docs/`, and `state/smallgroup-shows-playlist.json` |
 
 The workflow files are in `.github/workflows/`:
@@ -36,6 +37,14 @@ If you run the jobs outside GitHub, you lose step 2. Thus, run Greatest Hits aft
   - `https://www.boostmebitch.com/api/episode-by-guid/batch` (finds the songs)
 - It does not use secrets.
 - **Do not** submit these two playlists to Podcast Index. **Do not** send a podping for them. This is a decision, not an error.
+
+### Homegrown Hits Hitsgiving
+- Python 3.12 or newer. It uses only the standard library.
+- It reads from the network:
+  - `https://feed.homegrownhits.xyz/feed.xml` (the episode's songs)
+  - `https://www.boostmebitch.com/api/episode-by-guid/batch` (checks that each song is in Podcast Index)
+- It does not use secrets. It does not submit the playlists to Podcast Index.
+- No workflow runs it, because an episode does not change after it is out. To add a year, see the docstring of the script.
 
 ### Commit and push
 Both jobs commit only when the output file changed. Then they push to `main`. If the push fails because `main` moved, they do `git pull --rebase origin main` and try again (5 times maximum). On GitHub, the job uses the token that GitHub supplies automatically (`GITHUB_TOKEN`). It does not use a repository secret.
