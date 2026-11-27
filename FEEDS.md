@@ -25,6 +25,8 @@ Supplemental musicL playlists of Homegrown Hits: one for each Hitsgiving episode
    - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2024-playlist.xml
 2. **HGH-hitsgiving-2025-playlist.xml** - `docs/HGH-hitsgiving-2025-playlist.xml` (Homegrown Hits - Hitsgiving 2025, Episode 112)
    - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2025-playlist.xml
+3. **HGH-hitsgiving-2026-playlist.xml** - `docs/HGH-hitsgiving-2026-playlist.xml` (Homegrown Hits - Hitsgiving 2026, Episode 160)
+   - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2026-playlist.xml
 
 ## Chart Playlist Feeds
 

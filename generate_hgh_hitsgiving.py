@@ -31,12 +31,16 @@ in the HGH playlist, so they would count twice.
 THIS SCRIPT DOES NOT SUBMIT THE PLAYLISTS TO PODCAST INDEX. It only reads the index.
 
 The art of each playlist is a still frame of the episode's own animated GIF (its
-<itunes:image>, 18 to 19 MB, too large to use as is). Chad asked for the episode art.
+<itunes:image>, 15 to 19 MB, too large to use as is). Chad asked for the episode art.
     ffmpeg -ss <seconds> -i episode-<n>.gif -frames:v 1 -q:v 2 docs/<name>-art.jpg
 
 To add a Hitsgiving: when the episode is in the feed, add a line to EPISODES, make its art,
 run the script, and list the file in docs/chadf-musicl-publisher.xml, FEEDS.md and
-docs/index.html. Nothing runs this on a schedule: an episode does not change after it is out.
+docs/index.html. Then add it to StableKraft (stablekraft-app), one PR in the pattern of its
+PR #322 (2024 and 2025) and the PR for 2026. Boost Me Bitch reads the publisher feed, so it
+needs no change. Chad adds the new feed to Podcast Index by hand at
+https://podcastindex.org/add; agents never automate that form. Nothing runs this on a
+schedule: an episode does not change after it is out.
 
 Usage: python3 generate_hgh_hitsgiving.py
 """
@@ -104,6 +108,7 @@ class Episode:
 EPISODES = [
     Episode(2024, 62, "099cd054-3165-4a15-975b-72afafdf31f6"),  # The first official Hitsgiving.
     Episode(2025, 112, "073d36d2-1309-49a9-a92a-838dc148d822"),
+    Episode(2026, 160, "c9fefc84-39eb-4dfc-8205-e5c75479c9a2"),
 ]
 
 
@@ -142,8 +147,9 @@ def read_episodes(feed_xml):
                 sys.exit(f"Episode {guid} has a valueTimeSplit with no full remoteItem. Nothing written.")
             splits.append((float(split.get("startTime", "0")), remote.get("feedGuid"), remote.get("itemGuid")))
         splits.sort(key=lambda s: s[0])
-        # The first sentence of the notes: the text before the first HTML tag.
-        notes = " ".join((item.findtext("description") or "").split("<", 1)[0].split())
+        # The first sentence of the notes: the text before the first HTML tag. A colon at its
+        # end introduces a list that is not quoted (Episode 160), so it goes.
+        notes = " ".join((item.findtext("description") or "").split("<", 1)[0].split()).rstrip(" :")
         found[guid] = ((item.findtext("title") or "").strip(), notes, [(f, i) for _, f, i in splits])
     for episode in EPISODES:
         if episode.item_guid not in found:
