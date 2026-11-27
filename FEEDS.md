@@ -17,6 +17,15 @@ This file lists all available playlist feeds in this repository.
 11. **TFT-music-playlist.xml** - `docs/TFT-music-playlist.xml` (Two for Tunestr)
 12. **upbeats-music-playlist.xml** - `docs/upbeats-music-playlist.xml`
 
+## Homegrown Hits Specials
+
+Supplemental musicL playlists of Homegrown Hits: one for each Hitsgiving episode (the show's Thanksgiving special), with the songs of that episode in play order, without the songs that can no longer play. They do not replace `HGH-music-playlist.xml` above, which keeps the songs of every episode. `generate_hgh_hitsgiving.py` builds them by hand from the episode; the updater's RSS loop does not take them.
+
+1. **HGH-hitsgiving-2024-playlist.xml** - `docs/HGH-hitsgiving-2024-playlist.xml` (Homegrown Hits - Hitsgiving 2024, Episode 62)
+   - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2024-playlist.xml
+2. **HGH-hitsgiving-2025-playlist.xml** - `docs/HGH-hitsgiving-2025-playlist.xml` (Homegrown Hits - Hitsgiving 2025, Episode 112)
+   - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2025-playlist.xml
+
 ## Chart Playlist Feeds
 
 musicL playlists built from a public chart, not from a source RSS feed. The updater's RSS loop does not take them.
@@ -40,7 +49,7 @@ Playlists of full podcast episodes (`<podcast:medium>podcastL</podcast:medium>`)
 
 ## Publisher Feed
 
-- **chadf-musicl-publisher.xml** - `docs/chadf-musicl-publisher.xml` (Publisher feed. It lists every musicL playlist in this repo except the two OnlyBoosts Top Songs chart playlists, and each listed playlist links back to it with `<podcast:publisher>`. It also lists ChadF's Boost Me Buddy playlists, one way: they link back to their Boost Me Buddy publisher feed.)
+- **chadf-musicl-publisher.xml** - `docs/chadf-musicl-publisher.xml` (Publisher feed. It lists every musicL playlist in this repo, the Homegrown Hits specials included, except the two OnlyBoosts Top Songs chart playlists, and each listed playlist links back to it with `<podcast:publisher>`. It also lists ChadF's Boost Me Buddy playlists, one way: they link back to their Boost Me Buddy publisher feed.)
   - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml
 
 ## OPML

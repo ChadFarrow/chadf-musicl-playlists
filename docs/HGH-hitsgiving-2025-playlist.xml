@@ -1,0 +1,80 @@
+<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <author>ChadF</author>
+    <title>Homegrown Hits - Hitsgiving 2025 (Episode 112)</title>
+    <description>The songs played in Homegrown Hits Episode 112, the Hitsgiving 2025 special, in play order (30 tracks). Songs that can no longer play are left out. From the episode notes: "Frensgiving and Hitsgiving collide with the TOP 33 DEMU TRACKS OF 2025!" A supplement to the ChadF Homegrown Hits Music Playlist, which holds the songs of every episode. Episode: https://podcastindex.org/podcast/6611624?episode=45812846054</description>
+    <link>https://podcastindex.org/podcast/6611624?episode=45812846054</link>
+    <language>en</language>
+    <pubDate>Fri, 27 Nov 2026 02:22:18 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:22:18 GMT</lastBuildDate>
+    <image>
+      <url>https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2025-playlist-art.jpg</url>
+    </image>
+    <podcast:publisher>
+      <podcast:remoteItem medium="publisher" rel="curator" feedGuid="a778e463-ecc3-5219-8f05-f33b3983e173" feedUrl="https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/chadf-musicl-publisher.xml"/>
+    </podcast:publisher>
+    <podcast:medium>musicL</podcast:medium>
+    <podcast:guid>341badc3-b958-5688-98a4-83e6d617c71e</podcast:guid>
+    <podcast:txt purpose="episode">Homegrown Hits - Episode 112 HITSGIVING 2025</podcast:txt>
+      <!-- 1. Mr. Marlboro (The Virus Takes) -->
+      <podcast:remoteItem feedGuid="d4bd6713-ce91-5420-97d9-f6cbb68687c6" itemGuid="737958a6-9d6c-44df-ae35-db190bcc5ddc"/>
+      <!-- 2. Kerouac (White Triangles) -->
+      <podcast:remoteItem feedGuid="121c26b0-33f8-5cb9-9e14-d706bd3f5db8" itemGuid="c2747138-3458-4a7d-b5be-7d2c637295bc"/>
+      <!-- 3. Have Fun. (Home Sweet Home (The Dream of Love Survives but it Disappoints Constantly)) -->
+      <podcast:remoteItem feedGuid="e64ef270-728d-51f0-8052-9fed4883f662" itemGuid="d5b56dc6-e7bc-4bb0-a60e-cfe46795554e"/>
+      <!-- 4. Willow Brown (ft. Scream Mail) (Stay Awhile) -->
+      <podcast:remoteItem feedGuid="acddbb03-064b-5098-87ca-9b146beb12e8" itemGuid="510f7879-071f-468b-91e1-d9766831bd9d"/>
+      <!-- 5. Penis in the Ocean (Penis in the Ocean) -->
+      <podcast:remoteItem feedGuid="5774ac21-df76-55f1-b8f6-23c683de8012" itemGuid="0b73ae40-b5aa-440e-89a2-b8f8eecc7518"/>
+      <!-- 6. Pickle Popsicle (Pickle Popsicle (Single)) -->
+      <podcast:remoteItem feedGuid="749c442d-5d43-50b0-9f7a-0f5cbf0a218a" itemGuid="a67ef200-b887-4a79-acfe-d11ec1367851"/>
+      <!-- 7. Sky Dreams (Sky Dreams) -->
+      <podcast:remoteItem feedGuid="f77a481c-36bc-5677-b07a-1b8c3b3ae81a" itemGuid="76cd1a87-531d-4710-b629-09352d3477a5"/>
+      <!-- 8. Little Glutton Miss Dreams (Himalaya) -->
+      <podcast:remoteItem feedGuid="9c4017a3-5a53-5b3d-b2bd-783fbf2afae9" itemGuid="ac8ea012-8f97-474c-b00d-7ce5fe343cb6"/>
+      <!-- 9. The Wait Is Over (The Wait Is Over) -->
+      <podcast:remoteItem feedGuid="a71b097b-4cf0-5e74-b6a9-1271373bb396" itemGuid="a45376c3-c8b3-4173-80c4-4cdfa266e0db"/>
+      <!-- 10. Tiddies In My Face (Single) (Tiddies In My Face (Single)) -->
+      <podcast:remoteItem feedGuid="6c277321-9d2c-5cd2-98b1-f49efcea0602" itemGuid="8b850466-1a23-4298-b14c-a1099816e9a6"/>
+      <!-- 11. A Boofy Movie (ovvr not unndr) -->
+      <podcast:remoteItem feedGuid="8b41f7f4-2cc3-5a03-90f5-6c54e92bc96b" itemGuid="e8983582-6c4d-4e87-9034-6942b8784ec5"/>
+      <!-- 12. First Saw (Feat. ImKidKid) (Kurtisdrums) -->
+      <podcast:remoteItem feedGuid="69c634ad-afea-5826-ad9a-8e1f06d6470b" itemGuid="45cb0eb4-baaa-4925-9de6-80dfa57205f4"/>
+      <!-- 13. Let Go (What's holding you back) (Let Go (What's holding you back)) -->
+      <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140"/>
+      <!-- 14. Sunny (Sunny) -->
+      <podcast:remoteItem feedGuid="3722ada5-2029-5485-a8f9-a007c2610c7f" itemGuid="8fe23ae7-eb91-4c06-8d7e-325579fa70ca"/>
+      <!-- 15. You Can Only Be So Cosmic (True Blue) -->
+      <podcast:remoteItem feedGuid="d577b6cd-8c41-548b-abba-60e1502a94df" itemGuid="https://justcast.com/shows/44721/audioposts/1246518"/>
+      <!-- 16. Dance With Me (Wild and Free) -->
+      <podcast:remoteItem feedGuid="afc5df5b-bfce-5843-802d-3c074b06e969" itemGuid="26646655-b89d-4871-9d5d-9e3b82b9f382"/>
+      <!-- 17. Altar of my Balls (Red Wings) -->
+      <podcast:remoteItem feedGuid="bf99e8c3-1f97-558d-bc1d-a4bda04027f7" itemGuid="f0f15edf-bcfa-4773-b16b-72d99d16f815"/>
+      <!-- 18. Hate Crime My Asshole (At Your Cervix) -->
+      <podcast:remoteItem feedGuid="0d6c245c-4b25-571c-8c7d-6a7e0d219427" itemGuid="5555c343-ed25-4e3a-9add-a53dc25e09cc"/>
+      <!-- 19. Radio (Trickster) -->
+      <podcast:remoteItem feedGuid="04e812f9-1993-5aa1-9ab5-a9cf0cd81e82" itemGuid="84fd7d0d-434b-4119-ae15-363e716bfee3"/>
+      <!-- 20. Light & Shade (Aged Friends & Old Whiskey) -->
+      <podcast:remoteItem feedGuid="fc815bcf-3639-5395-ba7d-fa217ec93d32" itemGuid="bc060c02-581b-4a79-8b4c-3408015e7dfc"/>
+      <!-- 21. Say Goodbye (The Ultimate Album) -->
+      <podcast:remoteItem feedGuid="19835a35-b7d1-5fee-8d67-a89d996098e1" itemGuid="106dfa1b-5af6-40c7-bea6-e062383342a2"/>
+      <!-- 22. Ugly Side (Way to Go) -->
+      <podcast:remoteItem feedGuid="c989830b-49a1-572f-9f0e-0fec994a6d5a" itemGuid="a17a2cd5-36ec-4689-a2c3-485d43eafe8a"/>
+      <!-- 23. Nowhere Anywhere (Way to Go) -->
+      <podcast:remoteItem feedGuid="c989830b-49a1-572f-9f0e-0fec994a6d5a" itemGuid="5a29af60-4ff7-4ce3-9a71-4333b799a90d"/>
+      <!-- 24. Get Your Don't (Way to Go) -->
+      <podcast:remoteItem feedGuid="c989830b-49a1-572f-9f0e-0fec994a6d5a" itemGuid="ebe13a73-a250-48ce-b94a-7e1efdaf712b"/>
+      <!-- 25. My Year (This Is Going to Be) (If We Stayed Alive) -->
+      <podcast:remoteItem feedGuid="d67ffeaa-d4cc-5c76-9616-f839aa1b48f3" itemGuid="bd8cd4e7-0637-4313-b43b-dbfda82e8c53"/>
+      <!-- 26. Autistic Girl (Everything Is Lit) -->
+      <podcast:remoteItem feedGuid="d518a5ad-4df1-413e-a4a4-f2c7e146e650" itemGuid="9ee4bfee-0359-4454-b1dc-b68c6f67e2ec"/>
+      <!-- 27. The Way She Rolls (Aged Friends & Old Whiskey) -->
+      <podcast:remoteItem feedGuid="fc815bcf-3639-5395-ba7d-fa217ec93d32" itemGuid="1e5e015c-638b-48f9-a656-c1b803cd3493"/>
+      <!-- 28. Love On The Radio (early edit) (The Heycitizen Experience) -->
+      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="6fcae535-09ae-46cc-9d9f-e15cf612bc89"/>
+      <!-- 29. It's Christmastime Again! (The Heycitizen Experience) -->
+      <podcast:remoteItem feedGuid="a2d2e313-9cbd-5169-b89c-ab07b33ecc33" itemGuid="1c8b3ce3-45b6-4f7e-b5d6-10568e3328e4"/>
+      <!-- 30. Boost Them All! (Boost Them All!) -->
+      <podcast:remoteItem feedGuid="b328828c-9ba0-5b1d-be33-4cce51968ae1" itemGuid="d047262b-072e-4527-aa87-fab9e4e44848"/>
+  </channel>
+</rss>
