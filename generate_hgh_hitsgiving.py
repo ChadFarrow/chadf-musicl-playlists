@@ -57,11 +57,12 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from xml.sax.saxutils import escape, quoteattr
 
+from user_agent import USER_AGENT
+
 HGH_FEED = "https://feed.homegrownhits.xyz/feed.xml"
 HGH_FEED_GUID = "ac746d09-7c3b-5bcd-b28a-f12d6456ca8f"
 RESOLVER_API = "https://www.boostmebitch.com/api/episode-by-guid/batch"
 RAW_DOCS = "https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs"
-USER_AGENT = "Mozilla/5.0 (compatible; chadf-musicl-playlists; +https://github.com/ChadFarrow/chadf-musicl-playlists)"
 
 # ChadF's publisher feed. It lists each playlist, and each playlist links back to it.
 # Apps trust the link only when it goes both ways, with the same rel on both sides.

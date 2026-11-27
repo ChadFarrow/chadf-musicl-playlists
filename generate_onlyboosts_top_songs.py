@@ -51,6 +51,8 @@ from datetime import datetime, timezone
 from http.client import HTTPException
 from xml.sax.saxutils import escape, quoteattr
 
+from user_agent import USER_AGENT
+
 CHART_API = "https://onlyboosts.social/api/v1/episodes"
 CHART_PAGE = "https://onlyboosts.social/music/songs"
 RESOLVER_API = "https://www.boostmebitch.com/api/episode-by-guid/batch"
@@ -110,7 +112,6 @@ PAGE_SIZE = 100
 MAX_SKIPPED = 20
 MAX_UNSURE = 20
 
-USER_AGENT = "Mozilla/5.0 (compatible; chadf-musicl-playlists; +https://github.com/ChadFarrow/chadf-musicl-playlists)"
 TIMEOUT = 30
 MAX_BODY_BYTES = 40 * 1024 * 1024
 ATTEMPTS = 3
