@@ -5,8 +5,8 @@
     <description>A podcastL playlist aggregating podcast episodes the Local Bitcoiners community has boosted, sourced from localbitcoiners.com/feeds.</description>
     <link>https://localbitcoiners.com/feeds</link>
     <language>en</language>
-    <pubDate>Thu, 26 Nov 2026 17:32:56 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 17:32:56 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 17:15:04 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:15:04 GMT</lastBuildDate>
     <podcast:medium>podcastL</podcast:medium>
     <podcast:guid>d3f1a5e0-9c4b-4e7a-8f2d-6b1c0a9e5d3f</podcast:guid>
     <podcast:remoteItem feedGuid="d8d2b7e9-3fa3-5414-a6ef-09b082a0acc4" itemGuid="Buzzsprout-18484353"/>
@@ -1887,5 +1887,10 @@
     <podcast:remoteItem feedGuid="04b078f9-b3e8-4363-a576-98e668231306" itemGuid="3e1c9adc-132a-40cb-a859-ca258b1b67eb"/>
     <podcast:remoteItem feedGuid="30ed52a9-a11c-5235-bdfc-8e3379c6edde" itemGuid="d6d90d81-8528-4ac9-b9b9-16e1cf43ec34"/>
     <podcast:remoteItem feedGuid="202f7dd7-9012-57f3-9b63-d95ac378c3d8" itemGuid="2ff67b13-2a2e-459f-ae9a-fe7ff23e4cd9"/>
+    <podcast:remoteItem feedGuid="30ed52a9-a11c-5235-bdfc-8e3379c6edde" itemGuid="0585d94e-d103-4516-842e-bd7b2dc3abe7"/>
+    <podcast:remoteItem feedGuid="55b53584-4219-4fb0-b916-075ce23f714e" itemGuid="3a22c945-8b33-414e-9c80-5c18b3e0dd02"/>
+    <podcast:remoteItem feedGuid="e22a2294-d951-51dd-9498-cd04b4467ce1" itemGuid="89567624-2296-4ca3-a0a1-9e188c8c3eee"/>
+    <podcast:remoteItem feedGuid="0de5a30d-b417-5f87-8a2e-4389cb88c54f" itemGuid="7f441c48-8fc3-449c-86b7-60e67ba79ce8"/>
+    <podcast:remoteItem feedGuid="ac746d09-7c3b-5bcd-b28a-f12d6456ca8f" itemGuid="homegrownhits-160"/>
   </channel>
 </rss>
