@@ -130,7 +130,7 @@ Two playlists come from the charts at https://onlyboosts.social/music/songs:
 - Each song must resolve in Podcast Index (through the boostmebitch batch route), or the run writes nothing. A song whose audio is gone stays in, as the episode played it (Chad, 2026-11-26: "put the dead songs in"). 5 songs hosted on RSS Blue answer HTTP 410, and their feeds too.
 - The art is a still frame of the episode's own animated GIF (Chad asked for the episode art). The GIFs are 18 to 19 MB, too large to use as is.
 - Keep the file names free of `-music-playlist`, `-muic-playlist` and `-musicl-`, and do not add a `source-feed` tag. With either, the updater's daily run takes the file for a show playlist and rebuilds it from the whole HGH feed. Greatest Hits does not count them: their songs are already in the HGH playlist.
-- They are in the publisher feed, with the back-link. Chad had them submitted to Podcast Index (`add/byfeedurl`, 2026-11-26). The script itself never submits; a new year is submitted by hand, after Chad says yes, because Podcast Index has no delete.
+- They are in the publisher feed, with the back-link. Chad asked for them in Podcast Index (2026-11-26). A keyless `hub/pubnotify` did not add them (not in PI 16 minutes later), and the API key cannot call `add/byfeedurl` (HTTP 401, a read key). So Chad adds a new year by hand at https://podcastindex.org/add. That form has a captcha: agents never automate it and never work around PI's checks. The script itself never submits. Podcast Index has no delete.
 
 ## Common Tasks
 
