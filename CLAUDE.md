@@ -127,7 +127,7 @@ Two playlists come from the charts at https://onlyboosts.social/music/songs:
 `docs/HGH-hitsgiving-<year>-playlist.xml` holds the songs of one Hitsgiving episode of Homegrown Hits (the show's Thanksgiving special), in play order. 2024 is Episode 62 and 2025 is Episode 112. They are supplements to `HGH-music-playlist.xml`, which keeps the songs of every episode (Chad, 2026-11-26). Episode 11 (2023) was a Thanksgiving show, not a Hitsgiving, and Chad left it out.
 
 - `generate_hgh_hitsgiving.py` builds them from the episode's `valueTimeSplit` remoteItems in the HGH feed. It runs by hand only, with no workflow. To add a year, add a line to `EPISODES`, then follow the docstring.
-- Each song must resolve in Podcast Index (through the boostmebitch batch route), or the run writes nothing.
+- Each song must resolve in Podcast Index (through the boostmebitch batch route), or the run writes nothing. A song whose audio answers HTTP 404 or 410 is left out; no answer keeps it, as in the OnlyBoosts playlists (Chad, 2026-11-26: "some of those tracks might be dead"). The first run left out 5 songs hosted on RSS Blue, whose feeds answer 410. The HGH playlist keeps them.
 - The art is a still frame of the episode's own animated GIF (Chad asked for the episode art). The GIFs are 18 to 19 MB, too large to use as is.
 - Keep the file names free of `-music-playlist`, `-muic-playlist` and `-musicl-`, and do not add a `source-feed` tag. With either, the updater's daily run takes the file for a show playlist and rebuilds it from the whole HGH feed. Greatest Hits does not count them: their songs are already in the HGH playlist.
 - They are in the publisher feed, with the back-link. They were not submitted to Podcast Index (2026-11-26).
