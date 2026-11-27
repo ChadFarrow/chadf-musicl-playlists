@@ -39,7 +39,8 @@ run the script, and list the file in docs/chadf-musicl-publisher.xml, FEEDS.md a
 docs/index.html. Then add it to StableKraft (stablekraft-app), one PR in the pattern of its
 PR #322 (2024 and 2025) and the PR for 2026. Boost Me Bitch reads the publisher feed, so it
 needs no change. Chad adds the new feed to Podcast Index by hand at
-https://podcastindex.org/add; agents never automate that form. Nothing runs this on a
+https://podcastindex.org/add; agents never automate that form. Then check the URL that PI
+stores: the form keeps pasted whitespace (feed 8132371, 2026). Nothing runs this on a
 schedule: an episode does not change after it is out.
 
 Usage: python3 generate_hgh_hitsgiving.py
