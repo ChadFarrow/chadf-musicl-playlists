@@ -43,7 +43,6 @@ If you run the jobs outside GitHub, you lose step 2. Thus, run Greatest Hits aft
 - It reads from the network:
   - `https://feed.homegrownhits.xyz/feed.xml` (the episode's songs)
   - `https://www.boostmebitch.com/api/episode-by-guid/batch` (checks that each song is in Podcast Index)
-  - the audio address of each song (a 404 or 410 leaves the song out)
 - It does not use secrets. It does not submit the playlists to Podcast Index.
 - No workflow runs it, because an episode does not change after it is out. To add a year, see the docstring of the script.
 
