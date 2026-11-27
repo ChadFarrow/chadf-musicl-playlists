@@ -16,13 +16,9 @@ script asks through the public boostmebitch route, as generate_onlyboosts_top_so
 does, so it needs no key. One song that does not resolve stops the run, and nothing is
 written. The episode itself must be in the index too: its page there is the playlist's link.
 
-A song whose audio is gone is left out, so an app shows no row that cannot play. Chad
-warned on 2026-11-26 that some of the tracks might be dead; the removal rule is the one of
-the OnlyBoosts playlists: only a clear answer removes a song, HTTP 404 or 410 to a GET of
-the audio address that Podcast Index holds. No answer proves nothing, so a timeout, a
-dropped connection, HTTP 403, 429 or 5xx keeps the song, and the log marks it KEPT. On the
-first run, 5 songs hosted on RSS Blue answered 410, and so did their feeds. The songs stay
-in the HGH playlist, which is the updater's.
+A song whose audio is gone stays in the playlist, as the episode played it (Chad,
+2026-11-26: "put the dead songs in"). On the first run, 5 songs hosted on RSS Blue answered
+HTTP 410, and so did their feeds. The script does not check the audio.
 
 The files are deliberately NOT named *-music-playlist.xml, and they have no
 <podcast:txt purpose="source-feed">. With either one, the daily run of musicL-playlist-updater
@@ -45,8 +41,6 @@ docs/index.html. Nothing runs this on a schedule: an episode does not change aft
 Usage: python3 generate_hgh_hitsgiving.py
 """
 
-import concurrent.futures
-import http.client
 import json
 import re
 import sys
@@ -78,7 +72,6 @@ PODCAST_NAMESPACES = (
     "https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md",
 )
 RESOLVER_BATCH = 50
-GONE = {404, 410}
 
 
 @dataclass(frozen=True)
@@ -173,42 +166,6 @@ def podcast_index_answers(pairs):
     return answers
 
 
-def audio_status(url):
-    """
-    The HTTP status of the audio address, or None when it gave no answer. A HEAD that works
-    is enough; any HEAD failure is asked again with a GET, because some hosts refuse HEAD,
-    and only the GET's error can mark a song gone.
-    """
-    for method in ("HEAD", "GET"):
-        req = urllib.request.Request(url, method=method, headers={"User-Agent": USER_AGENT, "Range": "bytes=0-0"})
-        try:
-            with urllib.request.urlopen(req, timeout=20) as resp:
-                return resp.status
-        except urllib.error.HTTPError as e:
-            if method == "GET":
-                return e.code
-        except (urllib.error.URLError, TimeoutError, OSError, http.client.HTTPException):
-            pass
-    return None
-
-
-def gone_songs(pairs, answers):
-    """The songs whose audio answers 404 or 410. Every other answer, or none, keeps a song."""
-    urls = {p: (answers[f"{p[0]}:{p[1]}"] or {}).get("enclosureUrl") for p in dict.fromkeys(pairs)}
-    with concurrent.futures.ThreadPoolExecutor(8) as pool:
-        statuses = dict(zip(urls, pool.map(lambda u: audio_status(u) if u else None, urls.values())))
-    gone = set()
-    for pair, status in statuses.items():
-        record = answers[f"{pair[0]}:{pair[1]}"]
-        label = f"{record.get('title')} ({record.get('feedTitle')})"
-        if status in GONE:
-            gone.add(pair)
-            print(f"  GONE  {label}: audio answers HTTP {status}")
-        elif status is None or status >= 400:
-            print(f"  KEPT  {label}: audio gave {'no answer' if status is None else f'HTTP {status}'}")
-    return gone
-
-
 def comment_text(text):
     """Text that is safe inside an XML comment, which cannot hold '--'."""
     text = re.sub(r"[^\x09\x0a\x0d\x20-퟿-�\U00010000-\U0010ffff]", "", str(text))
@@ -219,8 +176,8 @@ def build_xml(episode, episode_title, notes, link, tracks, answers, stamp):
     # A permanent identity: the spec's UUIDv5 of the feed URL without its scheme.
     guid = uuid.uuid5(PODCAST_GUID_NAMESPACE, episode.feed_url.split("://", 1)[1])
     description = (
-        f"The songs played in Homegrown Hits Episode {episode.number}, the Hitsgiving {episode.year} "
-        f"special, in play order ({len(tracks)} tracks). Songs that can no longer play are left out."
+        f"Every song played in Homegrown Hits Episode {episode.number}, the Hitsgiving {episode.year} "
+        f"special, in play order ({len(tracks)} tracks)."
         + (f' From the episode notes: "{notes}"' if notes else "")
         + " A supplement to the ChadF Homegrown Hits Music Playlist, which holds the songs of every episode."
         + f" Episode: {link}"
@@ -289,24 +246,17 @@ def main():
     if failed:
         sys.exit("Podcast Index does not hold:\n  " + "\n  ".join(failed) + "\nNothing written.")
 
-    print("Checking the audio of each song")
-    gone = gone_songs([p for _, _, tracks in found.values() for p in tracks], answers)
-
     stamp = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
     built = []
     for episode in EPISODES:
-        episode_title, notes, played = found[episode.item_guid]
-        tracks = [p for p in played if p not in gone]
-        # Most of an episode gone at once is an outage or a changed host, not dead songs.
-        if len(tracks) * 2 < len(played):
-            sys.exit(f"Episode {episode.number}: {len(played) - len(tracks)} of {len(played)} songs gone. Nothing written.")
+        episode_title, notes, tracks = found[episode.item_guid]
         record = answers[f"{HGH_FEED_GUID}:{episode.item_guid}"]
         link = f"https://podcastindex.org/podcast/{record['feedId']}?episode={record['id']}"
         xml_text = build_xml(episode, episode_title, notes, link, tracks, answers, stamp)
-        built.append((episode, len(tracks), len(played) - len(tracks), xml_text))
-    for episode, count, left_out, xml_text in built:
+        built.append((episode, len(tracks), xml_text))
+    for episode, count, xml_text in built:
         write_if_changed(episode.output_file, xml_text)
-        print(f"  {episode.title}: {count} tracks, {left_out} left out because their audio is gone")
+        print(f"  {episode.title}: {count} tracks, all in Podcast Index")
 
 
 if __name__ == "__main__":

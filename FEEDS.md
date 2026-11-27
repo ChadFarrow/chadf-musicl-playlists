@@ -19,7 +19,7 @@ This file lists all available playlist feeds in this repository.
 
 ## Homegrown Hits Specials
 
-Supplemental musicL playlists of Homegrown Hits: one for each Hitsgiving episode (the show's Thanksgiving special), with the songs of that episode in play order, without the songs that can no longer play. They do not replace `HGH-music-playlist.xml` above, which keeps the songs of every episode. `generate_hgh_hitsgiving.py` builds them by hand from the episode; the updater's RSS loop does not take them.
+Supplemental musicL playlists of Homegrown Hits: one for each Hitsgiving episode (the show's Thanksgiving special), with every song of that episode in play order. They do not replace `HGH-music-playlist.xml` above, which keeps the songs of every episode. `generate_hgh_hitsgiving.py` builds them by hand from the episode; the updater's RSS loop does not take them.
 
 1. **HGH-hitsgiving-2024-playlist.xml** - `docs/HGH-hitsgiving-2024-playlist.xml` (Homegrown Hits - Hitsgiving 2024, Episode 62)
    - Feed URL: https://raw.githubusercontent.com/ChadFarrow/chadf-musicl-playlists/refs/heads/main/docs/HGH-hitsgiving-2024-playlist.xml
